@@ -192,7 +192,7 @@
     </option>
     <option name="DEFAULT_CLASS_NAME">
       <value>
-        <option name="FOREGROUND" value="60bf8f" />
+        <option name="FOREGROUND" value="6d7a52" />
       </value>
     </option>
     <option name="DEFAULT_CLASS_REFERENCE">
@@ -482,6 +482,7 @@
         <option name="FOREGROUND" value="ace639" />
       </value>
     </option>
+    <option name="JS.LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="LOG_ERROR_OUTPUT">
       <value>
         <option name="FOREGROUND" value="b58900" />
