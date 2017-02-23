@@ -1,0 +1,18 @@
+<application>
+  <component name="IntelliJOptimizer">
+    <option name="installationGuid" value="pIVZS1y+7/q68f7H/dlTXyQevr/lTM2rBk7g7mf/fhM=" />
+    <option name="installationTimestamp" value="1487871126747" />
+    <option name="firstBootTime" value="13121710829" />
+    <option name="previousBootTime" value="11140619826" />
+    <option name="currentBootTime" value="9302607103" />
+    <option name="isOpenOptimizerOnStartup" value="false" />
+    <option name="isFirstBoot" value="false" />
+    <option name="isSignedUp" value="true" />
+    <option name="company" value="McTavish Research" />
+    <option name="email" value="derek@mounce.wtf" />
+    <option name="firstName" value="Derek" />
+    <option name="lastName" value="Mounce" />
+    <option name="phoneNumber" value="+13474357397" />
+    <option name="getDevelopersInCompany" value="1-2" />
+  </component>
+</application>
