@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="Z:/partner-platform/partner-platform-api/src/modules/conference-invite/services/workflow.service.js" timestamp="1487887481753">
-        <mark key="'" line="364" column="0" />
-        <mark key="[" line="139" column="0" />
-        <mark key="]" line="139" column="43" />
-        <mark key="^" line="27" column="42" />
-        <mark key="." line="139" column="0" />
+      <file name="Z:/partner-platform/partner-platform-api/src/modules/conference-invite/services/workflow.service.js" timestamp="1487888720178">
+        <mark key="'" line="306" column="2" />
+        <mark key="[" line="27" column="58" />
+        <mark key="]" line="27" column="67" />
+        <mark key="^" line="27" column="67" />
+        <mark key="." line="27" column="67" />
       </file>
       <file name="Z:/partner-platform/partner-platform-api/src/modules/conference-invite/handlers/workflow.handler.js" timestamp="1487888042200">
         <mark key="'" line="52" column="25" />
@@ -16,6 +16,12 @@
         <mark key="]" line="123" column="1" />
         <mark key="^" line="123" column="1" />
         <mark key="." line="123" column="1" />
+      </file>
+      <file name="Z:/partner-platform/partner-platform-api/src/modules/conference-invite/templates/invite-resend-html.hbs" timestamp="1487888355278">
+        <mark key="[" line="1" column="67" />
+        <mark key="]" line="2" column="12" />
+        <mark key="^" line="2" column="12" />
+        <mark key="." line="2" column="12" />
       </file>
     </filemarks>
     <jumps>
@@ -30,10 +36,11 @@
       <jump line="55" column="13" filename="Z:/partner-platform/partner-platform-api/src/modules/conference-invite/services/workflow.service.js" />
       <jump line="97" column="13" filename="Z:/partner-platform/partner-platform-api/src/modules/conference-invite/services/workflow.service.js" />
       <jump line="337" column="20" filename="Z:/partner-platform/partner-platform-api/src/modules/conference-invite/services/workflow.service.js" />
-      <jump line="27" column="13" filename="Z:/partner-platform/partner-platform-api/src/modules/conference-invite/services/workflow.service.js" />
       <jump line="364" column="0" filename="Z:/partner-platform/partner-platform-api/src/modules/conference-invite/services/workflow.service.js" />
       <jump line="18" column="25" filename="Z:/partner-platform/partner-platform-api/src/modules/conference-invite/handlers/workflow.handler.js" />
       <jump line="52" column="25" filename="Z:/partner-platform/partner-platform-api/src/modules/conference-invite/handlers/workflow.handler.js" />
+      <jump line="27" column="57" filename="Z:/partner-platform/partner-platform-api/src/modules/conference-invite/services/workflow.service.js" />
+      <jump line="306" column="2" filename="Z:/partner-platform/partner-platform-api/src/modules/conference-invite/services/workflow.service.js" />
     </jumps>
     <registers>
       <register name="0" type="2">
@@ -49,14 +56,14 @@
         <text>@</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfZ2V0T3B0aW9uc0Zyb21QYXlsb2FkXD4=</text>
+        <text>getTemplate</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfZ2V0T3B0aW9uc0Zyb21QYXlsb2FkXD4=</last-search>
+      <last-search>getTemplate</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfZ2V0T3B0aW9uc0Zyb21QYXlsb2FkXD4=</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern>getTemplate</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -68,10 +75,13 @@
         <entry encoding="base64">c2lnbmF0dXJlID0g</entry>
         <entry>workflow.service</entry>
         <entry encoding="base64">XDxfZ2V0T3B0aW9uc0Zyb21QYXlsb2FkXD4=</entry>
+        <entry>getTemplate</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
       </history-cmd>
+      <history-expr />
+      <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
