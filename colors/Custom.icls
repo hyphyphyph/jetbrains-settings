@@ -1,11 +1,4 @@
 <scheme name="Custom" version="142" parent_scheme="Default">
-  <metaInfo>
-    <property name="created">2017-02-23T16:08:07</property>
-    <property name="ide">idea</property>
-    <property name="ideVersion">2016.2.5.0.0</property>
-    <property name="modified">2017-02-23T16:42:30</property>
-    <property name="originalScheme">Solarized Dark.</property>
-  </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="18" />
   <option name="CONSOLE_FONT_NAME" value="Source Code Pro Semibold" />
@@ -197,7 +190,7 @@
     </option>
     <option name="DEFAULT_BRACES">
       <value>
-        <option name="FOREGROUND" value="60759f" />
+        <option name="FOREGROUND" value="ff6a4c" />
       </value>
     </option>
     <option name="DEFAULT_BRACKETS">
@@ -207,7 +200,7 @@
     </option>
     <option name="DEFAULT_CLASS_NAME">
       <value>
-        <option name="FOREGROUND" value="6d7a52" />
+        <option name="FOREGROUND" value="4cc3ff" />
       </value>
     </option>
     <option name="DEFAULT_CLASS_REFERENCE">
@@ -217,7 +210,7 @@
     </option>
     <option name="DEFAULT_COMMA">
       <value>
-        <option name="FOREGROUND" value="527043" />
+        <option name="FOREGROUND" value="d22d48" />
       </value>
     </option>
     <option name="DEFAULT_CONSTANT">
@@ -242,7 +235,7 @@
     </option>
     <option name="DEFAULT_DOT">
       <value>
-        <option name="FOREGROUND" value="527043" />
+        <option name="FOREGROUND" value="d22d48" />
       </value>
     </option>
     <option name="DEFAULT_ENTITY">
@@ -273,7 +266,7 @@
     </option>
     <option name="DEFAULT_INSTANCE_METHOD">
       <value>
-        <option name="FOREGROUND" value="60759f" />
+        <option name="FOREGROUND" value="d8ff8a" />
       </value>
     </option>
     <option name="DEFAULT_INTERFACE_NAME">
@@ -304,7 +297,7 @@
     </option>
     <option name="DEFAULT_LOCAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="d8ff8a" />
+        <option name="FOREGROUND" value="3d7c9c" />
       </value>
     </option>
     <option name="DEFAULT_METADATA">
@@ -335,7 +328,7 @@
     <option name="DEFAULT_PREDEFINED_SYMBOL" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_SEMICOLON">
       <value>
-        <option name="FOREGROUND" value="527043" />
+        <option name="FOREGROUND" value="d22d48" />
       </value>
     </option>
     <option name="DEFAULT_STATIC_FIELD">
@@ -417,8 +410,8 @@
     </option>
     <option name="ERRORS_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="bc3f3c" />
-        <option name="ERROR_STRIPE_COLOR" value="bc3f3c" />
+        <option name="EFFECT_COLOR" value="d22d48" />
+        <option name="ERROR_STRIPE_COLOR" value="d22d48" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -464,8 +457,8 @@
     </option>
     <option name="INFO_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="aeae80" />
-        <option name="ERROR_STRIPE_COLOR" value="aeae80" />
+        <option name="EFFECT_COLOR" value="b3ffec" />
+        <option name="ERROR_STRIPE_COLOR" value="b3ffec" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -604,7 +597,7 @@
     </option>
     <option name="WRONG_REFERENCES_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="bc3f3c" />
+        <option name="FOREGROUND" value="d22d48" />
       </value>
     </option>
   </attributes>
