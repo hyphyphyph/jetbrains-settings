@@ -1,0 +1,33 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="CompareTwoFiles" />
+  <action id="Console.Execute.Multiline" />
+  <action id="Diff.ShowDiff" />
+  <action id="EditorChooseLookupItemCompleteStatement" />
+  <action id="EditorCompleteStatement" />
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="shift ctrl k" />
+  </action>
+  <action id="EditorDuplicate" />
+  <action id="EditorJoinLines">
+    <keyboard-shortcut first-keystroke="ctrl j" />
+  </action>
+  <action id="EditorSplitLine" />
+  <action id="EditorStartNewLine">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
+  <action id="EditorStartNewLineBefore">
+    <keyboard-shortcut first-keystroke="shift ctrl enter" />
+  </action>
+  <action id="FileChooser.GotoDesktop" />
+  <action id="InsertLiveTemplate" />
+  <action id="KotlinShellExecute" />
+  <action id="SelectNextOccurrence">
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
+  <action id="SendEOF" />
+  <action id="ShelvedChanges.Diff" />
+  <action id="Vcs.Push" />
+  <action id="ViewSource" />
+  <action id="XDebugger.CopyWatch" />
+  <action id="openAssertEqualsDiff" />
+</keymap>
