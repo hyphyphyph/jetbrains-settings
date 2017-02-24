@@ -1,9 +1,12 @@
 <keymap version="1" name="Default copy" parent="$default">
+  <action id="$Copy">
+    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="c" />
+  </action>
   <action id="$Cut">
     <keyboard-shortcut first-keystroke="shift delete" />
   </action>
   <action id="$Paste">
-    <keyboard-shortcut first-keystroke="shift insert" />
+    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="p" />
   </action>
   <action id="ActivateDatabaseToolWindow">
     <keyboard-shortcut first-keystroke="ctrl w" second-keystroke="d" />
@@ -34,6 +37,12 @@
   </action>
   <action id="Diff.ShowDiff">
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="d" />
+  </action>
+  <action id="Editor Copy">
+    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="c" />
+  </action>
+  <action id="Editor Paste">
+    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="p" />
   </action>
   <action id="EditorChooseLookupItemCompleteStatement" />
   <action id="EditorCompleteStatement" />
