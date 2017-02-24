@@ -5,11 +5,11 @@
   <option name="CONSOLE_FONT_SIZE" value="16" />
   <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
   <colors>
-    <option name="ADDED_LINES_COLOR" value="295622" />
-    <option name="CARET_COLOR" value="bbbbbb" />
-    <option name="CARET_ROW_COLOR" value="1f242e" />
+    <option name="ADDED_LINES_COLOR" value="b2e54d" />
+    <option name="CARET_COLOR" value="c0e1f2" />
+    <option name="CARET_ROW_COLOR" value="22282a" />
     <option name="CONSOLE_BACKGROUND_KEY" value="2b36" />
-    <option name="FILESTATUS_ADDED" value="629755" />
+    <option name="FILESTATUS_ADDED" value="b2e54d" />
     <option name="FILESTATUS_DELETED" value="6c6c6c" />
     <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="6c6c6c" />
     <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="848504" />
@@ -17,7 +17,7 @@
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="d5756c" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="d5756c" />
     <option name="FILESTATUS_MERGED" value="9876aa" />
-    <option name="FILESTATUS_MODIFIED" value="6897bb" />
+    <option name="FILESTATUS_MODIFIED" value="4cc3ff" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="6897bb" />
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="6897bb" />
     <option name="FILESTATUS_UNKNOWN" value="d1675a" />
@@ -26,18 +26,19 @@
     <option name="FILESTATUS_modifiedOutside" value="6897bb" />
     <option name="GUTTER_BACKGROUND" value="22282a" />
     <option name="INDENT_GUIDE" value="576b75" />
-    <option name="LINE_NUMBERS_COLOR" value="657b83" />
-    <option name="METHOD_SEPARATORS_COLOR" value="2b36" />
-    <option name="MODIFIED_LINES_COLOR" value="415f69" />
+    <option name="LINE_NUMBERS_COLOR" value="576b75" />
+    <option name="METHOD_SEPARATORS_COLOR" value="" />
+    <option name="MODIFIED_LINES_COLOR" value="4cc3ff" />
     <option name="READONLY_FRAGMENT_BACKGROUND" value="" />
     <option name="RECURSIVE_CALL_ATTRIBUTES" value="574300" />
     <option name="RIGHT_MARGIN_COLOR" value="d22d48" />
     <option name="SELECTED_INDENT_GUIDE" value="c0e1f2" />
-    <option name="SELECTED_TEARLINE_COLOR" value="73642" />
+    <option name="SELECTED_TEARLINE_COLOR" value="94acb8" />
     <option name="SELECTION_BACKGROUND" value="2d4553" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="" />
-    <option name="TEARLINE_COLOR" value="2b36" />
+    <option name="TEARLINE_COLOR" value="161b1d" />
     <option name="WHITESPACES" value="94acb8" />
+    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="576b75" />
   </colors>
   <attributes>
     <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
@@ -195,12 +196,12 @@
     </option>
     <option name="DEFAULT_BRACKETS">
       <value>
-        <option name="FOREGROUND" value="60759f" />
+        <option name="FOREGROUND" value="b3e64d" />
       </value>
     </option>
     <option name="DEFAULT_CLASS_NAME">
       <value>
-        <option name="FOREGROUND" value="4cc3ff" />
+        <option name="FOREGROUND" value="d8ff8a" />
       </value>
     </option>
     <option name="DEFAULT_CLASS_REFERENCE">
@@ -235,7 +236,7 @@
     </option>
     <option name="DEFAULT_DOT">
       <value>
-        <option name="FOREGROUND" value="d22d48" />
+        <option name="FOREGROUND" value="dd3c56" />
       </value>
     </option>
     <option name="DEFAULT_ENTITY">
@@ -261,7 +262,7 @@
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">
       <value>
-        <option name="FOREGROUND" value="b3ffec" />
+        <option name="FOREGROUND" value="4cc3ff" />
       </value>
     </option>
     <option name="DEFAULT_INSTANCE_METHOD">
@@ -312,17 +313,17 @@
     </option>
     <option name="DEFAULT_OPERATION_SIGN">
       <value>
-        <option name="FOREGROUND" value="d22d48" />
+        <option name="FOREGROUND" value="3d7c9c" />
       </value>
     </option>
     <option name="DEFAULT_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="99eeff" />
+        <option name="FOREGROUND" value="94acb8" />
       </value>
     </option>
     <option name="DEFAULT_PARENTHS">
       <value>
-        <option name="FOREGROUND" value="b3ffec" />
+        <option name="FOREGROUND" value="4cc3ff" />
       </value>
     </option>
     <option name="DEFAULT_PREDEFINED_SYMBOL" baseAttributes="DEFAULT_IDENTIFIER" />
@@ -506,7 +507,9 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="ff8647" />
+        <option name="FOREGROUND" value="d22d48" />
+        <option name="BACKGROUND" value="161b1d" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="METHOD_DECLARATION_ATTRIBUTES">
@@ -579,13 +582,13 @@
     </option>
     <option name="UNMATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="d1243b" />
+        <option name="FOREGROUND" value="c0e1f2" />
+        <option name="BACKGROUND" value="d22d48" />
       </value>
     </option>
     <option name="WARNING_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="52503a" />
-        <option name="ERROR_STRIPE_COLOR" value="8c8c00" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
