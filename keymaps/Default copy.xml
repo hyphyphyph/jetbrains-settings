@@ -29,7 +29,9 @@
   </action>
   <action id="CompareTwoFiles" />
   <action id="Console.Execute.Multiline" />
-  <action id="Diff.ShowDiff" />
+  <action id="Diff.ShowDiff">
+    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="d" />
+  </action>
   <action id="EditorChooseLookupItemCompleteStatement" />
   <action id="EditorCompleteStatement" />
   <action id="EditorCut">
@@ -75,7 +77,9 @@
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
   <action id="SendEOF" />
-  <action id="ShelvedChanges.Diff" />
+  <action id="ShelvedChanges.Diff">
+    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="d" />
+  </action>
   <action id="StringManipulation.Sort">
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="s" />
   </action>
