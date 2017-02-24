@@ -59,6 +59,9 @@
   </action>
   <action id="InsertLiveTemplate" />
   <action id="KotlinShellExecute" />
+  <action id="MainMenu">
+    <keyboard-shortcut first-keystroke="ctrl w" second-keystroke="m" />
+  </action>
   <action id="Run">
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="ctrl r" />
   </action>
