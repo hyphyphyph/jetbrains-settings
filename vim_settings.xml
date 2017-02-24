@@ -33,17 +33,18 @@
       <file name="/a.dummy" timestamp="1487961133193">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="Z:/partner-platform-api/db/migrations/20170113204437-create-conferences.js" timestamp="1487956414625">
-        <mark key="'" line="0" column="0" />
+      <file name="Z:/partner-platform-api/src/modules/pass-option/jsonapi/pass-option.jsonapi.js" timestamp="1487966198907">
+        <mark key="'" line="73" column="20" />
+        <mark key="[" line="73" column="20" />
+        <mark key="]" line="73" column="20" />
+        <mark key="." line="73" column="20" />
+        <mark key="^" line="73" column="20" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/9b1e8f9b-8d5d-4880-a9e9-7ddaf9ba75f4/console.sql" timestamp="1487912174153">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="20" />
         <mark key="^" line="0" column="20" />
         <mark key="." line="0" column="20" />
-      </file>
-      <file name="Z:/partner-platform-api/db/migrations/20170114162050-create-user-role.js" timestamp="1487956845601">
-        <mark key="'" line="0" column="0" />
       </file>
       <file name="Z:/partner-platform-api/src/modules/conference-invite/jsonapi/conference-invite.jsonapi.js" timestamp="1487903809218">
         <mark key="'" line="42" column="0" />
@@ -82,9 +83,6 @@
         <mark key="]" line="1" column="17" />
         <mark key="^" line="1" column="17" />
         <mark key="." line="1" column="17" />
-      </file>
-      <file name="Z:/partner-platform-api/db/migrations/20170123233148-create-conference-user.js" timestamp="1487957164317">
-        <mark key="'" line="71" column="0" />
       </file>
       <file name="Z:/partner-platform-api/src/modules/conference-invite/templates/invite-cancel-text.hbs" timestamp="1487893609972">
         <mark key="[" line="2" column="13" />
@@ -130,9 +128,6 @@
         <mark key="^" line="2" column="13" />
         <mark key="." line="2" column="13" />
       </file>
-      <file name="Z:/partner-platform-api/db/migrations/20170123224318-rename-fks-in-user-role.js" timestamp="1487957142076">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="Z:/boringcode/core/testing/base-http-test.js" timestamp="1487962474413">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
@@ -159,9 +154,6 @@
         <mark key="^" line="2" column="13" />
         <mark key="." line="2" column="13" />
       </file>
-      <file name="Z:/partner-platform-api/db/migrations/20170113204529-create-roles.js" timestamp="1487956833233">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="Z:/partner-platform-api/src/modules/conference-invite/handlers/conference-invite-crud.handler.js" timestamp="1487959182755">
         <mark key="[" line="132" column="47" />
         <mark key="]" line="132" column="73" />
@@ -176,6 +168,12 @@
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1487916361267">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="Z:/partner-platform-api/src/modules/pass-option/handlers/pass-option-crud.handler.js" timestamp="1487967176292">
+        <mark key="'" line="20" column="30" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="Z:/partner-platform-api/src/modules/conference-invite/templates/invite-accept-text.hbs" timestamp="1487893580463">
         <mark key="[" line="2" column="13" />
@@ -193,8 +191,7 @@
         <mark key="." line="56" column="6" />
         <mark key="^" line="56" column="6" />
       </file>
-      <file name="Z:/partner-platform-api/config/custom-environment-variables.yml" timestamp="1487955837922">
-        <mark key="[" line="5" column="9" />
+      <file name="Z:/partner-platform-api/config/custom-environment-variables.yml" timestamp="1487965202485">
         <mark key="]" line="6" column="20" />
         <mark key="^" line="6" column="20" />
         <mark key="." line="6" column="20" />
@@ -232,8 +229,10 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="77" column="5" />
       </file>
-      <file name="Z:/partner-platform-api/db/migrations/20170119172755-enable-uuid-ossp.js" timestamp="1487956879089">
+      <file name="Z:/partner-platform-api/src/modules/core/base-handler.js" timestamp="1487966079198">
         <mark key="'" line="0" column="0" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="50" column="2" />
       </file>
       <file name="Z:/partner-platform-api/src/modules/conference-invite/handlers/workflow.handler.js" timestamp="1487903645180">
         <mark key="'" line="117" column="22" />
@@ -244,6 +243,16 @@
       </file>
       <file name="/a.sql" timestamp="1487916279438">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="Z:/partner-platform-api/src/modules/pass-option/services/assignment.service.js" timestamp="1487967149627">
+        <mark key="[" line="7" column="45" />
+        <mark key="]" line="7" column="46" />
+        <mark key="." line="7" column="46" />
+        <mark key="^" line="7" column="46" />
+      </file>
+      <file name="Z:/partner-platform-api/src/modules/conference/handlers/conference-crud.handler.js" timestamp="1487964617970">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="53" column="2" />
       </file>
       <file name="Z:/partner-platform-api/src/models/index.js" timestamp="1487905253494">
         <mark key="[" line="14" column="2" />
@@ -258,9 +267,9 @@
         <mark key="." line="25" column="56" />
         <mark key="^" line="29" column="8" />
       </file>
-      <file name="Z:/partner-platform-api/src/modules/partner/handlers/partner-crud.handler.js" timestamp="1487903985675">
-        <mark key="[" line="67" column="41" />
-        <mark key="]" line="67" column="40" />
+      <file name="Z:/partner-platform-api/src/modules/partner/handlers/partner-crud.handler.js" timestamp="1487965874956">
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="75" column="2" />
         <mark key="^" line="67" column="40" />
         <mark key="." line="67" column="40" />
       </file>
@@ -279,17 +288,14 @@
         <mark key="^" line="2" column="13" />
         <mark key="." line="2" column="13" />
       </file>
-      <file name="/Dummy.txt" timestamp="1487962798258">
-        <mark key="." line="0" column="27" />
+      <file name="/Dummy.txt" timestamp="1487965083475">
+        <mark key="." line="0" column="35" />
       </file>
       <file name="Z:/partner-platform-api/src/modules/conference-invite/templates/invite-auto-accept-text.hbs" timestamp="1487894815806">
         <mark key="[" line="1" column="4" />
         <mark key="]" line="1" column="32" />
         <mark key="." line="1" column="32" />
         <mark key="^" line="1" column="32" />
-      </file>
-      <file name="Z:/partner-platform-api/db/migrations/20170119180604-set-default-uuid-values.js" timestamp="1487956885548">
-        <mark key="'" line="0" column="0" />
       </file>
       <file name="Z:/partner-platform-api/src/modules/conference-invite/services/conference-invite-assignment.service.js" timestamp="1487960387044">
         <mark key="'" line="33" column="0" />
@@ -305,18 +311,24 @@
         <mark key="." line="17" column="45" />
         <mark key="^" line="17" column="45" />
       </file>
+      <file name="Z:/partner-platform-api/src/models/conference.model.js" timestamp="1487964571100">
+        <mark key="[" line="57" column="30" />
+        <mark key="]" line="57" column="29" />
+        <mark key="^" line="57" column="29" />
+        <mark key="." line="57" column="29" />
+      </file>
       <file name="Z:/partner-platform-api/src/modules/conference-invite/templates/invite-send-text.hbs" timestamp="1487893629552">
         <mark key="[" line="2" column="13" />
         <mark key="]" line="2" column="13" />
         <mark key="^" line="2" column="13" />
         <mark key="." line="2" column="13" />
       </file>
-      <file name="Z:/partner-platform-api/src/modules/pass-option/routes.js" timestamp="1487963915179">
+      <file name="Z:/partner-platform-api/src/modules/pass-option/routes.js" timestamp="1487964231068">
         <mark key="'" line="60" column="1" />
-        <mark key="[" line="55" column="69" />
-        <mark key="]" line="55" column="68" />
-        <mark key="^" line="55" column="68" />
-        <mark key="." line="55" column="68" />
+        <mark key="[" line="11" column="81" />
+        <mark key="]" line="11" column="79" />
+        <mark key="^" line="11" column="79" />
+        <mark key="." line="11" column="79" />
       </file>
       <file name="/a.regexp" timestamp="1487896134214">
         <mark key="[" line="0" column="0" />
@@ -333,9 +345,6 @@
         <mark key="^" line="2" column="13" />
         <mark key="." line="2" column="13" />
       </file>
-      <file name="Z:/partner-platform-api/db/migrations/20170130170941-create-partner-conference-relationship.js" timestamp="1487957193470">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="Z:/partner-platform-api/db/migrations/20170110212218-create-auth-tokens.js" timestamp="1487956286328">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="38" column="2" />
@@ -343,12 +352,12 @@
         <mark key="^" line="39" column="0" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="Z:/partner-platform-api/src/models/pass-option.model.js" timestamp="1487963231917">
-        <mark key="'" line="43" column="1" />
-        <mark key="[" line="11" column="23" />
-        <mark key="]" line="11" column="22" />
-        <mark key="." line="11" column="60" />
-        <mark key="^" line="11" column="22" />
+      <file name="Z:/partner-platform-api/src/models/pass-option.model.js" timestamp="1487964555605">
+        <mark key="'" line="49" column="1" />
+        <mark key="[" line="38" column="11" />
+        <mark key="]" line="38" column="11" />
+        <mark key="." line="38" column="11" />
+        <mark key="^" line="38" column="11" />
       </file>
       <file name="Z:/boringcode/src/models/auth-token/create.sql" timestamp="1487915920063">
         <mark key="[" line="6" column="4" />
@@ -389,33 +398,14 @@
         <mark key="." line="57" column="2" />
         <mark key="^" line="39" column="43" />
       </file>
-      <file name="Z:/partner-platform-api/src/modules/partner/jsonapi/partner.jsonapi.js" timestamp="1487893831146">
-        <mark key="[" line="44" column="19" />
-        <mark key="]" line="44" column="19" />
+      <file name="Z:/partner-platform-api/src/modules/partner/jsonapi/partner.jsonapi.js" timestamp="1487965674478">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="63" column="7" />
         <mark key="^" line="44" column="19" />
         <mark key="." line="44" column="19" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="127" column="22" filename="Z:/partner-platform-api/src/modules/conference-invite/handlers/workflow.handler.js" />
-      <jump line="39" column="49" filename="Z:/partner-platform-api/src/modules/conference-invite/services/workflow.service.js" />
-      <jump line="64" column="49" filename="Z:/partner-platform-api/src/modules/conference-invite/services/workflow.service.js" />
-      <jump line="100" column="49" filename="Z:/partner-platform-api/src/modules/conference-invite/services/workflow.service.js" />
-      <jump line="135" column="49" filename="Z:/partner-platform-api/src/modules/conference-invite/services/workflow.service.js" />
-      <jump line="14" column="0" filename="Z:/partner-platform-api/src/modules/conference-invite/services/workflow.service.js" />
-      <jump line="7" column="42" filename="Z:/partner-platform-api/src/services/mailer.service.js" />
-      <jump line="25" column="0" filename="Z:/partner-platform-api/src/models/quota.model.js" />
-      <jump line="0" column="0" filename="Z:/partner-platform-api/src/models/quota.model.js" />
-      <jump line="30" column="8" filename="Z:/partner-platform-api/src/models/quota.model.js" />
-      <jump line="0" column="9" filename="Z:/partner-platform-api/src/models/pass-option.model.js" />
-      <jump line="1" column="6" filename="Z:/partner-platform-api/src/models/pass-option.model.js" />
-      <jump line="40" column="9" filename="Z:/partner-platform-api/src/models/pass-option.model.js" />
-      <jump line="27" column="0" filename="Z:/partner-platform-api/src/models/pass-option.model.js" />
-      <jump line="46" column="1" filename="Z:/partner-platform-api/src/models/pass-option.model.js" />
-      <jump line="44" column="21" filename="Z:/partner-platform-api/src/modules/conference-invite/handlers/conference-invite-crud.handler.js" />
-      <jump line="41" column="4" filename="Z:/partner-platform-api/src/modules/conference-invite/handlers/conference-invite-crud.handler.js" />
-      <jump line="5" column="0" filename="Z:/boringcode/src/models/user.js" />
-      <jump line="6" column="14" filename="Z:/boringcode/src/models/user.js" />
       <jump line="0" column="0" filename="Z:/boringcode/src/index.js" />
       <jump line="37" column="25" filename="Z:/boringcode/src/db.js" />
       <jump line="36" column="5" filename="Z:/boringcode/src/db.js" />
@@ -497,82 +487,101 @@
       <jump line="40" column="6" filename="Z:/partner-platform-api/src/modules/pass-option/routes.js" />
       <jump line="19" column="6" filename="Z:/partner-platform-api/src/modules/pass-option/routes.js" />
       <jump line="55" column="1" filename="Z:/partner-platform-api/src/modules/pass-option/routes.js" />
+      <jump line="7" column="38" filename="Z:/partner-platform-api/src/modules/pass-option/handlers/pass-option-crud.handler.js" />
+      <jump line="34" column="0" filename="Z:/partner-platform-api/src/modules/pass-option/handlers/pass-option-crud.handler.js" />
+      <jump line="35" column="10" filename="Z:/partner-platform-api/src/modules/pass-option/handlers/pass-option-crud.handler.js" />
+      <jump line="3" column="21" filename="Z:/partner-platform-api/src/modules/pass-option/handlers/pass-option-crud.handler.js" />
+      <jump line="30" column="6" filename="Z:/partner-platform-api/src/modules/pass-option/handlers/pass-option-crud.handler.js" />
+      <jump line="43" column="32" filename="Z:/partner-platform-api/src/modules/pass-option/handlers/pass-option-crud.handler.js" />
+      <jump line="61" column="0" filename="Z:/partner-platform-api/src/modules/pass-option/handlers/pass-option-crud.handler.js" />
+      <jump line="42" column="20" filename="Z:/partner-platform-api/src/modules/pass-option/jsonapi/pass-option.jsonapi.js" />
+      <jump line="30" column="22" filename="Z:/partner-platform-api/src/modules/pass-option/jsonapi/pass-option.jsonapi.js" />
+      <jump line="67" column="33" filename="Z:/partner-platform-api/src/modules/pass-option/handlers/pass-option-crud.handler.js" />
+      <jump line="0" column="0" filename="Z:/partner-platform-api/src/modules/pass-option/handlers/pass-option-crud.handler.js" />
+      <jump line="132" column="0" filename="Z:/partner-platform-api/src/modules/core/base-handler.js" />
+      <jump line="0" column="0" filename="Z:/partner-platform-api/src/modules/core/base-handler.js" />
+      <jump line="22" column="46" filename="Z:/partner-platform-api/src/modules/pass-option/handlers/pass-option-crud.handler.js" />
+      <jump line="37" column="9" filename="Z:/partner-platform-api/src/modules/pass-option/jsonapi/pass-option.jsonapi.js" />
+      <jump line="73" column="20" filename="Z:/partner-platform-api/src/modules/pass-option/jsonapi/pass-option.jsonapi.js" />
+      <jump line="12" column="24" filename="Z:/partner-platform-api/src/modules/pass-option/services/assignment.service.js" />
+      <jump line="17" column="33" filename="Z:/partner-platform-api/src/modules/pass-option/handlers/pass-option-crud.handler.js" />
+      <jump line="20" column="30" filename="Z:/partner-platform-api/src/modules/pass-option/handlers/pass-option-crud.handler.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgLmNhdGNoKGVyciA9PiBjb25zb2xlLmxvZyhlcnIpKQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>conferenceId</text>
       </register>
       <register name="/" type="4">
-        <text>Options</text>
+        <text>B</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgYXV0aDogJ3NpbXBsZScsCiAgICAgIGhhbmRsZXI6IChyZXF1ZXN0LCByZXBseSkgPT4gCg==</text>
+        <text encoding="base64">ICBjcmVhdGUocmVxdWVzdCwgcmVwbHkpIHsKICAgIGNvbnN0IGRhdGEgPSByZXF1ZXN0LnBheWxvYWQ7CgogICAgdGhpcy5fZGVzZXJpYWxpemUoZGF0YSkKICAgICAgLnRoZW4oKCkgPT4gdGhpcy5NT0RFTC5jcmVhdGUodGhpcy5kZXNlcmlhbGl6ZWREYXRhKSkKICAgICAgLnRoZW4oaW5zdGFuY2UgPT4gdGhpcy5faGFuZGxlUmVsYXRpb25zaGlwcyhpbnN0YW5jZSkpCiAgICAgIC50aGVuKGluc3RhbmNlID0+IHRoaXMuX3N5bmNEYihpbnN0YW5jZSkpCiAgICAgIC50aGVuKGluc3RhbmNlID0+IHRoaXMuX3NlcmlhbGl6ZShpbnN0YW5jZSkpCiAgICAgIC50aGVuKGRhdGEgPT4gcmVwbHkoZGF0YSkpCiAgICAgIC5jYXRjaChlcnIgPT4gcmVwbHkoZXJyLmJvb20oKSkpOwogIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBzZXJ2ZXIucm91dGUoewogICAgbWV0aG9kOiAnR0VUJywKICAgIHBhdGg6ICcvcGFzcy1vcHRpb25zL3tpZH0nLAogICAgY29uZmlnOiB7CiAgICAgIGhhbmRsZXI6IG5ldyBQYXNzT3B0aW9uc0NydWRIYW5kbGVyKCkuc2hvd0J5SWQKICAgIH0KICB9KTsKCg==</text>
+        <text encoding="base64">ICAgICAgLmNhdGNoKGVyciA9PiBjb25zb2xlLmxvZyhlcnIpKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBzZXJ2ZXIucm91dGUoewogICAgbWV0aG9kOiAnR0VUJywKICAgIHBhdGg6ICcvY29uZmVyZW5jZXMve2NvbmZlcmVuY2VJZH0vcGFzcy1vcHRpb25zJywKICAgIGNvbmZpZzogewogICAgICBoYW5kbGVyOiBuZXcgUGFzc09wdGlvbnNDcnVkSGFuZGxlcigpLnNob3dBbGxCeUNvbmZlcmVuY2VJZAogICAgfQogIH0pOwoK</text>
+        <text encoding="base64">ICAgICAgLnRoZW4oaW5zdGFuY2UgPT4gY29uc29sZS5sb2coaW5zdGFuY2UpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgLnRoZW4oaW5zdGFuY2UgPT4gdGhpcy5fc3luY0RiKGluc3RhbmNlKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgbmFtZTogewogICAgICAgIHR5cGU6IERhdGFUeXBlcy5URVhUCiAgICAgIH0sCgo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHBhc3NPcHRpb24pOwo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">CiMgU2Vuc2l0aXZlIG9yIGhpZ2gtY2h1cm4gZmlsZXM6Ci5pZGVhLyoqL2RhdGFTb3VyY2VzLwouaWRlYS8qKi9kYXRhU291cmNlcy5pZHMKLmlkZWEvKiovZGF0YVNvdXJjZXMueG1sCi5pZGVhLyoqL2RhdGFTb3VyY2VzLmxvY2FsLnhtbAouaWRlYS8qKi9zcWxEYXRhU291cmNlcy54bWwKLmlkZWEvKiovZHluYW1pYy54bWwKLmlkZWEvKiovdWlEZXNpZ25lci54bWwKCiMgR3JhZGxlOgouaWRlYS8qKi9ncmFkbGUueG1sCi5pZGVhLyoqL2xpYnJhcmllcwoKIyBNb25nbyBFeHBsb3JlciBwbHVnaW46Ci5pZGVhLyoqL21vbmdvU2V0dGluZ3MueG1sCg==</text>
+        <text encoding="base64">ICAgICAgLnRoZW4oaW5zdGFuY2UgPT4gY29uc29sZS5sb2coaW5zdGFuY2UpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiMjIFBsdWdpbi1zcGVjaWZpYyBmaWxlczoKCiMgSW50ZWxsaUoKL291dC8KCiMgbXBlbHRvbmVuL3NidC1pZGVhIHBsdWdpbgouaWRlYV9tb2R1bGVzLwoKIyBKSVJBIHBsdWdpbgphdGxhc3NpYW4taWRlLXBsdWdpbi54bWwK</text>
+        <text encoding="base64">ICAgICAgLgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBDcmFzaGx5dGljcyBwbHVnaW4gKGZvciBBbmRyb2lkIFN0dWRpbyBhbmQgSW50ZWxsaUopCmNvbV9jcmFzaGx5dGljc19leHBvcnRfc3RyaW5ncy54bWwKY3Jhc2hseXRpY3MucHJvcGVydGllcwpjcmFzaGx5dGljcy1idWlsZC5wcm9wZXJ0aWVzCmZhYnJpYy5wcm9wZXJ0aWVzCg==</text>
+        <text encoding="base64">ICAgICAgLmNhdGNoKGVyciA9PiBjb25zb2xlLmxvZyhlcnIpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLnRoZW4oZW52ID0+IG5ldyBMb2dpbihlbnYpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Options</last-search>
+      <last-search>B</last-search>
       <last-offset />
-      <last-pattern>Options</last-pattern>
-      <last-replace>Option</last-replace>
-      <last-substitute>Options</last-substitute>
+      <last-pattern>B</last-pattern>
+      <last-replace>conference</last-replace>
+      <last-substitute>user</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Fr</entry>
-        <entry>From</entry>
-        <entry>F</entry>
-        <entry>inject</entry>
-        <entry>nodemailer</entry>
         <entry>Pass</entry>
         <entry>PassOption</entry>
         <entry>showConferenceInvites</entry>
         <entry>\.</entry>
         <entry>console</entry>
         <entry>Bas</entry>
-        <entry>B</entry>
         <entry>)</entry>
         <entry>M</entry>
         <entry>0</entry>
         <entry>;</entry>
         <entry>(</entry>
         <entry>var</entry>
-        <entry>s</entry>
         <entry>Options</entry>
+        <entry>s</entry>
+        <entry>user</entry>
+        <entry>Json</entry>
+        <entry>I</entry>
+        <entry>create</entry>
+        <entry>data</entry>
+        <entry>B</entry>
       </history-search>
       <history-cmd>
         <entry>9</entry>
@@ -582,6 +591,7 @@
         <entry>4</entry>
         <entry>80</entry>
         <entry encoding="base64">JzwsJz5zL09wdGlvbnMvT3B0aW9uL2c=</entry>
+        <entry encoding="base64">JzwsJz5zL3VzZXIvY29uZmVyZW5jZS9n</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
