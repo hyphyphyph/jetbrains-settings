@@ -169,10 +169,10 @@
         <mark key="." line="1" column="32" />
         <mark key="^" line="1" column="32" />
       </file>
-      <file name="Z:/partner-platform-api/src/modules/pass-option/handlers/pass-option-crud.handler.js" timestamp="1487968943898">
-        <mark key="'" line="20" column="30" />
-        <mark key="[" line="51" column="8" />
-        <mark key="]" line="51" column="8" />
+      <file name="Z:/partner-platform-api/src/modules/pass-option/handlers/pass-option-crud.handler.js" timestamp="1487974963666">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="24" column="2" />
         <mark key="." line="51" column="8" />
       </file>
       <file name="Z:/partner-platform-api/src/modules/conference-invite/templates/invite-accept-text.hbs" timestamp="1487893580463">
@@ -218,12 +218,12 @@
         <mark key="." line="17" column="27" />
         <mark key="^" line="17" column="27" />
       </file>
-      <file name="Z:/partner-platform-api/src/modules/quota/handlers/quota-crud.handler.js" timestamp="1487972937932">
-        <mark key="'" line="66" column="12" />
-        <mark key="[" line="67" column="6" />
-        <mark key="]" line="67" column="9" />
-        <mark key="." line="67" column="9" />
-        <mark key="^" line="67" column="9" />
+      <file name="Z:/partner-platform-api/src/modules/quota/handlers/quota-crud.handler.js" timestamp="1487975259696">
+        <mark key="'" line="21" column="18" />
+        <mark key="[" line="21" column="36" />
+        <mark key="]" line="21" column="36" />
+        <mark key="." line="21" column="36" />
+        <mark key="^" line="24" column="18" />
       </file>
       <file name="Z:/partner-platform-api/src/services/mailer.service.js" timestamp="1487904033681">
         <mark key="'" line="7" column="42" />
@@ -239,10 +239,12 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="77" column="5" />
       </file>
-      <file name="Z:/partner-platform-api/src/modules/core/base-handler.js" timestamp="1487966079198">
+      <file name="Z:/partner-platform-api/src/modules/core/base-handler.js" timestamp="1487974948053">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="50" column="2" />
+        <mark key="[" line="40" column="2" />
+        <mark key="]" line="40" column="1" />
+        <mark key="^" line="40" column="1" />
+        <mark key="." line="40" column="1" />
       </file>
       <file name="Z:/partner-platform-api/src/modules/quota/routes.js" timestamp="1487972883869">
         <mark key="'" line="12" column="16" />
@@ -335,6 +337,13 @@
         <mark key="^" line="2" column="13" />
         <mark key="." line="2" column="13" />
       </file>
+      <file name="Z:/partner-platform-api/src/modules/quota/services/assignment.service.js" timestamp="1487975160507">
+        <mark key="'" line="12" column="19" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="21" />
+        <mark key="." line="22" column="21" />
+        <mark key="^" line="22" column="21" />
+      </file>
       <file name="Z:/partner-platform-api/src/modules/pass-option/routes.js" timestamp="1487964231068">
         <mark key="'" line="60" column="1" />
         <mark key="[" line="11" column="81" />
@@ -361,10 +370,10 @@
         <mark key="^" line="39" column="0" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="Z:/partner-platform-api/src/models/pass-option.model.js" timestamp="1487964555605">
+      <file name="Z:/partner-platform-api/src/models/pass-option.model.js" timestamp="1487975343890">
         <mark key="'" line="49" column="1" />
-        <mark key="[" line="38" column="11" />
-        <mark key="]" line="38" column="11" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="37" column="12" />
         <mark key="." line="38" column="11" />
         <mark key="^" line="38" column="11" />
       </file>
@@ -374,12 +383,12 @@
         <mark key="." line="6" column="10" />
         <mark key="^" line="6" column="10" />
       </file>
-      <file name="Z:/partner-platform-api/src/models/quota.model.js" timestamp="1487973668033">
+      <file name="Z:/partner-platform-api/src/models/quota.model.js" timestamp="1487975381328">
         <mark key="'" line="20" column="25" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="^" line="20" column="25" />
-        <mark key="." line="18" column="0" />
+        <mark key="[" line="35" column="27" />
+        <mark key="]" line="35" column="32" />
+        <mark key="^" line="35" column="32" />
+        <mark key="." line="35" column="32" />
       </file>
       <file name="Z:/partner-platform-api/.env" timestamp="1487955849397">
         <mark key="'" line="0" column="0" />
@@ -422,13 +431,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="Z:/partner-platform-api/.env" />
-      <jump line="0" column="0" filename="Z:/partner-platform-api/src/index.js" />
-      <jump line="18" column="26" filename="Z:/partner-platform-api/db/migrations/20170110212218-create-auth-tokens.js" />
-      <jump line="18" column="9" filename="Z:/partner-platform-api/db/migrations/20170113204437-create-conferences.js" />
-      <jump line="30" column="24" filename="Z:/partner-platform-api/db/migrations/20170113204452-create-conference-invites.js" />
-      <jump line="81" column="0" filename="Z:/partner-platform-api/db/migrations/20170113204452-create-conference-invites.js" />
-      <jump line="19" column="0" filename="Z:/partner-platform-api/db/migrations/20170113204459-create-partners.js" />
       <jump line="60" column="0" filename="Z:/partner-platform-api/db/migrations/20170113204459-create-partners.js" />
       <jump line="58" column="0" filename="Z:/partner-platform-api/db/migrations/20170113204459-create-partners.js" />
       <jump line="21" column="31" filename="Z:/partner-platform-api/db/migrations/20170113204507-create-passes.js" />
@@ -504,7 +506,6 @@
       <jump line="42" column="20" filename="Z:/partner-platform-api/src/modules/pass-option/jsonapi/pass-option.jsonapi.js" />
       <jump line="30" column="22" filename="Z:/partner-platform-api/src/modules/pass-option/jsonapi/pass-option.jsonapi.js" />
       <jump line="67" column="33" filename="Z:/partner-platform-api/src/modules/pass-option/handlers/pass-option-crud.handler.js" />
-      <jump line="0" column="0" filename="Z:/partner-platform-api/src/modules/pass-option/handlers/pass-option-crud.handler.js" />
       <jump line="132" column="0" filename="Z:/partner-platform-api/src/modules/core/base-handler.js" />
       <jump line="0" column="0" filename="Z:/partner-platform-api/src/modules/core/base-handler.js" />
       <jump line="22" column="46" filename="Z:/partner-platform-api/src/modules/pass-option/handlers/pass-option-crud.handler.js" />
@@ -522,55 +523,63 @@
       <jump line="18" column="2" filename="Z:/partner-platform-api/src/modules/quota/jsonapi/quota.jsonapi.js" />
       <jump line="0" column="0" filename="Z:/partner-platform-api/src/modules/quota/jsonapi/quota.jsonapi.js" />
       <jump line="22" column="25" filename="Z:/partner-platform-api/src/models/quota.model.js" />
+      <jump line="49" column="27" filename="Z:/partner-platform-api/src/modules/quota/handlers/quota-crud.handler.js" />
+      <jump line="51" column="49" filename="Z:/partner-platform-api/src/modules/quota/handlers/quota-crud.handler.js" />
+      <jump line="61" column="2" filename="Z:/partner-platform-api/src/modules/quota/handlers/quota-crud.handler.js" />
+      <jump line="63" column="43" filename="Z:/partner-platform-api/src/modules/quota/handlers/quota-crud.handler.js" />
+      <jump line="12" column="19" filename="Z:/partner-platform-api/src/modules/quota/services/assignment.service.js" />
+      <jump line="51" column="20" filename="Z:/partner-platform-api/src/modules/pass-option/handlers/pass-option-crud.handler.js" />
+      <jump line="0" column="0" filename="Z:/partner-platform-api/src/modules/pass-option/handlers/pass-option-crud.handler.js" />
+      <jump line="21" column="18" filename="Z:/partner-platform-api/src/modules/quota/handlers/quota-crud.handler.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>partnerId</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>partnerId</text>
       </register>
       <register name="/" type="4">
-        <text>conf</text>
+        <text>as</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoYXR0ciA9PT0gJ3BhcnRuZXInKSB7CiAgICAgICAgICByZXR1cm4gJ3BhcnRuZXJzJzsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIFF1b3RhLmJlbG9uZ3NUbygKICAgICAgICAgICAgbW9kZWxzLlBhcnRuZXIsCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICBhczogJ3BhcnRuZXInLAogICAgICAgICAgICAgIGZvcmVpZ25LZXk6ICdwYXJ0bmVySWQnCiAgICAgICAgICAgIH0KICAgICAgICAgICk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIG1vZGVscy5Db25mZXJlbmNlLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLmNhdGNoKGNvbnNvbGUubG9nKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAndGl0bGVFbicsCiAgICAgICAgJ3RpdGxlRnInLAogICAgICAgICdjb25maWd1cmFibGUnLAogICAgICAgICdjcmVhdGVkQXQnLAogICAgICAgICd1cGRhdGVkQXQnLAoK</text>
+        <text encoding="base64">ICAgICAgLnRoZW4oY29uc29sZS5sb2cpOwo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgY2xhc3MgUGFzc1F1b3RhSnNvbkFwaSB7CiAgY29uc3RydWN0b3IoKSB7CiAgICB0aGlzLlRZUEUgPSAncGFzcy1hbGxvY2F0aW9ucyc7CiAgfQoKICBzZXJpYWxpemUoZGF0YSkgewogICAgcmV0dXJuIG5ldyBQcm9taXNlKHJlc29sdmUgPT4gewogICAgICBpZiAoQXJyYXkuaXNBcnJheShkYXRhKSkgewogICAgICAgIHJlc29sdmUoewogICAgICAgICAgZGF0YTogZGF0YS5tYXAoaSA9PiB0aGlzLl9zZXJpYWxpemVTaW5nbGUoaSkpCiAgICAgICAgfSk7CiAgICAgIH0KICAgICAgZWxzZSB7CiAgICAgICAgcmVzb2x2ZSh7CiAgICAgICAgICBkYXRhOiB0aGlzLl9zZXJpYWxpemVTaW5nbGUoZGF0YSkKICAgICAgICB9KTsKICAgICAgfQogICAgfSk7CiAgfQoKICBfc2VyaWFsaXplU2luZ2xlKGRhdGEpIHsKICAgIHJldHVybiB7CiAgICAgIHR5cGU6ICdxdW90YXMnLAogICAgICBpZDogZGF0YS5wYXJ0bmVySWQgKyAnLScgKyBkYXRhLnBhc3NJZCwKICAgICAgYXR0cmlidXRlczogewogICAgICAgIHRvdGFsOiBkYXRhLnRvdGFsLAogICAgICAgIGF2YWlsYWJsZTogZGF0YS5hdmFpbGFibGUKICAgICAgfSwKICAgICAgcmVsYXRpb25zaGlwczogewogICAgICAgIHBhc3M6IHsKICAgICAgICAgIGxpbmtzOiB7CiAgICAgICAgICAgIHNlbGY6IGAvcGFzc2VzLyR7ZGF0YS5wYXNzSWR9YCwKICAgICAgICAgICAgcmVsYXRlZDogYC9wYXNzZXMvJHtkYXRhLnBhc3NJZH1gCiAgICAgICAgICB9CiAgICAgICAgfSwKICAgICAgICBwYXJ0bmVyOiB7CiAgICAgICAgICBsaW5rczogewogICAgICAgICAgICBzZWxmOiBgL3BhcnRuZXJzLyR7ZGF0YS5wYXJ0bmVySWR9YCwKICAgICAgICAgICAgcmVsYXRlZDogYC9wYXJ0bmVycy8ke2RhdGEucGFydG5lcklkfWAKICAgICAgICAgIH0KICAgICAgICB9CiAgICAgIH0KICAgIH07CiAgfQoKICBkZXNlcmlhbGl6ZShkYXRhKSB7CiAgICByZXR1cm4gbmV3IFByb21pc2UoKHJlc29sdmUsIHJlamVjdCkgPT4gewogICAgICBpZiAoQXJyYXkuaXNBcnJheShkYXRhLmRhdGEpKSB7CiAgICAgICAgcmVzb2x2ZShkYXRhLmRhdGEubWFwKGkgPT4gdGhpcy5fZGVzZXJpYWxpemVTaW5nbGUoaSkpKTsKICAgICAgfQogICAgICBlbHNlIHsKICAgICAgICByZXNvbHZlKHRoaXMuX2Rlc2VyaWFsaXplU2luZ2xlKGRhdGEpKTsKICAgICAgfQogICAgfSk7CiAgfQoKICBfZGVzZXJpYWxpemVTaW5nbGUoZGF0YSkgewogICAgcmV0dXJuIHsKICAgICAgdG90YWw6IGRhdGEuZGF0YS5hdHRyaWJ1dGVzLnRvdGFsLAogICAgICBwYXNzSWQ6IGRhdGEuZGF0YS5yZWxhdGlvbnNoaXBzLnBhc3MuZGF0YS5pZCwKICAgICAgcGFydG5lcklkOiBkYXRhLmRhdGEuaWQKICAgIH07CiAgfQp9Cg==</text>
+      <register name="4" type="4">
+        <text>Partner</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgJ3RpdGxlLWVuJzogSm9pLnN0cmluZygpLmFsbG93KG51bGwpLAogICAgICAndGl0bGUtZnInOiBKb2kuc3RyaW5nKCkuYWxsb3cobnVsbCksCiAgICAgICdjb25maWd1cmFibGUnOiBKb2kuYm9vbGVhbigpLmFsbG93KG51bGwpCg==</text>
+      <register name="5" type="4">
+        <text>Conference</text>
       </register>
       <register name="6" type="4">
-        <text>ShowQuotaByPartnerId</text>
+        <text>Partner</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>Conference</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBzZXJ2ZXIuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjcmVhdGUocmVxdWVzdCwgcmVwbHkpIHsKICAgIGNvbnN0IGRhdGEgPSByZXF1ZXN0LnBheWxvYWQ7CgogICAgdGhpcy5fZGVzZXJpYWxpemUoZGF0YSkKICAgICAgLnRoZW4oKCkgPT4gdGhpcy5NT0RFTC5idWlsZCh0aGlzLmRlc2VyaWFsaXplZERhdGEpKQogICAgICAudGhlbihpbnN0YW5jZSA9PiB0aGlzLl9oYW5kbGVSZWxhdGlvbnNoaXBzKGluc3RhbmNlKSkKICAgICAgLnRoZW4oaW5zdGFuY2UgPT4gaW5zdGFuY2Uuc2F2ZSgpKQogICAgICAudGhlbihpbnN0YW5jZSA9PiB0aGlzLl9zZXJpYWxpemUoaW5zdGFuY2UpKQogICAgICAudGhlbihkYXRhID0+IHJlcGx5KGRhdGEpKQogICAgICAuY2F0Y2goZXJyID0+IHJlcGx5KGVyci5ib29tKCkpKTsKICB9Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>conf</last-search>
+      <last-search>as</last-search>
       <last-offset />
-      <last-pattern>conf</last-pattern>
+      <last-pattern>as</last-pattern>
       <last-replace>conference</last-replace>
       <last-substitute>user</last-substitute>
       <last-dir>1</last-dir>
@@ -578,12 +587,6 @@
     </search>
     <history>
       <history-search>
-        <entry>console</entry>
-        <entry>Bas</entry>
-        <entry>)</entry>
-        <entry>M</entry>
-        <entry>0</entry>
-        <entry>;</entry>
         <entry>(</entry>
         <entry>var</entry>
         <entry>Options</entry>
@@ -593,11 +596,17 @@
         <entry>I</entry>
         <entry>create</entry>
         <entry>data</entry>
-        <entry>B</entry>
         <entry>J</entry>
         <entry>H</entry>
         <entry>V</entry>
         <entry>conf</entry>
+        <entry>Con</entry>
+        <entry>C</entry>
+        <entry>p</entry>
+        <entry>Par</entry>
+        <entry>B</entry>
+        <entry>create(</entry>
+        <entry>as</entry>
       </history-search>
       <history-cmd>
         <entry>9</entry>
@@ -608,6 +617,7 @@
         <entry>80</entry>
         <entry encoding="base64">JzwsJz5zL09wdGlvbnMvT3B0aW9uL2c=</entry>
         <entry encoding="base64">JzwsJz5zL3VzZXIvY29uZmVyZW5jZS9n</entry>
+        <entry>wwwww</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
