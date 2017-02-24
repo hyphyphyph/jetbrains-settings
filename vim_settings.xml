@@ -22,14 +22,17 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1487915705677">
-        <mark key="[" line="0" column="0" />
+      <file name="Z:/partner-platform-api/db/migrations/20170113204437-create-conferences.js" timestamp="1487956414625">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/9b1e8f9b-8d5d-4880-a9e9-7ddaf9ba75f4/console.sql" timestamp="1487912174153">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="20" />
         <mark key="^" line="0" column="20" />
         <mark key="." line="0" column="20" />
+      </file>
+      <file name="Z:/partner-platform-api/db/migrations/20170114162050-create-user-role.js" timestamp="1487956845601">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="Z:/partner-platform-api/src/modules/conference-invite/jsonapi/conference-invite.jsonapi.js" timestamp="1487903809218">
         <mark key="'" line="42" column="0" />
@@ -63,19 +66,14 @@
         <mark key="^" line="0" column="26" />
         <mark key="." line="0" column="26" />
       </file>
-      <file name="Z:/boringcode/src/models/user.js" timestamp="1487916846455">
-        <mark key="'" line="27" column="32" />
-        <mark key="[" line="16" column="42" />
-        <mark key="k" line="14" column="11" />
-        <mark key="]" line="16" column="50" />
-        <mark key="." line="16" column="50" />
-        <mark key="^" line="16" column="50" />
-      </file>
       <file name="Z:/boringcode/src/models/user/deleteById.sql" timestamp="1487916606534">
         <mark key="[" line="1" column="18" />
         <mark key="]" line="1" column="17" />
         <mark key="^" line="1" column="17" />
         <mark key="." line="1" column="17" />
+      </file>
+      <file name="Z:/partner-platform-api/db/migrations/20170123233148-create-conference-user.js" timestamp="1487957164317">
+        <mark key="'" line="71" column="0" />
       </file>
       <file name="Z:/partner-platform-api/src/modules/conference-invite/templates/invite-cancel-text.hbs" timestamp="1487893609972">
         <mark key="[" line="2" column="13" />
@@ -115,11 +113,20 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="16" column="23" />
       </file>
+      <file name="Z:/partner-platform-api/db/migrations/20170113204522-create-private-activity-invites.js" timestamp="1487956828831">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+      </file>
       <file name="Z:/partner-platform-api/src/modules/conference-invite/templates/invite-cancel-html.hbs" timestamp="1487893587233">
         <mark key="[" line="2" column="13" />
         <mark key="]" line="2" column="13" />
         <mark key="^" line="2" column="13" />
         <mark key="." line="2" column="13" />
+      </file>
+      <file name="Z:/partner-platform-api/db/migrations/20170123224318-rename-fks-in-user-role.js" timestamp="1487957142076">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="Z:/partner-platform/partner-platform-api/src/modules/conference-invite/handlers/workflow.handler.js" timestamp="1487888042200">
         <mark key="'" line="52" column="25" />
@@ -134,6 +141,9 @@
         <mark key="^" line="2" column="13" />
         <mark key="." line="2" column="13" />
       </file>
+      <file name="Z:/partner-platform-api/db/migrations/20170113204529-create-roles.js" timestamp="1487956833233">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="Z:/partner-platform-api/src/modules/conference-invite/handlers/conference-invite-crud.handler.js" timestamp="1487907101284">
         <mark key="[" line="41" column="0" />
         <mark key="]" line="41" column="0" />
@@ -145,24 +155,18 @@
         <mark key="." line="1" column="32" />
         <mark key="^" line="1" column="32" />
       </file>
-      <file name="Z:/partner-platform-api/db/migrations/20170113204452-create-conference-invites.js" timestamp="1487906793942">
-        <mark key="'" line="44" column="5" />
-        <mark key="[" line="30" column="24" />
-        <mark key="]" line="30" column="24" />
+      <file name="Z:/partner-platform-api/db/migrations/20170113204452-create-conference-invites.js" timestamp="1487956794235">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="0" />
         <mark key="^" line="30" column="24" />
-        <mark key="." line="30" column="24" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1487916361267">
-        <mark key="[" line="0" column="0" />
+        <mark key="." line="80" column="0" />
       </file>
       <file name="Z:/partner-platform-api/src/modules/conference-invite/templates/invite-accept-text.hbs" timestamp="1487893580463">
         <mark key="[" line="2" column="13" />
         <mark key="]" line="2" column="13" />
         <mark key="^" line="2" column="13" />
         <mark key="." line="2" column="13" />
-      </file>
-      <file name="/a.txt" timestamp="1487896139328">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="Z:/partner-platform-api/src/models/conference-invite.model.js" timestamp="1487902473825">
         <mark key="'" line="40" column="15" />
@@ -171,11 +175,35 @@
         <mark key="." line="56" column="6" />
         <mark key="^" line="56" column="6" />
       </file>
+      <file name="Z:/partner-platform-api/db/migrations/20170113204507-create-passes.js" timestamp="1487956776950">
+        <mark key="'" line="64" column="0" />
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
+      </file>
+      <file name="Z:/partner-platform-api/config/custom-environment-variables.yml" timestamp="1487955837922">
+        <mark key="[" line="5" column="9" />
+        <mark key="]" line="6" column="20" />
+        <mark key="^" line="6" column="20" />
+        <mark key="." line="6" column="20" />
+      </file>
+      <file name="Z:/partner-platform-api/src/index.js" timestamp="1487956068975">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="Z:/partner-platform-api/src/modules/conference-invite/routes.js" timestamp="1487906666975">
         <mark key="[" line="52" column="2" />
         <mark key="]" line="52" column="1" />
         <mark key="^" line="52" column="1" />
         <mark key="." line="52" column="1" />
+      </file>
+      <file name="Z:/partner-platform-api/db/migrations/20170113204512-create-pass-allocations.js" timestamp="1487956810195">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="." line="69" column="0" />
       </file>
       <file name="Z:/partner-platform-api/src/modules/conference-invite/templates/invite-resend-html.hbs" timestamp="1487893538784">
         <mark key="[" line="2" column="13" />
@@ -204,6 +232,9 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="77" column="5" />
       </file>
+      <file name="Z:/partner-platform-api/db/migrations/20170119172755-enable-uuid-ossp.js" timestamp="1487956879089">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="Z:/partner-platform-api/src/modules/core/base-handler.js" timestamp="1487894122967">
         <mark key="[" line="132" column="0" />
         <mark key="]" line="143" column="2" />
@@ -221,9 +252,6 @@
         <mark key="^" line="119" column="44" />
         <mark key="." line="119" column="44" />
       </file>
-      <file name="/a.sql" timestamp="1487916279438">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="Z:/partner-platform-api/src/models/index.js" timestamp="1487905253494">
         <mark key="[" line="14" column="2" />
         <mark key="]" line="14" column="4" />
@@ -235,9 +263,6 @@
         <mark key="]" line="67" column="40" />
         <mark key="^" line="67" column="40" />
         <mark key="." line="67" column="40" />
-      </file>
-      <file name="/dummy.sql" timestamp="1487916347744">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="Z:/partner-platform-api/src/modules/conference-invite/templates/invite-accept-on-behalf-text.hbs" timestamp="1487893572770">
         <mark key="[" line="2" column="13" />
@@ -262,6 +287,9 @@
         <mark key="." line="1" column="32" />
         <mark key="^" line="1" column="32" />
       </file>
+      <file name="Z:/partner-platform-api/db/migrations/20170119180604-set-default-uuid-values.js" timestamp="1487956885548">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="Z:/partner-platform-api/src/modules/conference-invite/services/conference-invite-assignment.service.js" timestamp="1487955003987">
         <mark key="[" line="20" column="60" />
         <mark key="]" line="21" column="7" />
@@ -281,9 +309,6 @@
         <mark key="^" line="2" column="13" />
         <mark key="." line="2" column="13" />
       </file>
-      <file name="/a.regexp" timestamp="1487896134214">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="Z:/boringcode/src/models/user/findAll.sql" timestamp="1487915027489">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -295,6 +320,16 @@
         <mark key="]" line="2" column="13" />
         <mark key="^" line="2" column="13" />
         <mark key="." line="2" column="13" />
+      </file>
+      <file name="Z:/partner-platform-api/db/migrations/20170130170941-create-partner-conference-relationship.js" timestamp="1487957193470">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="Z:/partner-platform-api/db/migrations/20170110212218-create-auth-tokens.js" timestamp="1487956286328">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="38" column="2" />
+        <mark key="]" line="39" column="0" />
+        <mark key="^" line="39" column="0" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="Z:/partner-platform-api/src/models/pass-option.model.js" timestamp="1487905468728">
         <mark key="'" line="46" column="1" />
@@ -319,6 +354,13 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="Z:/partner-platform-api/.env" timestamp="1487955849397">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="7" column="9" />
+        <mark key="]" line="8" column="22" />
+        <mark key="^" line="8" column="22" />
+        <mark key="." line="8" column="22" />
+      </file>
       <file name="Z:/partner-platform/partner-platform-api/src/modules/conference-invite/templates/invite-resend-html.hbs" timestamp="1487888355278">
         <mark key="[" line="1" column="67" />
         <mark key="]" line="2" column="12" />
@@ -331,12 +373,12 @@
         <mark key="^" line="2" column="13" />
         <mark key="." line="2" column="13" />
       </file>
-      <file name="Z:/partner-platform-api/db/migrations/20170113204459-create-partners.js" timestamp="1487892911820">
-        <mark key="'" line="35" column="58" />
-        <mark key="[" line="35" column="21" />
-        <mark key="]" line="35" column="21" />
-        <mark key="." line="35" column="21" />
-        <mark key="^" line="32" column="30" />
+      <file name="Z:/partner-platform-api/db/migrations/20170113204459-create-partners.js" timestamp="1487956673924">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="57" column="2" />
+        <mark key="]" line="57" column="2" />
+        <mark key="." line="57" column="2" />
+        <mark key="^" line="39" column="43" />
       </file>
       <file name="Z:/partner-platform-api/src/modules/partner/jsonapi/partner.jsonapi.js" timestamp="1487893831146">
         <mark key="[" line="44" column="19" />
@@ -351,57 +393,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="57" filename="Z:/partner-platform/partner-platform-api/src/modules/conference-invite/services/workflow.service.js" />
-      <jump line="306" column="2" filename="Z:/partner-platform/partner-platform-api/src/modules/conference-invite/services/workflow.service.js" />
-      <jump line="35" column="58" filename="Z:/partner-platform-api/db/migrations/20170113204459-create-partners.js" />
-      <jump line="8" column="32" filename="Z:/partner-platform-api/src/models/partner.model.js" />
-      <jump line="32" column="15" filename="Z:/partner-platform-api/src/modules/conference-invite/services/workflow.service.js" />
-      <jump line="30" column="0" filename="Z:/partner-platform-api/src/modules/conference-invite/services/workflow.service.js" />
-      <jump line="327" column="18" filename="Z:/partner-platform-api/src/modules/conference-invite/services/workflow.service.js" />
-      <jump line="31" column="34" filename="Z:/partner-platform-api/src/modules/conference-invite/handlers/conference-invite-crud.handler.js" />
-      <jump line="24" column="20" filename="Z:/partner-platform-api/src/modules/conference-invite/handlers/conference-invite-crud.handler.js" />
-      <jump line="73" column="0" filename="Z:/partner-platform-api/src/errors.js" />
-      <jump line="115" column="0" filename="Z:/partner-platform-api/src/errors.js" />
-      <jump line="31" column="0" filename="Z:/partner-platform-api/src/modules/conference-invite/services/workflow.service.js" />
-      <jump line="46" column="22" filename="Z:/partner-platform-api/src/modules/conference-invite/handlers/conference-invite-crud.handler.js" />
-      <jump line="51" column="52" filename="Z:/partner-platform-api/src/modules/conference-invite/handlers/conference-invite-crud.handler.js" />
-      <jump line="45" column="6" filename="Z:/partner-platform-api/src/modules/conference-invite/handlers/conference-invite-crud.handler.js" />
-      <jump line="205" column="36" filename="Z:/partner-platform-api/src/modules/conference-invite/services/workflow.service.js" />
-      <jump line="5" column="50" filename="Z:/partner-platform-api/src/modules/conference-invite/templates/index.js" />
-      <jump line="18" column="3" filename="Z:/partner-platform-api/src/modules/conference-invite/services/workflow.service.js" />
-      <jump line="99" column="0" filename="Z:/partner-platform-api/src/modules/conference-invite/services/workflow.service.js" />
-      <jump line="21" column="18" filename="Z:/partner-platform-api/src/modules/conference-invite/handlers/workflow.handler.js" />
-      <jump line="150" column="8" filename="Z:/partner-platform-api/src/modules/conference-invite/handlers/workflow.handler.js" />
-      <jump line="41" column="46" filename="Z:/partner-platform-api/src/modules/conference-invite/services/workflow.service.js" />
-      <jump line="142" column="60" filename="Z:/partner-platform-api/src/modules/conference-invite/handlers/workflow.handler.js" />
-      <jump line="228" column="26" filename="Z:/partner-platform-api/src/modules/conference-invite/services/workflow.service.js" />
-      <jump line="24" column="78" filename="Z:/partner-platform-api/src/modules/conference-invite/services/workflow.service.js" />
-      <jump line="22" column="14" filename="Z:/partner-platform-api/src/modules/conference-invite/services/workflow.service.js" />
-      <jump line="23" column="39" filename="Z:/partner-platform-api/src/modules/conference-invite/services/workflow.service.js" />
-      <jump line="75" column="2" filename="Z:/partner-platform-api/src/modules/conference-invite/services/workflow.service.js" />
-      <jump line="48" column="10" filename="Z:/partner-platform-api/src/modules/conference-invite/handlers/conference-invite-crud.handler.js" />
-      <jump line="41" column="0" filename="Z:/partner-platform-api/src/modules/conference-invite/jsonapi/conference-invite.jsonapi.js" />
-      <jump line="56" column="9" filename="Z:/partner-platform-api/src/modules/conference-invite/handlers/conference-invite-crud.handler.js" />
-      <jump line="202" column="0" filename="Z:/partner-platform-api/src/modules/conference-invite/handlers/conference-invite-crud.handler.js" />
-      <jump line="16" column="10" filename="Z:/partner-platform-api/src/modules/conference-invite/handlers/workflow.handler.js" />
-      <jump line="38" column="5" filename="Z:/partner-platform-api/db/migrations/20170113204452-create-conference-invites.js" />
-      <jump line="22" column="22" filename="Z:/partner-platform-api/src/modules/conference-invite/handlers/conference-invite-crud.handler.js" />
-      <jump line="158" column="0" filename="Z:/partner-platform-api/src/modules/conference-invite/handlers/conference-invite-crud.handler.js" />
-      <jump line="1" column="9" filename="Z:/partner-platform-api/src/modules/conference-invite/handlers/conference-invite-crud.handler.js" />
-      <jump line="100" column="22" filename="Z:/partner-platform-api/src/modules/conference-invite/handlers/conference-invite-crud.handler.js" />
-      <jump line="40" column="15" filename="Z:/partner-platform-api/src/models/conference-invite.model.js" />
-      <jump line="199" column="0" filename="Z:/partner-platform-api/src/modules/conference-invite/handlers/workflow.handler.js" />
-      <jump line="0" column="0" filename="Z:/partner-platform-api/src/modules/conference-invite/handlers/workflow.handler.js" />
-      <jump line="41" column="0" filename="Z:/partner-platform-api/src/modules/conference-invite/handlers/workflow.handler.js" />
-      <jump line="84" column="0" filename="Z:/partner-platform-api/src/modules/conference-invite/handlers/workflow.handler.js" />
-      <jump line="170" column="0" filename="Z:/partner-platform-api/src/modules/conference-invite/handlers/workflow.handler.js" />
-      <jump line="183" column="0" filename="Z:/partner-platform-api/src/modules/conference-invite/handlers/workflow.handler.js" />
-      <jump line="40" column="18" filename="Z:/partner-platform-api/src/modules/conference-invite/handlers/workflow.handler.js" />
-      <jump line="83" column="18" filename="Z:/partner-platform-api/src/modules/conference-invite/handlers/workflow.handler.js" />
-      <jump line="169" column="18" filename="Z:/partner-platform-api/src/modules/conference-invite/handlers/workflow.handler.js" />
-      <jump line="182" column="34" filename="Z:/partner-platform-api/src/modules/conference-invite/handlers/workflow.handler.js" />
-      <jump line="26" column="9" filename="Z:/partner-platform-api/src/modules/conference-invite/services/workflow.service.js" />
-      <jump line="70" column="0" filename="Z:/partner-platform-api/src/modules/conference-invite/services/workflow.service.js" />
       <jump line="102" column="0" filename="Z:/partner-platform-api/src/modules/conference-invite/services/workflow.service.js" />
       <jump line="138" column="0" filename="Z:/partner-platform-api/src/modules/conference-invite/services/workflow.service.js" />
       <jump line="238" column="0" filename="Z:/partner-platform-api/src/modules/conference-invite/services/workflow.service.js" />
@@ -451,6 +442,57 @@
       <jump line="34" column="64" filename="Z:/boringcode/core/models/base-model.js" />
       <jump line="16" column="2" filename="Z:/boringcode/core/models/base-model.js" />
       <jump line="19" column="32" filename="Z:/boringcode/src/models/user.js" />
+      <jump line="0" column="0" filename="Z:/partner-platform-api/.env" />
+      <jump line="0" column="0" filename="Z:/partner-platform-api/src/index.js" />
+      <jump line="18" column="26" filename="Z:/partner-platform-api/db/migrations/20170110212218-create-auth-tokens.js" />
+      <jump line="18" column="9" filename="Z:/partner-platform-api/db/migrations/20170113204437-create-conferences.js" />
+      <jump line="30" column="24" filename="Z:/partner-platform-api/db/migrations/20170113204452-create-conference-invites.js" />
+      <jump line="81" column="0" filename="Z:/partner-platform-api/db/migrations/20170113204452-create-conference-invites.js" />
+      <jump line="19" column="0" filename="Z:/partner-platform-api/db/migrations/20170113204459-create-partners.js" />
+      <jump line="60" column="0" filename="Z:/partner-platform-api/db/migrations/20170113204459-create-partners.js" />
+      <jump line="58" column="0" filename="Z:/partner-platform-api/db/migrations/20170113204459-create-partners.js" />
+      <jump line="21" column="31" filename="Z:/partner-platform-api/db/migrations/20170113204507-create-passes.js" />
+      <jump line="16" column="19" filename="Z:/partner-platform-api/db/migrations/20170113204512-create-pass-allocations.js" />
+      <jump line="16" column="6" filename="Z:/partner-platform-api/db/migrations/20170113204522-create-private-activity-invites.js" />
+      <jump line="15" column="21" filename="Z:/partner-platform-api/db/migrations/20170113204529-create-roles.js" />
+      <jump line="16" column="16" filename="Z:/partner-platform-api/db/migrations/20170114162050-create-user-role.js" />
+      <jump line="18" column="26" filename="Z:/partner-platform-api/db/migrations/20170119180604-set-default-uuid-values.js" />
+      <jump line="19" column="9" filename="Z:/partner-platform-api/db/migrations/20170123233148-create-conference-user.js" />
+      <jump line="17" column="36" filename="Z:/partner-platform-api/db/migrations/20170110212218-create-auth-tokens.js" />
+      <jump line="38" column="0" filename="Z:/partner-platform-api/db/migrations/20170110212218-create-auth-tokens.js" />
+      <jump line="0" column="0" filename="Z:/partner-platform-api/db/migrations/20170110212218-create-auth-tokens.js" />
+      <jump line="42" column="0" filename="Z:/partner-platform-api/db/migrations/20170113204437-create-conferences.js" />
+      <jump line="0" column="0" filename="Z:/partner-platform-api/db/migrations/20170113204437-create-conferences.js" />
+      <jump line="51" column="17" filename="Z:/partner-platform-api/db/migrations/20170113204452-create-conference-invites.js" />
+      <jump line="0" column="0" filename="Z:/partner-platform-api/db/migrations/20170113204452-create-conference-invites.js" />
+      <jump line="27" column="21" filename="Z:/partner-platform-api/db/migrations/20170113204459-create-partners.js" />
+      <jump line="54" column="28" filename="Z:/partner-platform-api/db/migrations/20170113204459-create-partners.js" />
+      <jump line="57" column="0" filename="Z:/partner-platform-api/db/migrations/20170113204459-create-partners.js" />
+      <jump line="0" column="0" filename="Z:/partner-platform-api/db/migrations/20170113204459-create-partners.js" />
+      <jump line="50" column="30" filename="Z:/partner-platform-api/db/migrations/20170113204507-create-passes.js" />
+      <jump line="0" column="0" filename="Z:/partner-platform-api/db/migrations/20170113204507-create-passes.js" />
+      <jump line="64" column="0" filename="Z:/partner-platform-api/db/migrations/20170113204507-create-passes.js" />
+      <jump line="0" column="0" filename="Z:/partner-platform-api/db/migrations/20170113204512-create-pass-allocations.js" />
+      <jump line="0" column="0" filename="Z:/partner-platform-api/db/migrations/20170113204522-create-private-activity-invites.js" />
+      <jump line="20" column="28" filename="Z:/partner-platform-api/db/migrations/20170113204529-create-roles.js" />
+      <jump line="0" column="0" filename="Z:/partner-platform-api/db/migrations/20170113204529-create-roles.js" />
+      <jump line="37" column="0" filename="Z:/partner-platform-api/db/migrations/20170114162050-create-user-role.js" />
+      <jump line="0" column="0" filename="Z:/partner-platform-api/db/migrations/20170114162050-create-user-role.js" />
+      <jump line="11" column="0" filename="Z:/partner-platform-api/db/migrations/20170119172755-enable-uuid-ossp.js" />
+      <jump line="0" column="0" filename="Z:/partner-platform-api/db/migrations/20170119172755-enable-uuid-ossp.js" />
+      <jump line="21" column="1" filename="Z:/partner-platform-api/db/migrations/20170119180604-set-default-uuid-values.js" />
+      <jump line="0" column="0" filename="Z:/partner-platform-api/db/migrations/20170119180604-set-default-uuid-values.js" />
+      <jump line="55" column="12" filename="Z:/partner-platform-api/db/migrations/20170123233148-create-conference-user.js" />
+      <jump line="64" column="40" filename="Z:/partner-platform-api/db/migrations/20170123233148-create-conference-user.js" />
+      <jump line="21" column="0" filename="Z:/partner-platform-api/db/migrations/20170123224318-rename-fks-in-user-role.js" />
+      <jump line="6" column="13" filename="Z:/partner-platform-api/db/migrations/20170123224318-rename-fks-in-user-role.js" />
+      <jump line="20" column="0" filename="Z:/partner-platform-api/db/migrations/20170123224318-rename-fks-in-user-role.js" />
+      <jump line="0" column="0" filename="Z:/partner-platform-api/db/migrations/20170123224318-rename-fks-in-user-role.js" />
+      <jump line="54" column="22" filename="Z:/partner-platform-api/db/migrations/20170123233148-create-conference-user.js" />
+      <jump line="0" column="0" filename="Z:/partner-platform-api/db/migrations/20170123233148-create-conference-user.js" />
+      <jump line="71" column="0" filename="Z:/partner-platform-api/db/migrations/20170123233148-create-conference-user.js" />
+      <jump line="19" column="0" filename="Z:/partner-platform-api/db/migrations/20170130170941-create-partner-conference-relationship.js" />
+      <jump line="0" column="0" filename="Z:/partner-platform-api/db/migrations/20170130170941-create-partner-conference-relationship.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -469,28 +511,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLnRoZW4oYXV0aFRva2VuID0+IHJldHVybiBhdXRoVG9rZW47CiAgICAgIH0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5jb25uZWN0aW9uCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAocmVzdWx0cy5sZW5ndGggIT09IDEpIHsKICAgICAgICAgIHRocm93IG5ldyBBdXRoVG9rZW5FcnJvcihBdXRoVG9rZW5FcnJvci5UT09fTUFOWSk7CiAgICAgICAgfQogICAgICAgIHJldHVybiByZXN1bHRzWzBdOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QXV0aFRva2VuRXJyb3IuVE9PX01BTlkgPSAnVG9vIG1hbnkgdG9rZW5zJzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>Error(ERROR_INCORRECT_NUMBER_OF_TOKENS)</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QXV0aFRva2VuRXJyb3IuSU5DT1JSRUNUX1BBU1NXT1JEID0gJ0luY29ycmVjdCBwYXNzd29yZCc7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
