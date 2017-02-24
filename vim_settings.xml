@@ -3,12 +3,68 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="Z:/partner-platform-api/src/modules/conference-invite/templates/invite-accept-on-behalf-text.hbs" timestamp="1487893572770">
+        <mark key="[" line="2" column="13" />
+        <mark key="]" line="2" column="13" />
+        <mark key="^" line="2" column="13" />
+        <mark key="." line="2" column="13" />
+      </file>
+      <file name="Z:/partner-platform-api/src/modules/conference-invite/templates/invite-cancel-on-behalf-html.hbs" timestamp="1487893592959">
+        <mark key="[" line="1" column="59" />
+        <mark key="]" line="2" column="13" />
+        <mark key="^" line="2" column="13" />
+        <mark key="." line="2" column="13" />
+      </file>
+      <file name="Z:/partner-platform-api/src/modules/conference-invite/templates/invite-cancel-text.hbs" timestamp="1487893609972">
+        <mark key="[" line="2" column="13" />
+        <mark key="]" line="2" column="13" />
+        <mark key="^" line="2" column="13" />
+        <mark key="." line="2" column="13" />
+      </file>
+      <file name="Z:/partner-platform-api/src/modules/conference-invite/templates/invite-resend-html.hbs" timestamp="1487893538784">
+        <mark key="[" line="2" column="13" />
+        <mark key="]" line="2" column="13" />
+        <mark key="." line="2" column="13" />
+        <mark key="^" line="2" column="13" />
+      </file>
+      <file name="Z:/partner-platform-api/src/modules/conference-invite/templates/invite-cancel-on-behalf-text.hbs" timestamp="1487893599984">
+        <mark key="[" line="2" column="13" />
+        <mark key="]" line="2" column="13" />
+        <mark key="^" line="2" column="13" />
+        <mark key="." line="2" column="13" />
+      </file>
+      <file name="Z:/partner-platform-api/src/modules/conference-invite/templates/invite-send-html.hbs" timestamp="1487893623154">
+        <mark key="[" line="2" column="13" />
+        <mark key="]" line="2" column="13" />
+        <mark key="^" line="2" column="13" />
+        <mark key="." line="2" column="13" />
+      </file>
+      <file name="Z:/partner-platform-api/src/errors.js" timestamp="1487894196444">
+        <mark key="'" line="124" column="0" />
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="16" />
+        <mark key="^" line="72" column="16" />
+        <mark key="." line="72" column="16" />
+      </file>
       <file name="Z:/partner-platform/partner-platform-api/src/modules/conference-invite/services/workflow.service.js" timestamp="1487888720178">
         <mark key="'" line="306" column="2" />
         <mark key="[" line="27" column="58" />
         <mark key="]" line="27" column="67" />
         <mark key="^" line="27" column="67" />
         <mark key="." line="27" column="67" />
+      </file>
+      <file name="Z:/partner-platform-api/src/modules/conference-invite/templates/invite-cancel-html.hbs" timestamp="1487893587233">
+        <mark key="[" line="2" column="13" />
+        <mark key="]" line="2" column="13" />
+        <mark key="^" line="2" column="13" />
+        <mark key="." line="2" column="13" />
+      </file>
+      <file name="Z:/partner-platform-api/src/models/partner.model.js" timestamp="1487893880232">
+        <mark key="'" line="8" column="32" />
+        <mark key="[" line="27" column="41" />
+        <mark key="]" line="27" column="41" />
+        <mark key="." line="27" column="41" />
+        <mark key="^" line="27" column="41" />
       </file>
       <file name="Z:/partner-platform/partner-platform-api/src/modules/conference-invite/handlers/workflow.handler.js" timestamp="1487888042200">
         <mark key="'" line="52" column="25" />
@@ -17,11 +73,85 @@
         <mark key="^" line="123" column="1" />
         <mark key="." line="123" column="1" />
       </file>
+      <file name="Z:/partner-platform-api/src/modules/conference-invite/templates/invite-send-text.hbs" timestamp="1487893629552">
+        <mark key="[" line="2" column="13" />
+        <mark key="]" line="2" column="13" />
+        <mark key="^" line="2" column="13" />
+        <mark key="." line="2" column="13" />
+      </file>
+      <file name="Z:/partner-platform-api/src/modules/core/base-handler.js" timestamp="1487894122967">
+        <mark key="[" line="132" column="0" />
+        <mark key="]" line="143" column="2" />
+        <mark key="." line="132" column="24" />
+      </file>
+      <file name="Z:/partner-platform-api/src/modules/conference-invite/templates/invite-accept-on-behalf-html.hbs" timestamp="1487893561687">
+        <mark key="[" line="2" column="13" />
+        <mark key="]" line="2" column="13" />
+        <mark key="^" line="2" column="13" />
+        <mark key="." line="2" column="13" />
+      </file>
+      <file name="Z:/partner-platform-api/src/modules/conference-invite/handlers/conference-invite-crud.handler.js" timestamp="1487894258814">
+        <mark key="'" line="24" column="20" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="^" line="26" column="20" />
+        <mark key="." line="28" column="0" />
+      </file>
+      <file name="Z:/partner-platform-api/db/seeders/20170124190834-create-partners.js" timestamp="1487893370888">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="36" />
+        <mark key="^" line="14" column="35" />
+        <mark key="." line="40" column="0" />
+      </file>
+      <file name="Z:/partner-platform-api/src/modules/conference-invite/templates/invite-accept-html.hbs" timestamp="1487893553698">
+        <mark key="[" line="2" column="13" />
+        <mark key="]" line="2" column="13" />
+        <mark key="^" line="2" column="13" />
+        <mark key="." line="2" column="13" />
+      </file>
+      <file name="Z:/partner-platform-api/src/modules/conference-invite/services/workflow.service.js" timestamp="1487893254599">
+        <mark key="'" line="311" column="18" />
+        <mark key="[" line="127" column="0" />
+        <mark key="]" line="127" column="75" />
+        <mark key="^" line="14" column="36" />
+        <mark key="." line="127" column="0" />
+      </file>
+      <file name="Z:/partner-platform-api/src/modules/conference-invite/templates/invite-accept-text.hbs" timestamp="1487893580463">
+        <mark key="[" line="2" column="13" />
+        <mark key="]" line="2" column="13" />
+        <mark key="^" line="2" column="13" />
+        <mark key="." line="2" column="13" />
+      </file>
       <file name="Z:/partner-platform/partner-platform-api/src/modules/conference-invite/templates/invite-resend-html.hbs" timestamp="1487888355278">
         <mark key="[" line="1" column="67" />
         <mark key="]" line="2" column="12" />
         <mark key="^" line="2" column="12" />
         <mark key="." line="2" column="12" />
+      </file>
+      <file name="Z:/partner-platform-api/src/modules/conference-invite/templates/invite-resend-text.hbs" timestamp="1487893616875">
+        <mark key="[" line="2" column="13" />
+        <mark key="]" line="2" column="13" />
+        <mark key="^" line="2" column="13" />
+        <mark key="." line="2" column="13" />
+      </file>
+      <file name="Z:/partner-platform-api/src/modules/partner/handlers/partner-crud.handler.js" timestamp="1487893995984">
+        <mark key="[" line="67" column="41" />
+        <mark key="]" line="67" column="40" />
+        <mark key="^" line="67" column="40" />
+        <mark key="." line="67" column="40" />
+      </file>
+      <file name="Z:/partner-platform-api/db/migrations/20170113204459-create-partners.js" timestamp="1487892911820">
+        <mark key="'" line="35" column="58" />
+        <mark key="[" line="35" column="21" />
+        <mark key="]" line="35" column="21" />
+        <mark key="." line="35" column="21" />
+        <mark key="^" line="32" column="30" />
+      </file>
+      <file name="Z:/partner-platform-api/src/modules/partner/jsonapi/partner.jsonapi.js" timestamp="1487893831146">
+        <mark key="[" line="44" column="19" />
+        <mark key="]" line="44" column="19" />
+        <mark key="^" line="44" column="19" />
+        <mark key="." line="44" column="19" />
       </file>
     </filemarks>
     <jumps>
@@ -41,29 +171,66 @@
       <jump line="52" column="25" filename="Z:/partner-platform/partner-platform-api/src/modules/conference-invite/handlers/workflow.handler.js" />
       <jump line="27" column="57" filename="Z:/partner-platform/partner-platform-api/src/modules/conference-invite/services/workflow.service.js" />
       <jump line="306" column="2" filename="Z:/partner-platform/partner-platform-api/src/modules/conference-invite/services/workflow.service.js" />
+      <jump line="35" column="58" filename="Z:/partner-platform-api/db/migrations/20170113204459-create-partners.js" />
+      <jump line="8" column="32" filename="Z:/partner-platform-api/src/models/partner.model.js" />
+      <jump line="24" column="51" filename="Z:/partner-platform-api/src/modules/conference-invite/services/workflow.service.js" />
+      <jump line="32" column="15" filename="Z:/partner-platform-api/src/modules/conference-invite/services/workflow.service.js" />
+      <jump line="30" column="0" filename="Z:/partner-platform-api/src/modules/conference-invite/services/workflow.service.js" />
+      <jump line="327" column="18" filename="Z:/partner-platform-api/src/modules/conference-invite/services/workflow.service.js" />
+      <jump line="31" column="34" filename="Z:/partner-platform-api/src/modules/conference-invite/handlers/conference-invite-crud.handler.js" />
+      <jump line="24" column="20" filename="Z:/partner-platform-api/src/modules/conference-invite/handlers/conference-invite-crud.handler.js" />
+      <jump line="73" column="0" filename="Z:/partner-platform-api/src/errors.js" />
+      <jump line="115" column="0" filename="Z:/partner-platform-api/src/errors.js" />
     </jumps>
     <registers>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhLnNpZ25hdHVyZSA9IG9wdGlvbnMuc2lnbmF0dXJlOwo=</text>
-      </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhLnNpZ25hdHVyZSA9IG9wdGlvbnMuc2lnbmF0dXJlOwo=</text>
+        <text encoding="base64">ICAgICAgLnRoZW4oaW52aXRlID0+IHRoaXMuX2NoZWNrTm90Rm91bmQoaW52aXRlKSkK</text>
+      </register>
+      <register name="-" type="4">
+        <text>data</text>
+      </register>
+      <register name="/" type="4">
+        <text>Permission</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ZXhwb3J0IGZ1bmN0aW9uIE5vdEZvdW5kRXJyb3IobWVzc2FnZU9yRGF0YSkgewogIHRoaXMubmFtZSA9ICdOT1QgRk9VTkQnOwogIHRoaXMubWVzc2FnZSA9IChtZXNzYWdlT3JEYXRhICYmIG1lc3NhZ2VPckRhdGEubWVzc2FnZSkgfHwgbWVzc2FnZU9yRGF0YSB8fCAgJyc7CiAgdGhpcy5zdGFjayA9IG1lc3NhZ2VPckRhdGEgJiYgbWVzc2FnZU9yRGF0YS5zdGFjayB8fCBuZXcgRXJyb3IoKS5zdGFjazsKICAhaXNSdW5uaW5nSW5UZXN0ICYmIGxvZ2dlci5sb2coJ2Vycm9yJywgbXNnKHRoaXMpKTsKICB0aGlzLmJvb20gPSAoKSA9PiBCb29tLm5vdEZvdW5kKG1zZyh0aGlzKSk7Cn0KTm90Rm91bmRFcnJvci5wcm90b3R5cGUgPSBFcnJvci5wcm90b3R5cGU7Cg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgLnRoZW4oaW52aXRlID0+IHRoaXMuX2NoZWNrTm90Rm91bmQoaW52aXRlKSkK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBlbHNlIGlmIChBcnJheS5pc0FycmF5KGRhdGEpKSB7CiAgICAgICAgICAvLyBUaGlzIGlzIGZvciBTZXF1ZWxpemUgdXBkYXRlIHdoZW4gMCByb3dzIGFyZSBtb2RpZmllZC4KICAgICAgICAgIGlmIChkYXRhWzBdID09PSAwKSB7CiAgICAgICAgICAgIHRocm93IG5ldyBOb3RGb3VuZEVycm9yCiAgICAgICAgICB9CiAgICAgICAgfQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBfY2hlY2tOb3RGb3VuZChkYXRhKSB7Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgLnRoZW4oZGF0YSA9PiB7CiAgICAgICAgZGF0YS5pbnZpdGUgPSBpbnZpdGU7CiAgICAgICAgZGF0YS5tZXNzYWdlID0gb3B0aW9ucy5tZXNzYWdlOwogICAgICAgIGRhdGEuc2lnbmF0dXJlID0gb3B0aW9ucy5zaWduYXR1cmU7CiAgICAgICAgcmV0dXJuIGRhdGE7CiAgICAgIH0pCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="-" type="4">
-        <text>@</text>
-      </register>
-      <register name="/" type="4">
-        <text>getTemplate</text>
-      </register>
     </registers>
     <search>
-      <last-search>getTemplate</last-search>
+      <last-search>Permission</last-search>
       <last-offset />
-      <last-pattern>getTemplate</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>Permission</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -76,8 +243,20 @@
         <entry>workflow.service</entry>
         <entry encoding="base64">XDxfZ2V0T3B0aW9uc0Zyb21QYXlsb2FkXD4=</entry>
         <entry>getTemplate</entry>
+        <entry>allo</entry>
+        <entry>type</entry>
+        <entry>dis</entry>
+        <entry>data.signauter</entry>
+        <entry>data</entry>
+        <entry>invite</entry>
+        <entry>data.signature</entry>
+        <entry>get</entry>
+        <entry>NotFound</entry>
+        <entry>Permission</entry>
       </history-search>
       <history-cmd>
+        <entry>9</entry>
+        <entry>bd</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -95,6 +274,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
