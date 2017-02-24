@@ -3,6 +3,70 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="Z:/partner-platform-api/src/modules/conference-invite/templates/invite-resend-html.hbs" timestamp="1487893538784">
+        <mark key="[" line="2" column="13" />
+        <mark key="]" line="2" column="13" />
+        <mark key="." line="2" column="13" />
+        <mark key="^" line="2" column="13" />
+      </file>
+      <file name="Z:/partner-platform-api/src/errors.js" timestamp="1487894196444">
+        <mark key="'" line="124" column="0" />
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="16" />
+        <mark key="^" line="72" column="16" />
+        <mark key="." line="72" column="16" />
+      </file>
+      <file name="Z:/partner-platform/partner-platform-api/src/modules/conference-invite/services/workflow.service.js" timestamp="1487888720178">
+        <mark key="'" line="306" column="2" />
+        <mark key="[" line="27" column="58" />
+        <mark key="]" line="27" column="67" />
+        <mark key="^" line="27" column="67" />
+        <mark key="." line="27" column="67" />
+      </file>
+      <file name="/a.dummy" timestamp="1487896037277">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="Z:/partner-platform-api/src/models/partner.model.js" timestamp="1487893880232">
+        <mark key="'" line="8" column="32" />
+        <mark key="[" line="27" column="41" />
+        <mark key="]" line="27" column="41" />
+        <mark key="." line="27" column="41" />
+        <mark key="^" line="27" column="41" />
+      </file>
+      <file name="Z:/partner-platform-api/src/modules/core/base-handler.js" timestamp="1487894122967">
+        <mark key="[" line="132" column="0" />
+        <mark key="]" line="143" column="2" />
+        <mark key="." line="132" column="24" />
+      </file>
+      <file name="Z:/partner-platform-api/src/modules/conference-invite/jsonapi/conference-invite.jsonapi.js" timestamp="1487895988062">
+        <mark key="'" line="41" column="0" />
+        <mark key="[" line="73" column="8" />
+        <mark key="]" line="73" column="6" />
+        <mark key="." line="73" column="6" />
+        <mark key="^" line="73" column="6" />
+      </file>
+      <file name="Z:/partner-platform-api/src/modules/conference-invite/services/workflow.service.js" timestamp="1487896030507">
+        <mark key="'" line="27" column="0" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+      </file>
+      <file name="Z:/partner-platform-api/src/modules/conference-invite/handlers/workflow.handler.js" timestamp="1487896025869">
+        <mark key="'" line="16" column="10" />
+        <mark key="[" line="142" column="60" />
+        <mark key="]" line="142" column="60" />
+        <mark key="^" line="142" column="67" />
+        <mark key="." line="142" column="60" />
+      </file>
+      <file name="Z:/partner-platform-api/src/modules/partner/handlers/partner-crud.handler.js" timestamp="1487893995984">
+        <mark key="[" line="67" column="41" />
+        <mark key="]" line="67" column="40" />
+        <mark key="^" line="67" column="40" />
+        <mark key="." line="67" column="40" />
+      </file>
+      <file name="/dummy.sql" timestamp="1487896495296">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="Z:/partner-platform-api/src/modules/conference-invite/templates/invite-accept-on-behalf-text.hbs" timestamp="1487893572770">
         <mark key="[" line="2" column="13" />
         <mark key="]" line="2" column="13" />
@@ -21,11 +85,15 @@
         <mark key="^" line="2" column="13" />
         <mark key="." line="2" column="13" />
       </file>
-      <file name="Z:/partner-platform-api/src/modules/conference-invite/templates/invite-resend-html.hbs" timestamp="1487893538784">
-        <mark key="[" line="2" column="13" />
-        <mark key="]" line="2" column="13" />
-        <mark key="." line="2" column="13" />
-        <mark key="^" line="2" column="13" />
+      <file name="Z:/partner-platform-api/src/modules/conference-invite/templates/index.js" timestamp="1487894879072">
+        <mark key="'" line="5" column="50" />
+        <mark key="[" line="5" column="47" />
+        <mark key="]" line="5" column="47" />
+        <mark key="^" line="5" column="50" />
+        <mark key="." line="5" column="47" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1487896265234">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="Z:/partner-platform-api/src/modules/conference-invite/templates/invite-cancel-on-behalf-text.hbs" timestamp="1487893599984">
         <mark key="[" line="2" column="13" />
@@ -39,32 +107,17 @@
         <mark key="^" line="2" column="13" />
         <mark key="." line="2" column="13" />
       </file>
-      <file name="Z:/partner-platform-api/src/errors.js" timestamp="1487894196444">
-        <mark key="'" line="124" column="0" />
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="72" column="16" />
-        <mark key="^" line="72" column="16" />
-        <mark key="." line="72" column="16" />
-      </file>
-      <file name="Z:/partner-platform/partner-platform-api/src/modules/conference-invite/services/workflow.service.js" timestamp="1487888720178">
-        <mark key="'" line="306" column="2" />
-        <mark key="[" line="27" column="58" />
-        <mark key="]" line="27" column="67" />
-        <mark key="^" line="27" column="67" />
-        <mark key="." line="27" column="67" />
+      <file name="Z:/partner-platform-api/src/modules/conference-invite/templates/invite-auto-accept-text.hbs" timestamp="1487894815806">
+        <mark key="[" line="1" column="4" />
+        <mark key="]" line="1" column="32" />
+        <mark key="." line="1" column="32" />
+        <mark key="^" line="1" column="32" />
       </file>
       <file name="Z:/partner-platform-api/src/modules/conference-invite/templates/invite-cancel-html.hbs" timestamp="1487893587233">
         <mark key="[" line="2" column="13" />
         <mark key="]" line="2" column="13" />
         <mark key="^" line="2" column="13" />
         <mark key="." line="2" column="13" />
-      </file>
-      <file name="Z:/partner-platform-api/src/models/partner.model.js" timestamp="1487893880232">
-        <mark key="'" line="8" column="32" />
-        <mark key="[" line="27" column="41" />
-        <mark key="]" line="27" column="41" />
-        <mark key="." line="27" column="41" />
-        <mark key="^" line="27" column="41" />
       </file>
       <file name="Z:/partner-platform/partner-platform-api/src/modules/conference-invite/handlers/workflow.handler.js" timestamp="1487888042200">
         <mark key="'" line="52" column="25" />
@@ -79,10 +132,8 @@
         <mark key="^" line="2" column="13" />
         <mark key="." line="2" column="13" />
       </file>
-      <file name="Z:/partner-platform-api/src/modules/core/base-handler.js" timestamp="1487894122967">
-        <mark key="[" line="132" column="0" />
-        <mark key="]" line="143" column="2" />
-        <mark key="." line="132" column="24" />
+      <file name="/a.regexp" timestamp="1487896134214">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="Z:/partner-platform-api/src/modules/conference-invite/templates/invite-accept-on-behalf-html.hbs" timestamp="1487893561687">
         <mark key="[" line="2" column="13" />
@@ -90,18 +141,18 @@
         <mark key="^" line="2" column="13" />
         <mark key="." line="2" column="13" />
       </file>
-      <file name="Z:/partner-platform-api/src/modules/conference-invite/handlers/conference-invite-crud.handler.js" timestamp="1487894258814">
-        <mark key="'" line="24" column="20" />
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="^" line="26" column="20" />
-        <mark key="." line="28" column="0" />
+      <file name="Z:/partner-platform-api/src/modules/conference-invite/handlers/conference-invite-crud.handler.js" timestamp="1487896023770">
+        <mark key="'" line="202" column="0" />
+        <mark key="[" line="55" column="11" />
+        <mark key="]" line="56" column="9" />
+        <mark key="." line="56" column="9" />
+        <mark key="^" line="56" column="9" />
       </file>
-      <file name="Z:/partner-platform-api/db/seeders/20170124190834-create-partners.js" timestamp="1487893370888">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="36" />
-        <mark key="^" line="14" column="35" />
-        <mark key="." line="40" column="0" />
+      <file name="Z:/partner-platform-api/src/modules/conference-invite/templates/invite-auto-accept-html.hbs" timestamp="1487894802597">
+        <mark key="[" line="1" column="4" />
+        <mark key="]" line="1" column="32" />
+        <mark key="." line="1" column="32" />
+        <mark key="^" line="1" column="32" />
       </file>
       <file name="Z:/partner-platform-api/src/modules/conference-invite/templates/invite-accept-html.hbs" timestamp="1487893553698">
         <mark key="[" line="2" column="13" />
@@ -109,18 +160,21 @@
         <mark key="^" line="2" column="13" />
         <mark key="." line="2" column="13" />
       </file>
-      <file name="Z:/partner-platform-api/src/modules/conference-invite/services/workflow.service.js" timestamp="1487893254599">
-        <mark key="'" line="311" column="18" />
-        <mark key="[" line="127" column="0" />
-        <mark key="]" line="127" column="75" />
-        <mark key="^" line="14" column="36" />
-        <mark key="." line="127" column="0" />
+      <file name="Z:/partner-platform-api/db/migrations/20170113204452-create-conference-invites.js" timestamp="1487896454232">
+        <mark key="'" line="38" column="5" />
+        <mark key="[" line="38" column="13" />
+        <mark key="]" line="38" column="13" />
+        <mark key="^" line="26" column="5" />
+        <mark key="." line="38" column="13" />
       </file>
       <file name="Z:/partner-platform-api/src/modules/conference-invite/templates/invite-accept-text.hbs" timestamp="1487893580463">
         <mark key="[" line="2" column="13" />
         <mark key="]" line="2" column="13" />
         <mark key="^" line="2" column="13" />
         <mark key="." line="2" column="13" />
+      </file>
+      <file name="/a.txt" timestamp="1487896139328">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="Z:/partner-platform/partner-platform-api/src/modules/conference-invite/templates/invite-resend-html.hbs" timestamp="1487888355278">
         <mark key="[" line="1" column="67" />
@@ -133,12 +187,6 @@
         <mark key="]" line="2" column="13" />
         <mark key="^" line="2" column="13" />
         <mark key="." line="2" column="13" />
-      </file>
-      <file name="Z:/partner-platform-api/src/modules/partner/handlers/partner-crud.handler.js" timestamp="1487893995984">
-        <mark key="[" line="67" column="41" />
-        <mark key="]" line="67" column="40" />
-        <mark key="^" line="67" column="40" />
-        <mark key="." line="67" column="40" />
       </file>
       <file name="Z:/partner-platform-api/db/migrations/20170113204459-create-partners.js" timestamp="1487892911820">
         <mark key="'" line="35" column="58" />
@@ -173,7 +221,6 @@
       <jump line="306" column="2" filename="Z:/partner-platform/partner-platform-api/src/modules/conference-invite/services/workflow.service.js" />
       <jump line="35" column="58" filename="Z:/partner-platform-api/db/migrations/20170113204459-create-partners.js" />
       <jump line="8" column="32" filename="Z:/partner-platform-api/src/models/partner.model.js" />
-      <jump line="24" column="51" filename="Z:/partner-platform-api/src/modules/conference-invite/services/workflow.service.js" />
       <jump line="32" column="15" filename="Z:/partner-platform-api/src/modules/conference-invite/services/workflow.service.js" />
       <jump line="30" column="0" filename="Z:/partner-platform-api/src/modules/conference-invite/services/workflow.service.js" />
       <jump line="327" column="18" filename="Z:/partner-platform-api/src/modules/conference-invite/services/workflow.service.js" />
@@ -181,78 +228,124 @@
       <jump line="24" column="20" filename="Z:/partner-platform-api/src/modules/conference-invite/handlers/conference-invite-crud.handler.js" />
       <jump line="73" column="0" filename="Z:/partner-platform-api/src/errors.js" />
       <jump line="115" column="0" filename="Z:/partner-platform-api/src/errors.js" />
+      <jump line="31" column="0" filename="Z:/partner-platform-api/src/modules/conference-invite/services/workflow.service.js" />
+      <jump line="46" column="22" filename="Z:/partner-platform-api/src/modules/conference-invite/handlers/conference-invite-crud.handler.js" />
+      <jump line="51" column="52" filename="Z:/partner-platform-api/src/modules/conference-invite/handlers/conference-invite-crud.handler.js" />
+      <jump line="45" column="6" filename="Z:/partner-platform-api/src/modules/conference-invite/handlers/conference-invite-crud.handler.js" />
+      <jump line="205" column="36" filename="Z:/partner-platform-api/src/modules/conference-invite/services/workflow.service.js" />
+      <jump line="5" column="50" filename="Z:/partner-platform-api/src/modules/conference-invite/templates/index.js" />
+      <jump line="18" column="3" filename="Z:/partner-platform-api/src/modules/conference-invite/services/workflow.service.js" />
+      <jump line="39" column="24" filename="Z:/partner-platform-api/src/modules/conference-invite/services/workflow.service.js" />
+      <jump line="99" column="0" filename="Z:/partner-platform-api/src/modules/conference-invite/services/workflow.service.js" />
+      <jump line="21" column="18" filename="Z:/partner-platform-api/src/modules/conference-invite/handlers/workflow.handler.js" />
+      <jump line="150" column="8" filename="Z:/partner-platform-api/src/modules/conference-invite/handlers/workflow.handler.js" />
+      <jump line="41" column="46" filename="Z:/partner-platform-api/src/modules/conference-invite/services/workflow.service.js" />
+      <jump line="142" column="60" filename="Z:/partner-platform-api/src/modules/conference-invite/handlers/workflow.handler.js" />
+      <jump line="0" column="0" filename="Z:/partner-platform-api/src/modules/conference-invite/handlers/workflow.handler.js" />
+      <jump line="228" column="26" filename="Z:/partner-platform-api/src/modules/conference-invite/services/workflow.service.js" />
+      <jump line="24" column="78" filename="Z:/partner-platform-api/src/modules/conference-invite/services/workflow.service.js" />
+      <jump line="22" column="14" filename="Z:/partner-platform-api/src/modules/conference-invite/services/workflow.service.js" />
+      <jump line="23" column="39" filename="Z:/partner-platform-api/src/modules/conference-invite/services/workflow.service.js" />
+      <jump line="75" column="2" filename="Z:/partner-platform-api/src/modules/conference-invite/services/workflow.service.js" />
+      <jump line="48" column="10" filename="Z:/partner-platform-api/src/modules/conference-invite/handlers/conference-invite-crud.handler.js" />
+      <jump line="41" column="0" filename="Z:/partner-platform-api/src/modules/conference-invite/jsonapi/conference-invite.jsonapi.js" />
+      <jump line="56" column="9" filename="Z:/partner-platform-api/src/modules/conference-invite/handlers/conference-invite-crud.handler.js" />
+      <jump line="202" column="0" filename="Z:/partner-platform-api/src/modules/conference-invite/handlers/conference-invite-crud.handler.js" />
+      <jump line="16" column="10" filename="Z:/partner-platform-api/src/modules/conference-invite/handlers/workflow.handler.js" />
+      <jump line="26" column="0" filename="Z:/partner-platform-api/src/modules/conference-invite/services/workflow.service.js" />
+      <jump line="38" column="5" filename="Z:/partner-platform-api/db/migrations/20170113204452-create-conference-invites.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLnRoZW4oaW52aXRlID0+IHRoaXMuX2NoZWNrTm90Rm91bmQoaW52aXRlKSkK</text>
+      <register name="&quot;" type="4">
+        <text>: { type: Sequelize.TEXT }</text>
       </register>
       <register name="-" type="4">
-        <text>data</text>
+        <text>: { type: Sequelize.TEXT }</text>
       </register>
       <register name="/" type="4">
-        <text>Permission</text>
+        <text>,</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZXhwb3J0IGZ1bmN0aW9uIE5vdEZvdW5kRXJyb3IobWVzc2FnZU9yRGF0YSkgewogIHRoaXMubmFtZSA9ICdOT1QgRk9VTkQnOwogIHRoaXMubWVzc2FnZSA9IChtZXNzYWdlT3JEYXRhICYmIG1lc3NhZ2VPckRhdGEubWVzc2FnZSkgfHwgbWVzc2FnZU9yRGF0YSB8fCAgJyc7CiAgdGhpcy5zdGFjayA9IG1lc3NhZ2VPckRhdGEgJiYgbWVzc2FnZU9yRGF0YS5zdGFjayB8fCBuZXcgRXJyb3IoKS5zdGFjazsKICAhaXNSdW5uaW5nSW5UZXN0ICYmIGxvZ2dlci5sb2coJ2Vycm9yJywgbXNnKHRoaXMpKTsKICB0aGlzLmJvb20gPSAoKSA9PiBCb29tLm5vdEZvdW5kKG1zZyh0aGlzKSk7Cn0KTm90Rm91bmRFcnJvci5wcm90b3R5cGUgPSBFcnJvci5wcm90b3R5cGU7Cg==</text>
+        <text encoding="base64">ICAgIGxldCBhY2NlcHRlZEJ5ID0gcmVxdWVzdC5hdXRoLmNyZWRlbnRpYWxzLnRva2VuLnVzZXJJZDsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLnRoZW4oaW52aXRlID0+IHRoaXMuX2NoZWNrTm90Rm91bmQoaW52aXRlKSkK</text>
+      <register name="1" type="4">
+        <text>: { type: Sequelize.TEXT }</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlIGlmIChBcnJheS5pc0FycmF5KGRhdGEpKSB7CiAgICAgICAgICAvLyBUaGlzIGlzIGZvciBTZXF1ZWxpemUgdXBkYXRlIHdoZW4gMCByb3dzIGFyZSBtb2RpZmllZC4KICAgICAgICAgIGlmIChkYXRhWzBdID09PSAwKSB7CiAgICAgICAgICAgIHRocm93IG5ldyBOb3RGb3VuZEVycm9yCiAgICAgICAgICB9CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgcGFzc0FsbG9jYXRpb246IAo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="3" type="4">
+        <text>{
+        include: false,
+        ref: 'id',
+        ignoreRelationshipData: true,
+        relationshipLinks: {
+          self(invite) {
+            if (invite.passAllocation) {
+              return `/pass-allocations/${invite.passAllocation.id}`;
+            }
+            return null;
+          },
+          related(invite) {
+            if (invite.passAllocation) {
+              return `/pass-allocations/${invite.passAllocation.id}`;
+            }
+            return null;
+          }
+        }
+      }</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAncGFzc0FsbG9jYXRpb24nLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgYWNjZXB0ZWRCeSA9IG51bGw7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBfY2hlY2tOb3RGb3VuZChkYXRhKSB7Cg==</text>
+        <text encoding="base64">ICAgIGlmIChhY2NlcHRlZEJ5KSB7CiAgICB9Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLnRoZW4oZGF0YSA9PiB7CiAgICAgICAgZGF0YS5pbnZpdGUgPSBpbnZpdGU7CiAgICAgICAgZGF0YS5tZXNzYWdlID0gb3B0aW9ucy5tZXNzYWdlOwogICAgICAgIGRhdGEuc2lnbmF0dXJlID0gb3B0aW9ucy5zaWduYXR1cmU7CiAgICAgICAgcmV0dXJuIGRhdGE7CiAgICAgIH0pCg==</text>
+        <text encoding="base64">ICAgICAgc3RhdHVzID0gQUNDRVBURUQ7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Permission</last-search>
+      <last-search>,</last-search>
       <last-offset />
-      <last-pattern>Permission</last-pattern>
+      <last-pattern>,</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>options</entry>
-        <entry>message = options.message</entry>
-        <entry>_sendEmail</entry>
-        <entry>sendMail</entry>
-        <entry encoding="base64">c2lnbmF0dXJlID0g</entry>
-        <entry>workflow.service</entry>
-        <entry encoding="base64">XDxfZ2V0T3B0aW9uc0Zyb21QYXlsb2FkXD4=</entry>
-        <entry>getTemplate</entry>
-        <entry>allo</entry>
-        <entry>type</entry>
-        <entry>dis</entry>
-        <entry>data.signauter</entry>
-        <entry>data</entry>
-        <entry>invite</entry>
-        <entry>data.signature</entry>
-        <entry>get</entry>
-        <entry>NotFound</entry>
-        <entry>Permission</entry>
+        <entry>y</entry>
+        <entry>accept</entry>
+        <entry>acceptedBy</entry>
+        <entry>handleAccept</entry>
+        <entry encoding="base64">XDxhY2NlcHRlZEJ5XD4=</entry>
+        <entry encoding="base64">ICAg</entry>
+        <entry>updateAcc</entry>
+        <entry>|| null</entry>
+        <entry>send</entry>
+        <entry>Text</entry>
+        <entry>Html</entry>
+        <entry>||</entry>
+        <entry>Accep</entry>
+        <entry>accept(</entry>
+        <entry encoding="base64">IA==</entry>
+        <entry>;</entry>
+        <entry>pass</entry>
+        <entry encoding="base64">c3RhdHVzID0g</entry>
+        <entry>:</entry>
+        <entry>,</entry>
       </history-search>
       <history-cmd>
         <entry>9</entry>
@@ -277,6 +370,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>

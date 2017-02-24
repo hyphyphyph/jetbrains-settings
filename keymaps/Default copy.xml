@@ -1,19 +1,37 @@
 <keymap version="1" name="Default copy" parent="$default">
+  <action id="$Cut">
+    <keyboard-shortcut first-keystroke="shift delete" />
+  </action>
   <action id="$Paste">
     <keyboard-shortcut first-keystroke="shift insert" />
+  </action>
+  <action id="ActivateDatabaseToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl w" second-keystroke="d" />
+  </action>
+  <action id="ActivateFindToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl w" second-keystroke="f" />
   </action>
   <action id="ActivateProjectToolWindow">
     <keyboard-shortcut first-keystroke="alt 1" />
     <keyboard-shortcut first-keystroke="ctrl back_slash" />
   </action>
+  <action id="ActivateRunToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl w" second-keystroke="r" />
+  </action>
   <action id="ActivateVersionControlToolWindow">
     <keyboard-shortcut first-keystroke="ctrl w" second-keystroke="v" />
+  </action>
+  <action id="ChooseRunConfiguration">
+    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="r" />
   </action>
   <action id="CompareTwoFiles" />
   <action id="Console.Execute.Multiline" />
   <action id="Diff.ShowDiff" />
   <action id="EditorChooseLookupItemCompleteStatement" />
   <action id="EditorCompleteStatement" />
+  <action id="EditorCut">
+    <keyboard-shortcut first-keystroke="shift delete" />
+  </action>
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="shift ctrl k" />
   </action>
@@ -33,8 +51,17 @@
     <keyboard-shortcut first-keystroke="shift ctrl enter" />
   </action>
   <action id="FileChooser.GotoDesktop" />
+  <action id="Find">
+    <keyboard-shortcut first-keystroke="ctrl f" second-keystroke="f" />
+  </action>
+  <action id="FindInPath">
+    <keyboard-shortcut first-keystroke="ctrl f" second-keystroke="ctrl f" />
+  </action>
   <action id="InsertLiveTemplate" />
   <action id="KotlinShellExecute" />
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="ctrl r" />
+  </action>
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
