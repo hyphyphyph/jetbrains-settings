@@ -301,9 +301,9 @@
         <mark key="^" line="2" column="13" />
         <mark key="." line="2" column="13" />
       </file>
-      <file name="/Dummy.txt" timestamp="1487969319092">
+      <file name="/Dummy.txt" timestamp="1487977172945">
         <mark key="[" line="0" column="0" />
-        <mark key="." line="0" column="35" />
+        <mark key="." line="0" column="26" />
       </file>
       <file name="Z:/partner-platform-api/src/modules/conference-invite/templates/invite-auto-accept-text.hbs" timestamp="1487894815806">
         <mark key="[" line="1" column="4" />
@@ -573,7 +573,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -619,6 +619,7 @@
         <entry encoding="base64">JzwsJz5zL3VzZXIvY29uZmVyZW5jZS9n</entry>
         <entry>wwwww</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
