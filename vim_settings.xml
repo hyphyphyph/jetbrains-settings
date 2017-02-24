@@ -36,7 +36,7 @@
         <mark key="^" line="27" column="67" />
         <mark key="." line="27" column="67" />
       </file>
-      <file name="/a.dummy" timestamp="1487904141489">
+      <file name="/a.dummy" timestamp="1487905185807">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="Z:/partner-platform-api/src/models/partner.model.js" timestamp="1487902277892">
@@ -51,6 +51,11 @@
         <mark key="]" line="143" column="2" />
         <mark key="." line="132" column="24" />
       </file>
+      <file name="Z:/partner-platform-api/scripts/run.sh" timestamp="1487905846243">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="Z:/partner-platform-api/src/modules/conference-invite/jsonapi/conference-invite.jsonapi.js" timestamp="1487903809218">
         <mark key="'" line="42" column="0" />
         <mark key="[" line="104" column="45" />
@@ -58,7 +63,6 @@
         <mark key="^" line="104" column="64" />
         <mark key="." line="104" column="45" />
       </file>
-      <file name="Z:/partner-platform-api/gulpfile.js" timestamp="1487904084383" />
       <file name="Z:/partner-platform-api/src/modules/conference-invite/services/workflow.service.js" timestamp="1487903874834">
         <mark key="'" line="14" column="0" />
         <mark key="[" line="319" column="0" />
@@ -72,6 +76,18 @@
         <mark key="]" line="119" column="44" />
         <mark key="^" line="119" column="44" />
         <mark key="." line="119" column="44" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/21b5e859-226b-42bb-bfbd-03d0ba7774f8/console.sql" timestamp="1487905729836">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="20" />
+        <mark key="^" line="1" column="20" />
+        <mark key="." line="1" column="20" />
+      </file>
+      <file name="Z:/partner-platform-api/src/models/index.js" timestamp="1487905253494">
+        <mark key="[" line="14" column="2" />
+        <mark key="]" line="14" column="4" />
+        <mark key="^" line="14" column="4" />
+        <mark key="." line="14" column="4" />
       </file>
       <file name="Z:/partner-platform-api/src/modules/partner/handlers/partner-crud.handler.js" timestamp="1487903985675">
         <mark key="[" line="67" column="41" />
@@ -107,7 +123,7 @@
         <mark key="^" line="17" column="17" />
         <mark key="." line="17" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1487904214584">
+      <file name="/Dummy.txt" timestamp="1487905766850">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="Z:/partner-platform-api/src/modules/conference-invite/handlers/email-templates.handler.js" timestamp="1487903683770">
@@ -193,6 +209,13 @@
         <mark key="^" line="53" column="43" />
         <mark key="." line="53" column="43" />
       </file>
+      <file name="Z:/partner-platform-api/src/models/pass-option.model.js" timestamp="1487905468728">
+        <mark key="'" line="46" column="1" />
+        <mark key="[" line="38" column="22" />
+        <mark key="]" line="39" column="48" />
+        <mark key="." line="39" column="48" />
+        <mark key="^" line="39" column="48" />
+      </file>
       <file name="Z:/partner-platform-api/src/modules/conference-invite/templates/invite-accept-text.hbs" timestamp="1487893580463">
         <mark key="[" line="2" column="13" />
         <mark key="]" line="2" column="13" />
@@ -208,6 +231,14 @@
         <mark key="]" line="56" column="6" />
         <mark key="." line="56" column="6" />
         <mark key="^" line="56" column="6" />
+      </file>
+      <file name="Z:/partner-platform-api/src/models/quota.model.js" timestamp="1487905346447">
+        <mark key="'" line="28" column="8" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="33" column="13" />
+        <mark key="." line="0" column="0" />
+        <mark key="o" line="28" column="8" />
       </file>
       <file name="Z:/partner-platform/partner-platform-api/src/modules/conference-invite/templates/invite-resend-html.hbs" timestamp="1487888355278">
         <mark key="[" line="1" column="67" />
@@ -234,9 +265,13 @@
         <mark key="^" line="44" column="19" />
         <mark key="." line="44" column="19" />
       </file>
+      <file name="Z:/partner-platform-api/src/models/pass.model.js" timestamp="1487905400897">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="198" column="0" filename="Z:/partner-platform/partner-platform-api/src/modules/conference-invite/handlers/workflow.handler.js" />
       <jump line="196" column="11" filename="Z:/partner-platform/partner-platform-api/src/modules/conference-invite/handlers/workflow.handler.js" />
       <jump line="49" column="0" filename="Z:/partner-platform/partner-platform-api/src/modules/conference-invite/handlers/workflow.handler.js" />
       <jump line="56" column="8" filename="Z:/partner-platform/partner-platform-api/src/modules/conference-invite/services/workflow.service.js" />
@@ -329,28 +364,36 @@
       <jump line="135" column="49" filename="Z:/partner-platform-api/src/modules/conference-invite/services/workflow.service.js" />
       <jump line="14" column="0" filename="Z:/partner-platform-api/src/modules/conference-invite/services/workflow.service.js" />
       <jump line="7" column="42" filename="Z:/partner-platform-api/src/services/mailer.service.js" />
+      <jump line="25" column="0" filename="Z:/partner-platform-api/src/models/quota.model.js" />
+      <jump line="0" column="0" filename="Z:/partner-platform-api/src/models/quota.model.js" />
+      <jump line="30" column="8" filename="Z:/partner-platform-api/src/models/quota.model.js" />
+      <jump line="0" column="9" filename="Z:/partner-platform-api/src/models/pass-option.model.js" />
+      <jump line="1" column="6" filename="Z:/partner-platform-api/src/models/pass-option.model.js" />
+      <jump line="40" column="9" filename="Z:/partner-platform-api/src/models/pass-option.model.js" />
+      <jump line="27" column="0" filename="Z:/partner-platform-api/src/models/pass-option.model.js" />
+      <jump line="46" column="1" filename="Z:/partner-platform-api/src/models/pass-option.model.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>FromOptions</text>
+        <text />
       </register>
       <register name="/" type="4">
-        <text>nodemailer</text>
+        <text>PassOption</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIGF0dHJpYnV0ZXM6IHRoaXMuX1ZBTElEQVRFX0FUVFJJQlVURVMoKQo=</text>
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgKHNlcXVlbGl6ZSwgRGF0YVR5cGVzKSA9PiB7CiAgbGV0IFBhc3MgPSBzZXF1ZWxpemUuZGVmaW5lKAogICAgJ1Bhc3MnLAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBfaW5qZWN0VGVtcGxhdGVWYXJpYWJsZXMoZGF0YSwgb3B0aW9ucykgewogICAgZGF0YS5tZXNzYWdlID0gb3B0aW9ucy5tZXNzYWdlOwogICAgZGF0YS5zaWduYXR1cmUgPSBvcHRpb25zLnNpZ25hdHVyZSB8fCBkYXRhLnBhcnRuZXIuc2lnbmF0dXJlOwogICAgcmV0dXJuIGRhdGE7CiAgfQoK</text>
+        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgc2gK</text>
       </register>
-      <register name="3" type="4">
-        <text>, deserialized-again</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -359,25 +402,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAgICAgJ3N0YXR1cycsCiAgICAgICAgJ21lc3NhZ2UnLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAnbWVzc2FnZScsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgTm90Rm91bmRFcnJvciwgVGVtcGxhdGVFcnJvciB9IGZyb20gJ0AvZXJyb3JzJzsK</text>
+        <text encoding="base64">ICAgICAgdHlwZTogewogICAgICAgIHR5cGU6IERhdGFUeXBlcy5URVhULAogICAgICAgIGRlZmF1bHRWYWx1ZTogJ0JPT0xFQU4nCiAgICAgIH0sCgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>nodemailer</last-search>
+      <last-search>PassOption</last-search>
       <last-offset />
-      <last-pattern>nodemailer</last-pattern>
+      <last-pattern>PassOption</last-pattern>
       <last-replace>than</last-replace>
       <last-substitute>then</last-substitute>
       <last-dir>1</last-dir>
@@ -385,8 +428,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Cancel</entry>
-        <entry>c</entry>
         <entry>C</entry>
         <entry>On</entry>
         <entry>T</entry>
@@ -405,6 +446,8 @@
         <entry>F</entry>
         <entry>inject</entry>
         <entry>nodemailer</entry>
+        <entry>Pass</entry>
+        <entry>PassOption</entry>
       </history-search>
       <history-cmd>
         <entry>9</entry>
