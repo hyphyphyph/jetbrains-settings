@@ -51,18 +51,19 @@
         <mark key="." line="28" column="0" />
         <mark key="^" line="29" column="7" />
       </file>
-      <file name="Z:/partner-platform-api/src/modules/conference-invite/services/workflow.service.js" timestamp="1487899225393">
-        <mark key="'" line="138" column="0" />
-        <mark key="[" line="238" column="0" />
-        <mark key="]" line="238" column="0" />
-        <mark key="." line="238" column="0" />
+      <file name="Z:/partner-platform-api/src/modules/conference-invite/services/workflow.service.js" timestamp="1487900530280">
+        <mark key="'" line="157" column="25" />
+        <mark key="[" line="352" column="33" />
+        <mark key="]" line="352" column="47" />
+        <mark key="." line="352" column="47" />
+        <mark key="^" line="352" column="47" />
       </file>
-      <file name="Z:/partner-platform-api/src/modules/conference-invite/handlers/workflow.handler.js" timestamp="1487899383321">
-        <mark key="'" line="182" column="34" />
-        <mark key="[" line="16" column="32" />
-        <mark key="]" line="16" column="31" />
-        <mark key="^" line="16" column="31" />
-        <mark key="." line="16" column="31" />
+      <file name="Z:/partner-platform-api/src/modules/conference-invite/handlers/workflow.handler.js" timestamp="1487900382706">
+        <mark key="'" line="130" column="12" />
+        <mark key="[" line="85" column="12" />
+        <mark key="]" line="85" column="20" />
+        <mark key="^" line="85" column="20" />
+        <mark key="." line="85" column="20" />
       </file>
       <file name="Z:/partner-platform-api/src/modules/partner/handlers/partner-crud.handler.js" timestamp="1487893995984">
         <mark key="[" line="67" column="41" />
@@ -91,12 +92,12 @@
         <mark key="^" line="2" column="13" />
         <mark key="." line="2" column="13" />
       </file>
-      <file name="Z:/partner-platform-api/src/modules/conference-invite/templates/index.js" timestamp="1487894879072">
+      <file name="Z:/partner-platform-api/src/modules/conference-invite/templates/index.js" timestamp="1487899852961">
         <mark key="'" line="5" column="50" />
-        <mark key="[" line="5" column="47" />
-        <mark key="]" line="5" column="47" />
-        <mark key="^" line="5" column="50" />
-        <mark key="." line="5" column="47" />
+        <mark key="[" line="17" column="19" />
+        <mark key="]" line="17" column="17" />
+        <mark key="^" line="17" column="17" />
+        <mark key="." line="17" column="17" />
       </file>
       <file name="/Dummy.txt" timestamp="1487896265234">
         <mark key="[" line="0" column="0" />
@@ -289,72 +290,78 @@
       <jump line="70" column="0" filename="Z:/partner-platform-api/src/modules/conference-invite/services/workflow.service.js" />
       <jump line="102" column="0" filename="Z:/partner-platform-api/src/modules/conference-invite/services/workflow.service.js" />
       <jump line="138" column="0" filename="Z:/partner-platform-api/src/modules/conference-invite/services/workflow.service.js" />
+      <jump line="238" column="0" filename="Z:/partner-platform-api/src/modules/conference-invite/services/workflow.service.js" />
+      <jump line="127" column="36" filename="Z:/partner-platform-api/src/modules/conference-invite/services/workflow.service.js" />
+      <jump line="65" column="7" filename="Z:/partner-platform-api/src/modules/conference-invite/handlers/workflow.handler.js" />
+      <jump line="63" column="7" filename="Z:/partner-platform-api/src/modules/conference-invite/handlers/workflow.handler.js" />
+      <jump line="171" column="12" filename="Z:/partner-platform-api/src/modules/conference-invite/handlers/workflow.handler.js" />
+      <jump line="184" column="28" filename="Z:/partner-platform-api/src/modules/conference-invite/handlers/workflow.handler.js" />
+      <jump line="42" column="12" filename="Z:/partner-platform-api/src/modules/conference-invite/handlers/workflow.handler.js" />
+      <jump line="85" column="12" filename="Z:/partner-platform-api/src/modules/conference-invite/handlers/workflow.handler.js" />
+      <jump line="130" column="12" filename="Z:/partner-platform-api/src/modules/conference-invite/handlers/workflow.handler.js" />
+      <jump line="128" column="60" filename="Z:/partner-platform-api/src/modules/conference-invite/services/workflow.service.js" />
+      <jump line="0" column="0" filename="Z:/partner-platform-api/src/modules/conference-invite/services/workflow.service.js" />
+      <jump line="157" column="25" filename="Z:/partner-platform-api/src/modules/conference-invite/services/workflow.service.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBfdXBkYXRlRW1haWwoZGF0YSwgZW1haWwpIHsKICAgIHJldHVybiBuZXcgUHJvbWlzZShyZXNvbHZlID0+IHsKICAgICAgaWYgKGVtYWlsKSB7CiAgICAgICAgZGF0YS5pbnZpdGUuZW1haWwgPSBlbWFpbDsKICAgICAgfQogICAgICByZXNvbHZlKGRhdGEpOwogICAgfSk7CiAgfQoK</text>
+      <register name="&quot;" type="4">
+        <text>/${invite.id}/decline</text>
       </register>
       <register name="-" type="4">
-        <text>: { type: DataTypes.TEXT }</text>
+        <text>/${invite.id}/decline</text>
       </register>
       <register name="/" type="4">
-        <text>updateEmail</text>
+        <text>?</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGxldCBhY2NlcHRlZEJ5ID0gcmVxdWVzdC5hdXRoLmNyZWRlbnRpYWxzLnRva2VuLnVzZXJJZDsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICBfdXBkYXRlRW1haWwoZGF0YSwgZW1haWwpIHsKICAgIHJldHVybiBuZXcgUHJvbWlzZShyZXNvbHZlID0+IHsKICAgICAgaWYgKGVtYWlsKSB7CiAgICAgICAgZGF0YS5pbnZpdGUuZW1haWwgPSBlbWFpbDsKICAgICAgfQogICAgICByZXNvbHZlKGRhdGEpOwogICAgfSk7CiAgfQoK</text>
+      <register name="1" type="4">
+        <text>/${invite.id}/decline</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLnRoZW4oZGF0YSA9PiB0aGlzLl91cGRhdGVFbWFpbChkYXRhLCB0aGlzLm9wdGlvbnMuZW1haWwpKQo=</text>
+      <register name="2" type="4">
+        <text>${invite.id}</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLnRoZW4oZGF0YSA9PiB0aGlzLl91cGRhdGVFbWFpbChkYXRhLCB0aGlzLm9wdGlvbnMuZW1haWwpKQo=</text>
+      <register name="3" type="8">
+        <text>the
+the
+the</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLnRoZW4oZGF0YSA9PiB0aGlzLl91cGRhdGVFbWFpbChkYXRhLCB0aGlzLm9wdGlvbnMuZW1haWwpKQo=</text>
+      <register name="4" type="8">
+        <text>t
+t
+t</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZW1haWw6IGF0dHJpYnV0ZXMuZW1haWwsCg==</text>
+        <text encoding="base64">ICBTZW5kVGVtcGxhdGVUZXh0Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZW1haWw6IEpvaS5zdHJpbmcoKS5lbWFpbCgpLAo=</text>
+      <register name="6" type="4">
+        <text>Cancel</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZW1haWw6IEpvaS5ib29sKCksCg==</text>
+      <register name="7" type="4">
+        <text>Cancel</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZW1haWw6IEpvaS5zdHJpbmcoKS5lbWFpbCgpLAo=</text>
+      <register name="8" type="4">
+        <text>OnBehalf</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzdHJhdGVnaWVzOiBbJ3NpbXBsZScsICdxdWVyeS10b2tlbiddCiAgICAgIH0sCg==</text>
+      <register name="9" type="4">
+        <text>OnBehalf</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>updateEmail</last-search>
+      <last-search>?</last-search>
       <last-offset />
-      <last-pattern>updateEmail</last-pattern>
+      <last-pattern>?</last-pattern>
+      <last-replace>than</last-replace>
+      <last-substitute>then</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>|| null</entry>
-        <entry>send</entry>
-        <entry>Text</entry>
-        <entry>Html</entry>
-        <entry>||</entry>
-        <entry>Accep</entry>
-        <entry>accept(</entry>
-        <entry encoding="base64">IA==</entry>
-        <entry>;</entry>
-        <entry>pass</entry>
-        <entry encoding="base64">c3RhdHVzID0g</entry>
-        <entry>AssignmentService</entry>
         <entry>UNSENT</entry>
         <entry>status</entry>
         <entry>(</entry>
@@ -363,11 +370,24 @@
         <entry>,</entry>
         <entry>email</entry>
         <entry>updateEmail</entry>
+        <entry>Cancel</entry>
+        <entry>c</entry>
+        <entry>C</entry>
+        <entry>On</entry>
+        <entry>T</entry>
+        <entry>*</entry>
+        <entry>then</entry>
+        <entry>sig</entry>
+        <entry>irksom</entry>
+        <entry>\/</entry>
+        <entry>\?</entry>
+        <entry>?</entry>
       </history-search>
       <history-cmd>
         <entry>9</entry>
         <entry>bd</entry>
         <entry>we</entry>
+        <entry encoding="base64">JzwsJz5zL3RoZW4vdGhhbi9n</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -391,6 +411,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed D</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
