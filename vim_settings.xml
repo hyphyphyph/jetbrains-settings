@@ -121,7 +121,6 @@
         <mark key="^" line="2" column="13" />
         <mark key="." line="2" column="13" />
       </file>
-      <file name="Z:/boringcode/core/server-init/lout.js" timestamp="1487911072277" />
       <file name="Z:/partner-platform/partner-platform-api/src/modules/conference-invite/handlers/workflow.handler.js" timestamp="1487888042200">
         <mark key="'" line="52" column="25" />
         <mark key="[" line="123" column="2" />
@@ -263,10 +262,11 @@
         <mark key="." line="1" column="32" />
         <mark key="^" line="1" column="32" />
       </file>
-      <file name="Z:/partner-platform-api/src/modules/conference-invite/services/conference-invite-assignment.service.js" timestamp="1487897498044">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
+      <file name="Z:/partner-platform-api/src/modules/conference-invite/services/conference-invite-assignment.service.js" timestamp="1487955003987">
+        <mark key="[" line="20" column="60" />
+        <mark key="]" line="21" column="7" />
+        <mark key="." line="21" column="7" />
+        <mark key="^" line="21" column="7" />
       </file>
       <file name="Z:/boringcode/core/models/base-model.js" timestamp="1487915577694">
         <mark key="'" line="16" column="2" />
@@ -454,7 +454,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLnRoZW4oYXV0aFRva2VuID0+IHJldHVybiBhdXRoVG9rZW47CiAgICAgIH0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>connection</text>
@@ -466,31 +466,31 @@
         <text encoding="base64">ICAgIHJldHVybiB0aGlzLmNvbm5lY3Rpb24KICAgICAgLm5vbmUodGhpcy5maWxlLnNxbC5kZWxldGVCeUlkLCB7IGlkIH0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLnRoZW4oYXV0aFRva2VuID0+IHJldHVybiBhdXRoVG9rZW47CiAgICAgIH0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5jb25uZWN0aW9uCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAocmVzdWx0cy5sZW5ndGggIT09IDEpIHsKICAgICAgICAgIHRocm93IG5ldyBBdXRoVG9rZW5FcnJvcihBdXRoVG9rZW5FcnJvci5UT09fTUFOWSk7CiAgICAgICAgfQogICAgICAgIHJldHVybiByZXN1bHRzWzBdOwo=</text>
+        <text encoding="base64">ICAgICAgLnRoZW4oYXV0aFRva2VuID0+IHJldHVybiBhdXRoVG9rZW47CiAgICAgIH0pCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QXV0aFRva2VuRXJyb3IuVE9PX01BTlkgPSAnVG9vIG1hbnkgdG9rZW5zJzsK</text>
+        <text encoding="base64">ICAgICAgdGhpcy5jb25uZWN0aW9uCg==</text>
       </register>
-      <register name="5" type="4">
-        <text>Error(ERROR_INCORRECT_NUMBER_OF_TOKENS)</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAocmVzdWx0cy5sZW5ndGggIT09IDEpIHsKICAgICAgICAgIHRocm93IG5ldyBBdXRoVG9rZW5FcnJvcihBdXRoVG9rZW5FcnJvci5UT09fTUFOWSk7CiAgICAgICAgfQogICAgICAgIHJldHVybiByZXN1bHRzWzBdOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QXV0aFRva2VuRXJyb3IuSU5DT1JSRUNUX1BBU1NXT1JEID0gJ0luY29ycmVjdCBwYXNzd29yZCc7Cg==</text>
+        <text encoding="base64">QXV0aFRva2VuRXJyb3IuVE9PX01BTlkgPSAnVG9vIG1hbnkgdG9rZW5zJzsK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICovCg==</text>
+      <register name="7" type="4">
+        <text>Error(ERROR_INCORRECT_NUMBER_OF_TOKENS)</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBoeXBoeXBoeXBoIG9uIDIvMjQvMjAxNy4K</text>
+        <text encoding="base64">QXV0aFRva2VuRXJyb3IuSU5DT1JSRUNUX1BBU1NXT1JEID0gJ0luY29ycmVjdCBwYXNzd29yZCc7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -534,6 +534,7 @@
         <entry>we</entry>
         <entry encoding="base64">JzwsJz5zL3RoZW4vdGhhbi9n</entry>
         <entry>4</entry>
+        <entry>80</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -560,6 +561,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
