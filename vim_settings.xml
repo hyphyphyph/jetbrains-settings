@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="Z:/partner-platform-api/src/modules/conference-invite/routes.js" timestamp="1487903940796">
+      <file name="Z:/partner-platform-api/src/modules/conference-invite/routes.js" timestamp="1487906666975">
         <mark key="[" line="52" column="2" />
         <mark key="]" line="52" column="1" />
         <mark key="^" line="52" column="1" />
@@ -77,11 +77,17 @@
         <mark key="^" line="119" column="44" />
         <mark key="." line="119" column="44" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/21b5e859-226b-42bb-bfbd-03d0ba7774f8/console.sql" timestamp="1487905729836">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="20" />
-        <mark key="^" line="1" column="20" />
-        <mark key="." line="1" column="20" />
+      <file name="Z:/partner-platform-api/tests/integration/modules/invite/handlers/test-conference-invite-crud.handler.js" timestamp="1487907002367">
+        <mark key="[" line="35" column="54" />
+        <mark key="]" line="35" column="52" />
+        <mark key="." line="35" column="52" />
+        <mark key="^" line="35" column="52" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/21b5e859-226b-42bb-bfbd-03d0ba7774f8/console.sql" timestamp="1487906515213">
+        <mark key="[" line="0" column="18" />
+        <mark key="]" line="0" column="26" />
+        <mark key="^" line="0" column="26" />
+        <mark key="." line="0" column="26" />
       </file>
       <file name="Z:/partner-platform-api/src/models/index.js" timestamp="1487905253494">
         <mark key="[" line="14" column="2" />
@@ -123,8 +129,9 @@
         <mark key="^" line="17" column="17" />
         <mark key="." line="17" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1487905766850">
+      <file name="/Dummy.txt" timestamp="1487907597344">
         <mark key="[" line="0" column="0" />
+        <mark key="." line="0" column="9" />
       </file>
       <file name="Z:/partner-platform-api/src/modules/conference-invite/handlers/email-templates.handler.js" timestamp="1487903683770">
         <mark key="[" line="0" column="0" />
@@ -183,12 +190,10 @@
         <mark key="^" line="2" column="13" />
         <mark key="." line="2" column="13" />
       </file>
-      <file name="Z:/partner-platform-api/src/modules/conference-invite/handlers/conference-invite-crud.handler.js" timestamp="1487903374406">
-        <mark key="'" line="170" column="7" />
-        <mark key="[" line="162" column="0" />
-        <mark key="]" line="175" column="2" />
-        <mark key="." line="102" column="46" />
-        <mark key="^" line="102" column="46" />
+      <file name="Z:/partner-platform-api/src/modules/conference-invite/handlers/conference-invite-crud.handler.js" timestamp="1487907101284">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="Z:/partner-platform-api/src/modules/conference-invite/templates/invite-auto-accept-html.hbs" timestamp="1487894802597">
         <mark key="[" line="1" column="4" />
@@ -202,12 +207,12 @@
         <mark key="^" line="2" column="13" />
         <mark key="." line="2" column="13" />
       </file>
-      <file name="Z:/partner-platform-api/db/migrations/20170113204452-create-conference-invites.js" timestamp="1487902509542">
-        <mark key="'" line="38" column="5" />
-        <mark key="[" line="53" column="43" />
-        <mark key="]" line="53" column="43" />
-        <mark key="^" line="53" column="43" />
-        <mark key="." line="53" column="43" />
+      <file name="Z:/partner-platform-api/db/migrations/20170113204452-create-conference-invites.js" timestamp="1487906793942">
+        <mark key="'" line="44" column="5" />
+        <mark key="[" line="30" column="24" />
+        <mark key="]" line="30" column="24" />
+        <mark key="^" line="30" column="24" />
+        <mark key="." line="30" column="24" />
       </file>
       <file name="Z:/partner-platform-api/src/models/pass-option.model.js" timestamp="1487905468728">
         <mark key="'" line="46" column="1" />
@@ -272,8 +277,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="196" column="11" filename="Z:/partner-platform/partner-platform-api/src/modules/conference-invite/handlers/workflow.handler.js" />
-      <jump line="49" column="0" filename="Z:/partner-platform/partner-platform-api/src/modules/conference-invite/handlers/workflow.handler.js" />
       <jump line="56" column="8" filename="Z:/partner-platform/partner-platform-api/src/modules/conference-invite/services/workflow.service.js" />
       <jump line="98" column="8" filename="Z:/partner-platform/partner-platform-api/src/modules/conference-invite/services/workflow.service.js" />
       <jump line="139" column="8" filename="Z:/partner-platform/partner-platform-api/src/modules/conference-invite/services/workflow.service.js" />
@@ -372,55 +375,57 @@
       <jump line="40" column="9" filename="Z:/partner-platform-api/src/models/pass-option.model.js" />
       <jump line="27" column="0" filename="Z:/partner-platform-api/src/models/pass-option.model.js" />
       <jump line="46" column="1" filename="Z:/partner-platform-api/src/models/pass-option.model.js" />
+      <jump line="44" column="21" filename="Z:/partner-platform-api/src/modules/conference-invite/handlers/conference-invite-crud.handler.js" />
+      <jump line="41" column="4" filename="Z:/partner-platform-api/src/modules/conference-invite/handlers/conference-invite-crud.handler.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDEyMzEyMzEyMyk7Cgo=</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>PassOption</text>
+        <text>showConferenceInvites</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgKHNlcXVlbGl6ZSwgRGF0YVR5cGVzKSA9PiB7CiAgbGV0IFBhc3MgPSBzZXF1ZWxpemUuZGVmaW5lKAogICAgJ1Bhc3MnLAo=</text>
+        <text encoding="base64">ICAgICAgICBtZXNzYWdlOiB7IHR5cGU6IFNlcXVlbGl6ZS5URVhUIH0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDEyMzEyMzEyMyk7Cgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgc2gK</text>
+        <text encoding="base64">ICAgICAgICAgIHN0YXR1czogJ1NFTlQnCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLnRoZW4oaW52aXRlcyA9PiB7CiAgICAgICAgY29uc29sZS5sb2coaW52aXRlcyk7CiAgICAgICAgcmV0dXJuIGludml0ZXM7CiAgICAgIH0pCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLmNhdGNoKGVyciA9PiB7CiAgICAgICAgcmV0dXJuIGVycjsKICAgICAgfSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhlcnIpOwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgc2gK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdHlwZTogewogICAgICAgIHR5cGU6IERhdGFUeXBlcy5URVhULAogICAgICAgIGRlZmF1bHRWYWx1ZTogJ0JPT0xFQU4nCiAgICAgIH0sCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>PassOption</last-search>
+      <last-search>showConferenceInvites</last-search>
       <last-offset />
-      <last-pattern>PassOption</last-pattern>
+      <last-pattern>showConferenceInvites</last-pattern>
       <last-replace>than</last-replace>
       <last-substitute>then</last-substitute>
       <last-dir>1</last-dir>
@@ -428,7 +433,6 @@
     </search>
     <history>
       <history-search>
-        <entry>C</entry>
         <entry>On</entry>
         <entry>T</entry>
         <entry>*</entry>
@@ -448,6 +452,7 @@
         <entry>nodemailer</entry>
         <entry>Pass</entry>
         <entry>PassOption</entry>
+        <entry>showConferenceInvites</entry>
       </history-search>
       <history-cmd>
         <entry>9</entry>
