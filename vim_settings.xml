@@ -3,12 +3,25 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="Z:/boringcode/tests/http/login/login.json" timestamp="1487961786380">
+        <mark key="[" line="2" column="12" />
+        <mark key="]" line="2" column="19" />
+        <mark key="^" line="2" column="19" />
+        <mark key="." line="2" column="19" />
+      </file>
       <file name="Z:/partner-platform-api/src/errors.js" timestamp="1487960378449">
         <mark key="'" line="133" column="0" />
         <mark key="[" line="79" column="25" />
         <mark key="]" line="74" column="45" />
         <mark key="^" line="74" column="45" />
         <mark key="." line="74" column="45" />
+      </file>
+      <file name="Z:/boringcode/tests/http/users/list-all-users.js" timestamp="1487962661602">
+        <mark key="'" line="10" column="14" />
+        <mark key="[" line="17" column="66" />
+        <mark key="]" line="17" column="66" />
+        <mark key="." line="17" column="66" />
+        <mark key="^" line="17" column="66" />
       </file>
       <file name="Z:/partner-platform/partner-platform-api/src/modules/conference-invite/services/workflow.service.js" timestamp="1487888720178">
         <mark key="'" line="306" column="2" />
@@ -130,6 +143,12 @@
       </file>
       <file name="Z:/partner-platform-api/db/migrations/20170123224318-rename-fks-in-user-role.js" timestamp="1487957142076">
         <mark key="'" line="0" column="0" />
+      </file>
+      <file name="Z:/boringcode/core/testing/base-http-test.js" timestamp="1487962474413">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+        <mark key="^" line="27" column="44" />
       </file>
       <file name="Z:/partner-platform/partner-platform-api/src/modules/conference-invite/handlers/workflow.handler.js" timestamp="1487888042200">
         <mark key="'" line="52" column="25" />
@@ -388,6 +407,13 @@
         <mark key="^" line="2" column="12" />
         <mark key="." line="2" column="12" />
       </file>
+      <file name="Z:/boringcode/tests/http/login/login.js" timestamp="1487962506241">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="2" column="47" />
+      </file>
       <file name="Z:/partner-platform-api/src/modules/conference-invite/templates/invite-resend-text.hbs" timestamp="1487893616875">
         <mark key="[" line="2" column="13" />
         <mark key="]" line="2" column="13" />
@@ -414,16 +440,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="127" column="36" filename="Z:/partner-platform-api/src/modules/conference-invite/services/workflow.service.js" />
-      <jump line="65" column="7" filename="Z:/partner-platform-api/src/modules/conference-invite/handlers/workflow.handler.js" />
-      <jump line="63" column="7" filename="Z:/partner-platform-api/src/modules/conference-invite/handlers/workflow.handler.js" />
-      <jump line="171" column="12" filename="Z:/partner-platform-api/src/modules/conference-invite/handlers/workflow.handler.js" />
-      <jump line="184" column="28" filename="Z:/partner-platform-api/src/modules/conference-invite/handlers/workflow.handler.js" />
-      <jump line="42" column="12" filename="Z:/partner-platform-api/src/modules/conference-invite/handlers/workflow.handler.js" />
-      <jump line="85" column="12" filename="Z:/partner-platform-api/src/modules/conference-invite/handlers/workflow.handler.js" />
-      <jump line="130" column="12" filename="Z:/partner-platform-api/src/modules/conference-invite/handlers/workflow.handler.js" />
-      <jump line="128" column="60" filename="Z:/partner-platform-api/src/modules/conference-invite/services/workflow.service.js" />
-      <jump line="0" column="0" filename="Z:/partner-platform-api/src/modules/conference-invite/services/workflow.service.js" />
       <jump line="157" column="25" filename="Z:/partner-platform-api/src/modules/conference-invite/services/workflow.service.js" />
       <jump line="170" column="7" filename="Z:/partner-platform-api/src/modules/conference-invite/handlers/conference-invite-crud.handler.js" />
       <jump line="168" column="0" filename="Z:/partner-platform-api/src/modules/conference-invite/handlers/workflow.handler.js" />
@@ -514,55 +530,65 @@
       <jump line="24" column="0" filename="Z:/partner-platform-api/db/seeders/20170118204942-create-passes.js" />
       <jump line="18" column="20" filename="Z:/partner-platform-api/src/modules/conference-invite/services/conference-invite-assignment.service.js" />
       <jump line="33" column="0" filename="Z:/partner-platform-api/src/modules/conference-invite/services/conference-invite-assignment.service.js" />
+      <jump line="12" column="23" filename="Z:/boringcode/tests/http/login/login.js" />
+      <jump line="15" column="0" filename="Z:/boringcode/tests/http/login/login.js" />
+      <jump line="2" column="15" filename="Z:/boringcode/tests/http/users/list-all-users.js" />
+      <jump line="5" column="35" filename="Z:/boringcode/tests/http/login/login.js" />
+      <jump line="13" column="52" filename="Z:/boringcode/tests/http/login/login.js" />
+      <jump line="20" column="1" filename="Z:/boringcode/tests/http/login/login.js" />
+      <jump line="0" column="0" filename="Z:/boringcode/tests/http/login/login.js" />
+      <jump line="1" column="1" filename="Z:/boringcode/core/testing/base-http-test.js" />
+      <jump line="0" column="0" filename="Z:/boringcode/core/testing/base-http-test.js" />
+      <jump line="11" column="14" filename="Z:/boringcode/tests/http/users/list-all-users.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Error('Problem...')</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgLnRoZW4oZW52ID0+IG5ldyBMb2dpbihlbnYpKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>Error('Problem...')</text>
+        <text>variables</text>
       </register>
       <register name="/" type="4">
-        <text>;</text>
+        <text>var</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZXhwb3J0IGZ1bmN0aW9uIFVuYXV0aG9yaXplZEVycm9yKG1lc3NhZ2VPckRhdGEpIHsKICB0aGlzLm5hbWUgPSAnVW5hdXRob3JpemVkJzsKICB0aGlzLm1lc3NhZ2UgPSAobWVzc2FnZU9yRGF0YSAmJiBtZXNzYWdlT3JEYXRhLm1lc3NhZ2UpIHx8IG1lc3NhZ2VPckRhdGEgfHwgICcnOwogIHRoaXMuc3RhY2sgPSBtZXNzYWdlT3JEYXRhICYmIG1lc3NhZ2VPckRhdGEuc3RhY2sgfHwgbmV3IEVycm9yKCkuc3RhY2s7CiAgIWlzUnVubmluZ0luVGVzdCAmJiBsb2dnZXIubG9nKCdlcnJvcicsIG1zZyh0aGlzKSk7CiAgdGhpcy5ib29tID0gKCkgPT4gQm9vbS51bmF1dGhvcml6ZWQobXNnKHRoaXMpKTsKfQpVbmF1dGhvcml6ZWRFcnJvci5wcm90b3R5cGUgPSBFcnJvci5wcm90b3R5cGU7Cg==</text>
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgY2xhc3MgTG9naW4gewogIGNvbnN0cnVjdG9yKGVudikgewogICAgdGhpcy5lbnYgPSBlbnYgfHwge307CgogICAgcmV0dXJuIHRoaXMKICAgICAgLnByZSgpCiAgICAgIC50aGVuKCgpID0+IHRoaXMudGVzdCgpKQogICAgICAudGhlbihyZXNwb25zZSA9PiB7CiAgICAgICAgY29uc3QgcG9zdFJldHVybiA9IHRoaXMucG9zdChyZXNwb25zZSk7CiAgICAgICAgaWYgKHBvc3RSZXR1cm4gJiYgdHlwZW9mIHBvc3RSZXR1cm4udGhlbiA9PT0gJ2Z1bmN0aW9uJykgewogICAgICAgICAgcmV0dXJuIHBvc3RSZXR1cm47CiAgICAgICAgfQogICAgICAgIGVsc2UgewogICAgICAgICAgcmV0dXJuIG5ldyBQcm9taXNlKHJlc29sdmUgPT4gcmVzb2x2ZSh0aGlzKSk7CiAgICAgICAgfQogICAgICB9KTsKICB9CgogIGdldCBodHRwKCkgewogICAgLy8gUmV0dXJuIG5ldyBIVFRQIENsaWVudAogIH0KCiAgcHJlKCkgewogICAgcmV0dXJuIG5ldyBQcm9taXNlKHJlc29sdmUgPT4gcmVzb2x2ZSgpKTsKICB9CgogIHRlc3QoKSB7CiAgICByZXR1cm4gdGhpcy5odHRwLlBPU1QoYCR7c2VydmVyfS9sb2dpbmAsIHsKICAgICAgcGF5bG9hZDogdGhpcy5maWxlLmpzb24ubG9naW4KICAgIH0pOwogIH0KCiAgcG9zdChyZXNwb25zZSkgewogICAgdGhpcy5lbnYudG9rZW4gPSByZXNwb25zZS5ib2R5LmF1dGhfdG9rZW47CiAgfQp9Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>Error('Problem...')</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgLnRoZW4oZW52ID0+IG5ldyBMb2dpbihlbnYpKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICB7CiAgICAgICAgICBpZDogY29uZmlnLmdldCgnc2VlZC5wYXNzZXMnKVsxXS5pZCwKICAgICAgICAgIHRpdGxlRW46IGNvbmZpZy5nZXQoJ3NlZWQucGFzc2VzJylbMV0udGl0bGVFbiwKICAgICAgICAgIHRpdGxlRnI6IGNvbmZpZy5nZXQoJ3NlZWQucGFzc2VzJylbMV0udGl0bGVGciwKCiAgICAgICAgICBjb25mZXJlbmNlSWQ6IGNvbmZpZy5nZXQoJ3NlZWQuY29uZmVyZW5jZXMnKVswXS5pZCwKCiAgICAgICAgICBjcmVhdGVkQXQ6IG5ldyBEYXRlKCksCiAgICAgICAgICB1cGRhdGVkQXQ6IG5ldyBEYXRlKCkKICAgICAgICB9LAo=</text>
+        <text encoding="base64">ICAgICkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLnRoZW4oaW52aXRlID0+IHsKICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gaW52aXRlOwo=</text>
+        <text encoding="base64">ICAgIExvZ2luKCkKICAgICAgLnRoZW4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbW9kZWxzLlBhcnRuZXIKICAgICAgICAgIC5maW5kT25lKHsgd2hlcmU6IHsgaWQ6IGludml0ZS5wYXJ0bmVySWQgfSB9KQogICAgICAgICAgLnRoZW4ocGFydG5lciA9PiB7CiAgICAgICAgICAgIGlmIChwYXJ0bmVyLmNvbmZlcmVuY2VJZCAhPT0gcGFzcy5jb25mZXJlbmNlSWQpIHsKICAgICAgICAgICAgICByZXR1cm4gbmV3IEVycm9yKCdQcm9ibGVtJyk7CiAgICAgICAgICAgIH0KICAgICAgICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgIHJldHVybiB0aGlzLnNlcmllcyhbCiAgICAgIExvZ2luKCkKICAgIF0pOwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpbnZpdGUuc2V0UGFzcyhwYXNzKTsK</text>
+        <text encoding="base64">ICBjb25zdHJ1Y3RvcihlbnYpIHsKICAgIHRoaXMuZW52ID0gZW52IHx8IHt9OwoKICAgIHJldHVybiB0aGlzCiAgICAgIC5wcmUoKQogICAgICAudGhlbigoKSA9PiB0aGlzLnRlc3QoKSkKICAgICAgLnRoZW4ocmVzcG9uc2UgPT4gewogICAgICAgIGNvbnN0IHBvc3RSZXR1cm4gPSB0aGlzLnBvc3QocmVzcG9uc2UpOwogICAgICAgIGlmIChwb3N0UmV0dXJuICYmIHR5cGVvZiBwb3N0UmV0dXJuLnRoZW4gPT09ICdmdW5jdGlvbicpIHsKICAgICAgICAgIHJldHVybiBwb3N0UmV0dXJuOwogICAgICAgIH0KICAgICAgICBlbHNlIHsKICAgICAgICAgIHJldHVybiBuZXcgUHJvbWlzZShyZXNvbHZlID0+IHJlc29sdmUodGhpcykpOwogICAgICAgIH0KICAgICAgfSk7CiAgfQoKICBnZXQgaHR0cCgpIHsKICAgIC8vIFJldHVybiBuZXcgSFRUUCBDbGllbnQKICB9CgogIHByZSgpIHsKICAgIHJldHVybiBuZXcgUHJvbWlzZShyZXNvbHZlID0+IHJlc29sdmUoKSk7CiAgfQoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpbnZpdGUuc2V0UGFzcyhwYXNzKTsK</text>
+        <text encoding="base64">ICAgIHRoaXMuZW52LnRva2VuID0gcmVzcG9uc2UuYm9keS5hdXRoX3Rva2VuOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICBtb2RlbHMuCiAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiB0aGlzLmh0dHAuUE9TVChgJHtzZXJ2ZXJ9L2xvZ2luYCwgewogICAgICBwYXlsb2FkOiB0aGlzLmZpbGUuanNvbi5sb2dpbgogICAgfSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>;</last-search>
+      <last-search>var</last-search>
       <last-offset />
-      <last-pattern>;</last-pattern>
+      <last-pattern>var</last-pattern>
       <last-replace>than</last-replace>
       <last-substitute>then</last-substitute>
       <last-dir>1</last-dir>
@@ -570,8 +596,6 @@
     </search>
     <history>
       <history-search>
-        <entry>\?</entry>
-        <entry>?</entry>
         <entry>expires</entry>
         <entry>_V</entry>
         <entry>Fr</entry>
@@ -590,6 +614,8 @@
         <entry>M</entry>
         <entry>0</entry>
         <entry>;</entry>
+        <entry>(</entry>
+        <entry>var</entry>
       </history-search>
       <history-cmd>
         <entry>9</entry>
