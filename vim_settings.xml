@@ -9,11 +9,12 @@
         <mark key="^" line="2" column="19" />
         <mark key="." line="2" column="19" />
       </file>
-      <file name="Z:/boringcode/tooling/gulp/tasks/default.js" timestamp="1488060589394">
-        <mark key="[" line="0" column="28" />
-        <mark key="]" line="0" column="28" />
-        <mark key="." line="0" column="28" />
-        <mark key="^" line="0" column="28" />
+      <file name="Z:/boringcode/tooling/gulp/tasks/default.js" timestamp="1488064065964">
+        <mark key="'" line="6" column="15" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="12" column="0" />
       </file>
       <file name="Z:/partner-platform-api/src/errors.js" timestamp="1487960378449">
         <mark key="'" line="133" column="0" />
@@ -198,12 +199,6 @@
         <mark key="." line="1" column="32" />
         <mark key="^" line="1" column="32" />
       </file>
-      <file name="Z:/partner-platform-api/src/modules/pass-option/handlers/pass-option-crud.handler.js" timestamp="1487974963666">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="24" column="2" />
-        <mark key="." line="51" column="8" />
-      </file>
       <file name="Z:/partner-platform-api/src/modules/conference-invite/templates/invite-accept-text.hbs" timestamp="1487893580463">
         <mark key="[" line="2" column="13" />
         <mark key="]" line="2" column="13" />
@@ -229,11 +224,16 @@
         <mark key="." line="16" column="15" />
         <mark key="^" line="16" column="15" />
       </file>
-      <file name="Z:/boringcode/tooling/gulp/tasks/tests.js" timestamp="1488062534487">
-        <mark key="'" line="5" column="9" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="Z:/boringcode/tooling/gulp/tasks/tests.js" timestamp="1488063873472">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="35" />
+        <mark key="." line="14" column="35" />
+        <mark key="^" line="14" column="35" />
+      </file>
+      <file name="Z:/boringcode/tooling/gulp/helpers/copy-files.js" timestamp="1488063807445">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="Z:/partner-platform-api/src/modules/conference-invite/routes.js" timestamp="1487906666975">
         <mark key="[" line="52" column="2" />
@@ -282,19 +282,18 @@
         <mark key="^" line="40" column="1" />
         <mark key="." line="40" column="1" />
       </file>
-      <file name="Z:/boringcode/tooling/gulp/tasks/core.js" timestamp="1488061352504">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="7" column="1" />
-        <mark key="." line="5" column="6" />
-        <mark key="^" line="5" column="6" />
+      <file name="Z:/boringcode/tooling/gulp/tasks/core.js" timestamp="1488063979782">
+        <mark key="[" line="14" column="76" />
+        <mark key="]" line="14" column="75" />
+        <mark key="." line="14" column="75" />
+        <mark key="^" line="14" column="75" />
       </file>
-      <file name="Z:/boringcode/config/default.yml" timestamp="1488060411595">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
-        <mark key="^" line="33" column="5" />
+      <file name="Z:/boringcode/config/default.yml" timestamp="1488063799557">
+        <mark key="'" line="42" column="0" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
+        <mark key="^" line="34" column="17" />
       </file>
       <file name="Z:/partner-platform-api/src/modules/quota/routes.js" timestamp="1487972883869">
         <mark key="'" line="12" column="16" />
@@ -431,12 +430,11 @@
         <mark key="^" line="39" column="0" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="Z:/boringcode/tooling/gulp/tasks/src.js" timestamp="1488062865383">
-        <mark key="'" line="26" column="17" />
-        <mark key="[" line="27" column="57" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
-        <mark key="^" line="28" column="0" />
+      <file name="Z:/boringcode/tooling/gulp/tasks/src.js" timestamp="1488063834959">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="35" />
+        <mark key="." line="14" column="35" />
+        <mark key="^" line="14" column="35" />
       </file>
       <file name="Z:/partner-platform-api/src/models/pass-option.model.js" timestamp="1487975343890">
         <mark key="'" line="49" column="1" />
@@ -499,27 +497,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="28" filename="Z:/partner-platform-api/db/migrations/20170113204529-create-roles.js" />
-      <jump line="0" column="0" filename="Z:/partner-platform-api/db/migrations/20170113204529-create-roles.js" />
-      <jump line="37" column="0" filename="Z:/partner-platform-api/db/migrations/20170114162050-create-user-role.js" />
-      <jump line="0" column="0" filename="Z:/partner-platform-api/db/migrations/20170114162050-create-user-role.js" />
-      <jump line="11" column="0" filename="Z:/partner-platform-api/db/migrations/20170119172755-enable-uuid-ossp.js" />
-      <jump line="0" column="0" filename="Z:/partner-platform-api/db/migrations/20170119172755-enable-uuid-ossp.js" />
-      <jump line="21" column="1" filename="Z:/partner-platform-api/db/migrations/20170119180604-set-default-uuid-values.js" />
-      <jump line="0" column="0" filename="Z:/partner-platform-api/db/migrations/20170119180604-set-default-uuid-values.js" />
-      <jump line="55" column="12" filename="Z:/partner-platform-api/db/migrations/20170123233148-create-conference-user.js" />
-      <jump line="64" column="40" filename="Z:/partner-platform-api/db/migrations/20170123233148-create-conference-user.js" />
-      <jump line="21" column="0" filename="Z:/partner-platform-api/db/migrations/20170123224318-rename-fks-in-user-role.js" />
-      <jump line="6" column="13" filename="Z:/partner-platform-api/db/migrations/20170123224318-rename-fks-in-user-role.js" />
-      <jump line="20" column="0" filename="Z:/partner-platform-api/db/migrations/20170123224318-rename-fks-in-user-role.js" />
-      <jump line="0" column="0" filename="Z:/partner-platform-api/db/migrations/20170123224318-rename-fks-in-user-role.js" />
-      <jump line="54" column="22" filename="Z:/partner-platform-api/db/migrations/20170123233148-create-conference-user.js" />
-      <jump line="0" column="0" filename="Z:/partner-platform-api/db/migrations/20170123233148-create-conference-user.js" />
-      <jump line="71" column="0" filename="Z:/partner-platform-api/db/migrations/20170123233148-create-conference-user.js" />
-      <jump line="19" column="0" filename="Z:/partner-platform-api/db/migrations/20170130170941-create-partner-conference-relationship.js" />
-      <jump line="0" column="0" filename="Z:/partner-platform-api/db/migrations/20170130170941-create-partner-conference-relationship.js" />
-      <jump line="24" column="0" filename="Z:/partner-platform-api/db/seeders/20170118204942-create-passes.js" />
-      <jump line="18" column="20" filename="Z:/partner-platform-api/src/modules/conference-invite/services/conference-invite-assignment.service.js" />
       <jump line="33" column="0" filename="Z:/partner-platform-api/src/modules/conference-invite/services/conference-invite-assignment.service.js" />
       <jump line="12" column="23" filename="Z:/boringcode/tests/http/login/login.js" />
       <jump line="15" column="0" filename="Z:/boringcode/tests/http/login/login.js" />
@@ -597,57 +574,78 @@
       <jump line="91" column="0" filename="Z:/boringcode/gulpfile.js" />
       <jump line="12" column="29" filename="Z:/boringcode/tooling/gulp/tasks/src.js" />
       <jump line="0" column="43" filename="Z:/boringcode/tooling/gulp/tasks/src.js" />
-      <jump line="20" column="18" filename="Z:/boringcode/tooling/gulp/tasks/src.js" />
-      <jump line="26" column="17" filename="Z:/boringcode/tooling/gulp/tasks/src.js" />
+      <jump line="7" column="1" filename="Z:/boringcode/tooling/gulp/tasks/core.js" />
+      <jump line="22" column="20" filename="Z:/boringcode/tooling/gulp/tasks/core.js" />
+      <jump line="27" column="0" filename="Z:/boringcode/tooling/gulp/tasks/core.js" />
+      <jump line="38" column="17" filename="Z:/boringcode/tooling/gulp/tasks/core.js" />
+      <jump line="23" column="2" filename="Z:/boringcode/tooling/gulp/tasks/src.js" />
+      <jump line="27" column="0" filename="Z:/boringcode/tooling/gulp/tasks/src.js" />
+      <jump line="37" column="0" filename="Z:/boringcode/tooling/gulp/tasks/src.js" />
+      <jump line="43" column="0" filename="Z:/boringcode/tooling/gulp/tasks/src.js" />
+      <jump line="44" column="56" filename="Z:/boringcode/tooling/gulp/tasks/src.js" />
+      <jump line="18" column="23" filename="Z:/boringcode/tooling/gulp/tasks/src.js" />
+      <jump line="20" column="0" filename="Z:/boringcode/tooling/gulp/tasks/src.js" />
+      <jump line="5" column="2" filename="Z:/boringcode/tooling/gulp/helpers/copy-files.js" />
+      <jump line="6" column="23" filename="Z:/boringcode/tooling/gulp/helpers/copy-files.js" />
+      <jump line="26" column="9" filename="Z:/boringcode/tooling/gulp/tasks/src.js" />
+      <jump line="7" column="15" filename="Z:/boringcode/tooling/gulp/tasks/tests.js" />
+      <jump line="15" column="9" filename="Z:/boringcode/tooling/gulp/tasks/tests.js" />
+      <jump line="15" column="23" filename="Z:/boringcode/tooling/gulp/tasks/src.js" />
+      <jump line="34" column="0" filename="Z:/boringcode/config/default.yml" />
+      <jump line="9" column="7" filename="Z:/boringcode/tooling/gulp/helpers/copy-files.js" />
+      <jump line="8" column="71" filename="Z:/boringcode/tooling/gulp/tasks/core.js" />
+      <jump line="13" column="60" filename="Z:/boringcode/tooling/gulp/tasks/core.js" />
+      <jump line="15" column="9" filename="Z:/boringcode/tooling/gulp/tasks/core.js" />
+      <jump line="6" column="15" filename="Z:/boringcode/tooling/gulp/tasks/default.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>sql</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Z3VscC50YXNrKAogICdjb3JlOmZpbGVzOmhiczpjb3B5JywKICBjb3B5KCdjb3JlLyoqLyouaGJzJywgYCR7Y29uZmlnLmdldCgnYnVpbGQuZGVzdCcpfS9jb3JlYCkKKTsKCmd1bHAudGFzaygKICAnY29yZTpmaWxlczpodG1sOmNvcHknLAogIGNvcHkoJ2NvcmUvKiovKi5oYnMnLCBgJHtjb25maWcuZ2V0KCdidWlsZC5kZXN0Jyl9L2NvcmVgKQopOwoKZ3VscC50YXNrKAogICdjb3JlOmZpbGVzOmpzb246Y29weScsCiAgY29weSgnY29yZS8qKi8qLmpzb24nLCBgJHtjb25maWcuZ2V0KCdidWlsZC5kZXN0Jyl9L2NvcmVgKQopOwoKZ3VscC50YXNrKAogICdjb3JlOmZpbGVzOnNxbDpjb3B5JywKICBjb3B5KCdjb3JlLyoqLyouc3FsJywgYCR7Y29uZmlnLmdldCgnYnVpbGQuZGVzdCcpfS9jb3JlYCkKKTsKCmd1bHAudGFzaygKICAnY29yZTpmaWxlczp0eHQ6Y29weScsCiAgY29weSgnY29yZS8qKi8qLmhicycsIGAke2NvbmZpZy5nZXQoJ2J1aWxkLmRlc3QnKX0vY29yZWApCik7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>sql</text>
+        <text>.STANDARD_EXTENSIONS</text>
       </register>
       <register name="/" type="4">
-        <text>copy</text>
+        <text>}</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICdzcmM6ZmlsZXM6c3FsOmNvcHknCg==</text>
+        <text encoding="base64">ICAgICd0ZXN0czpmaWxlczpzcWw6Y29weScK</text>
       </register>
-      <register name="1" type="4">
-        <text>'tests/**/*.hbs'</text>
+      <register name="1" type="2">
+        <text encoding="base64">Z3VscC50YXNrKAogICdjb3JlOmZpbGVzOmhiczpjb3B5JywKICBjb3B5KCdjb3JlLyoqLyouaGJzJywgYCR7Y29uZmlnLmdldCgnYnVpbGQuZGVzdCcpfS9jb3JlYCkKKTsKCmd1bHAudGFzaygKICAnY29yZTpmaWxlczpodG1sOmNvcHknLAogIGNvcHkoJ2NvcmUvKiovKi5oYnMnLCBgJHtjb25maWcuZ2V0KCdidWlsZC5kZXN0Jyl9L2NvcmVgKQopOwoKZ3VscC50YXNrKAogICdjb3JlOmZpbGVzOmpzb246Y29weScsCiAgY29weSgnY29yZS8qKi8qLmpzb24nLCBgJHtjb25maWcuZ2V0KCdidWlsZC5kZXN0Jyl9L2NvcmVgKQopOwoKZ3VscC50YXNrKAogICdjb3JlOmZpbGVzOnNxbDpjb3B5JywKICBjb3B5KCdjb3JlLyoqLyouc3FsJywgYCR7Y29uZmlnLmdldCgnYnVpbGQuZGVzdCcpfS9jb3JlYCkKKTsKCmd1bHAudGFzaygKICAnY29yZTpmaWxlczp0eHQ6Y29weScsCiAgY29weSgnY29yZS8qKi8qLmhicycsIGAke2NvbmZpZy5nZXQoJ2J1aWxkLmRlc3QnKX0vY29yZWApCik7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbmZpZy5nZXQoJ2J1aWxkLnRlc3QuZGVzdGluYXRpb24nKSwK</text>
+        <text encoding="base64">ICAgICdjb3JlOmZpbGVzOmhiczpjb3B5JywKICAgICdjb3JlOmZpbGVzOmh0bWw6Y29weScsCiAgICAnY29yZTpmaWxlczpqc29uOmNvcHknLAogICAgJ2NvcmU6ZmlsZXM6c3FsOmNvcHknLAogICAgJ2NvcmU6ZmlsZXM6dHh0OmNvcHknCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CmNvbnNvbGUubG9nKGNvcHkoKSk7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">fQo=</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICgpID0+IGd1bHAKICAuc3JjKCd0ZXN0cy8qKi8qLmhicycpCiAgLnBpcGUoZ3VscENvcHkoCiAgICBjb25maWcuZ2V0KCdidWlsZC50ZXN0LmRlc3RpbmF0aW9uJyksCiAgICB7CiAgICAgIHByZWZpeDogcHJlZml4CiAgICB9CiAgKSk7</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBjb25maWcuZ2V0KCdidWlsZC50ZXN0LmRlc3RpbmF0aW9uJyksCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>parts.template.taskCopyTestTemplates(</text>
+      <register name="4" type="2">
+        <text encoding="base64">ZXhwb3J0cy5TVEFOREFSRF9FWFRFTlNJT05TID0gWwogICdoYnMnLAogICdodG1sJywKICAnanNvbicsCiAgJ3NxbCcsCiAgJ3R4dCcsCiAgJ3ltbCcKXTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Y29weUZpbGVzKCdzcmMnLCAnaGJzJyk7CmNvcHlGaWxlcygnc3JjJywgJ2h0bWwnKTsKY29weUZpbGVzKCdzcmMnLCAnanNvbicpOwpjb3B5RmlsZXMoJ3NyYycsICdzcWwnKTsKY29weUZpbGVzKCdzcmMnLCAndHh0Jyk7CmNvcHlGaWxlcygnc3JjJywgJ3ltbCcpOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICdzcmM6ZmlsZXM6aGJzOmNvcHknLAogICAgJ3NyYzpmaWxlczpodG1sOmNvcHknLAogICAgJ3NyYzpmaWxlczpqc29uOmNvcHknLAogICAgJ3NyYzpmaWxlczpzcWw6Y29weScsCiAgICAnc3JjOmZpbGVzOnR4dDpjb3B5JywKICAgICdzcmM6ZmlsZXM6eW1sOmNvcHknLAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Z3VscC50YXNrKAogICd0ZXN0czp0ZW1wbGF0ZXM6Y29weScsCiAgY29weSgKICAgICd0ZXN0cy8qKi8qLmhicycsCiAgICBgJHtjb25maWcuZ2V0KCdidWlsZC5kZXN0Jyl9L3Rlc3RzYAogICkKKTsK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGNvcHlGaWxlcy50YXN0cwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>copy</last-search>
+      <last-search>}</last-search>
       <last-offset />
-      <last-pattern>copy</last-pattern>
+      <last-pattern>}</last-pattern>
       <last-replace>conference</last-replace>
       <last-substitute>user</last-substitute>
       <last-dir>1</last-dir>
@@ -655,10 +653,6 @@
     </search>
     <history>
       <history-search>
-        <entry>I</entry>
-        <entry>create</entry>
-        <entry>data</entry>
-        <entry>J</entry>
         <entry>H</entry>
         <entry>V</entry>
         <entry>conf</entry>
@@ -675,6 +669,10 @@
         <entry>)</entry>
         <entry>cop</entry>
         <entry>copy</entry>
+        <entry>hbs</entry>
+        <entry>txt</entry>
+        <entry>'</entry>
+        <entry>}</entry>
       </history-search>
       <history-cmd>
         <entry>9</entry>
