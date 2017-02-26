@@ -9,12 +9,12 @@
         <mark key="^" line="2" column="19" />
         <mark key="." line="2" column="19" />
       </file>
-      <file name="Z:/boringcode/tooling/gulp/tasks/default.js" timestamp="1488064065964">
-        <mark key="'" line="6" column="15" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="12" column="0" />
+      <file name="Z:/boringcode/tooling/gulp/tasks/default.js" timestamp="1488069018416">
+        <mark key="'" line="7" column="15" />
+        <mark key="[" line="10" column="20" />
+        <mark key="]" line="10" column="18" />
+        <mark key="." line="10" column="18" />
+        <mark key="^" line="10" column="18" />
       </file>
       <file name="Z:/partner-platform-api/src/errors.js" timestamp="1487960378449">
         <mark key="'" line="133" column="0" />
@@ -82,12 +82,12 @@
         <mark key="^" line="0" column="26" />
         <mark key="." line="0" column="26" />
       </file>
-      <file name="Z:/boringcode/tooling/gulp/reusable-tasks/babel.js" timestamp="1488064875761">
-        <mark key="'" line="9" column="11" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-        <mark key="^" line="16" column="20" />
+      <file name="Z:/boringcode/tooling/gulp/reusable-tasks/babel.js" timestamp="1488067104016">
+        <mark key="'" line="9" column="2" />
+        <mark key="[" line="5" column="27" />
+        <mark key="]" line="5" column="27" />
+        <mark key="." line="5" column="27" />
+        <mark key="^" line="5" column="46" />
       </file>
       <file name="Z:/boringcode/tooling/gulp/tasks/server.js" timestamp="1488065180244">
         <mark key="'" line="11" column="18" />
@@ -102,16 +102,28 @@
         <mark key="^" line="1" column="17" />
         <mark key="." line="1" column="17" />
       </file>
-      <file name="Z:/boringcode/gulpfile.js" timestamp="1488065066132">
-        <mark key="'" line="66" column="0" />
-        <mark key="[" line="2" column="30" />
-        <mark key="]" line="2" column="35" />
-        <mark key="^" line="2" column="35" />
-        <mark key="." line="2" column="35" />
+      <file name="Z:/boringcode/tooling/migrate/base-migration.js" timestamp="1488068735070">
+        <mark key="[" line="0" column="30" />
+        <mark key="]" line="0" column="32" />
+        <mark key="." line="0" column="32" />
+        <mark key="^" line="0" column="32" />
       </file>
-      <file name="Z:/boringcode/tooling/gulp/migrations.js" timestamp="1488061645966">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="12" column="90" />
+      <file name="Z:/boringcode/gulpfile.js" timestamp="1488068161351">
+        <mark key="'" line="27" column="0" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="4" column="39" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="Z:/boringcode/tooling/gulp/migrations.js" timestamp="1488068248099">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="23" column="4" />
+      </file>
+      <file name="Z:/boringcode/tooling/migrate/index.js" timestamp="1488068583432">
+        <mark key="[" line="4" column="30" />
+        <mark key="]" line="4" column="30" />
+        <mark key="." line="4" column="30" />
+        <mark key="^" line="4" column="31" />
       </file>
       <file name="Z:/partner-platform-api/src/modules/conference-invite/templates/invite-cancel-text.hbs" timestamp="1487893609972">
         <mark key="[" line="2" column="13" />
@@ -230,17 +242,17 @@
         <mark key="." line="29" column="23" />
         <mark key="^" line="29" column="23" />
       </file>
-      <file name="Z:/boringcode/tooling/gulp/tasks/tooling.js" timestamp="1488061671157">
-        <mark key="[" line="16" column="16" />
-        <mark key="]" line="16" column="15" />
-        <mark key="." line="16" column="15" />
-        <mark key="^" line="16" column="15" />
+      <file name="Z:/boringcode/tooling/gulp/tasks/tests.js" timestamp="1488067708249">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="13" column="35" />
       </file>
-      <file name="Z:/boringcode/tooling/gulp/tasks/tests.js" timestamp="1488063873472">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="35" />
-        <mark key="." line="14" column="35" />
-        <mark key="^" line="14" column="35" />
+      <file name="Z:/boringcode/migrations/1486778090424-create-users/index.js" timestamp="1488068551566">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="64" />
+        <mark key="." line="0" column="31" />
+        <mark key="^" line="0" column="31" />
       </file>
       <file name="Z:/boringcode/tooling/gulp/helpers/copy-files.js" timestamp="1488063807445">
         <mark key="[" line="8" column="0" />
@@ -259,12 +271,12 @@
         <mark key="." line="2" column="13" />
         <mark key="^" line="2" column="13" />
       </file>
-      <file name="Z:/boringcode/src/index.js" timestamp="1488065102035">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="12" column="22" />
-        <mark key="]" line="12" column="22" />
-        <mark key="." line="12" column="22" />
-        <mark key="^" line="12" column="22" />
+      <file name="Z:/boringcode/src/index.js" timestamp="1488067504824">
+        <mark key="'" line="0" column="7" />
+        <mark key="[" line="8" column="34" />
+        <mark key="]" line="8" column="34" />
+        <mark key="." line="8" column="34" />
+        <mark key="^" line="8" column="34" />
       </file>
       <file name="Z:/partner-platform-api/src/modules/quota/handlers/quota-crud.handler.js" timestamp="1487975259696">
         <mark key="'" line="21" column="18" />
@@ -280,12 +292,24 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="Z:/boringcode/migrations/1486778090423-create-users/index.js" timestamp="1488068556080">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="65" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="Z:/partner-platform-api/src/models/partner.model.js" timestamp="1487902277892">
         <mark key="'" line="8" column="32" />
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
         <mark key="^" line="77" column="5" />
+      </file>
+      <file name="Z:/boringcode/tooling/gulp/reusable-tasks/babel-watch.js" timestamp="1488067114752">
+        <mark key="'" line="7" column="27" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="6" column="37" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="Z:/partner-platform-api/src/modules/core/base-handler.js" timestamp="1487974948053">
         <mark key="'" line="0" column="0" />
@@ -340,6 +364,26 @@
         <mark key="." line="25" column="56" />
         <mark key="^" line="29" column="8" />
       </file>
+      <file name="Z:/boringcode/core/tooling/migrate/base-migration.js" timestamp="1488068749002">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="34" />
+        <mark key="]" line="0" column="36" />
+        <mark key="." line="0" column="36" />
+        <mark key="^" line="0" column="36" />
+      </file>
+      <file name="Z:/boringcode/core/server-plugins/cors.js" timestamp="1488066250187">
+        <mark key="'" line="46" column="33" />
+        <mark key="[" line="46" column="20" />
+        <mark key="]" line="46" column="33" />
+        <mark key="." line="46" column="33" />
+        <mark key="^" line="46" column="33" />
+      </file>
+      <file name="Z:/boringcode/src/logger.js" timestamp="1488065940528">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="1" column="21" />
+      </file>
       <file name="Z:/partner-platform-api/src/modules/partner/handlers/partner-crud.handler.js" timestamp="1487965874956">
         <mark key="[" line="60" column="0" />
         <mark key="]" line="75" column="2" />
@@ -357,10 +401,6 @@
         <mark key="]" line="2" column="13" />
         <mark key="^" line="2" column="13" />
         <mark key="." line="2" column="13" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1487977172945">
-        <mark key="[" line="0" column="0" />
-        <mark key="." line="0" column="26" />
       </file>
       <file name="Z:/boringcode/tooling/gulp/template.js" timestamp="1488062134552">
         <mark key="'" line="15" column="0" />
@@ -406,7 +446,7 @@
         <mark key="." line="22" column="21" />
         <mark key="^" line="22" column="21" />
       </file>
-      <file name="Z:/boringcode/tooling/gulp/script.js" timestamp="1488064799835">
+      <file name="Z:/boringcode/tooling/gulp/script.js" timestamp="1488066076605">
         <mark key="'" line="19" column="1" />
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="35" />
@@ -443,11 +483,11 @@
         <mark key="^" line="39" column="0" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="Z:/boringcode/tooling/gulp/tasks/src.js" timestamp="1488064940321">
-        <mark key="[" line="19" column="56" />
-        <mark key="]" line="19" column="70" />
-        <mark key="." line="19" column="70" />
-        <mark key="^" line="19" column="70" />
+      <file name="Z:/boringcode/tooling/gulp/tasks/src.js" timestamp="1488067704283">
+        <mark key="'" line="8" column="73" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="Z:/partner-platform-api/src/models/pass-option.model.js" timestamp="1487975343890">
         <mark key="'" line="49" column="1" />
@@ -455,6 +495,13 @@
         <mark key="]" line="37" column="12" />
         <mark key="." line="38" column="11" />
         <mark key="^" line="38" column="11" />
+      </file>
+      <file name="Z:/boringcode/tooling/gulp/tasks/migrations.js" timestamp="1488068964087">
+        <mark key="'" line="38" column="16" />
+        <mark key="[" line="32" column="76" />
+        <mark key="]" line="32" column="76" />
+        <mark key="." line="32" column="76" />
+        <mark key="^" line="32" column="81" />
       </file>
       <file name="Z:/boringcode/src/models/auth-token/create.sql" timestamp="1487915920063">
         <mark key="[" line="6" column="4" />
@@ -468,6 +515,12 @@
         <mark key="]" line="35" column="32" />
         <mark key="^" line="35" column="32" />
         <mark key="." line="35" column="32" />
+      </file>
+      <file name="Z:/boringcode/src/server/index.js" timestamp="1488066014490">
+        <mark key="[" line="25" column="2" />
+        <mark key="]" line="33" column="10" />
+        <mark key="^" line="24" column="1" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="Z:/partner-platform-api/.env" timestamp="1487955849397">
         <mark key="'" line="0" column="0" />
@@ -510,44 +563,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="17" filename="Z:/partner-platform-api/src/modules/pass-option/routes.js" />
-      <jump line="0" column="0" filename="Z:/partner-platform-api/src/modules/pass-option/routes.js" />
-      <jump line="45" column="0" filename="Z:/partner-platform-api/src/modules/pass-option/routes.js" />
-      <jump line="40" column="6" filename="Z:/partner-platform-api/src/modules/pass-option/routes.js" />
-      <jump line="19" column="6" filename="Z:/partner-platform-api/src/modules/pass-option/routes.js" />
-      <jump line="55" column="1" filename="Z:/partner-platform-api/src/modules/pass-option/routes.js" />
-      <jump line="7" column="38" filename="Z:/partner-platform-api/src/modules/pass-option/handlers/pass-option-crud.handler.js" />
-      <jump line="34" column="0" filename="Z:/partner-platform-api/src/modules/pass-option/handlers/pass-option-crud.handler.js" />
-      <jump line="35" column="10" filename="Z:/partner-platform-api/src/modules/pass-option/handlers/pass-option-crud.handler.js" />
-      <jump line="3" column="21" filename="Z:/partner-platform-api/src/modules/pass-option/handlers/pass-option-crud.handler.js" />
-      <jump line="30" column="6" filename="Z:/partner-platform-api/src/modules/pass-option/handlers/pass-option-crud.handler.js" />
-      <jump line="43" column="32" filename="Z:/partner-platform-api/src/modules/pass-option/handlers/pass-option-crud.handler.js" />
-      <jump line="61" column="0" filename="Z:/partner-platform-api/src/modules/pass-option/handlers/pass-option-crud.handler.js" />
-      <jump line="42" column="20" filename="Z:/partner-platform-api/src/modules/pass-option/jsonapi/pass-option.jsonapi.js" />
-      <jump line="30" column="22" filename="Z:/partner-platform-api/src/modules/pass-option/jsonapi/pass-option.jsonapi.js" />
-      <jump line="67" column="33" filename="Z:/partner-platform-api/src/modules/pass-option/handlers/pass-option-crud.handler.js" />
-      <jump line="132" column="0" filename="Z:/partner-platform-api/src/modules/core/base-handler.js" />
-      <jump line="0" column="0" filename="Z:/partner-platform-api/src/modules/core/base-handler.js" />
-      <jump line="22" column="46" filename="Z:/partner-platform-api/src/modules/pass-option/handlers/pass-option-crud.handler.js" />
-      <jump line="37" column="9" filename="Z:/partner-platform-api/src/modules/pass-option/jsonapi/pass-option.jsonapi.js" />
-      <jump line="73" column="20" filename="Z:/partner-platform-api/src/modules/pass-option/jsonapi/pass-option.jsonapi.js" />
-      <jump line="12" column="24" filename="Z:/partner-platform-api/src/modules/pass-option/services/assignment.service.js" />
-      <jump line="17" column="33" filename="Z:/partner-platform-api/src/modules/pass-option/handlers/pass-option-crud.handler.js" />
-      <jump line="20" column="30" filename="Z:/partner-platform-api/src/modules/pass-option/handlers/pass-option-crud.handler.js" />
-      <jump line="11" column="26" filename="Z:/partner-platform-api/src/modules/quota/handlers/quota-crud.handler.js" />
-      <jump line="5" column="17" filename="Z:/partner-platform-api/src/modules/quota/routes.js" />
-      <jump line="12" column="16" filename="Z:/partner-platform-api/src/modules/quota/routes.js" />
-      <jump line="66" column="12" filename="Z:/partner-platform-api/src/modules/quota/handlers/quota-crud.handler.js" />
-      <jump line="20" column="18" filename="Z:/partner-platform-api/src/modules/pass-option/jsonapi/pass-option.jsonapi.js" />
-      <jump line="0" column="0" filename="Z:/partner-platform-api/src/modules/pass-option/jsonapi/pass-option.jsonapi.js" />
-      <jump line="18" column="2" filename="Z:/partner-platform-api/src/modules/quota/jsonapi/quota.jsonapi.js" />
-      <jump line="0" column="0" filename="Z:/partner-platform-api/src/modules/quota/jsonapi/quota.jsonapi.js" />
-      <jump line="22" column="25" filename="Z:/partner-platform-api/src/models/quota.model.js" />
-      <jump line="49" column="27" filename="Z:/partner-platform-api/src/modules/quota/handlers/quota-crud.handler.js" />
-      <jump line="51" column="49" filename="Z:/partner-platform-api/src/modules/quota/handlers/quota-crud.handler.js" />
-      <jump line="61" column="2" filename="Z:/partner-platform-api/src/modules/quota/handlers/quota-crud.handler.js" />
-      <jump line="63" column="43" filename="Z:/partner-platform-api/src/modules/quota/handlers/quota-crud.handler.js" />
-      <jump line="12" column="19" filename="Z:/partner-platform-api/src/modules/quota/services/assignment.service.js" />
       <jump line="51" column="20" filename="Z:/partner-platform-api/src/modules/pass-option/handlers/pass-option-crud.handler.js" />
       <jump line="0" column="0" filename="Z:/partner-platform-api/src/modules/pass-option/handlers/pass-option-crud.handler.js" />
       <jump line="21" column="18" filename="Z:/partner-platform-api/src/modules/quota/handlers/quota-crud.handler.js" />
@@ -590,7 +605,6 @@
       <jump line="26" column="9" filename="Z:/boringcode/tooling/gulp/tasks/src.js" />
       <jump line="7" column="15" filename="Z:/boringcode/tooling/gulp/tasks/tests.js" />
       <jump line="15" column="9" filename="Z:/boringcode/tooling/gulp/tasks/tests.js" />
-      <jump line="15" column="23" filename="Z:/boringcode/tooling/gulp/tasks/src.js" />
       <jump line="34" column="0" filename="Z:/boringcode/config/default.yml" />
       <jump line="9" column="7" filename="Z:/boringcode/tooling/gulp/helpers/copy-files.js" />
       <jump line="8" column="71" filename="Z:/boringcode/tooling/gulp/tasks/core.js" />
@@ -610,82 +624,121 @@
       <jump line="7" column="11" filename="Z:/boringcode/tooling/gulp/reusable-tasks/babel.js" />
       <jump line="65" column="0" filename="Z:/boringcode/gulpfile.js" />
       <jump line="1" column="0" filename="Z:/boringcode/src/index.js" />
+      <jump line="13" column="0" filename="Z:/boringcode/src/index.js" />
+      <jump line="19" column="5" filename="Z:/boringcode/src/index.js" />
+      <jump line="6" column="15" filename="Z:/boringcode/src/index.js" />
+      <jump line="4" column="18" filename="Z:/boringcode/src/index.js" />
+      <jump line="8" column="4" filename="Z:/boringcode/src/index.js" />
+      <jump line="0" column="7" filename="Z:/boringcode/src/index.js" />
+      <jump line="0" column="0" filename="Z:/boringcode/core/server-plugins/cors.js" />
+      <jump line="46" column="33" filename="Z:/boringcode/core/server-plugins/cors.js" />
+      <jump line="14" column="13" filename="Z:/boringcode/tooling/gulp/reusable-tasks/babel.js" />
+      <jump line="22" column="4" filename="Z:/boringcode/tooling/gulp/reusable-tasks/babel.js" />
+      <jump line="11" column="0" filename="Z:/boringcode/tooling/gulp/reusable-tasks/babel.js" />
+      <jump line="13" column="13" filename="Z:/boringcode/tooling/gulp/reusable-tasks/babel.js" />
+      <jump line="4" column="28" filename="Z:/boringcode/tooling/gulp/reusable-tasks/babel.js" />
+      <jump line="8" column="4" filename="Z:/boringcode/tooling/gulp/reusable-tasks/babel.js" />
+      <jump line="12" column="14" filename="Z:/boringcode/tooling/gulp/reusable-tasks/babel.js" />
+      <jump line="10" column="0" filename="Z:/boringcode/tooling/gulp/reusable-tasks/babel-watch.js" />
+      <jump line="16" column="13" filename="Z:/boringcode/tooling/gulp/reusable-tasks/babel-watch.js" />
+      <jump line="23" column="10" filename="Z:/boringcode/tooling/gulp/reusable-tasks/babel-watch.js" />
+      <jump line="0" column="23" filename="Z:/boringcode/tooling/gulp/reusable-tasks/babel-watch.js" />
+      <jump line="1" column="22" filename="Z:/boringcode/tooling/gulp/reusable-tasks/babel-watch.js" />
+      <jump line="3" column="28" filename="Z:/boringcode/tooling/gulp/reusable-tasks/babel-watch.js" />
+      <jump line="4" column="23" filename="Z:/boringcode/tooling/gulp/reusable-tasks/babel-watch.js" />
+      <jump line="6" column="21" filename="Z:/boringcode/tooling/gulp/reusable-tasks/babel-watch.js" />
+      <jump line="9" column="2" filename="Z:/boringcode/tooling/gulp/reusable-tasks/babel.js" />
+      <jump line="7" column="27" filename="Z:/boringcode/tooling/gulp/reusable-tasks/babel-watch.js" />
+      <jump line="19" column="11" filename="Z:/boringcode/tooling/gulp/tasks/src.js" />
+      <jump line="15" column="0" filename="Z:/boringcode/tooling/gulp/tasks/src.js" />
+      <jump line="2" column="40" filename="Z:/boringcode/tooling/gulp/tasks/src.js" />
+      <jump line="3" column="38" filename="Z:/boringcode/tooling/gulp/tasks/src.js" />
+      <jump line="9" column="73" filename="Z:/boringcode/tooling/gulp/tasks/src.js" />
+      <jump line="10" column="18" filename="Z:/boringcode/tooling/gulp/tasks/migrations.js" />
+      <jump line="17" column="2" filename="Z:/boringcode/tooling/gulp/tasks/migrations.js" />
+      <jump line="0" column="31" filename="Z:/boringcode/tooling/gulp/tasks/migrations.js" />
+      <jump line="31" column="57" filename="Z:/boringcode/tooling/gulp/tasks/migrations.js" />
+      <jump line="25" column="0" filename="Z:/boringcode/tooling/gulp/tasks/migrations.js" />
+      <jump line="0" column="0" filename="Z:/boringcode/core/tooling/migrate/base-migration.js" />
+      <jump line="0" column="0" filename="Z:/boringcode/tooling/migrate/base-migration.js" />
+      <jump line="37" column="4" filename="Z:/boringcode/tooling/gulp/tasks/migrations.js" />
+      <jump line="38" column="16" filename="Z:/boringcode/tooling/gulp/tasks/migrations.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICdzcmM6d2F0Y2gnCg==</text>
+        <text encoding="base64">ICAgICcnCg==</text>
       </register>
       <register name="-" type="4">
-        <text>tests</text>
+        <text>, null</text>
       </register>
       <register name="/" type="4">
-        <text>)</text>
+        <text>BUILD</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cmVxdWlyZSgnLi90b29saW5nL2d1bHAvdGFza3MvdGVzdHMnKTsK</text>
+        <text encoding="base64">aW1wb3J0IExvY2FsRmlsZUluamVjdG9yIGZyb20gJ34vY29yZS9taXhpbnMvbG9jYWwtZmlsZS1pbmplY3Rvcic7CgpjbGFzcyBfX0Jhc2VNaWdyYXRpb24ge30KZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gQmFzZU1pZ3JhdGlvbihkaXJuYW1lKSB7CiAgcmV0dXJuIGNsYXNzIEJhc2VNaWdyYXRpb24gZXh0ZW5kcyBMb2NhbEZpbGVJbmplY3RvcihkaXJuYW1lLCBfX0Jhc2VNaWdyYXRpb24pIHsKICAgIHVwKCkgewogICAgICByZXR1cm4gbmV3IFByb21pc2UocmVzb2x2ZSA9PiB7CiAgICAgICAgcmVzb2x2ZSgpOwogICAgICB9KTsKICAgIH0KCiAgICBkb3duKCkgewogICAgICByZXR1cm4gbmV3IFByb21pc2UocmVzb2x2ZSA9PiB7CiAgICAgICAgcmVzb2x2ZSgpOwogICAgICB9KTsKICAgIH0KICB9Owp9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICdzcmM6d2F0Y2gnCg==</text>
+        <text encoding="base64">ICAgICcnCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICdidWlsZCcsCg==</text>
+        <text encoding="base64">aW1wb3J0IEJhc2VNaWdyYXRpb24gZnJvbSAnfi9jb3JlL3Rvb2xpbmcvbWlncmF0ZS9iYXNlLW1pZ3JhdGlvbic7CmV4cG9ydCBkZWZhdWx0IEJhc2VNaWdyYXRpb247Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICdidWlsZCcK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC5zcmMoc3JjKQo=</text>
+        <text encoding="base64">ICAgICdidWlsZCcsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICd0b29saW5nOm1pZ3JhdGU6YnVpbGQnLAogICAgJ21pZ3JhdGlvbnM6YnVpbGQnCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICd0b29saW5nOm1pZ3JhdGU6YnVpbGQnLAogICAgJ21pZ3JhdGlvbnM6YnVpbGQnCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAoKSA9PiBndWxwCiAgLnNyYyhzcmMpCiAgLnBpcGUoc291cmNlbWFwcy5pbml0KCkpCiAgLnBpcGUoYmFiZWwoKSkKICAucGlwZShzb3VyY2VtYXBzLndyaXRlKCcuJykpCiAgLnBpcGUoZ3VscC5kZXN0KGRlc3QpKTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdET05FJyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IEJhc2VNaWdyYXRpb24gZnJvbSAnfi90b29saW5nL21pZ3JhdGUvYmFzZS1taWdyYXRpb24nOwo=</text>
       </register>
-      <register name="9" type="8">
-        <text encoding="base64">Ly8gCi8vIAovLyAKLy8gCi8vIA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>)</last-search>
+      <last-search>BUILD</last-search>
       <last-offset />
-      <last-pattern>)</last-pattern>
+      <last-pattern>BUILD</last-pattern>
       <last-replace>conference</last-replace>
       <last-substitute>user</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>V</entry>
-        <entry>conf</entry>
-        <entry>Con</entry>
-        <entry>C</entry>
-        <entry>p</entry>
-        <entry>Par</entry>
-        <entry>B</entry>
-        <entry>create(</entry>
-        <entry>as</entry>
         <entry>'src</entry>
         <entry>bab</entry>
-        <entry>src</entry>
         <entry>cop</entry>
         <entry>copy</entry>
         <entry>hbs</entry>
         <entry>txt</entry>
         <entry>}</entry>
-        <entry>'</entry>
         <entry>app</entry>
         <entry>)</entry>
+        <entry>logger</entry>
+        <entry>info</entry>
+        <entry encoding="base64">IA==</entry>
+        <entry>;</entry>
+        <entry>watch</entry>
+        <entry>gulp</entry>
+        <entry>,</entry>
+        <entry encoding="base64">XDxjb3B5XD4=</entry>
+        <entry>src</entry>
+        <entry>'</entry>
+        <entry>BUILD</entry>
       </history-search>
       <history-cmd>
         <entry>9</entry>
