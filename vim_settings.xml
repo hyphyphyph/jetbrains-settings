@@ -155,10 +155,11 @@
         <mark key="." line="0" column="31" />
         <mark key="^" line="0" column="31" />
       </file>
-      <file name="Z:/boringcode/core/handler-methods/crud/check-not-found.js" timestamp="1488131221791">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="7" />
-        <mark key="." line="1" column="0" />
+      <file name="Z:/boringcode/core/handler-methods/crud/check-not-found.js" timestamp="1488131312633">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="0" column="44" />
       </file>
       <file name="Z:/boringcode/tooling/gulp/helpers/copy-files.js" timestamp="1488063807445">
         <mark key="[" line="8" column="0" />
@@ -215,6 +216,13 @@
         <mark key="." line="14" column="75" />
         <mark key="^" line="14" column="75" />
       </file>
+      <file name="Z:/boringcode/core/errors.js" timestamp="1488131287878">
+        <mark key="'" line="12" column="23" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="18" column="12" />
+      </file>
       <file name="Z:/partner-platform-api/src/modules/quota/routes.js" timestamp="1487972883869">
         <mark key="'" line="12" column="16" />
         <mark key="[" line="12" column="42" />
@@ -260,12 +268,12 @@
         <mark key="^" line="67" column="40" />
         <mark key="." line="67" column="40" />
       </file>
-      <file name="Z:/boringcode/core/handlers/base-crud-handler.js" timestamp="1488131087633">
-        <mark key="'" line="48" column="3" />
-        <mark key="[" line="40" column="25" />
-        <mark key="]" line="40" column="25" />
-        <mark key="." line="40" column="25" />
-        <mark key="^" line="40" column="30" />
+      <file name="Z:/boringcode/core/handlers/base-crud-handler.js" timestamp="1488132120485">
+        <mark key="'" line="17" column="6" />
+        <mark key="[" line="29" column="54" />
+        <mark key="]" line="29" column="54" />
+        <mark key="." line="29" column="54" />
+        <mark key="^" line="29" column="54" />
       </file>
       <file name="Z:/partner-platform-api/src/modules/conference-invite/templates/invite-accept-on-behalf-text.hbs" timestamp="1487893572770">
         <mark key="[" line="2" column="13" />
@@ -381,6 +389,11 @@
         <mark key="^" line="27" column="67" />
         <mark key="." line="27" column="67" />
       </file>
+      <file name="Z:/boringcode/core/modules/auth/errors.js" timestamp="1488131258087">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="18" column="42" />
+      </file>
       <file name="Z:/partner-platform-api/src/modules/conference-invite/jsonapi/conference-invite.jsonapi.js" timestamp="1487903809218">
         <mark key="'" line="42" column="0" />
         <mark key="[" line="104" column="45" />
@@ -454,6 +467,11 @@
         <mark key="]" line="6" column="27" />
         <mark key="^" line="6" column="27" />
         <mark key="." line="6" column="27" />
+      </file>
+      <file name="Z:/boringcode/tooling/gulp/helpers/apply-babel-build.js" timestamp="1488060039722">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="11" column="0" />
       </file>
       <file name="Z:/partner-platform-api/src/modules/conference-invite/templates/invite-auto-accept-html.hbs" timestamp="1487894802597">
         <mark key="[" line="1" column="4" />
@@ -570,6 +588,11 @@
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="36" />
       </file>
+      <file name="Z:/boringcode/tooling/gulp/template.js" timestamp="1488062134552">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="37" />
+      </file>
       <file name="Z:/partner-platform-api/src/modules/conference-invite/templates/invite-auto-accept-text.hbs" timestamp="1487894815806">
         <mark key="[" line="1" column="4" />
         <mark key="]" line="1" column="32" />
@@ -594,6 +617,11 @@
         <mark key="]" line="22" column="21" />
         <mark key="." line="22" column="21" />
         <mark key="^" line="22" column="21" />
+      </file>
+      <file name="Z:/boringcode/tooling/gulp/script.js" timestamp="1488066076605">
+        <mark key="'" line="19" column="1" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="35" />
       </file>
       <file name="Z:/partner-platform-api/src/modules/pass-option/routes.js" timestamp="1487964231068">
         <mark key="'" line="60" column="1" />
@@ -679,12 +707,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="0" filename="Z:/boringcode/tooling/gulp/tasks/src.js" />
-      <jump line="37" column="0" filename="Z:/boringcode/tooling/gulp/tasks/src.js" />
-      <jump line="43" column="0" filename="Z:/boringcode/tooling/gulp/tasks/src.js" />
-      <jump line="44" column="56" filename="Z:/boringcode/tooling/gulp/tasks/src.js" />
-      <jump line="18" column="23" filename="Z:/boringcode/tooling/gulp/tasks/src.js" />
-      <jump line="20" column="0" filename="Z:/boringcode/tooling/gulp/tasks/src.js" />
       <jump line="5" column="2" filename="Z:/boringcode/tooling/gulp/helpers/copy-files.js" />
       <jump line="6" column="23" filename="Z:/boringcode/tooling/gulp/helpers/copy-files.js" />
       <jump line="26" column="9" filename="Z:/boringcode/tooling/gulp/tasks/src.js" />
@@ -757,7 +779,6 @@
       <jump line="9" column="2" filename="Z:/boringcode/core/models/auth-token.js" />
       <jump line="2" column="7" filename="Z:/boringcode/core/server-init/auth.js" />
       <jump line="20" column="38" filename="Z:/boringcode/core/server-init/auth.js" />
-      <jump line="11" column="14" filename="Z:/boringcode/core/handlers/base-crud-handler.js" />
       <jump line="15" column="11" filename="Z:/boringcode/core/handlers/base-crud-handler.js" />
       <jump line="7" column="0" filename="Z:/boringcode/core/handlers/base-crud-handler.js" />
       <jump line="30" column="21" filename="Z:/boringcode/core/handlers/base-crud-handler.js" />
@@ -779,55 +800,62 @@
       <jump line="6" column="34" filename="Z:/boringcode/core/handlers/base-crud-handler.js" />
       <jump line="31" column="32" filename="Z:/boringcode/core/handlers/base-crud-handler.js" />
       <jump line="37" column="3" filename="Z:/boringcode/core/handlers/base-crud-handler.js" />
+      <jump line="12" column="32" filename="Z:/boringcode/core/modules/auth/errors.js" />
+      <jump line="18" column="0" filename="Z:/boringcode/core/modules/auth/errors.js" />
+      <jump line="0" column="0" filename="Z:/boringcode/core/modules/auth/errors.js" />
+      <jump line="5" column="0" filename="Z:/boringcode/core/errors.js" />
+      <jump line="0" column="0" filename="Z:/boringcode/core/errors.js" />
+      <jump line="12" column="23" filename="Z:/boringcode/core/errors.js" />
+      <jump line="11" column="6" filename="Z:/boringcode/core/handlers/base-crud-handler.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgLnRoZW4oKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>, reply</text>
+        <text>instances</text>
       </register>
       <register name="/" type="4">
-        <text>ser</text>
+        <text>No</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRiLmNvbm5lY3Rpb24oKQogICAgICAudGhlbihjb25uZWN0aW9uID0+IG5ldyB0aGlzLmNvbnN0cnVjdG9yLk1PREVMKHsgY29ubmVjdGlvbiB9KS5maW5kQWxsKCkpCiAgICAgIC50aGVuKGluc3RhbmNlcyA9PiB0aGlzLnNlcmlhbGl6ZShpbnN0YW5jZXMpKQogICAgICAudGhlbihpbnN0YW5jZXMgPT4gcmVwbHkoaW5zdGFuY2VzKSkKICAgICAgLmNhdGNoKGVyciA9PiByZXBseShlcnIuYm9vbSgpKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgLnRoZW4oaW5zdGFuY2VzID0+IHRoaXMuY2hlY2tOb3RGb3VuZChpbnN0YW5jZXMpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgLnRoZW4oKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJlcGx5KCdTSE9XIE9ORScpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">OwoKCg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICBlbHNlIGlmIChBcnJheS5pc0FycmF5KGRhdGEpKSB7CiAgICAvLyBUaGlzIGlzIGZvciBTZXF1ZWxpemUgdXBkYXRlIHdoZW4gMCByb3dzIGFyZSBtb2RpZmllZC4KICAgIGlmIChkYXRhWzBdID09PSAwKSB7CiAgICAgIHRocm93IG5ldyBOb3RGb3VuZEVycm9yKCk7CiAgICB9CiAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJlcGx5KCdTSE9XIEFMTCcpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRoaXMuY29uc3RydWN0b3IuTU9ERUwuZmluZEFsbCgpCg==</text>
+        <text encoding="base64">Ly8gSHR0cApleHBvcnQgY29uc3QgRVJST1JfTk9UX0ZPVU5EID0gJ05vdCBGb3VuZC4nOwoKLy8gQXV0aApleHBvcnQgY29uc3QgRVJST1JfSU5DT1JSRUNUX05VTUJFUl9PRl9UT0tFTlMgPSAnSW5jb3JyZWN0IG51bWJlciBvZiB0b2tlbnMuJzsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNydWREZWxldGUodGhpcywgcmVxdWVzdCwgcmVwbHkpOwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNydWRVcGRhdGUodGhpcywgcmVxdWVzdCwgcmVwbHkpOwo=</text>
+        <text encoding="base64">ICAgIHJlcGx5KCdTSE9XIE9ORScpOwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGNydWRDcmVhdGUodGhpcywgcmVxdWVzdCwgcmVwbHkpOwo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">OwoKCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNydWRTaG93T25lKHRoaXMsIHJlcXVlc3QsIHJlcGx5KTsK</text>
+        <text encoding="base64">ICAgIHJlcGx5KCdTSE9XIEFMTCcpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>ser</last-search>
+      <last-search>No</last-search>
       <last-offset />
-      <last-pattern>ser</last-pattern>
+      <last-pattern>No</last-pattern>
       <last-replace>conference</last-replace>
       <last-substitute>user</last-substitute>
       <last-dir>1</last-dir>
@@ -835,7 +863,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb3B5XD4=</entry>
         <entry>src</entry>
         <entry>'</entry>
         <entry>BUILD</entry>
@@ -855,6 +882,7 @@
         <entry>ALL</entry>
         <entry>SHOW</entry>
         <entry>ser</entry>
+        <entry>No</entry>
       </history-search>
       <history-cmd>
         <entry>9</entry>
