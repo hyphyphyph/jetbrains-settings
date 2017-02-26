@@ -68,11 +68,11 @@
         <mark key="^" line="4" column="39" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="Z:/boringcode/tooling/migrate/index.js" timestamp="1488068583432">
-        <mark key="[" line="4" column="30" />
-        <mark key="]" line="4" column="30" />
-        <mark key="." line="4" column="30" />
-        <mark key="^" line="4" column="31" />
+      <file name="Z:/boringcode/tooling/migrate/index.js" timestamp="1488140616063">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="55" />
+        <mark key="." line="59" column="0" />
+        <mark key="^" line="31" column="52" />
       </file>
       <file name="Z:/partner-platform-api/src/modules/conference-invite/templates/invite-cancel-text.hbs" timestamp="1487893609972">
         <mark key="[" line="2" column="13" />
@@ -143,6 +143,12 @@
         <mark key="." line="132" column="73" />
         <mark key="^" line="132" column="73" />
       </file>
+      <file name="Z:/partner-platform-api/src/modules/pass-option/handlers/pass-option-crud.handler.js" timestamp="1487974963666">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="24" column="2" />
+        <mark key="." line="51" column="8" />
+      </file>
       <file name="Z:/partner-platform-api/src/modules/quota/jsonapi/quota.jsonapi.js" timestamp="1487973498593">
         <mark key="[" line="29" column="18" />
         <mark key="]" line="29" column="23" />
@@ -186,11 +192,12 @@
         <mark key="^" line="52" column="1" />
         <mark key="." line="52" column="1" />
       </file>
-      <file name="Z:/boringcode/core/modules/user/handlers/user-crud-handler.js" timestamp="1488080782378">
-        <mark key="[" line="6" column="16" />
-        <mark key="]" line="6" column="20" />
-        <mark key="." line="6" column="20" />
-        <mark key="^" line="6" column="20" />
+      <file name="Z:/boringcode/core/modules/user/handlers/user-crud-handler.js" timestamp="1488143237913">
+        <mark key="'" line="10" column="39" />
+        <mark key="[" line="16" column="1" />
+        <mark key="]" line="16" column="1" />
+        <mark key="^" line="16" column="1" />
+        <mark key="." line="16" column="1" />
       </file>
       <file name="Z:/partner-platform-api/src/modules/conference-invite/templates/invite-resend-html.hbs" timestamp="1487893538784">
         <mark key="[" line="2" column="13" />
@@ -223,13 +230,6 @@
         <mark key="]" line="14" column="75" />
         <mark key="." line="14" column="75" />
         <mark key="^" line="14" column="75" />
-      </file>
-      <file name="Z:/boringcode/core/errors.js" timestamp="1488131287878">
-        <mark key="'" line="12" column="23" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-        <mark key="^" line="18" column="12" />
       </file>
       <file name="Z:/partner-platform-api/src/modules/quota/routes.js" timestamp="1487972883869">
         <mark key="'" line="12" column="16" />
@@ -276,12 +276,11 @@
         <mark key="^" line="67" column="40" />
         <mark key="." line="67" column="40" />
       </file>
-      <file name="Z:/boringcode/core/handlers/base-crud-handler.js" timestamp="1488135290141">
-        <mark key="'" line="39" column="46" />
-        <mark key="[" line="73" column="6" />
-        <mark key="]" line="73" column="8" />
-        <mark key="." line="73" column="8" />
-        <mark key="^" line="73" column="8" />
+      <file name="Z:/boringcode/core/handlers/base-crud-handler.js" timestamp="1488143558937">
+        <mark key="'" line="55" column="29" />
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
       </file>
       <file name="Z:/partner-platform-api/src/modules/conference-invite/templates/invite-accept-on-behalf-text.hbs" timestamp="1487893572770">
         <mark key="[" line="2" column="13" />
@@ -308,12 +307,12 @@
         <mark key="." line="18" column="30" />
         <mark key="^" line="18" column="30" />
       </file>
-      <file name="Z:/boringcode/core/models/base-model.js" timestamp="1488133095285">
-        <mark key="'" line="21" column="2" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="35" />
-        <mark key="." line="14" column="0" />
-        <mark key="^" line="13" column="47" />
+      <file name="Z:/boringcode/core/models/base-model.js" timestamp="1488143356703">
+        <mark key="'" line="40" column="35" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="10" column="20" />
       </file>
       <file name="Z:/boringcode/core/handler-methods/user/crud-delete.js" timestamp="1488078854587">
         <mark key="[" line="1" column="17" />
@@ -346,11 +345,11 @@
         <mark key="." line="14" column="14" />
         <mark key="^" line="2" column="31" />
       </file>
-      <file name="Z:/boringcode/migrations/0000-create-users/up.sql" timestamp="1488137000661">
-        <mark key="[" line="0" column="26" />
-        <mark key="]" line="0" column="31" />
-        <mark key="^" line="0" column="31" />
-        <mark key="." line="0" column="31" />
+      <file name="Z:/boringcode/migrations/0000-create-users/up.sql" timestamp="1488138615023">
+        <mark key="[" line="7" column="20" />
+        <mark key="]" line="7" column="33" />
+        <mark key="." line="7" column="33" />
+        <mark key="^" line="7" column="33" />
       </file>
       <file name="Z:/boringcode/src/models/auth-token/create.sql" timestamp="1487915920063">
         <mark key="[" line="6" column="4" />
@@ -358,11 +357,10 @@
         <mark key="." line="6" column="10" />
         <mark key="^" line="6" column="10" />
       </file>
-      <file name="Z:/boringcode/core/serializers/base-serializer.js" timestamp="1488130878654">
-        <mark key="[" line="0" column="15" />
-        <mark key="]" line="0" column="20" />
-        <mark key="^" line="0" column="20" />
-        <mark key="." line="0" column="20" />
+      <file name="Z:/boringcode/core/serializers/base-serializer.js" timestamp="1488142822813">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="Z:/partner-platform/partner-platform-api/src/modules/conference-invite/templates/invite-resend-html.hbs" timestamp="1487888355278">
         <mark key="[" line="1" column="67" />
@@ -409,11 +407,6 @@
         <mark key="^" line="27" column="67" />
         <mark key="." line="27" column="67" />
       </file>
-      <file name="Z:/boringcode/core/modules/auth/errors.js" timestamp="1488131258087">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="18" column="42" />
-      </file>
       <file name="Z:/partner-platform-api/src/modules/conference-invite/jsonapi/conference-invite.jsonapi.js" timestamp="1487903809218">
         <mark key="'" line="42" column="0" />
         <mark key="[" line="104" column="45" />
@@ -427,10 +420,11 @@
         <mark key="." line="1" column="29" />
         <mark key="^" line="1" column="29" />
       </file>
-      <file name="Z:/boringcode/core/migration/base-migration.js" timestamp="1488136755938">
-        <mark key="[" line="2" column="23" />
-        <mark key="]" line="2" column="23" />
-        <mark key="." line="2" column="23" />
+      <file name="Z:/boringcode/core/migration/base-migration.js" timestamp="1488140628959">
+        <mark key="'" line="19" column="6" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="Z:/boringcode/core/modules/auth/handlers/login.handler.js" timestamp="1488069779970">
         <mark key="[" line="0" column="0" />
@@ -445,10 +439,10 @@
         <mark key="." line="319" column="0" />
         <mark key="^" line="313" column="1" />
       </file>
-      <file name="Z:/boringcode/core/db.js" timestamp="1488135674386">
-        <mark key="'" line="0" column="0" />
+      <file name="Z:/boringcode/core/db.js" timestamp="1488140333983">
+        <mark key="'" line="3" column="0" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="19" column="1" />
+        <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="Z:/boringcode/tooling/gulp/tasks/server.js" timestamp="1488065180244">
@@ -494,11 +488,6 @@
         <mark key="^" line="6" column="27" />
         <mark key="." line="6" column="27" />
       </file>
-      <file name="Z:/boringcode/tooling/gulp/helpers/apply-babel-build.js" timestamp="1488060039722">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="11" column="0" />
-      </file>
       <file name="Z:/partner-platform-api/src/modules/conference-invite/templates/invite-auto-accept-html.hbs" timestamp="1487894802597">
         <mark key="[" line="1" column="4" />
         <mark key="]" line="1" column="32" />
@@ -536,6 +525,12 @@
         <mark key="." line="0" column="29" />
         <mark key="^" line="0" column="29" />
       </file>
+      <file name="Z:/boringcode/migrations/0010-create-auth-tokens/up.sql" timestamp="1488140260054">
+        <mark key="[" line="6" column="20" />
+        <mark key="]" line="6" column="33" />
+        <mark key="." line="6" column="33" />
+        <mark key="^" line="6" column="33" />
+      </file>
       <file name="Z:/boringcode/src/index.js" timestamp="1488133037084">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -548,6 +543,12 @@
         <mark key="]" line="21" column="36" />
         <mark key="." line="21" column="36" />
         <mark key="^" line="24" column="18" />
+      </file>
+      <file name="Z:/boringcode/migrations/0010-create-auth-tokens/index.js" timestamp="1488140430361">
+        <mark key="[" line="5" column="36" />
+        <mark key="]" line="5" column="36" />
+        <mark key="." line="5" column="36" />
+        <mark key="^" line="5" column="36" />
       </file>
       <file name="Z:/partner-platform-api/src/models/partner.model.js" timestamp="1487902277892">
         <mark key="'" line="8" column="32" />
@@ -615,26 +616,17 @@
         <mark key="^" line="2" column="13" />
         <mark key="." line="2" column="13" />
       </file>
-      <file name="/Dummy.txt" timestamp="1488080860742">
-        <mark key="[" line="0" column="0" />
-        <mark key="." line="0" column="36" />
-      </file>
-      <file name="Z:/boringcode/tooling/gulp/template.js" timestamp="1488062134552">
-        <mark key="'" line="15" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="2" column="37" />
-      </file>
       <file name="Z:/partner-platform-api/src/modules/conference-invite/templates/invite-auto-accept-text.hbs" timestamp="1487894815806">
         <mark key="[" line="1" column="4" />
         <mark key="]" line="1" column="32" />
         <mark key="." line="1" column="32" />
         <mark key="^" line="1" column="32" />
       </file>
-      <file name="Z:/boringcode/migrations/0000-create-users/down.sql" timestamp="1488135957224">
-        <mark key="[" line="0" column="24" />
-        <mark key="]" line="0" column="24" />
-        <mark key="." line="0" column="24" />
-        <mark key="^" line="0" column="24" />
+      <file name="Z:/boringcode/migrations/0000-create-users/down.sql" timestamp="1488138189937">
+        <mark key="[" line="0" column="11" />
+        <mark key="]" line="0" column="17" />
+        <mark key="." line="0" column="17" />
+        <mark key="^" line="0" column="17" />
       </file>
       <file name="Z:/partner-platform-api/src/models/conference.model.js" timestamp="1487964571100">
         <mark key="[" line="57" column="30" />
@@ -654,11 +646,6 @@
         <mark key="]" line="22" column="21" />
         <mark key="." line="22" column="21" />
         <mark key="^" line="22" column="21" />
-      </file>
-      <file name="Z:/boringcode/tooling/gulp/script.js" timestamp="1488066076605">
-        <mark key="'" line="19" column="1" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="35" />
       </file>
       <file name="Z:/partner-platform-api/src/modules/pass-option/routes.js" timestamp="1487964231068">
         <mark key="'" line="60" column="1" />
@@ -700,12 +687,11 @@
         <mark key="." line="38" column="11" />
         <mark key="^" line="38" column="11" />
       </file>
-      <file name="Z:/boringcode/tooling/gulp/tasks/migrations.js" timestamp="1488136741815">
-        <mark key="'" line="39" column="16" />
-        <mark key="[" line="40" column="15" />
-        <mark key="]" line="40" column="15" />
-        <mark key="." line="40" column="15" />
-        <mark key="^" line="40" column="15" />
+      <file name="Z:/boringcode/tooling/gulp/tasks/migrations.js" timestamp="1488139089608">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+        <mark key="^" line="11" column="14" />
       </file>
       <file name="Z:/partner-platform-api/src/models/quota.model.js" timestamp="1487975381328">
         <mark key="'" line="20" column="25" />
@@ -713,6 +699,12 @@
         <mark key="]" line="35" column="32" />
         <mark key="^" line="35" column="32" />
         <mark key="." line="35" column="32" />
+      </file>
+      <file name="Z:/boringcode/src/server/index.js" timestamp="1488070770335">
+        <mark key="'" line="24" column="0" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="Z:/partner-platform-api/.env" timestamp="1487955849397">
         <mark key="'" line="0" column="0" />
@@ -728,6 +720,12 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="2" column="47" />
       </file>
+      <file name="Z:/boringcode/migrations/0010-create-auth-tokens/down.sql" timestamp="1488140267803">
+        <mark key="[" line="0" column="18" />
+        <mark key="]" line="0" column="28" />
+        <mark key="^" line="0" column="28" />
+        <mark key="." line="0" column="28" />
+      </file>
       <file name="Z:/partner-platform-api/db/migrations/20170113204459-create-partners.js" timestamp="1487956673924">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="57" column="2" />
@@ -742,29 +740,14 @@
         <mark key="." line="1" column="19" />
         <mark key="^" line="1" column="19" />
       </file>
-      <file name="Z:/boringcode/migrations/0000-create-users/index.js" timestamp="1488136705721">
-        <mark key="[" line="11" column="56" />
-        <mark key="]" line="11" column="59" />
-        <mark key="." line="11" column="59" />
-        <mark key="^" line="11" column="59" />
+      <file name="Z:/boringcode/migrations/0000-create-users/index.js" timestamp="1488140094987">
+        <mark key="[" line="5" column="58" />
+        <mark key="]" line="5" column="3" />
+        <mark key="." line="5" column="3" />
+        <mark key="^" line="5" column="3" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="4" filename="Z:/boringcode/tooling/gulp/tasks/server.js" />
-      <jump line="8" column="0" filename="Z:/boringcode/tooling/gulp/tasks/server.js" />
-      <jump line="10" column="0" filename="Z:/boringcode/tooling/gulp/tasks/server.js" />
-      <jump line="11" column="18" filename="Z:/boringcode/tooling/gulp/tasks/server.js" />
-      <jump line="19" column="1" filename="Z:/boringcode/tooling/gulp/script.js" />
-      <jump line="5" column="0" filename="Z:/boringcode/tooling/gulp/reusable-tasks/babel.js" />
-      <jump line="7" column="11" filename="Z:/boringcode/tooling/gulp/reusable-tasks/babel.js" />
-      <jump line="65" column="0" filename="Z:/boringcode/gulpfile.js" />
-      <jump line="1" column="0" filename="Z:/boringcode/src/index.js" />
-      <jump line="13" column="0" filename="Z:/boringcode/src/index.js" />
-      <jump line="19" column="5" filename="Z:/boringcode/src/index.js" />
-      <jump line="6" column="15" filename="Z:/boringcode/src/index.js" />
-      <jump line="4" column="18" filename="Z:/boringcode/src/index.js" />
-      <jump line="8" column="4" filename="Z:/boringcode/src/index.js" />
-      <jump line="0" column="7" filename="Z:/boringcode/src/index.js" />
       <jump line="0" column="0" filename="Z:/boringcode/core/server-plugins/cors.js" />
       <jump line="46" column="33" filename="Z:/boringcode/core/server-plugins/cors.js" />
       <jump line="14" column="13" filename="Z:/boringcode/tooling/gulp/reusable-tasks/babel.js" />
@@ -807,7 +790,6 @@
       <jump line="9" column="2" filename="Z:/boringcode/core/models/auth-token.js" />
       <jump line="2" column="7" filename="Z:/boringcode/core/server-init/auth.js" />
       <jump line="20" column="38" filename="Z:/boringcode/core/server-init/auth.js" />
-      <jump line="15" column="11" filename="Z:/boringcode/core/handlers/base-crud-handler.js" />
       <jump line="7" column="0" filename="Z:/boringcode/core/handlers/base-crud-handler.js" />
       <jump line="30" column="21" filename="Z:/boringcode/core/handlers/base-crud-handler.js" />
       <jump line="1" column="0" filename="Z:/boringcode/core/handler-methods/user/crud-show-all.js" />
@@ -850,55 +832,71 @@
       <jump line="20" column="0" filename="Z:/boringcode/src/db.js" />
       <jump line="0" column="0" filename="Z:/boringcode/core/db.js" />
       <jump line="0" column="0" filename="Z:/boringcode/src/db.js" />
+      <jump line="1" column="1" filename="Z:/boringcode/migrations/0000-create-users/up.sql" />
+      <jump line="0" column="0" filename="Z:/boringcode/migrations/0000-create-users/up.sql" />
+      <jump line="13" column="9" filename="Z:/boringcode/core/db.js" />
+      <jump line="15" column="0" filename="Z:/boringcode/core/db.js" />
+      <jump line="4" column="18" filename="Z:/boringcode/tooling/migrate/index.js" />
+      <jump line="73" column="5" filename="Z:/boringcode/tooling/migrate/index.js" />
+      <jump line="6" column="5" filename="Z:/boringcode/migrations/0000-create-users/index.js" />
+      <jump line="4" column="8" filename="Z:/boringcode/migrations/0010-create-auth-tokens/up.sql" />
+      <jump line="0" column="0" filename="Z:/boringcode/migrations/0010-create-auth-tokens/up.sql" />
+      <jump line="3" column="0" filename="Z:/boringcode/core/db.js" />
+      <jump line="18" column="6" filename="Z:/boringcode/core/migration/base-migration.js" />
+      <jump line="15" column="9" filename="Z:/boringcode/core/handlers/base-crud-handler.js" />
+      <jump line="16" column="72" filename="Z:/boringcode/core/handlers/base-crud-handler.js" />
+      <jump line="42" column="35" filename="Z:/boringcode/core/models/base-model.js" />
+      <jump line="8" column="39" filename="Z:/boringcode/core/modules/user/handlers/user-crud-handler.js" />
+      <jump line="55" column="29" filename="Z:/boringcode/core/handlers/base-crud-handler.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgLmNhdGNoKGVyciA9PiBjb25zb2xlLmxvZyhlcnIpKQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>BaseCrudHandler</text>
       </register>
       <register name="/" type="4">
-        <text>save</text>
+        <text encoding="base64">XDxzYXZlTmV3TW9kZWxJbnN0YW5jZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBkYi5jb25uZWN0aW9uKCkKICAgICAgLnRoZW4oY29ubmVjdGlvbiA9PiBjb25uZWN0aW9uLm5vbmUodGhpcy5maWxlLnNxbC51cCkpOwo=</text>
+        <text encoding="base64">ICAgICAgLmNhdGNoKCgpID0+IHRoaXMucmVsZWFzZURiQ29ubmVjdGlvbigpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zdHJ1Y3RvcigpIHsKICAgIHRoaXMuY29ubmVjdGlvbiA9IGRiLmNvbm5lY3Rpb24oKTsKICB9Cg==</text>
+        <text encoding="base64">ICAgICAgLmNhdGNoKGVyciA9PiBjb25zb2xlLmxvZyhlcnIpKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGRiIGZyb20gJy4uL2RiJzsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhjb25uZWN0aW9uKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB0aGlzLmNvbm5lY3Rpb24ubm9uZSh0aGlzLmZpbGUuc3FsLmRvd24pOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB0aGlzLmNvbm5lY3Rpb24oKQogICAgICAudGhlbihjb25uZWN0aW9uID0+IHsKICAgICAgICByZXR1cm4KICAgICAgfSk7CgogICAgY29uc29sZS5sb2codGhpcy5jb25uZWN0aW9uLnRoZW4oY29ubmVjdGlvbiA9PiB7CgogICAgfSkpOwogICAgLy8gcmV0dXJuIHRoaXMuY29ubmVjdGlvbi5ub25lKHRoaXMuZmlsZS5zcWwudXApOwo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBkYi5jb25uZWN0KCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBuZXcgUHJvbWlzZShyZXNvbHZlID0+IHJlc29sdmUoMTIzKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgLmNhdGNoKGVyciA9PiBjb25zb2xlLmxvZyhlcnIpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBuZXcgUHJvbWlzZShyZXNvbHZlID0+IHJlc29sdmUoMTIzKSk7Cg==</text>
+        <text encoding="base64">ICAgIC8vIGlmICghdGhpcy5vcHRpb25zLmNvbm5lY3Rpb24pIHsKICAgIC8vICAgdGhyb3cgbmV3IEVycm9yKCdObyBDb25uZWN0aW9uJyk7CiAgICAvLyB9Cgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhkaXIsIGV4dCk7Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuc2V0Q29ubmVjdGlvbih0aGlzLm9wdGlvbnMuY29ubmVjdGlvbik7CiAgICBkZWxldGUgdGhpcy5vcHRpb25zLmNvbm5lY3Rpb247Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>save</last-search>
+      <last-search encoding="base64">XDxzYXZlTmV3TW9kZWxJbnN0YW5jZVw+</last-search>
       <last-offset />
-      <last-pattern>save</last-pattern>
+      <last-pattern encoding="base64">XDxzYXZlTmV3TW9kZWxJbnN0YW5jZVw+</last-pattern>
       <last-replace>conference</last-replace>
       <last-substitute>user</last-substitute>
       <last-dir>1</last-dir>
@@ -906,18 +904,11 @@
     </search>
     <history>
       <history-search>
-        <entry>Auth</entry>
-        <entry>T</entry>
-        <entry>All</entry>
-        <entry>'G</entry>
-        <entry>]</entry>
-        <entry>P</entry>
         <entry>in</entry>
         <entry>\/</entry>
         <entry>Del</entry>
         <entry>DELK</entry>
         <entry>DELETE</entry>
-        <entry>cr</entry>
         <entry>ALL</entry>
         <entry>SHOW</entry>
         <entry>ser</entry>
@@ -926,11 +917,17 @@
         <entry>By</entry>
         <entry>Mo</entry>
         <entry>save</entry>
+        <entry>et</entry>
+        <entry>cr</entry>
+        <entry>)</entry>
+        <entry>d</entry>
+        <entry>Data</entry>
+        <entry>C</entry>
+        <entry encoding="base64">XDxzYXZlTmV3TW9kZWxJbnN0YW5jZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>9</entry>
         <entry>bd</entry>
-        <entry>we</entry>
         <entry encoding="base64">JzwsJz5zL3RoZW4vdGhhbi9n</entry>
         <entry>4</entry>
         <entry>80</entry>
@@ -939,6 +936,9 @@
         <entry>wwwww</entry>
         <entry>q</entry>
         <entry>wwwwwwww</entry>
+        <entry>we</entry>
+        <entry>W</entry>
+        <entry>ww</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
