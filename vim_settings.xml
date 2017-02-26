@@ -443,6 +443,13 @@
         <mark key="^" line="6" column="37" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="Z:/boringcode/core/handler-methods/login/handle-login.js" timestamp="1488076565648">
+        <mark key="'" line="3" column="62" />
+        <mark key="[" line="3" column="41" />
+        <mark key="]" line="3" column="43" />
+        <mark key="^" line="3" column="43" />
+        <mark key="." line="3" column="43" />
+      </file>
       <file name="Z:/boringcode/config/default.yml" timestamp="1488063799557">
         <mark key="'" line="42" column="0" />
         <mark key="[" line="42" column="0" />
@@ -576,7 +583,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="2" filename="Z:/boringcode/core/testing/base-http-test.js" />
       <jump line="12" column="0" filename="Z:/boringcode/tooling/gulp/helpers/apply-babel-build.js" />
       <jump line="0" column="0" filename="Z:/boringcode/tooling/gulp/helpers/apply-babel-build.js" />
       <jump line="0" column="0" filename="Z:/boringcode/config/default.yml" />
@@ -676,16 +682,17 @@
       <jump line="9" column="43" filename="Z:/boringcode/core/modules/auth/handlers/login/handle-login.js" />
       <jump line="18" column="38" filename="Z:/boringcode/core/modules/auth/services/token.service.js" />
       <jump line="24" column="0" filename="Z:/boringcode/src/server/index.js" />
+      <jump line="3" column="62" filename="Z:/boringcode/core/handler-methods/login/handle-login.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgLy8gbG9nZ2luZyhzZXJ2ZXIpOwogIC8vIGNvbm5lY3Rpb24oc2VydmVyKTsKICAvLyBjb3JzKHNlcnZlcik7CiAgLy8gbG91dChzZXJ2ZXIpOwogIC8vCiAgLy8gbW9kdWxlcyhzZXJ2ZXIpOwogIC8vIHNlcnZlci5pbml0aWFsaXplKCgpID0+IHsKICAvLyAgIGNhbGxiYWNrKHNlcnZlcik7CiAgLy8gfSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>BUILD</text>
+        <text>fun</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIG5ldyBUb2tlblNlcnZpY2UoKQogICAgICAucmVxdWVzdFRva2VuRm9yQ3JlZGVudGlhbHMoCiAgICAgICAgcmVxdWVzdC5wYXlsb2FkLnVzZXJuYW1lLAogICAgICAgIHJlcXVlc3QucGF5bG9hZC5wYXNzd29yZAogICAgICApCiAgICAgIC50aGVuKGF1dGhUb2tlbiA9PiByZXBseSh7IGFjY2Vzc190b2tlbjogYXV0aFRva2VuLnRva2VuIH0pKQogICAgICAuY2F0Y2goKCkgPT4gcmVwbHkoQm9vbS51bmF1dGhvcml6ZWQoKSkpOwo=</text>
@@ -722,9 +729,9 @@
       </register>
     </registers>
     <search>
-      <last-search>BUILD</last-search>
+      <last-search>fun</last-search>
       <last-offset />
-      <last-pattern>BUILD</last-pattern>
+      <last-pattern>fun</last-pattern>
       <last-replace>conference</last-replace>
       <last-substitute>user</last-substitute>
       <last-dir>-1</last-dir>
@@ -732,7 +739,6 @@
     </search>
     <history>
       <history-search>
-        <entry>'src</entry>
         <entry>bab</entry>
         <entry>cop</entry>
         <entry>copy</entry>
@@ -752,6 +758,7 @@
         <entry>src</entry>
         <entry>'</entry>
         <entry>BUILD</entry>
+        <entry>fun</entry>
       </history-search>
       <history-cmd>
         <entry>9</entry>
