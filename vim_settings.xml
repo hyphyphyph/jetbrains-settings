@@ -155,6 +155,11 @@
         <mark key="." line="0" column="31" />
         <mark key="^" line="0" column="31" />
       </file>
+      <file name="Z:/boringcode/core/handler-methods/crud/check-not-found.js" timestamp="1488131221791">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="7" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="Z:/boringcode/tooling/gulp/helpers/copy-files.js" timestamp="1488063807445">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -255,12 +260,12 @@
         <mark key="^" line="67" column="40" />
         <mark key="." line="67" column="40" />
       </file>
-      <file name="Z:/boringcode/core/handlers/base-crud-handler.js" timestamp="1488080797730">
-        <mark key="'" line="26" column="25" />
-        <mark key="[" line="26" column="16" />
-        <mark key="]" line="26" column="25" />
-        <mark key="." line="26" column="25" />
-        <mark key="^" line="26" column="25" />
+      <file name="Z:/boringcode/core/handlers/base-crud-handler.js" timestamp="1488131087633">
+        <mark key="'" line="48" column="3" />
+        <mark key="[" line="40" column="25" />
+        <mark key="]" line="40" column="25" />
+        <mark key="." line="40" column="25" />
+        <mark key="^" line="40" column="30" />
       </file>
       <file name="Z:/partner-platform-api/src/modules/conference-invite/templates/invite-accept-on-behalf-text.hbs" timestamp="1487893572770">
         <mark key="[" line="2" column="13" />
@@ -324,6 +329,12 @@
         <mark key="]" line="6" column="10" />
         <mark key="." line="6" column="10" />
         <mark key="^" line="6" column="10" />
+      </file>
+      <file name="Z:/boringcode/core/serializers/base-serializer.js" timestamp="1488130878654">
+        <mark key="[" line="0" column="15" />
+        <mark key="]" line="0" column="20" />
+        <mark key="^" line="0" column="20" />
+        <mark key="." line="0" column="20" />
       </file>
       <file name="Z:/partner-platform/partner-platform-api/src/modules/conference-invite/templates/invite-resend-html.hbs" timestamp="1487888355278">
         <mark key="[" line="1" column="67" />
@@ -668,10 +679,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="20" filename="Z:/boringcode/tooling/gulp/tasks/core.js" />
-      <jump line="27" column="0" filename="Z:/boringcode/tooling/gulp/tasks/core.js" />
-      <jump line="38" column="17" filename="Z:/boringcode/tooling/gulp/tasks/core.js" />
-      <jump line="23" column="2" filename="Z:/boringcode/tooling/gulp/tasks/src.js" />
       <jump line="27" column="0" filename="Z:/boringcode/tooling/gulp/tasks/src.js" />
       <jump line="37" column="0" filename="Z:/boringcode/tooling/gulp/tasks/src.js" />
       <jump line="43" column="0" filename="Z:/boringcode/tooling/gulp/tasks/src.js" />
@@ -768,55 +775,59 @@
       <jump line="12" column="17" filename="Z:/boringcode/core/modules/user/routes.js" />
       <jump line="26" column="25" filename="Z:/boringcode/core/handlers/base-crud-handler.js" />
       <jump line="0" column="0" filename="Z:/boringcode/README.md" />
+      <jump line="10" column="18" filename="Z:/boringcode/core/handlers/base-crud-handler.js" />
+      <jump line="6" column="34" filename="Z:/boringcode/core/handlers/base-crud-handler.js" />
+      <jump line="31" column="32" filename="Z:/boringcode/core/handlers/base-crud-handler.js" />
+      <jump line="37" column="3" filename="Z:/boringcode/core/handlers/base-crud-handler.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">IyBQYXJ0bmVyIFBsYXRmb3JtIEFQSQoKVGhlIFBhcnRuZXIgUGxhdGZvcm0gaXMgYW4gYXBwbGljYXRpb24gdGhhdCBhbGxvdyBhbiBldmVudCBwYXJ0bmVyIHRvIG1hbmFnZSB3aG8gdGhleSB3YW50IHRvIGludml0ZSB0byB0aGUgZXZlbnQuCgpUaGlzIGlzIGFuIE5vZGUgYXBwbGljYXRpb24gdGhhdCBjb21tdW5pY2F0ZXMgd2l0aCBhIFtDbGllbnRdKGh0dHBzOi8vZ2l0aHViLmNvbS9jMm1vbnRyZWFsL3BhcnRuZXItcGxhdGZvcm0tY2xpZW50KS4KCiMjIFByZXJlcXVpc2l0ZXMKCllvdSB3aWxsIG5lZWQgdGhlIGZvbGxvd2luZyB0aGluZ3MgcHJvcGVybHkgaW5zdGFsbGVkIG9uIHlvdXIgY29tcHV0ZXIuCgoqIFtEb2NrZXJdKGh0dHBzOi8vZG9jcy5kb2NrZXIuY29tL2VuZ2luZS9nZXRzdGFydGVkLykKCiMjIEluc3RhbGxhdGlvbgoKKiBgZ2l0IGNsb25lIGh0dHBzOi8vZ2l0aHViLmNvbS9jMm1vbnRyZWFsL3BhcnRuZXItcGxhdGZvcm0tYXBpYAoqIGBjZCBwYXJ0bmVyLXBsYXRmb3JtLWFwaWAKKiBgY3AgLmVudi5leGFtcGxlIC5lbnZgCiogYGRvY2tlci1jb21wb3NlIGJ1aWxkYAoqIGBkb2NrZXItY29tcG9zZSB1cGAKClRvIGdldCB1cCBhbmQgcnVubmluZy4uLgoKYGBgCnlhcm4gaW5zdGFsbAp5YXJuIHN0YXJ0CmBgYAoKWW91J2xsIGFsc28gbmVlZCB0byBidWlsZCB0aGUgZGF0YWJhc2UuCmBgYApzZXF1ZWxpemUgZGI6bWlncmF0ZQpzZXF1ZWxpemUgZGI6c2VlZDphbGwKYGBgCgpEdXJpbmcgZGV2ZWxvcG1lbnQgaXQgbWlnaHQgYmUgdXNlZnVsIHRvIHRlYXIgZXZlcnl0aGluZyBkb3duIGFuZCByZWJ1aWxkL3Jlc2VlZC4KYGBgCnNlcXVlbGl6ZSBkYjptaWdyYXRlOnVuZG86YWxsICYmIHNlcXVlbGl6ZSBkYjptaWdyYXRlCnNlcXVlbGl6ZSBkYjpzZWVkOnVuZG86YWxsICYmIHNlcXVlbGl6ZSBkYjpzZWVkOmFsbApgYGAKCkdldCBhdXRoIHRva2VuIHZpYQpgYGAKUE9TVCAvbG9naW4geyAidXNlcm5hbWUiOiAiYWRtaW5AYWRtaW4uY29tIiwgInBhc3N3b3JkIjogImFkbWluIiB9CmBgYAoKTm93IHlvdSBjYW4gbWFrZSByZXF1ZXN0cyB0byB0aGUgQVBJIGJ5IGluY2x1ZGluZyBhbiBhdXRob3JpemF0aW9uIHRva2VuOgpgYGAKQXV0aG9yaXphdGlvbjogQmVhcmVyIHt7YXV0aF90b2tlbn19CmBgYAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="-" type="4">
-        <text>validation</text>
+        <text>, reply</text>
       </register>
       <register name="/" type="4">
-        <text>cr</text>
+        <text>ser</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBtYWtlUm91dGUoJy91c2Vycy97aWR9JywgJ0RFTEVURScsIFVzZXJDcnVkSGFuZGxlciwgJ2NydWREZWxldGUnKShzZXJ2ZXIpOwo=</text>
+        <text encoding="base64">ICAgIGRiLmNvbm5lY3Rpb24oKQogICAgICAudGhlbihjb25uZWN0aW9uID0+IG5ldyB0aGlzLmNvbnN0cnVjdG9yLk1PREVMKHsgY29ubmVjdGlvbiB9KS5maW5kQWxsKCkpCiAgICAgIC50aGVuKGluc3RhbmNlcyA9PiB0aGlzLnNlcmlhbGl6ZShpbnN0YW5jZXMpKQogICAgICAudGhlbihpbnN0YW5jZXMgPT4gcmVwbHkoaW5zdGFuY2VzKSkKICAgICAgLmNhdGNoKGVyciA9PiByZXBseShlcnIuYm9vbSgpKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBQYXJ0bmVyIFBsYXRmb3JtIEFQSQoKVGhlIFBhcnRuZXIgUGxhdGZvcm0gaXMgYW4gYXBwbGljYXRpb24gdGhhdCBhbGxvdyBhbiBldmVudCBwYXJ0bmVyIHRvIG1hbmFnZSB3aG8gdGhleSB3YW50IHRvIGludml0ZSB0byB0aGUgZXZlbnQuCgpUaGlzIGlzIGFuIE5vZGUgYXBwbGljYXRpb24gdGhhdCBjb21tdW5pY2F0ZXMgd2l0aCBhIFtDbGllbnRdKGh0dHBzOi8vZ2l0aHViLmNvbS9jMm1vbnRyZWFsL3BhcnRuZXItcGxhdGZvcm0tY2xpZW50KS4KCiMjIFByZXJlcXVpc2l0ZXMKCllvdSB3aWxsIG5lZWQgdGhlIGZvbGxvd2luZyB0aGluZ3MgcHJvcGVybHkgaW5zdGFsbGVkIG9uIHlvdXIgY29tcHV0ZXIuCgoqIFtEb2NrZXJdKGh0dHBzOi8vZG9jcy5kb2NrZXIuY29tL2VuZ2luZS9nZXRzdGFydGVkLykKCiMjIEluc3RhbGxhdGlvbgoKKiBgZ2l0IGNsb25lIGh0dHBzOi8vZ2l0aHViLmNvbS9jMm1vbnRyZWFsL3BhcnRuZXItcGxhdGZvcm0tYXBpYAoqIGBjZCBwYXJ0bmVyLXBsYXRmb3JtLWFwaWAKKiBgY3AgLmVudi5leGFtcGxlIC5lbnZgCiogYGRvY2tlci1jb21wb3NlIGJ1aWxkYAoqIGBkb2NrZXItY29tcG9zZSB1cGAKClRvIGdldCB1cCBhbmQgcnVubmluZy4uLgoKYGBgCnlhcm4gaW5zdGFsbAp5YXJuIHN0YXJ0CmBgYAoKWW91J2xsIGFsc28gbmVlZCB0byBidWlsZCB0aGUgZGF0YWJhc2UuCmBgYApzZXF1ZWxpemUgZGI6bWlncmF0ZQpzZXF1ZWxpemUgZGI6c2VlZDphbGwKYGBgCgpEdXJpbmcgZGV2ZWxvcG1lbnQgaXQgbWlnaHQgYmUgdXNlZnVsIHRvIHRlYXIgZXZlcnl0aGluZyBkb3duIGFuZCByZWJ1aWxkL3Jlc2VlZC4KYGBgCnNlcXVlbGl6ZSBkYjptaWdyYXRlOnVuZG86YWxsICYmIHNlcXVlbGl6ZSBkYjptaWdyYXRlCnNlcXVlbGl6ZSBkYjpzZWVkOnVuZG86YWxsICYmIHNlcXVlbGl6ZSBkYjpzZWVkOmFsbApgYGAKCkdldCBhdXRoIHRva2VuIHZpYQpgYGAKUE9TVCAvbG9naW4geyAidXNlcm5hbWUiOiAiYWRtaW5AYWRtaW4uY29tIiwgInBhc3N3b3JkIjogImFkbWluIiB9CmBgYAoKTm93IHlvdSBjYW4gbWFrZSByZXF1ZXN0cyB0byB0aGUgQVBJIGJ5IGluY2x1ZGluZyBhbiBhdXRob3JpemF0aW9uIHRva2VuOgpgYGAKQXV0aG9yaXphdGlvbjogQmVhcmVyIHt7YXV0aF90b2tlbn19CmBgYAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJlcGx5KCdTSE9XIE9ORScpOwo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IAo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">OwoKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBkb1NvbWV0aGluZyhyZXF1ZXN0LCByZXBseSkgewogICAgcmVwbHkoJ1lBWUEnKQogIH0K</text>
+        <text encoding="base64">ICAgIHJlcGx5KCdTSE9XIEFMTCcpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgbWFrZVJvdXRlKCcvYmxlaCcsICdHRVQnLCBVc2VyQ3J1ZEhhbmRsZXIsICdkb1NvbWV0aGluZycpKHNlcnZlcik7Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuY29uc3RydWN0b3IuTU9ERUwuZmluZEFsbCgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNydWREZWxldGUodGhpcywgcmVxdWVzdCwgcmVwbHkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNydWRVcGRhdGUodGhpcywgcmVxdWVzdCwgcmVwbHkpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBtYWtlUm91dGUoc2VydmVyKSgnL2JsYWgnLCAnR0VUJywgVXNlckNydWRIYW5kbGVyLCAnZG9Tb21ldGhpbmcnKTsKCiAgc2VydmVyLnJvdXRlKHsKICAgIG1ldGhvZDogJ0dFVCcsCiAgICBwYXRoOiAnL2JsZWgnLAogICAgY29uZmlnOiB7CiAgICAgIGhhbmRsZXI6IChyZXF1ZXN0LCByZXBseSkgPT4KICAgICAgICBuZXcgbmV3IFVzZXJDcnVkSGFuZGxlcigpWydkb1NvbWV0aGluZyddKHJlcXVlc3QsIHJlcGx5KQogICAgfQogIH0pOwoK</text>
+        <text encoding="base64">ICAgIGNydWRDcmVhdGUodGhpcywgcmVxdWVzdCwgcmVwbHkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNydWRTaG93T25lKHRoaXMsIHJlcXVlc3QsIHJlcGx5KTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>cr</last-search>
+      <last-search>ser</last-search>
       <last-offset />
-      <last-pattern>cr</last-pattern>
+      <last-pattern>ser</last-pattern>
       <last-replace>conference</last-replace>
       <last-substitute>user</last-substitute>
       <last-dir>1</last-dir>
@@ -824,9 +835,6 @@
     </search>
     <history>
       <history-search>
-        <entry>watch</entry>
-        <entry>gulp</entry>
-        <entry>,</entry>
         <entry encoding="base64">XDxjb3B5XD4=</entry>
         <entry>src</entry>
         <entry>'</entry>
@@ -844,6 +852,9 @@
         <entry>DELK</entry>
         <entry>DELETE</entry>
         <entry>cr</entry>
+        <entry>ALL</entry>
+        <entry>SHOW</entry>
+        <entry>ser</entry>
       </history-search>
       <history-cmd>
         <entry>9</entry>
