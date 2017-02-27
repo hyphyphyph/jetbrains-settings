@@ -650,10 +650,6 @@
       </file>
       <file name="Z:/invite-api/.gitignore" timestamp="1488236295337">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
-        <mark key="^" line="41" column="18" />
       </file>
       <file name="Z:/partner-platform-api/src/modules/conference-invite/templates/invite-cancel-on-behalf-html.hbs" timestamp="1487893592959">
         <mark key="[" line="1" column="59" />
@@ -661,7 +657,7 @@
         <mark key="^" line="2" column="13" />
         <mark key="." line="2" column="13" />
       </file>
-      <file name="/Dummy.txt" timestamp="1488236376238">
+      <file name="/Dummy.txt" timestamp="1488236826216">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="10" />
       </file>
