@@ -58,6 +58,9 @@
       <file name="Z:/invite-api/package.json" timestamp="1488221785368">
         <mark key="'" line="9" column="32" />
       </file>
+      <file name="Z:/invite-api/src/modules/core/base-handler.js" timestamp="1488238153082">
+        <mark key="'" line="198" column="0" />
+      </file>
       <file name="Z:/boringcode/src/models/user/deleteById.sql" timestamp="1487916606534">
         <mark key="[" line="1" column="18" />
         <mark key="]" line="1" column="17" />
@@ -69,6 +72,13 @@
         <mark key="]" line="0" column="14" />
         <mark key="^" line="0" column="14" />
         <mark key="." line="0" column="14" />
+      </file>
+      <file name="Z:/invite-api/src/modules/quota/routes.js" timestamp="1488238162932">
+        <mark key="'" line="23" column="40" />
+        <mark key="[" line="23" column="48" />
+        <mark key="]" line="23" column="51" />
+        <mark key="^" line="23" column="51" />
+        <mark key="." line="23" column="51" />
       </file>
       <file name="Z:/boringcode/gulpfile.js" timestamp="1488068161351">
         <mark key="'" line="27" column="0" />
@@ -751,6 +761,12 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
+      <file name="Z:/invite-api/src/modules/quota/services/quota.service.js" timestamp="1488238700431">
+        <mark key="[" line="19" column="2" />
+        <mark key="]" line="19" column="18" />
+        <mark key="^" line="19" column="18" />
+        <mark key="." line="19" column="18" />
+      </file>
       <file name="Z:/partner-platform-api/.env" timestamp="1487955849397">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="7" column="9" />
@@ -764,6 +780,13 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
         <mark key="^" line="2" column="47" />
+      </file>
+      <file name="Z:/invite-api/src/modules/quota/handlers/quota-crud.handler.js" timestamp="1488238692919">
+        <mark key="'" line="33" column="0" />
+        <mark key="[" line="24" column="29" />
+        <mark key="]" line="24" column="34" />
+        <mark key="." line="24" column="34" />
+        <mark key="^" line="24" column="34" />
       </file>
       <file name="Z:/boringcode/migrations/0010-create-auth-tokens/down.sql" timestamp="1488140267803">
         <mark key="[" line="0" column="18" />
@@ -793,11 +816,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="40" filename="Z:/boringcode/tooling/gulp/tasks/src.js" />
-      <jump line="3" column="38" filename="Z:/boringcode/tooling/gulp/tasks/src.js" />
-      <jump line="9" column="73" filename="Z:/boringcode/tooling/gulp/tasks/src.js" />
-      <jump line="10" column="18" filename="Z:/boringcode/tooling/gulp/tasks/migrations.js" />
-      <jump line="17" column="2" filename="Z:/boringcode/tooling/gulp/tasks/migrations.js" />
       <jump line="0" column="31" filename="Z:/boringcode/tooling/gulp/tasks/migrations.js" />
       <jump line="31" column="57" filename="Z:/boringcode/tooling/gulp/tasks/migrations.js" />
       <jump line="25" column="0" filename="Z:/boringcode/tooling/gulp/tasks/migrations.js" />
@@ -893,55 +911,60 @@
       <jump line="35" column="14" filename="Z:/invite-api/.gitignore" />
       <jump line="34" column="0" filename="Z:/invite-api/.gitignore" />
       <jump line="0" column="0" filename="Z:/invite-api/.gitignore" />
+      <jump line="18" column="24" filename="Z:/invite-api/src/modules/quota/routes.js" />
+      <jump line="132" column="0" filename="Z:/invite-api/src/modules/core/base-handler.js" />
+      <jump line="198" column="0" filename="Z:/invite-api/src/modules/core/base-handler.js" />
+      <jump line="23" column="40" filename="Z:/invite-api/src/modules/quota/routes.js" />
+      <jump line="28" column="0" filename="Z:/invite-api/src/modules/quota/handlers/quota-crud.handler.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">LmlkZWEvKiovd29ya3NwYWNlLnhtbAo=</text>
+      <register name="&quot;" type="4">
+        <text>setAllocations</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>setAllocations</text>
       </register>
       <register name="/" type="4">
-        <text>log</text>
+        <text>V</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICJtaWdyYXRlIjogInNlcXVlbGl6ZSBkYjptaWdyYXRlIiwK</text>
+        <text encoding="base64">ICAgIGNvbnN0IHF1ZXJ5ID0gYAogICAgICBTRUxFQ1QKICAgICAgICAicGFzc0lkIiwKICAgICAgICBDT1VOVChpZCkgYXMgY291bnQsCiAgICAgICAgKCJjb25mZXJlbmNlSW52aXRlSWQiIElTIE5PVCBOVUxMKSBBUyBhc3NvY2lhdGVkCiAgICAgIEZST00gIlBhc3NBbGxvY2F0aW9ucyIKICAgICAgV0hFUkUgInBhcnRuZXJJZCIgPSA6cGFydG5lcklkCiAgICAgIEdST1VQIEJZICggInBhc3NJZCIsIGFzc29jaWF0ZWQgKTsKICAgIGA7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LmlkZWEvKiovd29ya3NwYWNlLnhtbAo=</text>
+        <text encoding="base64">ICAgICAgLnRoZW4oKCkgPT4geyBjb25zb2xlLmxvZyh0aGlzLmRlc2VyaWFsaXplZERhdGEpIH0pCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhpbnN0YW5jZSk7CiAgICAgICAgLy8gbmV3IFF1b3RhU2VydmljZS5nZXRRdW90YUJ5UGFydG5lcklkKCkKICAgICAgfSkK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">LmlkZWEvCg==</text>
+      <register name="3" type="4">
+        <text>Create</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">LmlkZWEvKiovd29ya3NwYWNlLnhtbAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJzZXF1ZWxpemUtY2xpIjogIl4yLjUuMSIsCg==</text>
+        <text encoding="base64">LmlkZWEvCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJndWxwLW1vY2hhIjogIl4zLjAuMSIsCiAgICAiZ3VscC1ub2RlbW9uIjogIl4yLjIuMSIsCiAgICAiZ3VscC13YXRjaCI6ICJeNC4zLjExIiwK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJndWxwLXNvdXJjZW1hcHMiOiAiXjEuOS4xIiwK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJndWxwIjogIl4zLjkuMSIsCiAgICAiZ3VscC1iYWJlbCI6ICJeNi4xLjIiLAo=</text>
+        <text encoding="base64">ICAgICJzZXF1ZWxpemUtY2xpIjogIl4yLjUuMSIsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>log</last-search>
+      <last-search>V</last-search>
       <last-offset />
-      <last-pattern>log</last-pattern>
+      <last-pattern>V</last-pattern>
       <last-replace>conference</last-replace>
       <last-substitute>user</last-substitute>
       <last-dir>1</last-dir>
@@ -949,8 +972,6 @@
     </search>
     <history>
       <history-search>
-        <entry>build</entry>
-        <entry>By</entry>
         <entry>Mo</entry>
         <entry>save</entry>
         <entry>et</entry>
@@ -958,7 +979,6 @@
         <entry>)</entry>
         <entry>d</entry>
         <entry>Data</entry>
-        <entry>C</entry>
         <entry encoding="base64">XDxzYXZlTmV3TW9kZWxJbnN0YW5jZVw+</entry>
         <entry>server</entry>
         <entry encoding="base64">ICAg</entry>
@@ -969,6 +989,9 @@
         <entry>seq</entry>
         <entry>partner</entry>
         <entry>log</entry>
+        <entry>{{</entry>
+        <entry>C</entry>
+        <entry>V</entry>
       </history-search>
       <history-cmd>
         <entry>9</entry>
