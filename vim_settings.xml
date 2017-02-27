@@ -616,6 +616,10 @@
         <mark key="^" line="2" column="13" />
         <mark key="." line="2" column="13" />
       </file>
+      <file name="/Dummy.txt" timestamp="1488211711023">
+        <mark key="[" line="0" column="0" />
+        <mark key="." line="0" column="28" />
+      </file>
       <file name="Z:/partner-platform-api/src/modules/conference-invite/templates/invite-auto-accept-text.hbs" timestamp="1487894815806">
         <mark key="[" line="1" column="4" />
         <mark key="]" line="1" column="32" />
