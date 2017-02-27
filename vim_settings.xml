@@ -648,15 +648,22 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="21" />
       </file>
+      <file name="Z:/invite-api/.gitignore" timestamp="1488235434805">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="^" line="34" column="8" />
+        <mark key="." line="39" column="0" />
+      </file>
       <file name="Z:/partner-platform-api/src/modules/conference-invite/templates/invite-cancel-on-behalf-html.hbs" timestamp="1487893592959">
         <mark key="[" line="1" column="59" />
         <mark key="]" line="2" column="13" />
         <mark key="^" line="2" column="13" />
         <mark key="." line="2" column="13" />
       </file>
-      <file name="/Dummy.txt" timestamp="1488234815864">
+      <file name="/Dummy.txt" timestamp="1488235566821">
         <mark key="[" line="0" column="0" />
-        <mark key="." line="0" column="18" />
+        <mark key="." line="0" column="8" />
       </file>
       <file name="Z:/partner-platform-api/src/modules/conference-invite/templates/invite-auto-accept-text.hbs" timestamp="1487894815806">
         <mark key="[" line="1" column="4" />
@@ -790,9 +797,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="27" filename="Z:/boringcode/tooling/gulp/reusable-tasks/babel-watch.js" />
-      <jump line="19" column="11" filename="Z:/boringcode/tooling/gulp/tasks/src.js" />
-      <jump line="15" column="0" filename="Z:/boringcode/tooling/gulp/tasks/src.js" />
       <jump line="2" column="40" filename="Z:/boringcode/tooling/gulp/tasks/src.js" />
       <jump line="3" column="38" filename="Z:/boringcode/tooling/gulp/tasks/src.js" />
       <jump line="9" column="73" filename="Z:/boringcode/tooling/gulp/tasks/src.js" />
@@ -890,55 +894,58 @@
       <jump line="53" column="5" filename="Z:/invite-api/package.json" />
       <jump line="8" column="16" filename="Z:/invite-api/package.json" />
       <jump line="9" column="32" filename="Z:/invite-api/package.json" />
+      <jump line="35" column="14" filename="Z:/invite-api/.gitignore" />
+      <jump line="34" column="0" filename="Z:/invite-api/.gitignore" />
+      <jump line="0" column="0" filename="Z:/invite-api/.gitignore" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>partner_platform</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">LmlkZWEvCg==</text>
       </register>
       <register name="-" type="4">
         <text>partner_platform</text>
       </register>
       <register name="/" type="4">
-        <text>partner</text>
+        <text>log</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICJtaWdyYXRlIjogInNlcXVlbGl6ZSBkYjptaWdyYXRlIiwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">LmlkZWEvCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJzZXF1ZWxpemUtY2xpIjogIl4yLjUuMSIsCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJndWxwLW1vY2hhIjogIl4zLjAuMSIsCiAgICAiZ3VscC1ub2RlbW9uIjogIl4yLjIuMSIsCiAgICAiZ3VscC13YXRjaCI6ICJeNC4zLjExIiwK</text>
+        <text encoding="base64">ICAgICJzZXF1ZWxpemUtY2xpIjogIl4yLjUuMSIsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJndWxwLXNvdXJjZW1hcHMiOiAiXjEuOS4xIiwK</text>
+        <text encoding="base64">ICAgICJndWxwLW1vY2hhIjogIl4zLjAuMSIsCiAgICAiZ3VscC1ub2RlbW9uIjogIl4yLjIuMSIsCiAgICAiZ3VscC13YXRjaCI6ICJeNC4zLjExIiwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJndWxwIjogIl4zLjkuMSIsCiAgICAiZ3VscC1iYWJlbCI6ICJeNi4xLjIiLAo=</text>
+        <text encoding="base64">ICAgICJndWxwLXNvdXJjZW1hcHMiOiAiXjEuOS4xIiwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJiYWJlbC1jb3JlIjogIl42LjIxLjAiLAogICAgImJhYmVsLWVzbGludCI6ICJeNy4xLjEiLAogICAgImJhYmVsLXBsdWdpbi10cmFuc2Zvcm0tb2JqZWN0LXJlc3Qtc3ByZWFkIjogIl42LjIyLjAiLAogICAgImJhYmVsLXByZXNldC1lczIwMTUiOiAiXjYuMTguMCIsCiAgICAiYmFiZWwtcm9vdC1pbXBvcnQiOiAiXjQuMS41IiwK</text>
+        <text encoding="base64">ICAgICJndWxwIjogIl4zLjkuMSIsCiAgICAiZ3VscC1iYWJlbCI6ICJeNi4xLjIiLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJjaGFpIjogIl4zLjUuMCIsCg==</text>
+        <text encoding="base64">ICAgICJiYWJlbC1jb3JlIjogIl42LjIxLjAiLAogICAgImJhYmVsLWVzbGludCI6ICJeNy4xLjEiLAogICAgImJhYmVsLXBsdWdpbi10cmFuc2Zvcm0tb2JqZWN0LXJlc3Qtc3ByZWFkIjogIl42LjIyLjAiLAogICAgImJhYmVsLXByZXNldC1lczIwMTUiOiAiXjYuMTguMCIsCiAgICAiYmFiZWwtcm9vdC1pbXBvcnQiOiAiXjQuMS41IiwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgZXhlYyA9IHJlcXVpcmUoJ2NoaWxkX3Byb2Nlc3MnKS5leGVjOwo=</text>
+        <text encoding="base64">ICAgICJjaGFpIjogIl4zLjUuMCIsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>partner</last-search>
+      <last-search>log</last-search>
       <last-offset />
-      <last-pattern>partner</last-pattern>
+      <last-pattern>log</last-pattern>
       <last-replace>conference</last-replace>
       <last-substitute>user</last-substitute>
       <last-dir>1</last-dir>
@@ -946,7 +953,6 @@
     </search>
     <history>
       <history-search>
-        <entry>No</entry>
         <entry>build</entry>
         <entry>By</entry>
         <entry>Mo</entry>
@@ -966,6 +972,7 @@
         <entry>gulp</entry>
         <entry>seq</entry>
         <entry>partner</entry>
+        <entry>log</entry>
       </history-search>
       <history-cmd>
         <entry>9</entry>
