@@ -55,12 +55,8 @@
         <mark key="." line="11" column="31" />
         <mark key="^" line="11" column="31" />
       </file>
-      <file name="Z:/invite-api/package.json" timestamp="1488221061142">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="8" column="36" />
-        <mark key="]" line="8" column="35" />
-        <mark key="^" line="8" column="35" />
-        <mark key="." line="8" column="35" />
+      <file name="Z:/invite-api/package.json" timestamp="1488221785368">
+        <mark key="'" line="9" column="32" />
       </file>
       <file name="Z:/boringcode/src/models/user/deleteById.sql" timestamp="1487916606534">
         <mark key="[" line="1" column="18" />
@@ -68,11 +64,11 @@
         <mark key="^" line="1" column="17" />
         <mark key="." line="1" column="17" />
       </file>
-      <file name="Z:/invite-api/Procfile" timestamp="1488212478041">
-        <mark key="[" line="0" column="44" />
-        <mark key="]" line="0" column="54" />
-        <mark key="^" line="0" column="54" />
-        <mark key="." line="0" column="54" />
+      <file name="Z:/invite-api/Procfile" timestamp="1488221814591">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="0" column="14" />
+        <mark key="^" line="0" column="14" />
+        <mark key="." line="0" column="14" />
       </file>
       <file name="Z:/boringcode/gulpfile.js" timestamp="1488068161351">
         <mark key="'" line="27" column="0" />
@@ -783,9 +779,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="23" filename="Z:/boringcode/tooling/gulp/reusable-tasks/babel-watch.js" />
-      <jump line="6" column="21" filename="Z:/boringcode/tooling/gulp/reusable-tasks/babel-watch.js" />
-      <jump line="9" column="2" filename="Z:/boringcode/tooling/gulp/reusable-tasks/babel.js" />
       <jump line="7" column="27" filename="Z:/boringcode/tooling/gulp/reusable-tasks/babel-watch.js" />
       <jump line="19" column="11" filename="Z:/boringcode/tooling/gulp/tasks/src.js" />
       <jump line="15" column="0" filename="Z:/boringcode/tooling/gulp/tasks/src.js" />
@@ -881,57 +874,60 @@
       <jump line="51" column="5" filename="Z:/invite-api/package.json" />
       <jump line="7" column="64" filename="Z:/invite-api/package.json" />
       <jump line="57" column="0" filename="Z:/invite-api/package.json" />
-      <jump line="53" column="0" filename="Z:/invite-api/package.json" />
       <jump line="0" column="0" filename="Z:/invite-api/package.json" />
+      <jump line="12" column="27" filename="Z:/invite-api/package.json" />
+      <jump line="53" column="5" filename="Z:/invite-api/package.json" />
+      <jump line="8" column="16" filename="Z:/invite-api/package.json" />
+      <jump line="9" column="32" filename="Z:/invite-api/package.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJzZXF1ZWxpemUtY2xpIjogIl4yLjUuMSIsCg==</text>
+      <register name="&quot;" type="4">
+        <text>node node_modules/gulp/bin/gulp server:production:start</text>
       </register>
       <register name="-" type="4">
-        <text>HOST</text>
+        <text>node node_modules/gulp/bin/gulp server:production:start</text>
       </register>
       <register name="/" type="4">
-        <text>gulp</text>
+        <text>seq</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBob3N0OiBQT1NUR1JFU19IT1NUCg==</text>
+        <text encoding="base64">ICAgICJtaWdyYXRlIjogInNlcXVlbGl6ZSBkYjptaWdyYXRlIiwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJzZXF1ZWxpemUtY2xpIjogIl4yLjUuMSIsCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJndWxwLW1vY2hhIjogIl4zLjAuMSIsCiAgICAiZ3VscC1ub2RlbW9uIjogIl4yLjIuMSIsCiAgICAiZ3VscC13YXRjaCI6ICJeNC4zLjExIiwK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJndWxwLXNvdXJjZW1hcHMiOiAiXjEuOS4xIiwK</text>
+        <text encoding="base64">ICAgICJzZXF1ZWxpemUtY2xpIjogIl4yLjUuMSIsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJndWxwIjogIl4zLjkuMSIsCiAgICAiZ3VscC1iYWJlbCI6ICJeNi4xLjIiLAo=</text>
+        <text encoding="base64">ICAgICJndWxwLW1vY2hhIjogIl4zLjAuMSIsCiAgICAiZ3VscC1ub2RlbW9uIjogIl4yLjIuMSIsCiAgICAiZ3VscC13YXRjaCI6ICJeNC4zLjExIiwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJiYWJlbC1jb3JlIjogIl42LjIxLjAiLAogICAgImJhYmVsLWVzbGludCI6ICJeNy4xLjEiLAogICAgImJhYmVsLXBsdWdpbi10cmFuc2Zvcm0tb2JqZWN0LXJlc3Qtc3ByZWFkIjogIl42LjIyLjAiLAogICAgImJhYmVsLXByZXNldC1lczIwMTUiOiAiXjYuMTguMCIsCiAgICAiYmFiZWwtcm9vdC1pbXBvcnQiOiAiXjQuMS41IiwK</text>
+        <text encoding="base64">ICAgICJndWxwLXNvdXJjZW1hcHMiOiAiXjEuOS4xIiwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJjaGFpIjogIl4zLjUuMCIsCg==</text>
+        <text encoding="base64">ICAgICJndWxwIjogIl4zLjkuMSIsCiAgICAiZ3VscC1iYWJlbCI6ICJeNi4xLjIiLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgZXhlYyA9IHJlcXVpcmUoJ2NoaWxkX3Byb2Nlc3MnKS5leGVjOwo=</text>
+        <text encoding="base64">ICAgICJiYWJlbC1jb3JlIjogIl42LjIxLjAiLAogICAgImJhYmVsLWVzbGludCI6ICJeNy4xLjEiLAogICAgImJhYmVsLXBsdWdpbi10cmFuc2Zvcm0tb2JqZWN0LXJlc3Qtc3ByZWFkIjogIl42LjIyLjAiLAogICAgImJhYmVsLXByZXNldC1lczIwMTUiOiAiXjYuMTguMCIsCiAgICAiYmFiZWwtcm9vdC1pbXBvcnQiOiAiXjQuMS41IiwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fTsK</text>
+        <text encoding="base64">ICAgICJjaGFpIjogIl4zLjUuMCIsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CmV4cG9ydHMudGFza1Byb2R1Y3Rpb25TZXJ2ZXIgPSAoY2IpID0+IHsKICBleGVjKCdub2RlIEJVSUxEL3NyYy9pbmRleC5qcycsIChlcnIsIHN0ZG91dCwgc3RkZXJyKSA9PiB7fSk7CiAgY2IoKTsKfTsK</text>
+        <text encoding="base64">Y29uc3QgZXhlYyA9IHJlcXVpcmUoJ2NoaWxkX3Byb2Nlc3MnKS5leGVjOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>gulp</last-search>
+      <last-search>seq</last-search>
       <last-offset />
-      <last-pattern>gulp</last-pattern>
+      <last-pattern>seq</last-pattern>
       <last-replace>conference</last-replace>
       <last-substitute>user</last-substitute>
       <last-dir>1</last-dir>
@@ -939,7 +935,6 @@
     </search>
     <history>
       <history-search>
-        <entry>SHOW</entry>
         <entry>ser</entry>
         <entry>No</entry>
         <entry>build</entry>
@@ -959,6 +954,7 @@
         <entry>sequelize</entry>
         <entry>cli</entry>
         <entry>gulp</entry>
+        <entry>seq</entry>
       </history-search>
       <history-cmd>
         <entry>9</entry>
