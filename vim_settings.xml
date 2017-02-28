@@ -67,6 +67,13 @@
         <mark key="^" line="0" column="14" />
         <mark key="." line="0" column="14" />
       </file>
+      <file name="Z:/invite-api/src/models/pass-option.model.js" timestamp="1488314737036">
+        <mark key="'" line="52" column="39" />
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="56" column="11" />
+        <mark key="^" line="53" column="24" />
+        <mark key="." line="54" column="27" />
+      </file>
       <file name="Z:/invite-api/src/modules/quota/routes.js" timestamp="1488253326988">
         <mark key="'" line="45" column="42" />
         <mark key="[" line="16" column="0" />
@@ -215,6 +222,12 @@
         <mark key="]" line="16" column="1" />
         <mark key="^" line="16" column="1" />
         <mark key="." line="16" column="1" />
+      </file>
+      <file name="Z:/invite-api/src/models/pass.model.js" timestamp="1488314712213">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="51" column="11" />
+        <mark key="^" line="49" column="32" />
+        <mark key="." line="49" column="32" />
       </file>
       <file name="Z:/partner-platform-api/src/modules/conference-invite/templates/invite-resend-html.hbs" timestamp="1487893538784">
         <mark key="[" line="2" column="13" />
@@ -430,6 +443,10 @@
         <mark key="]" line="1" column="17" />
         <mark key="." line="1" column="17" />
         <mark key="^" line="1" column="17" />
+      </file>
+      <file name="Z:/invite-api/src/models/user.model.js" timestamp="1488314307805">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="57" column="11" />
       </file>
       <file name="Z:/partner-platform-api/src/modules/partner/jsonapi/partner.jsonapi.js" timestamp="1487965674478">
         <mark key="[" line="53" column="0" />
@@ -801,12 +818,12 @@
         <mark key="^" line="39" column="0" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="Z:/invite-api/src/models/quota.model.js" timestamp="1488253155075">
-        <mark key="'" line="55" column="28" />
-        <mark key="[" line="0" column="29" />
-        <mark key="]" line="0" column="29" />
-        <mark key="." line="0" column="29" />
-        <mark key="^" line="0" column="29" />
+      <file name="Z:/invite-api/src/models/quota.model.js" timestamp="1488314759999">
+        <mark key="'" line="64" column="28" />
+        <mark key="[" line="54" column="27" />
+        <mark key="]" line="54" column="33" />
+        <mark key="." line="54" column="33" />
+        <mark key="^" line="54" column="33" />
       </file>
       <file name="Z:/partner-platform-api/src/models/pass-option.model.js" timestamp="1487975343890">
         <mark key="'" line="49" column="1" />
@@ -890,7 +907,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="27" filename="Z:/invite-api/package.json" />
       <jump line="53" column="5" filename="Z:/invite-api/package.json" />
       <jump line="8" column="16" filename="Z:/invite-api/package.json" />
       <jump line="9" column="32" filename="Z:/invite-api/package.json" />
@@ -990,19 +1006,20 @@
       <jump line="0" column="0" filename="Z:/invite-api/db/migrations/20170228195156-create-pass-option-pass.js" />
       <jump line="0" column="0" filename="Z:/invite-api/db/migrations/20170228195629-create-pass-option-quota.js" />
       <jump line="38" column="0" filename="Z:/invite-api/db/migrations/20170222214032-create-pass-options.js" />
+      <jump line="52" column="39" filename="Z:/invite-api/src/models/pass-option.model.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBuYW1lOiB7CiAgICAgICAgICB0eXBlOiBTZXF1ZWxpemUuVEVYVAogICAgICAgIH0sCgo=</text>
+      <register name="&quot;" type="4">
+        <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>Quotas</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
-        <text>name</text>
+        <text>P</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">J3VzZSBzdHJpY3QnOwoKY29uc3QgVEFCTEVfTkFNRSA9ICdQYXNzT3B0aW9uUGFzcyc7Cgptb2R1bGUuZXhwb3J0cyA9IHsKICB1cDogKHF1ZXJ5SW50ZXJmYWNlLCBTZXF1ZWxpemUpID0+IHsKICAgIHJldHVybiBxdWVyeUludGVyZmFjZS5jcmVhdGVUYWJsZSgKICAgICAgVEFCTEVfTkFNRSwKICAgICAgewoKICAgICAgICBwYXNzSWQ6IHsKICAgICAgICAgIHByaW1hcnlLZXk6IHRydWUsCiAgICAgICAgICB0eXBlOiBTZXF1ZWxpemUuVVVJRCwKICAgICAgICAgIHJlZmVyZW5jZXM6IHsKICAgICAgICAgICAgbW9kZWw6ICdQYXNzJywKICAgICAgICAgICAga2V5OiAnaWQnCiAgICAgICAgICB9LAogICAgICAgICAgb25VcGRhdGU6ICdDQVNDQURFJywKICAgICAgICAgIG9uRGVsZXRlOiAnQ0FTQ0FERScKICAgICAgICB9LAoKICAgICAgICBwYXNzT3B0aW9uSWQ6IHsKICAgICAgICAgIHByaW1hcnlLZXk6IHRydWUsCiAgICAgICAgICB0eXBlOiBTZXF1ZWxpemUuVVVJRCwKICAgICAgICAgIHJlZmVyZW5jZXM6IHsKICAgICAgICAgICAgbW9kZWw6ICdQYXNzT3B0aW9uJywKICAgICAgICAgICAga2V5OiAnaWQnCiAgICAgICAgICB9LAogICAgICAgICAgb25VcGRhdGU6ICdDQVNDQURFJywKICAgICAgICAgIG9uRGVsZXRlOiAnQ0FTQ0FERScKICAgICAgICB9LAoKICAgICAgICBjcmVhdGVkQXQ6IHsKICAgICAgICAgIGFsbG93TnVsbDogdHJ1ZSwKICAgICAgICAgIHR5cGU6IFNlcXVlbGl6ZS5EQVRFCiAgICAgICAgfSwKCiAgICAgICAgdXBkYXRlZEF0OiB7CiAgICAgICAgICBhbGxvd051bGw6IHRydWUsCiAgICAgICAgICB0eXBlOiBTZXF1ZWxpemUuREFURQogICAgICAgIH0KCiAgICAgIH0KICAgICk7CiAgfSwKCiAgZG93bjogKHF1ZXJ5SW50ZXJmYWNlKSA9PiB7CiAgICByZXR1cm4gcXVlcnlJbnRlcmZhY2UuZHJvcFRhYmxlKFRBQkxFX05BTUUsIHsgY2FzY2FkZTogdHJ1ZSB9KTsKICB9Cn07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIFBhc3NPcHRpb24uYmVsb25nc1RvTWFueSgKICAgICAgICAgICAgbW9kZWxzLlF1b3RhLAogICAgICAgICAgICB7CiAgICAgICAgICAgICAgdGhyb3VnaDogJ1Bhc3NPcHRpb25RdW90YScsCiAgICAgICAgICAgICAgYXM6ICdxdW90YXMnLAogICAgICAgICAgICAgIGZvcmVpZ25LZXk6ICdwYXNzT3B0aW9uSWQnCiAgICAgICAgICAgIH0KICAgICAgICAgICk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBuYW1lOiB7CiAgICAgICAgICB0eXBlOiBTZXF1ZWxpemUuVEVYVAogICAgICAgIH0sCgo=</text>
@@ -1036,9 +1053,9 @@
       </register>
     </registers>
     <search>
-      <last-search>name</last-search>
+      <last-search>P</last-search>
       <last-offset />
-      <last-pattern>name</last-pattern>
+      <last-pattern>P</last-pattern>
       <last-replace>conference</last-replace>
       <last-substitute>user</last-substitute>
       <last-dir>-1</last-dir>
@@ -1064,8 +1081,8 @@
         <entry>console</entry>
         <entry>con</entry>
         <entry>`</entry>
-        <entry>P</entry>
         <entry>name</entry>
+        <entry>P</entry>
       </history-search>
       <history-cmd>
         <entry>9</entry>
