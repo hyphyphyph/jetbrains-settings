@@ -690,7 +690,7 @@
         <mark key="^" line="2" column="13" />
         <mark key="." line="2" column="13" />
       </file>
-      <file name="Z:/invite-api/src/models/conference-invite.model.js" timestamp="1488245689698">
+      <file name="Z:/invite-api/src/models/conference-invite.model.js" timestamp="1488305518999">
         <mark key="[" line="127" column="0" />
         <mark key="]" line="157" column="6" />
       </file>
@@ -704,6 +704,7 @@
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="Z:/invite-api/src/modules/conference-invite/services/workflow.service.js" timestamp="1488305541792" />
       <file name="Z:/partner-platform-api/src/modules/conference-invite/templates/invite-auto-accept-text.hbs" timestamp="1487894815806">
         <mark key="[" line="1" column="4" />
         <mark key="]" line="1" column="32" />
