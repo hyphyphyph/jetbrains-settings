@@ -465,12 +465,12 @@
         <mark key="." line="12" column="5" />
         <mark key="^" line="12" column="5" />
       </file>
-      <file name="Z:/invite-api/src/modules/quota/handlers/quota-crud.handler.js" timestamp="1488316228659">
+      <file name="Z:/invite-api/src/modules/quota/handlers/quota-crud.handler.js" timestamp="1488319865265">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="64" column="0" />
-        <mark key="." line="64" column="0" />
-        <mark key="^" line="93" column="40" />
+        <mark key="[" line="137" column="78" />
+        <mark key="]" line="137" column="77" />
+        <mark key="." line="137" column="77" />
+        <mark key="^" line="137" column="77" />
       </file>
       <file name="Z:/partner-platform-api/db/migrations/20170113204459-create-partners.js" timestamp="1487956673924">
         <mark key="'" line="0" column="0" />
