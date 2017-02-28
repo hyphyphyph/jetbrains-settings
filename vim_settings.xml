@@ -400,11 +400,12 @@
         <mark key="." line="6" column="10" />
         <mark key="^" line="6" column="10" />
       </file>
-      <file name="Z:/invite-api/db/migrations/20170222213607-create-quotas.js" timestamp="1488242483243">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="^" line="17" column="32" />
-        <mark key="." line="19" column="0" />
+      <file name="Z:/invite-api/db/migrations/20170222213607-create-quotas.js" timestamp="1488243736042">
+        <mark key="'" line="56" column="21" />
+        <mark key="[" line="55" column="46" />
+        <mark key="]" line="55" column="48" />
+        <mark key="." line="55" column="48" />
+        <mark key="^" line="55" column="48" />
       </file>
       <file name="Z:/boringcode/core/serializers/base-serializer.js" timestamp="1488142822813">
         <mark key="[" line="22" column="0" />
@@ -834,7 +835,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="0" filename="Z:/boringcode/core/handlers/base-crud-handler.js" />
       <jump line="30" column="21" filename="Z:/boringcode/core/handlers/base-crud-handler.js" />
       <jump line="1" column="0" filename="Z:/boringcode/core/handler-methods/user/crud-show-all.js" />
       <jump line="0" column="0" filename="Z:/boringcode/core/handler-methods/user/crud-show-all.js" />
@@ -934,63 +934,63 @@
       <jump line="0" column="0" filename="Z:/invite-api/src/modules/quota/services/quota.service.js" />
       <jump line="34" column="15" filename="Z:/invite-api/src/modules/quota/services/quota.service.js" />
       <jump line="35" column="24" filename="Z:/invite-api/src/modules/quota/services/quota.service.js" />
+      <jump line="56" column="21" filename="Z:/invite-api/db/migrations/20170222213607-create-quotas.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIHVuaXF1ZTogdHJ1ZSwK</text>
+      <register name="&quot;" type="4">
+        <text>i</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
-        <text>createMany</text>
+        <text>ie</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIFBhc3NBbGxvY2F0aW9uLmJlbG9uZ3NUbygKICAgICAgICAgICAgbW9kZWxzLlBhc3MsCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICBhczogJ3Bhc3MnLAogICAgICAgICAgICAgIGZvcmVpZ25LZXk6ICdwYXNzSWQnCiAgICAgICAgICAgIH0KICAgICAgICAgICk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIHVuaXF1ZTogdHJ1ZSwK</text>
+        <text encoding="base64">ICAgICAgICAgIHVuaXF1ZTogJ3BhcnRuZXJfcGFzcycsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB1bmlxdWU6IHRydWUK</text>
+        <text encoding="base64">ICAgICAgICAgIHVuaXF1ZTogJ3BhcnRuZXJfcGFzcycsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB1bmlxdWU6IHRydWUK</text>
+        <text encoding="base64">ICAgICAgICAgIHVuaXF1ZTogdHJ1ZSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB1bmlxdWU6IHRydWUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB1bmlxdWU6IHRydWUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHF1b3RhLmlkKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhxdW90YUluZm8pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLnRoZW4K</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHF1b3RhLmlkKTsK</text>
       </register>
-      <register name="9" type="4">
-        <text>create</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhxdW90YUluZm8pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>createMany</last-search>
+      <last-search>ie</last-search>
       <last-offset />
-      <last-pattern>createMany</last-pattern>
+      <last-pattern>ie</last-pattern>
       <last-replace>conference</last-replace>
       <last-substitute>user</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzYXZlTmV3TW9kZWxJbnN0YW5jZVw+</entry>
         <entry>server</entry>
         <entry encoding="base64">ICAg</entry>
         <entry>user</entry>
@@ -1010,6 +1010,7 @@
         <entry>resolve</entry>
         <entry>qu</entry>
         <entry>createMany</entry>
+        <entry>ie</entry>
       </history-search>
       <history-cmd>
         <entry>9</entry>
