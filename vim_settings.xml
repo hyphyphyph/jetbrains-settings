@@ -248,6 +248,13 @@
         <mark key="." line="14" column="75" />
         <mark key="^" line="14" column="75" />
       </file>
+      <file name="Z:/invite-api/db/migrations/20170228195156-create-pass-pass-option.js" timestamp="1488311767155">
+        <mark key="'" line="49" column="0" />
+        <mark key="[" line="25" column="24" />
+        <mark key="]" line="25" column="29" />
+        <mark key="." line="25" column="29" />
+        <mark key="^" line="25" column="29" />
+      </file>
       <file name="Z:/boringcode/core/modules/auth/handlers/login-handler.js" timestamp="1488261576298">
         <mark key="'" line="8" column="0" />
         <mark key="[" line="1" column="12" />
@@ -273,6 +280,12 @@
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
+      </file>
+      <file name="Z:/invite-api/db/migrations/20170228195629-create-pass-option-quota.js" timestamp="1488311868548">
+        <mark key="[" line="25" column="30" />
+        <mark key="]" line="25" column="30" />
+        <mark key="." line="25" column="30" />
+        <mark key="^" line="25" column="30" />
       </file>
       <file name="Z:/partner-platform-api/db/seeders/20170118204942-create-passes.js" timestamp="1487959950456">
         <mark key="'" line="24" column="0" />
@@ -381,10 +394,10 @@
         <mark key="." line="6" column="10" />
         <mark key="^" line="6" column="10" />
       </file>
-      <file name="Z:/invite-api/db/migrations/20170222213607-create-quotas.js" timestamp="1488245505580">
+      <file name="Z:/invite-api/db/migrations/20170222213607-create-quotas.js" timestamp="1488311742370">
         <mark key="'" line="56" column="21" />
-        <mark key="[" line="55" column="46" />
-        <mark key="]" line="55" column="48" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="23" column="28" />
         <mark key="." line="55" column="48" />
         <mark key="^" line="55" column="48" />
       </file>
@@ -479,6 +492,11 @@
         <mark key="[" line="68" column="0" />
         <mark key="]" line="68" column="0" />
         <mark key="." line="68" column="0" />
+      </file>
+      <file name="Z:/invite-api/db/migrations/20170114162050-create-user-role.js" timestamp="1488311590662">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="37" column="1" />
       </file>
       <file name="Z:/boringcode/tooling/gulp/tasks/server.js" timestamp="1488065180244">
         <mark key="'" line="11" column="18" />
@@ -684,6 +702,13 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="21" />
       </file>
+      <file name="Z:/invite-api/db/migrations/20170228195156-create-pass-option-pass.js" timestamp="1488311880341">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="25" column="30" />
+        <mark key="]" line="25" column="30" />
+        <mark key="." line="25" column="30" />
+        <mark key="^" line="25" column="30" />
+      </file>
       <file name="Z:/partner-platform-api/src/modules/conference-invite/templates/invite-cancel-on-behalf-html.hbs" timestamp="1487893592959">
         <mark key="[" line="1" column="59" />
         <mark key="]" line="2" column="13" />
@@ -858,15 +883,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="39" filename="Z:/invite-api/gulp/gulp.server.part.js" />
-      <jump line="52" column="9" filename="Z:/invite-api/gulpfile.js" />
-      <jump line="9" column="1" filename="Z:/invite-api/gulp/gulp.server.part.js" />
-      <jump line="16" column="0" filename="Z:/invite-api/package.json" />
-      <jump line="18" column="0" filename="Z:/invite-api/package.json" />
-      <jump line="22" column="26" filename="Z:/invite-api/package.json" />
-      <jump line="51" column="5" filename="Z:/invite-api/package.json" />
-      <jump line="7" column="64" filename="Z:/invite-api/package.json" />
-      <jump line="57" column="0" filename="Z:/invite-api/package.json" />
       <jump line="0" column="0" filename="Z:/invite-api/package.json" />
       <jump line="12" column="27" filename="Z:/invite-api/package.json" />
       <jump line="53" column="5" filename="Z:/invite-api/package.json" />
@@ -958,55 +974,64 @@
       <jump line="25" column="4" filename="Z:/boringcode/core/testing/base-http-test.js" />
       <jump line="4" column="26" filename="Z:/boringcode/tests/http/login/login.js" />
       <jump line="25" column="18" filename="Z:/boringcode/tests/http/users/list-all-users.js" />
+      <jump line="13" column="42" filename="Z:/invite-api/db/migrations/20170228195156-create-pass-pass-option.js" />
+      <jump line="18" column="9" filename="Z:/invite-api/db/migrations/20170114162050-create-user-role.js" />
+      <jump line="0" column="0" filename="Z:/invite-api/db/migrations/20170114162050-create-user-role.js" />
+      <jump line="22" column="0" filename="Z:/invite-api/db/migrations/20170228195156-create-pass-pass-option.js" />
+      <jump line="0" column="0" filename="Z:/invite-api/db/migrations/20170228195156-create-pass-pass-option.js" />
+      <jump line="37" column="0" filename="Z:/invite-api/db/migrations/20170228195156-create-pass-pass-option.js" />
+      <jump line="2" column="33" filename="Z:/invite-api/db/migrations/20170228195156-create-pass-option-pass.js" />
+      <jump line="0" column="0" filename="Z:/invite-api/db/migrations/20170228195156-create-pass-option-pass.js" />
+      <jump line="0" column="0" filename="Z:/invite-api/db/migrations/20170228195629-create-pass-option-quota.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgJycK</text>
+      <register name="&quot;" type="4">
+        <text>Pass</text>
       </register>
       <register name="-" type="4">
-        <text>ListAllUsers</text>
+        <text>Pass</text>
       </register>
       <register name="/" type="4">
-        <text>`</text>
+        <text>P</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgJ3N0YXR1c0NvZGUgc2hvdWxkIGJlIDIwMCc6IHJlc3BvbnNlLnN0YXR1c0NvZGUgPT09IDIwMAo=</text>
+        <text encoding="base64">J3VzZSBzdHJpY3QnOwoKY29uc3QgVEFCTEVfTkFNRSA9ICdQYXNzT3B0aW9uUGFzcyc7Cgptb2R1bGUuZXhwb3J0cyA9IHsKICB1cDogKHF1ZXJ5SW50ZXJmYWNlLCBTZXF1ZWxpemUpID0+IHsKICAgIHJldHVybiBxdWVyeUludGVyZmFjZS5jcmVhdGVUYWJsZSgKICAgICAgVEFCTEVfTkFNRSwKICAgICAgewoKICAgICAgICBwYXNzSWQ6IHsKICAgICAgICAgIHByaW1hcnlLZXk6IHRydWUsCiAgICAgICAgICB0eXBlOiBTZXF1ZWxpemUuVVVJRCwKICAgICAgICAgIHJlZmVyZW5jZXM6IHsKICAgICAgICAgICAgbW9kZWw6ICdQYXNzJywKICAgICAgICAgICAga2V5OiAnaWQnCiAgICAgICAgICB9LAogICAgICAgICAgb25VcGRhdGU6ICdDQVNDQURFJywKICAgICAgICAgIG9uRGVsZXRlOiAnQ0FTQ0FERScKICAgICAgICB9LAoKICAgICAgICBwYXNzT3B0aW9uSWQ6IHsKICAgICAgICAgIHByaW1hcnlLZXk6IHRydWUsCiAgICAgICAgICB0eXBlOiBTZXF1ZWxpemUuVVVJRCwKICAgICAgICAgIHJlZmVyZW5jZXM6IHsKICAgICAgICAgICAgbW9kZWw6ICdQYXNzT3B0aW9uJywKICAgICAgICAgICAga2V5OiAnaWQnCiAgICAgICAgICB9LAogICAgICAgICAgb25VcGRhdGU6ICdDQVNDQURFJywKICAgICAgICAgIG9uRGVsZXRlOiAnQ0FTQ0FERScKICAgICAgICB9LAoKICAgICAgICBjcmVhdGVkQXQ6IHsKICAgICAgICAgIGFsbG93TnVsbDogdHJ1ZSwKICAgICAgICAgIHR5cGU6IFNlcXVlbGl6ZS5EQVRFCiAgICAgICAgfSwKCiAgICAgICAgdXBkYXRlZEF0OiB7CiAgICAgICAgICBhbGxvd051bGw6IHRydWUsCiAgICAgICAgICB0eXBlOiBTZXF1ZWxpemUuREFURQogICAgICAgIH0KCiAgICAgIH0KICAgICk7CiAgfSwKCiAgZG93bjogKHF1ZXJ5SW50ZXJmYWNlKSA9PiB7CiAgICByZXR1cm4gcXVlcnlJbnRlcmZhY2UuZHJvcFRhYmxlKFRBQkxFX05BTUUsIHsgY2FzY2FkZTogdHJ1ZSB9KTsKICB9Cn07Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgJycK</text>
+        <text encoding="base64">J3VzZSBzdHJpY3QnOwoKbW9kdWxlLmV4cG9ydHMgPSB7CiAgdXA6IGZ1bmN0aW9uIChxdWVyeUludGVyZmFjZSwgU2VxdWVsaXplKSB7CiAgICAvKgogICAgICBBZGQgYWx0ZXJpbmcgY29tbWFuZHMgaGVyZS4KICAgICAgUmV0dXJuIGEgcHJvbWlzZSB0byBjb3JyZWN0bHkgaGFuZGxlIGFzeW5jaHJvbmljaXR5LgoKICAgICAgRXhhbXBsZToKICAgICAgcmV0dXJuIHF1ZXJ5SW50ZXJmYWNlLmNyZWF0ZVRhYmxlKCd1c2VycycsIHsgaWQ6IFNlcXVlbGl6ZS5JTlRFR0VSIH0pOwogICAgKi8KICB9LAoKICBkb3duOiBmdW5jdGlvbiAocXVlcnlJbnRlcmZhY2UsIFNlcXVlbGl6ZSkgewogICAgLyoKICAgICAgQWRkIHJldmVydGluZyBjb21tYW5kcyBoZXJlLgogICAgICBSZXR1cm4gYSBwcm9taXNlIHRvIGNvcnJlY3RseSBoYW5kbGUgYXN5bmNocm9uaWNpdHkuCgogICAgICBFeGFtcGxlOgogICAgICByZXR1cm4gcXVlcnlJbnRlcmZhY2UuZHJvcFRhYmxlKCd1c2VycycpOwogICAgKi8KICB9Cn07Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="2" type="4">
+        <text>Pass</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bmV3IExpc3RBbGxVc2VycygpLnRoZW4oZW52ID0+IHsKICBjb25zb2xlLmxvZyhlbnYpOwp9KS5jYXRjaChjb25zb2xlLmxvZyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBSb2xlTmFtZTogewogICAgICAgICAgcHJpbWFyeUtleTogdHJ1ZSwKICAgICAgICAgIHR5cGU6IFNlcXVlbGl6ZS5URVhUCiAgICAgICAgfSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHJlZmVyZW5jZTogewogICAgICAgICAgICAKICAgICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bmV3IExvZ2luKCkudGhlbihlbnYgPT4gewogIGNvbnNvbGUubG9nKGVudik7Cn0pLmNhdGNoKGNvbnNvbGUubG9nKTsK</text>
+        <text encoding="base64">ICAgIHt9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmICghbW9kdWxlLnBhcmVudCkgewogICAgICAKICAgIH0KCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmICh0aGlzLmJhc2VVcmwpIHsKICAgICAgCiAgICB9Cg==</text>
+        <text encoding="base64">J3VzZSBzdHJpY3QnOwoKbW9kdWxlLmV4cG9ydHMgPSB7CiAgdXA6IGZ1bmN0aW9uIChxdWVyeUludGVyZmFjZSwgU2VxdWVsaXplKSB7CiAgICAvKgogICAgICBBZGQgYWx0ZXJpbmcgY29tbWFuZHMgaGVyZS4KICAgICAgUmV0dXJuIGEgcHJvbWlzZSB0byBjb3JyZWN0bHkgaGFuZGxlIGFzeW5jaHJvbmljaXR5LgoKICAgICAgRXhhbXBsZToKICAgICAgcmV0dXJuIHF1ZXJ5SW50ZXJmYWNlLmNyZWF0ZVRhYmxlKCd1c2VycycsIHsgaWQ6IFNlcXVlbGl6ZS5JTlRFR0VSIH0pOwogICAgKi8KICB9LAoKICBkb3duOiBmdW5jdGlvbiAocXVlcnlJbnRlcmZhY2UsIFNlcXVlbGl6ZSkgewogICAgLyoKICAgICAgQWRkIHJldmVydGluZyBjb21tYW5kcyBoZXJlLgogICAgICBSZXR1cm4gYSBwcm9taXNlIHRvIGNvcnJlY3RseSBoYW5kbGUgYXN5bmNocm9uaWNpdHkuCgogICAgICBFeGFtcGxlOgogICAgICByZXR1cm4gcXVlcnlJbnRlcmZhY2UuZHJvcFRhYmxlKCd1c2VycycpOwogICAgKi8KICB9Cn07Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuZmlsZS5qc29uLmxvZ2luLnVzZXJuYW1lKQo=</text>
+        <text encoding="base64">J3VzZSBzdHJpY3QnOwoKbW9kdWxlLmV4cG9ydHMgPSB7CiAgdXA6IGZ1bmN0aW9uIChxdWVyeUludGVyZmFjZSwgU2VxdWVsaXplKSB7CiAgICAvKgogICAgICBBZGQgYWx0ZXJpbmcgY29tbWFuZHMgaGVyZS4KICAgICAgUmV0dXJuIGEgcHJvbWlzZSB0byBjb3JyZWN0bHkgaGFuZGxlIGFzeW5jaHJvbmljaXR5LgoKICAgICAgRXhhbXBsZToKICAgICAgcmV0dXJuIHF1ZXJ5SW50ZXJmYWNlLmNyZWF0ZVRhYmxlKCd1c2VycycsIHsgaWQ6IFNlcXVlbGl6ZS5JTlRFR0VSIH0pOwogICAgKi8KICB9LAoKICBkb3duOiBmdW5jdGlvbiAocXVlcnlJbnRlcmZhY2UsIFNlcXVlbGl6ZSkgewogICAgLyoKICAgICAgQWRkIHJldmVydGluZyBjb21tYW5kcyBoZXJlLgogICAgICBSZXR1cm4gYSBwcm9taXNlIHRvIGNvcnJlY3RseSBoYW5kbGUgYXN5bmNocm9uaWNpdHkuCgogICAgICBFeGFtcGxlOgogICAgICByZXR1cm4gcXVlcnlJbnRlcmZhY2UuZHJvcFRhYmxlKCd1c2VycycpOwogICAgKi8KICB9Cn07Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">J3VzZSBzdHJpY3QnOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>`</last-search>
+      <last-search>P</last-search>
       <last-offset />
-      <last-pattern>`</last-pattern>
+      <last-pattern>P</last-pattern>
       <last-replace>conference</last-replace>
       <last-substitute>user</last-substitute>
       <last-dir>1</last-dir>
@@ -1014,7 +1039,6 @@
     </search>
     <history>
       <history-search>
-        <entry>post</entry>
         <entry>123</entry>
         <entry>cons</entry>
         <entry>conso</entry>
@@ -1034,6 +1058,7 @@
         <entry>console</entry>
         <entry>con</entry>
         <entry>`</entry>
+        <entry>P</entry>
       </history-search>
       <history-cmd>
         <entry>9</entry>
