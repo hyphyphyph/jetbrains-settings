@@ -576,6 +576,12 @@
         <mark key="." line="0" column="32" />
         <mark key="^" line="0" column="32" />
       </file>
+      <file name="Z:/invite-api/src/modules/conference/handlers/conference-crud.handler.js" timestamp="1488344180893">
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="67" column="0" />
+        <mark key="^" line="66" column="10" />
+      </file>
       <file name="Z:/partner-platform-api/src/modules/conference-invite/templates/index.js" timestamp="1487903899776">
         <mark key="'" line="5" column="50" />
         <mark key="[" line="17" column="19" />
@@ -657,6 +663,13 @@
         <mark key="]" line="0" column="29" />
         <mark key="." line="0" column="29" />
         <mark key="^" line="0" column="29" />
+      </file>
+      <file name="Z:/invite-api/src/modules/partner/services/assignment.service.js" timestamp="1488344723985">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="28" column="29" />
+        <mark key="]" line="28" column="35" />
+        <mark key="." line="28" column="35" />
+        <mark key="^" line="28" column="35" />
       </file>
       <file name="Z:/boringcode/migrations/0010-create-auth-tokens/up.sql" timestamp="1488140260054">
         <mark key="[" line="6" column="20" />
@@ -849,6 +862,13 @@
         <mark key="." line="9" column="23" />
         <mark key="^" line="9" column="23" />
       </file>
+      <file name="Z:/invite-api/src/modules/conference/services/assignment.service.js" timestamp="1488344719677">
+        <mark key="'" line="16" column="17" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="29" column="2" />
+        <mark key="." line="27" column="40" />
+        <mark key="^" line="27" column="40" />
+      </file>
       <file name="Z:/boringcode/src/models/user/findAll.sql" timestamp="1487915027489">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -956,9 +976,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="32" filename="Z:/boringcode/tests/http/users/list-all-users.js" />
-      <jump line="2" column="29" filename="Z:/boringcode/tests/http/users/list-all-users.js" />
-      <jump line="14" column="19" filename="Z:/boringcode/package.json" />
       <jump line="12" column="0" filename="Z:/boringcode/tests/http/users/list-all-users.js" />
       <jump line="23" column="5" filename="Z:/boringcode/core/testing/base-http-test.js" />
       <jump line="58" column="34" filename="Z:/boringcode/core/testing/base-http-test.js" />
@@ -1056,67 +1073,65 @@
       <jump line="88" column="0" filename="Z:/invite-api/src/modules/user/handlers/registration.handler.js" />
       <jump line="89" column="59" filename="Z:/invite-api/src/modules/user/handlers/registration.handler.js" />
       <jump line="0" column="27" filename="Z:/invite-api/src/modules/user/handlers/registration.handler.js" />
+      <jump line="15" column="76" filename="Z:/invite-api/src/modules/conference/services/assignment.service.js" />
+      <jump line="16" column="17" filename="Z:/invite-api/src/modules/conference/services/assignment.service.js" />
+      <jump line="4" column="0" filename="Z:/invite-api/src/modules/partner/services/assignment.service.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLgo=</text>
+      <register name="&quot;" type="4">
+        <text>conference</text>
       </register>
       <register name="-" type="4">
-        <text>then</text>
+        <text>conference</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">ICA=</text>
+        <text>conf</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgLnRoZW4odXNlciA9PiBuZXcgSGFzaFNlcnZpY2UoKQogICAgICAgIC5oYXNoUGFzc3dvcmQocGFzc3dvcmQpCiAgICAgICAgLnRoZW4oaGFzaGVkUGFzc3dvcmQgPT4gewogICAgICAgICAgdXNlci5wYXNzd29yZCA9IGhhc2hlZFBhc3N3b3JkOwogICAgICAgICAgdXNlci5uZXdBY2NvdW50VG9rZW4gPSBudWxsOwogICAgICAgICAgcmV0dXJuIHVzZXI7CiAgICAgICAgfSkpCg==</text>
+        <text encoding="base64">ICBfc2VuZFVzZXJOb3RpZmljYXRpb25FbWFpbChjb25mZXJlbmNlLCB1c2VyKSB7CiAgICByZXR1cm4gUHJvbWlzZS5yZXNvbHZlKHVzZXIpOwogIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLgo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLnRoZW4odXNlciA9PiB7CiAgICAgICAgCiAgICAgIH0pCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHV1aWQgZnJvbSAnbm9kZS11dWlkJzsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAuaGFzaFBhc3N3b3JkKHBhc3N3b3JkKQogICAgICAgIC50aGVuKGhhc2hlZFBhc3N3b3JkID0+IHsKICAgICAgICAgIHVzZXIucGFzc3dvcmQgPSBoYXNoZWRQYXNzd29yZDsKICAgICAgICAgIHVzZXIubmV3QWNjb3VudFRva2VuID0gbnVsbDsKICAgICAgICAgIHJldHVybiB1c2VyOwogICAgICAgIH0pKQo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBxdWVyeUludGVyZmFjZS5kcm9wVGFibGUoVEFCTEVfTkFNRSwgeyBjYXNjYWRlOiB0cnVlIH0pOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CiAgICByZXR1cm4gcXVlcnlJbnRlcmZhY2UuY3JlYXRlVGFibGUoCiAgICAgIFRBQkxFX05BTUUsCiAgICAgIHsKCiAgICAgICAgcXVvdGFJZDogewogICAgICAgICAgcHJpbWFyeUtleTogdHJ1ZSwKICAgICAgICAgIHR5cGU6IFNlcXVlbGl6ZS5VVUlELAogICAgICAgICAgcmVmZXJlbmNlczogewogICAgICAgICAgICBtb2RlbDogJ1F1b3RhcycsCiAgICAgICAgICAgIGtleTogJ2lkJwogICAgICAgICAgfSwKICAgICAgICAgIG9uVXBkYXRlOiAnQ0FTQ0FERScsCiAgICAgICAgICBvbkRlbGV0ZTogJ0NBU0NBREUnCiAgICAgICAgfSwKCiAgICAgICAgcGFzc09wdGlvbklkOiB7CiAgICAgICAgICBwcmltYXJ5S2V5OiB0cnVlLAogICAgICAgICAgdHlwZTogU2VxdWVsaXplLlVVSUQsCiAgICAgICAgICByZWZlcmVuY2VzOiB7CiAgICAgICAgICAgIG1vZGVsOiAnUGFzc09wdGlvbnMnLAogICAgICAgICAgICBrZXk6ICdpZCcKICAgICAgICAgIH0sCiAgICAgICAgICBvblVwZGF0ZTogJ0NBU0NBREUnLAogICAgICAgICAgb25EZWxldGU6ICdDQVNDQURFJwogICAgICAgIH0sCgogICAgICAgIGNyZWF0ZWRBdDogewogICAgICAgICAgYWxsb3dOdWxsOiB0cnVlLAogICAgICAgICAgdHlwZTogU2VxdWVsaXplLkRBVEUKICAgICAgICB9LAoKICAgICAgICB1cGRhdGVkQXQ6IHsKICAgICAgICAgIGFsbG93TnVsbDogdHJ1ZSwKICAgICAgICAgIHR5cGU6IFNlcXVlbGl6ZS5EQVRFCiAgICAgICAgfQoKICAgICAgfQogICAgKTsK</text>
-      </register>
-      <register name="8" type="2">
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gY29uZmVyZW5jZTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBuZXdVc2Vycy5mb3JFYWNoKHVzZXIgPT4gewogICAgICAgICAgCiAgICAgICAgfSk7CiAgICAgICAgCg==</text>
+      </register>
+      <register name="5" type="4">
+        <text>Notification</text>
+      </register>
+      <register name="6" type="4">
+        <text>Notification</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cgo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZWZhdWx0VmFsaWQ6IERhdGFUeXBlcy5VVUlEVjQK</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">ICA=</last-search>
+      <last-search>conf</last-search>
       <last-offset />
-      <last-pattern encoding="base64">ICA=</last-pattern>
+      <last-pattern>conf</last-pattern>
       <last-replace>conference</last-replace>
       <last-substitute>user</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>h</entry>
-        <entry>'</entry>
-        <entry>Reg</entry>
-        <entry>Handle</entry>
-        <entry>hand</entry>
         <entry>handl</entry>
         <entry>u</entry>
         <entry>Handl</entry>
@@ -1132,6 +1147,11 @@
         <entry>(</entry>
         <entry>uuid</entry>
         <entry encoding="base64">ICA=</entry>
+        <entry>N</entry>
+        <entry>Not</entry>
+        <entry>E</entry>
+        <entry>i</entry>
+        <entry>conf</entry>
       </history-search>
       <history-cmd>
         <entry>9</entry>
