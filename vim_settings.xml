@@ -865,9 +865,8 @@
         <mark key="^" line="16" column="13" />
         <mark key="." line="16" column="13" />
       </file>
-      <file name="/Dummy.txt" timestamp="1488388417997">
-        <mark key="[" line="0" column="0" />
-        <mark key="." line="2" column="17" />
+      <file name="/Dummy.txt" timestamp="1488394626417">
+        <mark key="." line="1" column="17" />
       </file>
       <file name="Z:/invite-api/src/modules/conference-invite/services/workflow.service.js" timestamp="1488388009662">
         <mark key="'" line="162" column="36" />
@@ -977,6 +976,13 @@
         <mark key="^" line="35" column="32" />
         <mark key="." line="35" column="32" />
       </file>
+      <file name="Z:/invite-api/src/modules/conference-invite/routes.js" timestamp="1488394618659">
+        <mark key="'" line="21" column="22" />
+        <mark key="[" line="120" column="12" />
+        <mark key="]" line="120" column="22" />
+        <mark key="^" line="120" column="22" />
+        <mark key="." line="120" column="22" />
+      </file>
       <file name="Z:/partner-platform-api/.env" timestamp="1487955849397">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="7" column="9" />
@@ -1026,7 +1032,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="26" filename="Z:/boringcode/core/testing/base-http-test.js" />
       <jump line="0" column="0" filename="Z:/boringcode/core/helpers/http-request.js" />
       <jump line="1" column="0" filename="Z:/boringcode/core/testing/base-http-test.js" />
       <jump line="3" column="62" filename="Z:/boringcode/core/testing/base-http-test.js" />
@@ -1126,6 +1131,7 @@
       <jump line="48" column="27" filename="Z:/invite-api/src/models/partner.model.js" />
       <jump line="7" column="23" filename="Z:/invite-api/src/modules/conference-invite/services/workflow.service.js" />
       <jump line="162" column="36" filename="Z:/invite-api/src/modules/conference-invite/services/workflow.service.js" />
+      <jump line="21" column="22" filename="Z:/invite-api/src/modules/conference-invite/routes.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1135,7 +1141,7 @@
         <text>.required()</text>
       </register>
       <register name="/" type="4">
-        <text>,</text>
+        <text>invite</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIGNvbmZlcmVuY2VzOiB7CiAgICAgICAgICAgIHZhbHVlRm9yUmVsYXRpb25zaGlwOiAocmVsYXRpb25zaGlwKSA9PiAoeyBpZDogcmVsYXRpb25zaGlwLmlkIH0pCiAgICAgICAgICB9LAo=</text>
@@ -1172,9 +1178,9 @@
       </register>
     </registers>
     <search>
-      <last-search>,</last-search>
+      <last-search>invite</last-search>
       <last-offset />
-      <last-pattern>,</last-pattern>
+      <last-pattern>invite</last-pattern>
       <last-replace>conference</last-replace>
       <last-substitute>user</last-substitute>
       <last-dir>1</last-dir>
@@ -1182,7 +1188,6 @@
     </search>
     <history>
       <history-search>
-        <entry>\.</entry>
         <entry>add</entry>
         <entry>Confer</entry>
         <entry>(</entry>
@@ -1202,6 +1207,7 @@
         <entry>console</entry>
         <entry>ACCEPT</entry>
         <entry>,</entry>
+        <entry>invite</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3RoZW4vdGhhbi9n</entry>
