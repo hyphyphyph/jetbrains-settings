@@ -266,12 +266,12 @@
         <mark key="^" line="16" column="1" />
         <mark key="." line="16" column="1" />
       </file>
-      <file name="Z:/invite-api/src/modules/user/handlers/registration.handler.js" timestamp="1488340664008">
-        <mark key="'" line="111" column="0" />
-        <mark key="[" line="65" column="29" />
-        <mark key="]" line="65" column="34" />
-        <mark key="." line="65" column="34" />
-        <mark key="^" line="65" column="34" />
+      <file name="Z:/invite-api/src/modules/user/handlers/registration.handler.js" timestamp="1488341887993">
+        <mark key="'" line="0" column="27" />
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="0" column="21" />
+        <mark key="." line="0" column="21" />
+        <mark key="^" line="0" column="21" />
       </file>
       <file name="Z:/invite-api/src/models/pass.model.js" timestamp="1488318806029">
         <mark key="[" line="65" column="40" />
@@ -956,8 +956,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="28" filename="Z:/invite-api/src/models/quota.model.js" />
-      <jump line="5" column="20" filename="Z:/boringcode/tests/http/users/list-all-users.js" />
       <jump line="11" column="32" filename="Z:/boringcode/tests/http/users/list-all-users.js" />
       <jump line="2" column="29" filename="Z:/boringcode/tests/http/users/list-all-users.js" />
       <jump line="14" column="19" filename="Z:/boringcode/package.json" />
@@ -1056,63 +1054,64 @@
       <jump line="57" column="19" filename="Z:/invite-api/src/modules/user/handlers/registration.handler.js" />
       <jump line="17" column="45" filename="Z:/invite-api/src/modules/user/handlers/registration.handler.js" />
       <jump line="88" column="0" filename="Z:/invite-api/src/modules/user/handlers/registration.handler.js" />
+      <jump line="89" column="59" filename="Z:/invite-api/src/modules/user/handlers/registration.handler.js" />
+      <jump line="0" column="27" filename="Z:/invite-api/src/modules/user/handlers/registration.handler.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>then</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgLgo=</text>
       </register>
       <register name="-" type="4">
         <text>then</text>
       </register>
       <register name="/" type="4">
-        <text>uuid</text>
+        <text encoding="base64">ICA=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgLnRoZW4odXNlciA9PiBuZXcgSGFzaFNlcnZpY2UoKQogICAgICAgIC5oYXNoUGFzc3dvcmQocGFzc3dvcmQpCiAgICAgICAgLnRoZW4oaGFzaGVkUGFzc3dvcmQgPT4gewogICAgICAgICAgdXNlci5wYXNzd29yZCA9IGhhc2hlZFBhc3N3b3JkOwogICAgICAgICAgdXNlci5uZXdBY2NvdW50VG9rZW4gPSBudWxsOwogICAgICAgICAgcmV0dXJuIHVzZXI7CiAgICAgICAgfSkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLnRoZW4odXNlciA9PiB7CiAgICAgICAgCiAgICAgIH0pCg==</text>
+        <text encoding="base64">ICAgICAgLgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHV1aWQgZnJvbSAnbm9kZS11dWlkJzsK</text>
+        <text encoding="base64">ICAgICAgLnRoZW4odXNlciA9PiB7CiAgICAgICAgCiAgICAgIH0pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAuaGFzaFBhc3N3b3JkKHBhc3N3b3JkKQogICAgICAgIC50aGVuKGhhc2hlZFBhc3N3b3JkID0+IHsKICAgICAgICAgIHVzZXIucGFzc3dvcmQgPSBoYXNoZWRQYXNzd29yZDsKICAgICAgICAgIHVzZXIubmV3QWNjb3VudFRva2VuID0gbnVsbDsKICAgICAgICAgIHJldHVybiB1c2VyOwogICAgICAgIH0pKQo=</text>
+        <text encoding="base64">aW1wb3J0IHV1aWQgZnJvbSAnbm9kZS11dWlkJzsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAuaGFzaFBhc3N3b3JkKHBhc3N3b3JkKQogICAgICAgIC50aGVuKGhhc2hlZFBhc3N3b3JkID0+IHsKICAgICAgICAgIHVzZXIucGFzc3dvcmQgPSBoYXNoZWRQYXNzd29yZDsKICAgICAgICAgIHVzZXIubmV3QWNjb3VudFRva2VuID0gbnVsbDsKICAgICAgICAgIHJldHVybiB1c2VyOwogICAgICAgIH0pKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBxdWVyeUludGVyZmFjZS5kcm9wVGFibGUoVEFCTEVfTkFNRSwgeyBjYXNjYWRlOiB0cnVlIH0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICByZXR1cm4gcXVlcnlJbnRlcmZhY2UuY3JlYXRlVGFibGUoCiAgICAgIFRBQkxFX05BTUUsCiAgICAgIHsKCiAgICAgICAgcXVvdGFJZDogewogICAgICAgICAgcHJpbWFyeUtleTogdHJ1ZSwKICAgICAgICAgIHR5cGU6IFNlcXVlbGl6ZS5VVUlELAogICAgICAgICAgcmVmZXJlbmNlczogewogICAgICAgICAgICBtb2RlbDogJ1F1b3RhcycsCiAgICAgICAgICAgIGtleTogJ2lkJwogICAgICAgICAgfSwKICAgICAgICAgIG9uVXBkYXRlOiAnQ0FTQ0FERScsCiAgICAgICAgICBvbkRlbGV0ZTogJ0NBU0NBREUnCiAgICAgICAgfSwKCiAgICAgICAgcGFzc09wdGlvbklkOiB7CiAgICAgICAgICBwcmltYXJ5S2V5OiB0cnVlLAogICAgICAgICAgdHlwZTogU2VxdWVsaXplLlVVSUQsCiAgICAgICAgICByZWZlcmVuY2VzOiB7CiAgICAgICAgICAgIG1vZGVsOiAnUGFzc09wdGlvbnMnLAogICAgICAgICAgICBrZXk6ICdpZCcKICAgICAgICAgIH0sCiAgICAgICAgICBvblVwZGF0ZTogJ0NBU0NBREUnLAogICAgICAgICAgb25EZWxldGU6ICdDQVNDQURFJwogICAgICAgIH0sCgogICAgICAgIGNyZWF0ZWRBdDogewogICAgICAgICAgYWxsb3dOdWxsOiB0cnVlLAogICAgICAgICAgdHlwZTogU2VxdWVsaXplLkRBVEUKICAgICAgICB9LAoKICAgICAgICB1cGRhdGVkQXQ6IHsKICAgICAgICAgIGFsbG93TnVsbDogdHJ1ZSwKICAgICAgICAgIHR5cGU6IFNlcXVlbGl6ZS5EQVRFCiAgICAgICAgfQoKICAgICAgfQogICAgKTsK</text>
+        <text encoding="base64">ICAgIHJldHVybiBxdWVyeUludGVyZmFjZS5kcm9wVGFibGUoVEFCTEVfTkFNRSwgeyBjYXNjYWRlOiB0cnVlIH0pOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">CiAgICByZXR1cm4gcXVlcnlJbnRlcmZhY2UuY3JlYXRlVGFibGUoCiAgICAgIFRBQkxFX05BTUUsCiAgICAgIHsKCiAgICAgICAgcXVvdGFJZDogewogICAgICAgICAgcHJpbWFyeUtleTogdHJ1ZSwKICAgICAgICAgIHR5cGU6IFNlcXVlbGl6ZS5VVUlELAogICAgICAgICAgcmVmZXJlbmNlczogewogICAgICAgICAgICBtb2RlbDogJ1F1b3RhcycsCiAgICAgICAgICAgIGtleTogJ2lkJwogICAgICAgICAgfSwKICAgICAgICAgIG9uVXBkYXRlOiAnQ0FTQ0FERScsCiAgICAgICAgICBvbkRlbGV0ZTogJ0NBU0NBREUnCiAgICAgICAgfSwKCiAgICAgICAgcGFzc09wdGlvbklkOiB7CiAgICAgICAgICBwcmltYXJ5S2V5OiB0cnVlLAogICAgICAgICAgdHlwZTogU2VxdWVsaXplLlVVSUQsCiAgICAgICAgICByZWZlcmVuY2VzOiB7CiAgICAgICAgICAgIG1vZGVsOiAnUGFzc09wdGlvbnMnLAogICAgICAgICAgICBrZXk6ICdpZCcKICAgICAgICAgIH0sCiAgICAgICAgICBvblVwZGF0ZTogJ0NBU0NBREUnLAogICAgICAgICAgb25EZWxldGU6ICdDQVNDQURFJwogICAgICAgIH0sCgogICAgICAgIGNyZWF0ZWRBdDogewogICAgICAgICAgYWxsb3dOdWxsOiB0cnVlLAogICAgICAgICAgdHlwZTogU2VxdWVsaXplLkRBVEUKICAgICAgICB9LAoKICAgICAgICB1cGRhdGVkQXQ6IHsKICAgICAgICAgIGFsbG93TnVsbDogdHJ1ZSwKICAgICAgICAgIHR5cGU6IFNlcXVlbGl6ZS5EQVRFCiAgICAgICAgfQoKICAgICAgfQogICAgKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkZWZhdWx0VmFsaWQ6IERhdGFUeXBlcy5VVUlEVjQK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">J3VzZSBzdHJpY3QnOwo=</text>
+        <text encoding="base64">ICAgICAgICBkZWZhdWx0VmFsaWQ6IERhdGFUeXBlcy5VVUlEVjQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>uuid</last-search>
+      <last-search encoding="base64">ICA=</last-search>
       <last-offset />
-      <last-pattern>uuid</last-pattern>
+      <last-pattern encoding="base64">ICA=</last-pattern>
       <last-replace>conference</last-replace>
       <last-substitute>user</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>w</entry>
         <entry>h</entry>
         <entry>'</entry>
         <entry>Reg</entry>
@@ -1132,6 +1131,7 @@
         <entry>Confer</entry>
         <entry>(</entry>
         <entry>uuid</entry>
+        <entry encoding="base64">ICA=</entry>
       </history-search>
       <history-cmd>
         <entry>9</entry>
