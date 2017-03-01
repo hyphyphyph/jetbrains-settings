@@ -50,12 +50,11 @@
         <mark key="^" line="53" column="24" />
         <mark key="." line="54" column="27" />
       </file>
-      <file name="Z:/invite-api/src/modules/quota/routes.js" timestamp="1488253326988">
+      <file name="Z:/invite-api/src/modules/quota/routes.js" timestamp="1488325613437">
         <mark key="'" line="45" column="42" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="15" column="1" />
-        <mark key="." line="16" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="Z:/invite-api/src/modules/pass/services/assignment.service.js" timestamp="1488317905213">
         <mark key="'" line="18" column="35" />
@@ -118,6 +117,13 @@
         <mark key="]" line="1" column="0" />
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="Z:/invite-api/src/modules/pass-option/routes.js" timestamp="1488325675664">
+        <mark key="'" line="32" column="61" />
+        <mark key="[" line="33" column="56" />
+        <mark key="]" line="33" column="62" />
+        <mark key="^" line="33" column="62" />
+        <mark key="." line="33" column="62" />
       </file>
       <file name="Z:/partner-platform-api/src/modules/core/base-handler.js" timestamp="1487974948053">
         <mark key="'" line="0" column="0" />
@@ -315,6 +321,13 @@
         <mark key="." line="21" column="36" />
         <mark key="^" line="24" column="18" />
       </file>
+      <file name="Z:/invite-api/src/modules/pass-option/handlers/pass-option-crud.handler.js" timestamp="1488325796578">
+        <mark key="'" line="108" column="25" />
+        <mark key="[" line="111" column="8" />
+        <mark key="]" line="111" column="14" />
+        <mark key="^" line="111" column="14" />
+        <mark key="." line="111" column="14" />
+      </file>
       <file name="Z:/partner-platform-api/src/models/partner.model.js" timestamp="1487902277892">
         <mark key="'" line="8" column="32" />
         <mark key="[" line="34" column="0" />
@@ -382,11 +395,6 @@
         <mark key="[" line="127" column="0" />
         <mark key="]" line="157" column="6" />
       </file>
-      <file name="/Dummy.txt" timestamp="1488298604624">
-        <mark key="[" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="Z:/invite-api/src/modules/conference-invite/services/workflow.service.js" timestamp="1488305541792" />
       <file name="Z:/partner-platform-api/src/modules/quota/services/assignment.service.js" timestamp="1487975160507">
         <mark key="'" line="12" column="19" />
         <mark key="[" line="22" column="0" />
@@ -485,10 +493,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="13" filename="Z:/invite-api/src/modules/quota/handlers/quota-crud.handler.js" />
-      <jump line="27" column="25" filename="Z:/invite-api/src/modules/quota/handlers/quota-crud.handler.js" />
-      <jump line="33" column="16" filename="Z:/invite-api/src/modules/quota/handlers/quota-crud.handler.js" />
-      <jump line="16" column="32" filename="Z:/invite-api/src/modules/quota/handlers/quota-crud.handler.js" />
       <jump line="32" column="15" filename="Z:/invite-api/src/modules/quota/handlers/quota-crud.handler.js" />
       <jump line="20" column="51" filename="Z:/invite-api/src/modules/quota/handlers/quota-crud.handler.js" />
       <jump line="52" column="24" filename="Z:/invite-api/src/modules/quota/services/quota.service.js" />
@@ -585,55 +589,59 @@
       <jump line="22" column="27" filename="Z:/invite-api/src/modules/quota/services/assignment.service.js" />
       <jump line="0" column="0" filename="Z:/invite-api/src/modules/quota/handlers/quota-crud.handler.js" />
       <jump line="54" column="33" filename="Z:/invite-api/src/models/quota.model.js" />
+      <jump line="21" column="26" filename="Z:/invite-api/src/modules/pass-option/routes.js" />
+      <jump line="32" column="61" filename="Z:/invite-api/src/modules/pass-option/routes.js" />
+      <jump line="86" column="19" filename="Z:/invite-api/src/modules/pass-option/handlers/pass-option-crud.handler.js" />
+      <jump line="108" column="25" filename="Z:/invite-api/src/modules/pass-option/handlers/pass-option-crud.handler.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>partner</text>
+        <text>conferenceId</text>
       </register>
       <register name="-" type="4">
-        <text>partner</text>
+        <text>conferenceId</text>
       </register>
       <register name="/" type="4">
-        <text>findById</text>
+        <text>I</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBtb2RlbDogbW9kZWxzLlBhcnRuZXIsCiAgICAgICAgICAgICAgICBhczogJ3BhcnRuZXInCiAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICBzaG93QWxsQnlDb25mZXJlbmNlSWQocmVxdWVzdCwgcmVwbHkpIHsKICAgIGNvbnN0IGNvbmZlcmVuY2VJZCA9IHJlcXVlc3QucGFyYW1zLmNvbmZlcmVuY2VJZDsKCiAgICBtb2RlbHMuQ29uZmVyZW5jZQogICAgICAuZmluZE9uZSh7CiAgICAgICAgd2hlcmU6IHsKICAgICAgICAgIGlkOiBjb25mZXJlbmNlSWQKICAgICAgICB9LAogICAgICAgIGluY2x1ZGU6IFsKICAgICAgICAgIHsKICAgICAgICAgICAgbW9kZWw6IG1vZGVscy5QYXNzT3B0aW9uLAogICAgICAgICAgICBhczogJ3Bhc3NPcHRpb25zJwogICAgICAgICAgfQogICAgICAgIF0KICAgICAgfSkKICAgICAgLnRoZW4oY29uZmVyZW5jZSA9PiB0aGlzLl9jaGVja05vdEZvdW5kKGNvbmZlcmVuY2UpKQogICAgICAudGhlbihjb25mZXJlbmNlID0+IGNvbmZlcmVuY2UucGFzc09wdGlvbnMpCiAgICAgIC50aGVuKGRhdGEgPT4gdGhpcy5fc2VyaWFsaXplKGRhdGEpKQogICAgICAudGhlbihkYXRhID0+IHJlcGx5KGRhdGEpKQogICAgICAuY2F0Y2goZXJyID0+IHJlcGx5KGVyci5ib29tKCkpKTsKICB9CgogIGdldFNob3dBbGxCeUNvbmZlcmVuY2VJZFZhbGlkYXRpb24oKSB7CiAgICByZXR1cm4gewogICAgICBwYXJhbXM6IHsKICAgICAgICBjb25mZXJlbmNlSWQ6IEpvaS5zdHJpbmcoKS51dWlkKCkKICAgICAgfQogICAgfTsKICB9Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLmNhdGNoKC5sb2cpCg==</text>
+      <register name="1" type="4">
+        <text>Conference</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBxdW90YS5wYXJ0bmVySWQgPSBwYXJ0bmVyLmlkOwo=</text>
+      <register name="2" type="4">
+        <text>Conference</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE86IEltcGxlbWVudAo=</text>
+      <register name="3" type="4">
+        <text>ConferenceId</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>Conference</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBfaGFuZGxlUGFzcyhxdW90YSkgewogICAgaWYgKHRoaXMuZGVzZXJpYWxpemVkRGF0YS5wYXNzKSB7CiAgICAgIHJldHVybiBuZXcgQXNzaWdubWVudFNlcnZpY2UoKS5zZXRQYXNzQnlJZCgKICAgICAgICBxdW90YSwKICAgICAgICB0aGlzLmRlc2VyaWFsaXplZERhdGEucGFzcy5pZAogICAgICApOwogICAgfQogICAgZWxzZSB7CiAgICAgIHJldHVybiBuZXcgUHJvbWlzZShyZXNvbHZlID0+IHJlc29sdmUocXVvdGEpKTsKICAgIH0KICB9Cg==</text>
+      <register name="5" type="4">
+        <text>ConferenceId</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>ConferenceId</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBfaGFuZGxlUGFydG5lcihxdW90YSkgewogICAgaWYgKHRoaXMuZGVzZXJpYWxpemVkRGF0YS5wYXJ0bmVyKSB7CiAgICAgIHJldHVybiBuZXcgQXNzaWdubWVudFNlcnZpY2UoKS5zZXRQYXJ0bmVyQnlJZCgKICAgICAgICBxdW90YSwKICAgICAgICB0aGlzLmRlc2VyaWFsaXplZERhdGEucGFydG5lci5pZAogICAgICApOwogICAgfQogICAgZWxzZSB7CiAgICAgIHJldHVybiBuZXcgUHJvbWlzZShyZXNvbHZlID0+IHJlc29sdmUocXVvdGEpKTsKICAgIH0KICB9Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="8" type="4">
-        <text>pass</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICBzZXJ2ZXIucm91dGUoewogICAgbWV0aG9kOiAnUE9TVCcsCiAgICBwYXRoOiAnL3F1b3RhcycsCiAgICBjb25maWc6IHsKICAgICAgYXV0aDogJ3NpbXBsZScsCiAgICAgIGhhbmRsZXI6IChyZXF1ZXN0LCByZXBseSkgPT4KICAgICAgICBuZXcgUXVvdGFDcnVkSGFuZGxlcigpLmNyZWF0ZShyZXF1ZXN0LCByZXBseSksCiAgICAgIHZhbGlkYXRlOiBuZXcgUXVvdGFDcnVkSGFuZGxlcigpLmdldENyZWF0ZVZhbGlkYXRpb24oKQogICAgfQogIH0pOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLmNhdGNoKGVyciA9PiB7IHRocm93IG5ldyBRdW90YUVycm9yKCk7IH0pCg==</text>
+        <text encoding="base64">ICAgICAgLmNhdGNoKC5sb2cpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>.w</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>findById</last-search>
+      <last-search>I</last-search>
       <last-offset />
-      <last-pattern>findById</last-pattern>
+      <last-pattern>I</last-pattern>
       <last-replace>conference</last-replace>
       <last-substitute>user</last-substitute>
       <last-dir>1</last-dir>
@@ -641,8 +649,6 @@
     </search>
     <history>
       <history-search>
-        <entry>K</entry>
-        <entry>data</entry>
         <entry>fil</entry>
         <entry>)</entry>
         <entry>form</entry>
@@ -651,7 +657,6 @@
         <entry>name</entry>
         <entry>create</entry>
         <entry>Con</entry>
-        <entry>C</entry>
         <entry>'</entry>
         <entry>rel</entry>
         <entry>\.</entry>
@@ -661,6 +666,9 @@
         <entry>One</entry>
         <entry>console</entry>
         <entry>findById</entry>
+        <entry>V</entry>
+        <entry>C</entry>
+        <entry>I</entry>
       </history-search>
       <history-cmd>
         <entry>9</entry>
@@ -681,8 +689,8 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>:w</entry>
         <entry>46</entry>
-        <entry>w</entry>
         <entry>.w</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
