@@ -348,6 +348,11 @@
         <mark key="^" line="108" column="14" />
         <mark key="." line="20" column="0" />
       </file>
+      <file name="Z:/invite-api/src/index.js" timestamp="1488396726724">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="Z:/partner-platform-api/src/modules/quota/routes.js" timestamp="1487972883869">
         <mark key="'" line="12" column="16" />
         <mark key="[" line="12" column="42" />
@@ -1160,7 +1165,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IEludml0ZWRIdG1sVGVtcGxhdGUgZnJvbSAnLi4vdGVtcGxhdGVzL2ludml0ZWQtaHRtbC5oYnMnOwppbXBvcnQgSW52aXRlZFRleHRUZW1wbGF0ZSBmcm9tICcuLi90ZW1wbGF0ZXMvaW52aXRlZC10ZXh0Lmhicyc7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>partner</text>
@@ -1172,31 +1177,31 @@
         <text encoding="base64">aW1wb3J0IEludml0ZWRIdG1sVGVtcGxhdGUgZnJvbSAnLi4vdGVtcGxhdGVzL2ludml0ZWQtaHRtbC5oYnMnOwppbXBvcnQgSW52aXRlZFRleHRUZW1wbGF0ZSBmcm9tICcuLi90ZW1wbGF0ZXMvaW52aXRlZC10ZXh0Lmhicyc7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBfc2VuZFVzZXJOb3RpZmljYXRpb25FbWFpbChjb25mZXJlbmNlLCB1c2VyKSB7CiAgICByZXR1cm4gUHJvbWlzZS5yZXNvbHZlKHVzZXIpOwogIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>Text</text>
+      <register name="2" type="2">
+        <text encoding="base64">Y29uc29sZS5sb2cocHJvY2Vzcy5lbnYpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLnRoZW4oKCkgPT4gKQo=</text>
+        <text encoding="base64">ICBfc2VuZFVzZXJOb3RpZmljYXRpb25FbWFpbChjb25mZXJlbmNlLCB1c2VyKSB7CiAgICByZXR1cm4gUHJvbWlzZS5yZXNvbHZlKHVzZXIpOwogIH0K</text>
       </register>
       <register name="4" type="4">
-        <text>Html</text>
+        <text>Text</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdGV4dFRlbXBsYXRlOiBvcHRpb25zLnRleHRUZW1wbGF0ZSwKICAgICAgaHRtbFRlbXBsYXRlOiBvcHRpb25zLmh0bWxUZW1wbGF0ZQo=</text>
+        <text encoding="base64">ICAgICAgLnRoZW4oKCkgPT4gKQo=</text>
       </register>
       <register name="6" type="4">
-        <text>options.subject</text>
+        <text>Html</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgdGV4dFRlbXBsYXRlOiBvcHRpb25zLnRleHRUZW1wbGF0ZSwKICAgICAgaHRtbFRlbXBsYXRlOiBvcHRpb25zLmh0bWxUZW1wbGF0ZQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGVsc2UgewogICAgICByZXR1cm4gbmV3IFByb21pc2UocmVzb2x2ZSA9PiByZXNvbHZlKG9wdGlvbnMuZGF0YSkpOwogICAgfQo=</text>
+      <register name="8" type="4">
+        <text>options.subject</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmICh0aGlzLm9wdGlvbnMuc2VuZEVtYWlsKSB7CiAgICAgIAo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
