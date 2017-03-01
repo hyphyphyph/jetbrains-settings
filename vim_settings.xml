@@ -36,7 +36,7 @@
         <mark key="^" line="51" column="38" />
         <mark key="." line="51" column="38" />
       </file>
-      <file name="/a.dummy" timestamp="1488340249560">
+      <file name="/a.dummy" timestamp="1488348471330">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/9b1e8f9b-8d5d-4880-a9e9-7ddaf9ba75f4/console.sql" timestamp="1487912174153">
@@ -906,6 +906,9 @@
         <mark key="]" line="9" column="23" />
         <mark key="." line="9" column="23" />
         <mark key="^" line="9" column="23" />
+      </file>
+      <file name="/a.regexp" timestamp="1488348530797">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="Z:/invite-api/src/modules/conference/services/assignment.service.js" timestamp="1488347445415">
         <mark key="'" line="27" column="12" />
