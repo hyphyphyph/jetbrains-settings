@@ -38,7 +38,8 @@
         <mark key="." line="11" column="31" />
         <mark key="^" line="11" column="31" />
       </file>
-      <file name="Z:/invite-api/src/modules/core/base-handler.js" timestamp="1488321103791">
+      <file name="Z:/invite-api/src/modules/core/base-handler.js" timestamp="1488336089442">
+        <mark key="'" line="46" column="0" />
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="46" />
         <mark key="." line="44" column="0" />
@@ -118,12 +119,12 @@
         <mark key="^" line="16" column="1" />
         <mark key="." line="16" column="1" />
       </file>
-      <file name="Z:/invite-api/src/modules/user/handlers/registration.handler.js" timestamp="1488336044344">
-        <mark key="'" line="55" column="8" />
-        <mark key="[" line="20" column="30" />
-        <mark key="]" line="20" column="29" />
-        <mark key="." line="20" column="29" />
-        <mark key="^" line="20" column="29" />
+      <file name="Z:/invite-api/src/modules/user/handlers/registration.handler.js" timestamp="1488336857334">
+        <mark key="'" line="25" column="47" />
+        <mark key="[" line="30" column="13" />
+        <mark key="]" line="30" column="12" />
+        <mark key="." line="30" column="12" />
+        <mark key="^" line="30" column="11" />
       </file>
       <file name="Z:/invite-api/src/models/pass.model.js" timestamp="1488318806029">
         <mark key="[" line="65" column="40" />
@@ -513,8 +514,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="74" column="45" filename="Z:/invite-api/src/errors.js" />
-      <jump line="24" column="29" filename="Z:/invite-api/src/modules/quota/handlers/quota-crud.handler.js" />
       <jump line="33" column="51" filename="Z:/invite-api/src/modules/quota/routes.js" />
       <jump line="34" column="42" filename="Z:/invite-api/src/modules/quota/routes.js" />
       <jump line="19" column="48" filename="Z:/invite-api/src/modules/quota/handlers/quota-crud.handler.js" />
@@ -601,7 +600,6 @@
       <jump line="86" column="19" filename="Z:/invite-api/src/modules/pass-option/handlers/pass-option-crud.handler.js" />
       <jump line="108" column="25" filename="Z:/invite-api/src/modules/pass-option/handlers/pass-option-crud.handler.js" />
       <jump line="0" column="0" filename="Z:/invite-api/src/models/conference.model.js" />
-      <jump line="27" column="43" filename="Z:/invite-api/src/modules/user/handlers/registration.handler.js" />
       <jump line="0" column="45" filename="Z:/invite-api/src/modules/user/routes.js" />
       <jump line="1" column="7" filename="Z:/invite-api/src/modules/user/routes.js" />
       <jump line="15" column="3" filename="Z:/invite-api/src/modules/user/handlers/registration.handler.js" />
@@ -613,79 +611,65 @@
       <jump line="34" column="10" filename="Z:/invite-api/src/modules/user/handlers/registration.handler.js" />
       <jump line="30" column="0" filename="Z:/invite-api/src/modules/user/handlers/registration.handler.js" />
       <jump line="46" column="8" filename="Z:/invite-api/src/modules/user/handlers/registration.handler.js" />
+      <jump line="46" column="0" filename="Z:/invite-api/src/modules/core/base-handler.js" />
+      <jump line="27" column="24" filename="Z:/invite-api/src/modules/user/handlers/registration.handler.js" />
+      <jump line="26" column="47" filename="Z:/invite-api/src/modules/user/handlers/registration.handler.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>veryifyToken</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>veryifyToken</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>R</text>
+        <text>\.</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBpbml0aWF0ZVJlc2V0UGFzc3dvcmQocmVxdWVzdCwgcmVwbHkpIHsKCiAgfQoKICBnZXRJbml0aWF0ZVJlc2V0UGFzc3dvcmRWZXJpZnlBY2NvdW50VmFsaWRhdGlvbigpIHsKICAgIHJldHVybiB7CiAgICAgIHBheWxvYWQ6IHsKICAgICAgICBlbWFpbDogSm9pLnN0cmluZygpLnJlcXVpcmVkKCkKICAgICAgfQogICAgfTsKICB9Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>Initiate</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>initiate</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICB1c2VyLnBhc3N3b3JkID0gcGFzc3dvcmQ7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcXVlcnk6IHsKICAgICAgICB0b2tlbjogSm9pLnN0cmluZygpLnV1aWQoKQogICAgICB9LAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="4" type="4">
-        <text>Handle</text>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IGRiIGZyb20gJ0AvZGInOwo=</text>
       </register>
-      <register name="5" type="4">
-        <text>Handle</text>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IEFzc2lnbm1lbnRTZXJ2aWNlIGZyb20gJy4uL3NlcnZpY2VzL2Fzc2lnbm1lbnQuc2VydmljZSc7Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>handle</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgLy8gCg==</text>
       </register>
-      <register name="7" type="4">
-        <text>handle</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgJycgCg==</text>
       </register>
-      <register name="8" type="4">
-        <text>Handle</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBwYXNzd29yZDogewogICAgICAgICAgJycKICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="4">
-        <text>HandleVerifyAccountValidation() {
-    return {
-      query: {
-        token: Joi.string().uuid()
-      },
-      payload: {
-        password: Joi.string().required()
-      }
-    };
-  }
-
-  resetPassword(request, reply) {
-
-  }
-
-  get</text>
+        <text>Initiate</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>R</last-search>
+      <last-search>\.</last-search>
       <last-offset />
-      <last-pattern>R</last-pattern>
+      <last-pattern>\.</last-pattern>
       <last-replace>conference</last-replace>
       <last-substitute>user</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>handle</entry>
-        <entry>One</entry>
         <entry>console</entry>
         <entry>findById</entry>
         <entry>C</entry>
@@ -704,6 +688,8 @@
         <entry>V</entry>
         <entry>I</entry>
         <entry>R</entry>
+        <entry>_checkNotFound</entry>
+        <entry>\.</entry>
       </history-search>
       <history-cmd>
         <entry>9</entry>
