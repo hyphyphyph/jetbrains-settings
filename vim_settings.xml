@@ -968,12 +968,12 @@
       <file name="/a.regexp" timestamp="1488348747630">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="Z:/invite-api/src/modules/conference/services/assignment.service.js" timestamp="1488395939733">
-        <mark key="'" line="56" column="9" />
-        <mark key="[" line="1" column="44" />
-        <mark key="]" line="1" column="45" />
-        <mark key="." line="1" column="45" />
-        <mark key="^" line="1" column="53" />
+      <file name="Z:/invite-api/src/modules/conference/services/assignment.service.js" timestamp="1488400898373">
+        <mark key="'" line="58" column="9" />
+        <mark key="[" line="35" column="33" />
+        <mark key="]" line="35" column="33" />
+        <mark key="." line="35" column="33" />
+        <mark key="^" line="35" column="33" />
       </file>
       <file name="Z:/boringcode/src/models/user/findAll.sql" timestamp="1487915027489">
         <mark key="[" line="1" column="0" />
