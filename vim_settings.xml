@@ -495,6 +495,12 @@
         <mark key="." line="26" column="0" />
         <mark key="^" line="2" column="30" />
       </file>
+      <file name="Z:/invite-api/src/modules/partner/templates/invited-text.hbs" timestamp="1488398861769">
+        <mark key="[" line="0" column="33" />
+        <mark key="]" line="0" column="39" />
+        <mark key="." line="0" column="39" />
+        <mark key="^" line="0" column="39" />
+      </file>
       <file name="Z:/partner-platform-api/src/modules/conference-invite/templates/invite-accept-html.hbs" timestamp="1487893553698">
         <mark key="[" line="2" column="13" />
         <mark key="]" line="2" column="13" />
@@ -669,6 +675,12 @@
         <mark key="^" line="17" column="17" />
         <mark key="." line="17" column="17" />
       </file>
+      <file name="Z:/invite-api/src/modules/partner/templates/invited-html.hbs" timestamp="1488399037265">
+        <mark key="[" line="0" column="75" />
+        <mark key="]" line="0" column="73" />
+        <mark key="." line="0" column="73" />
+        <mark key="^" line="0" column="73" />
+      </file>
       <file name="Z:/partner-platform-api/src/modules/conference-invite/templates/invite-cancel-on-behalf-text.hbs" timestamp="1487893599984">
         <mark key="[" line="2" column="13" />
         <mark key="]" line="2" column="13" />
@@ -744,12 +756,12 @@
         <mark key="." line="0" column="29" />
         <mark key="^" line="0" column="29" />
       </file>
-      <file name="Z:/invite-api/src/modules/partner/services/assignment.service.js" timestamp="1488395396654">
-        <mark key="'" line="47" column="0" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="6" column="63" />
-        <mark key="." line="47" column="44" />
-        <mark key="^" line="47" column="44" />
+      <file name="Z:/invite-api/src/modules/partner/services/assignment.service.js" timestamp="1488399019923">
+        <mark key="'" line="51" column="0" />
+        <mark key="[" line="19" column="11" />
+        <mark key="]" line="22" column="26" />
+        <mark key="." line="22" column="26" />
+        <mark key="^" line="22" column="26" />
       </file>
       <file name="Z:/boringcode/migrations/0010-create-auth-tokens/up.sql" timestamp="1488140260054">
         <mark key="[" line="6" column="20" />
@@ -1164,11 +1176,11 @@
       <jump line="51" column="9" filename="Z:/invite-api/src/modules/conference/services/assignment.service.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>to</text>
       </register>
       <register name="-" type="4">
-        <text>partner</text>
+        <text>to</text>
       </register>
       <register name="/" type="4">
         <text>T</text>
