@@ -260,11 +260,11 @@
         <mark key="^" line="16" column="1" />
         <mark key="." line="16" column="1" />
       </file>
-      <file name="Z:/invite-api/src/modules/user/handlers/registration.handler.js" timestamp="1488341887993">
-        <mark key="'" line="0" column="27" />
-        <mark key="[" line="0" column="9" />
-        <mark key="]" line="0" column="21" />
-        <mark key="." line="0" column="21" />
+      <file name="Z:/invite-api/src/modules/user/handlers/registration.handler.js" timestamp="1488346285752">
+        <mark key="'" line="109" column="38" />
+        <mark key="[" line="109" column="25" />
+        <mark key="]" line="109" column="25" />
+        <mark key="." line="109" column="25" />
         <mark key="^" line="0" column="21" />
       </file>
       <file name="Z:/invite-api/src/models/pass.model.js" timestamp="1488318806029">
@@ -978,8 +978,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="20" filename="Z:/boringcode/core/helpers/get-server-url.js" />
-      <jump line="42" column="27" filename="Z:/boringcode/core/testing/base-http-test.js" />
       <jump line="3" column="2" filename="Z:/boringcode/core/helpers/get-server-url.js" />
       <jump line="7" column="37" filename="Z:/boringcode/core/helpers/get-server-url.js" />
       <jump line="19" column="28" filename="Z:/boringcode/core/testing/base-http-test.js" />
@@ -1078,55 +1076,57 @@
       <jump line="21" column="2" filename="Z:/invite-api/db/migrations/20170301051556-create-partner-user.js" />
       <jump line="0" column="0" filename="Z:/invite-api/db/migrations/20170301051556-create-partner-user.js" />
       <jump line="40" column="0" filename="Z:/invite-api/db/migrations/20170301051556-create-partner-user.js" />
+      <jump line="69" column="39" filename="Z:/invite-api/src/modules/user/handlers/registration.handler.js" />
+      <jump line="109" column="38" filename="Z:/invite-api/src/modules/user/handlers/registration.handler.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>VerifyAccount</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>VerifyAccount</text>
       </register>
       <register name="/" type="4">
-        <text>U</text>
+        <text>V</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGlmICh0aGlzLmRlc2VyaWFsaXplZERhdGEudXNlcnMpIHsKICAgICAgY29uc3Qgc2VydmljZSA9ICBuZXcgQXNzaWdubWVudFNlcnZpY2UoKTsKICAgICAgcmV0dXJuIHNlcnZpY2UKICAgICAgICAubm90aWZ5TmV3VXNlcnMoCiAgICAgICAgICBjb25mZXJlbmNlLAogICAgICAgICAgdGhpcy5kZXNlcmlhbGl6ZWREYXRhLnVzZXJzLm1hcChpID0+IGkuaWQpCiAgICAgICAgKQogICAgICAgIC50aGVuKGNvbmZlcmVuY2UgPT4gc2VydmljZS5zZXRVc2Vyc0J5SWRzKAogICAgICAgICAgY29uZmVyZW5jZSwKICAgICAgICAgIHRoaXMuZGVzZXJpYWxpemVkRGF0YS51c2Vycy5tYXAoaSA9PiBpLmlkKQogICAgICAgICkpOwogICAgfQogICAgZWxzZSB7CiAgICAgIHJldHVybiBuZXcgUHJvbWlzZShyZXNvbHZlID0+IHJlc29sdmUoY29uZmVyZW5jZSkpOwogICAgfQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGlmICh0aGlzLmRlc2VyaWFsaXplZERhdGEudXNlcnMpIHsKCiAgICB9Cg==</text>
+      <register name="1" type="4">
+        <text>VerifyAccount</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>VerifyAccount</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmICh0aGlzLmRlc2VyaWFsaXplZERhdGEudXNlcnMpIHsKCiAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">J3VzZSBzdHJpY3QnOwoKbW9kdWxlLmV4cG9ydHMgPSB7CiAgdXA6IGZ1bmN0aW9uIChxdWVyeUludGVyZmFjZSwgU2VxdWVsaXplKSB7CiAgICAvKgogICAgICBBZGQgYWx0ZXJpbmcgY29tbWFuZHMgaGVyZS4KICAgICAgUmV0dXJuIGEgcHJvbWlzZSB0byBjb3JyZWN0bHkgaGFuZGxlIGFzeW5jaHJvbmljaXR5LgoKICAgICAgRXhhbXBsZToKICAgICAgcmV0dXJuIHF1ZXJ5SW50ZXJmYWNlLmNyZWF0ZVRhYmxlKCd1c2VycycsIHsgaWQ6IFNlcXVlbGl6ZS5JTlRFR0VSIH0pOwogICAgKi8KICB9LAoKICBkb3duOiBmdW5jdGlvbiAocXVlcnlJbnRlcmZhY2UsIFNlcXVlbGl6ZSkgewogICAgLyoKICAgICAgQWRkIHJldmVydGluZyBjb21tYW5kcyBoZXJlLgogICAgICBSZXR1cm4gYSBwcm9taXNlIHRvIGNvcnJlY3RseSBoYW5kbGUgYXN5bmNocm9uaWNpdHkuCgogICAgICBFeGFtcGxlOgogICAgICByZXR1cm4gcXVlcnlJbnRlcmZhY2UuZHJvcFRhYmxlKCd1c2VycycpOwogICAgKi8KICB9Cn07Cg==</text>
-      </register>
-      <register name="5" type="4">
-        <text>Conference</text>
-      </register>
-      <register name="6" type="4">
-        <text>Conference</text>
       </register>
       <register name="7" type="4">
         <text>Conference</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="8" type="4">
+        <text>Conference</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="9" type="4">
+        <text>Conference</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>U</last-search>
+      <last-search>V</last-search>
       <last-offset />
-      <last-pattern>U</last-pattern>
+      <last-pattern>V</last-pattern>
       <last-replace>conference</last-replace>
       <last-substitute>user</last-substitute>
       <last-dir>1</last-dir>
@@ -1135,7 +1135,6 @@
     <history>
       <history-search>
         <entry>getRes</entry>
-        <entry>V</entry>
         <entry>I</entry>
         <entry>R</entry>
         <entry>_checkNotFound</entry>
@@ -1154,6 +1153,7 @@
         <entry>)</entry>
         <entry>C</entry>
         <entry>U</entry>
+        <entry>V</entry>
       </history-search>
       <history-cmd>
         <entry>9</entry>
