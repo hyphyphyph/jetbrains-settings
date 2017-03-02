@@ -396,7 +396,8 @@
         <mark key="." line="25" column="56" />
         <mark key="^" line="29" column="8" />
       </file>
-      <file name="Z:/invite-api/config/default.yml" timestamp="1488494744778">
+      <file name="Z:/invite-api/config/default.yml" timestamp="1488496291225">
+        <mark key="'" line="114" column="6" />
         <mark key="[" line="114" column="10" />
         <mark key="]" line="114" column="46" />
         <mark key="." line="114" column="10" />
@@ -801,12 +802,12 @@
         <mark key="." line="21" column="36" />
         <mark key="^" line="24" column="18" />
       </file>
-      <file name="Z:/invite-api/db/seeders/20170208035540-create-pass-allocations.js" timestamp="1488495059350">
-        <mark key="'" line="43" column="56" />
-        <mark key="[" line="28" column="44" />
-        <mark key="]" line="28" column="43" />
-        <mark key="." line="28" column="43" />
-        <mark key="^" line="28" column="43" />
+      <file name="Z:/invite-api/db/seeders/20170208035540-create-pass-allocations.js" timestamp="1488496819117">
+        <mark key="'" line="28" column="6" />
+        <mark key="[" line="53" column="51" />
+        <mark key="]" line="53" column="52" />
+        <mark key="." line="53" column="52" />
+        <mark key="^" line="27" column="6" />
       </file>
       <file name="Z:/invite-api/src/modules/pass-option/handlers/pass-option-crud.handler.js" timestamp="1488325796578">
         <mark key="'" line="108" column="25" />
@@ -1091,8 +1092,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="26" filename="Z:/boringcode/tests/http/login/login.js" />
-      <jump line="25" column="18" filename="Z:/boringcode/tests/http/users/list-all-users.js" />
       <jump line="13" column="42" filename="Z:/invite-api/db/migrations/20170228195156-create-pass-pass-option.js" />
       <jump line="18" column="9" filename="Z:/invite-api/db/migrations/20170114162050-create-user-role.js" />
       <jump line="0" column="0" filename="Z:/invite-api/db/migrations/20170114162050-create-user-role.js" />
@@ -1191,16 +1190,18 @@
       <jump line="29" column="0" filename="Z:/invite-api/db/seeders/20170208035540-create-pass-allocations.js" />
       <jump line="61" column="8" filename="Z:/invite-api/db/seeders/20170208035540-create-pass-allocations.js" />
       <jump line="43" column="56" filename="Z:/invite-api/db/seeders/20170208035540-create-pass-allocations.js" />
+      <jump line="114" column="6" filename="Z:/invite-api/config/default.yml" />
+      <jump line="28" column="6" filename="Z:/invite-api/db/seeders/20170208035540-create-pass-allocations.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>passId</text>
       </register>
       <register name="-" type="4">
-        <text>partners</text>
+        <text>passId</text>
       </register>
       <register name="/" type="4">
-        <text>0</text>
+        <text>(</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICBpZDogY29uZmlnLmdldCgnc2VlZC5xdW90YXMnKVswXS5pZCwKICAgICAgICAgIHBhcnRuZXJJZDogY29uZmlnLmdldCgnc2VlZC5wYXJ0bmVycycpWzBdLmlkLAogICAgICAgICAgcGFzc0lkOiBjb25maWcuZ2V0KCdzZWVkLnBhc3NlcycpWzBdLmlkCiAgICAgICAgfQo=</text>
@@ -1237,9 +1238,9 @@
       </register>
     </registers>
     <search>
-      <last-search>0</last-search>
+      <last-search>(</last-search>
       <last-offset />
-      <last-pattern>0</last-pattern>
+      <last-pattern>(</last-pattern>
       <last-replace>conference</last-replace>
       <last-substitute>user</last-substitute>
       <last-dir>1</last-dir>
@@ -1247,8 +1248,6 @@
     </search>
     <history>
       <history-search>
-        <entry>consle</entry>
-        <entry>console</entry>
         <entry>ACCEPT</entry>
         <entry>invite</entry>
         <entry>mailer</entry>
@@ -1267,6 +1266,8 @@
         <entry>cascade</entry>
         <entry>9</entry>
         <entry>0</entry>
+        <entry>partner</entry>
+        <entry>(</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3RoZW4vdGhhbi9n</entry>
