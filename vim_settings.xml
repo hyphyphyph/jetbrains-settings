@@ -45,23 +45,11 @@
       <file name="/a.dummy" timestamp="1488348471330">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/9b1e8f9b-8d5d-4880-a9e9-7ddaf9ba75f4/console.sql" timestamp="1487912174153">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="20" />
-        <mark key="^" line="0" column="20" />
-        <mark key="." line="0" column="20" />
-      </file>
       <file name="Z:/partner-platform-api/tests/integration/modules/invite/handlers/test-conference-invite-crud.handler.js" timestamp="1487907002367">
         <mark key="[" line="35" column="54" />
         <mark key="]" line="35" column="52" />
         <mark key="." line="35" column="52" />
         <mark key="^" line="35" column="52" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/21b5e859-226b-42bb-bfbd-03d0ba7774f8/console.sql" timestamp="1488234743183">
-        <mark key="[" line="0" column="18" />
-        <mark key="]" line="0" column="26" />
-        <mark key="^" line="0" column="26" />
-        <mark key="." line="0" column="26" />
       </file>
       <file name="Z:/boringcode/tooling/gulp/reusable-tasks/babel.js" timestamp="1488067104016">
         <mark key="'" line="9" column="2" />
@@ -263,6 +251,12 @@
         <mark key="." line="1" column="17" />
         <mark key="^" line="1" column="17" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/9b1e8f9b-8d5d-4880-a9e9-7ddaf9ba75f4/console.sql" timestamp="1487912174153">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="20" />
+        <mark key="^" line="0" column="20" />
+        <mark key="." line="0" column="20" />
+      </file>
       <file name="Z:/partner-platform-api/src/modules/conference-invite/routes.js" timestamp="1487906666975">
         <mark key="[" line="52" column="2" />
         <mark key="]" line="52" column="1" />
@@ -283,11 +277,11 @@
         <mark key="." line="109" column="25" />
         <mark key="^" line="0" column="21" />
       </file>
-      <file name="Z:/invite-api/src/models/pass.model.js" timestamp="1488318806029">
-        <mark key="[" line="65" column="40" />
-        <mark key="]" line="66" column="31" />
-        <mark key="^" line="66" column="31" />
-        <mark key="." line="66" column="31" />
+      <file name="Z:/invite-api/src/models/pass.model.js" timestamp="1488487324374">
+        <mark key="[" line="28" column="7" />
+        <mark key="]" line="28" column="7" />
+        <mark key="." line="28" column="7" />
+        <mark key="^" line="28" column="7" />
       </file>
       <file name="Z:/partner-platform-api/src/modules/conference-invite/templates/invite-resend-html.hbs" timestamp="1487893538784">
         <mark key="[" line="2" column="13" />
@@ -320,6 +314,12 @@
         <mark key="]" line="33" column="62" />
         <mark key="^" line="33" column="62" />
         <mark key="." line="33" column="62" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/21b5e859-226b-42bb-bfbd-03d0ba7774f8/console.sql" timestamp="1488234743183">
+        <mark key="[" line="0" column="18" />
+        <mark key="]" line="0" column="26" />
+        <mark key="^" line="0" column="26" />
+        <mark key="." line="0" column="26" />
       </file>
       <file name="Z:/partner-platform-api/src/modules/core/base-handler.js" timestamp="1487974948053">
         <mark key="'" line="0" column="0" />
@@ -1185,7 +1185,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGRiIGZyb20gJ0AvZGInOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
         <text>QuotaError</text>
@@ -1197,31 +1197,31 @@
         <text encoding="base64">ZXhwb3J0IGZ1bmN0aW9uIFF1b3RhRXJyb3IobWVzc2FnZU9yRGF0YSkgewogIHRoaXMubmFtZSA9ICdRVU9UQSc7CiAgdGhpcy5tZXNzYWdlID0gKG1lc3NhZ2VPckRhdGEgJiYgbWVzc2FnZU9yRGF0YS5tZXNzYWdlKSB8fCBtZXNzYWdlT3JEYXRhIHx8ICAnJzsKICB0aGlzLnN0YWNrID0gbWVzc2FnZU9yRGF0YSAmJiBtZXNzYWdlT3JEYXRhLnN0YWNrIHx8IG5ldyBFcnJvcigpLnN0YWNrOwogICFpc1J1bm5pbmdJblRlc3QgJiYgbG9nZ2VyLmxvZygnZXJyb3InLCBtc2codGhpcykpOwogIHRoaXMuYm9vbSA9ICgpID0+IEJvb20uY29uZmxpY3QobXNnKHRoaXMpKTsKfQpRdW90YUVycm9yLnByb3RvdHlwZSA9IEVycm9yLnByb3RvdHlwZTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGRiIGZyb20gJ0AvZGInOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLmNhdGNoKGNvbnNvbGUubG9nKQo=</text>
+        <text encoding="base64">ICAgICAgJycK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLmNhdGNoKGNvbnNvbGUubG9nKQo=</text>
+        <text encoding="base64">aW1wb3J0IGRiIGZyb20gJ0AvZGInOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZXhpc3RpbmdVc2VySWRzKTsK</text>
+        <text encoding="base64">ICAgICAgLmNhdGNoKGNvbnNvbGUubG9nKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cobmV3VXNlcnMpOwo=</text>
+        <text encoding="base64">ICAgICAgLmNhdGNoKGNvbnNvbGUubG9nKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBtb2RlbHMuQ29uZmVyZW5jZS5maW5kT25lKHsKICAgICAgICAgIHdoZXJlOiB7CiAgICAgICAgICAgIGlkOiBwYXJ0bmVyLmNvbmZlcmVuY2VJZAogICAgICAgICAgfQogICAgICAgIH0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZXhpc3RpbmdVc2VySWRzKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHsKICAgICAgICAgICAgbW9kZWw6IG1vZGVscy5Db25mZXJlbmNlLAogICAgICAgICAgICBhczogJ2NvbmZlcmVuY2UnCiAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cobmV3VXNlcnMpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">WW91J3ZlIGJlZW4gaW52aXRlZCB0byB7e3BhcnRuZXIudGl0bGVFbn19Cg==</text>
+        <text encoding="base64">ICAgICAgICBtb2RlbHMuQ29uZmVyZW5jZS5maW5kT25lKHsKICAgICAgICAgIHdoZXJlOiB7CiAgICAgICAgICAgIGlkOiBwYXJ0bmVyLmNvbmZlcmVuY2VJZAogICAgICAgICAgfQogICAgICAgIH0pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHsKICAgICAgICAgICAgbW9kZWw6IG1vZGVscy5Db25mZXJlbmNlLAogICAgICAgICAgICBhczogJ2NvbmZlcmVuY2UnCiAgICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
