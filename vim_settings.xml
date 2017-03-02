@@ -382,12 +382,12 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="Z:/invite-api/db/migrations/20170228195629-create-pass-option-quota.js" timestamp="1488491368498">
+      <file name="Z:/invite-api/db/migrations/20170228195629-create-pass-option-quota.js" timestamp="1488494246111">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="49" column="2" />
-        <mark key="." line="25" column="30" />
-        <mark key="^" line="25" column="30" />
+        <mark key="[" line="23" column="27" />
+        <mark key="]" line="24" column="26" />
+        <mark key="." line="24" column="26" />
+        <mark key="^" line="24" column="26" />
       </file>
       <file name="Z:/partner-platform-api/db/seeders/20170118204942-create-passes.js" timestamp="1487959950456">
         <mark key="'" line="24" column="0" />
@@ -396,11 +396,11 @@
         <mark key="." line="25" column="56" />
         <mark key="^" line="29" column="8" />
       </file>
-      <file name="Z:/invite-api/config/default.yml" timestamp="1488234675630">
-        <mark key="[" line="14" column="12" />
-        <mark key="]" line="14" column="21" />
-        <mark key="." line="14" column="21" />
-        <mark key="^" line="14" column="21" />
+      <file name="Z:/invite-api/config/default.yml" timestamp="1488494744778">
+        <mark key="[" line="114" column="10" />
+        <mark key="]" line="114" column="46" />
+        <mark key="." line="114" column="10" />
+        <mark key="^" line="114" column="9" />
       </file>
       <file name="Z:/boringcode/core/server-plugins/cors.js" timestamp="1488066250187">
         <mark key="'" line="46" column="33" />
@@ -537,12 +537,12 @@
         <mark key="." line="6" column="10" />
         <mark key="^" line="6" column="10" />
       </file>
-      <file name="Z:/invite-api/db/migrations/20170222213607-create-quotas.js" timestamp="1488311742370">
-        <mark key="'" line="56" column="21" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="23" column="28" />
-        <mark key="." line="55" column="48" />
-        <mark key="^" line="55" column="48" />
+      <file name="Z:/invite-api/db/migrations/20170222213607-create-quotas.js" timestamp="1488494164124">
+        <mark key="'" line="58" column="21" />
+        <mark key="[" line="27" column="17" />
+        <mark key="]" line="28" column="26" />
+        <mark key="." line="28" column="26" />
+        <mark key="^" line="28" column="26" />
       </file>
       <file name="Z:/boringcode/core/serializers/base-serializer.js" timestamp="1488142822813">
         <mark key="[" line="22" column="0" />
@@ -801,6 +801,13 @@
         <mark key="." line="21" column="36" />
         <mark key="^" line="24" column="18" />
       </file>
+      <file name="Z:/invite-api/db/seeders/20170208035540-create-pass-allocations.js" timestamp="1488495059350">
+        <mark key="'" line="43" column="56" />
+        <mark key="[" line="28" column="44" />
+        <mark key="]" line="28" column="43" />
+        <mark key="." line="28" column="43" />
+        <mark key="^" line="28" column="43" />
+      </file>
       <file name="Z:/invite-api/src/modules/pass-option/handlers/pass-option-crud.handler.js" timestamp="1488325796578">
         <mark key="'" line="108" column="25" />
         <mark key="[" line="111" column="8" />
@@ -856,11 +863,12 @@
         <mark key="." line="24" column="19" />
         <mark key="^" line="24" column="19" />
       </file>
-      <file name="Z:/invite-api/db/migrations/20170113204512-create-pass-allocations.js" timestamp="1488245488985">
-        <mark key="[" line="17" column="31" />
-        <mark key="]" line="17" column="29" />
-        <mark key="." line="17" column="29" />
-        <mark key="^" line="17" column="29" />
+      <file name="Z:/invite-api/db/migrations/20170113204512-create-pass-allocations.js" timestamp="1488494459486">
+        <mark key="'" line="52" column="21" />
+        <mark key="[" line="18" column="31" />
+        <mark key="]" line="18" column="29" />
+        <mark key="." line="18" column="29" />
+        <mark key="^" line="18" column="29" />
       </file>
       <file name="Z:/partner-platform-api/src/modules/pass-option/services/assignment.service.js" timestamp="1487967149627">
         <mark key="[" line="7" column="45" />
@@ -894,12 +902,12 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="21" />
       </file>
-      <file name="Z:/invite-api/db/migrations/20170228195156-create-pass-option-pass.js" timestamp="1488311880341">
+      <file name="Z:/invite-api/db/migrations/20170228195156-create-pass-option-pass.js" timestamp="1488494187105">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="25" column="30" />
-        <mark key="]" line="25" column="30" />
-        <mark key="." line="25" column="30" />
-        <mark key="^" line="25" column="30" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="27" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="12" column="26" />
       </file>
       <file name="Z:/partner-platform-api/src/modules/conference-invite/templates/invite-cancel-on-behalf-html.hbs" timestamp="1487893592959">
         <mark key="[" line="1" column="59" />
@@ -913,7 +921,7 @@
         <mark key="^" line="16" column="13" />
         <mark key="." line="16" column="13" />
       </file>
-      <file name="/Dummy.txt" timestamp="1488493535786">
+      <file name="/Dummy.txt" timestamp="1488494507603">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="8" />
       </file>
@@ -1083,15 +1091,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="0" filename="Z:/boringcode/core/modules/auth/handlers/login-handler.js" />
-      <jump line="0" column="0" filename="Z:/boringcode/tests/http/users/list-all-users.js" />
-      <jump line="30" column="22" filename="Z:/boringcode/core/helpers/simple-http-request.js" />
-      <jump line="5" column="46" filename="Z:/boringcode/core/migration/base-migration.js" />
-      <jump line="0" column="0" filename="Z:/boringcode/core/migration/base-migration.js" />
-      <jump line="64" column="13" filename="Z:/boringcode/core/testing/base-http-test.js" />
-      <jump line="13" column="19" filename="Z:/boringcode/core/testing/base-http-test.js" />
-      <jump line="9" column="4" filename="Z:/boringcode/core/testing/base-http-test.js" />
-      <jump line="25" column="4" filename="Z:/boringcode/core/testing/base-http-test.js" />
       <jump line="4" column="26" filename="Z:/boringcode/tests/http/login/login.js" />
       <jump line="25" column="18" filename="Z:/boringcode/tests/http/users/list-all-users.js" />
       <jump line="13" column="42" filename="Z:/invite-api/db/migrations/20170228195156-create-pass-pass-option.js" />
@@ -1183,65 +1182,71 @@
       <jump line="0" column="0" filename="Z:/invite-api/db/migrations/20170302214319-add-create-klik-and-category-to-passes.js" />
       <jump line="14" column="5" filename="Z:/invite-api/db/migrations/20170302214319-add-create-klik-and-category-to-passes.js" />
       <jump line="25" column="29" filename="Z:/invite-api/db/migrations/20170302214319-add-create-klik-and-category-to-passes.js" />
+      <jump line="44" column="21" filename="Z:/invite-api/db/migrations/20170113204512-create-pass-allocations.js" />
+      <jump line="57" column="21" filename="Z:/invite-api/db/migrations/20170113204512-create-pass-allocations.js" />
+      <jump line="7" column="9" filename="Z:/invite-api/db/seeders/20170208035540-create-pass-allocations.js" />
+      <jump line="16" column="40" filename="Z:/invite-api/db/seeders/20170208035540-create-pass-allocations.js" />
+      <jump line="17" column="49" filename="Z:/invite-api/db/seeders/20170208035540-create-pass-allocations.js" />
+      <jump line="18" column="44" filename="Z:/invite-api/db/seeders/20170208035540-create-pass-allocations.js" />
+      <jump line="29" column="0" filename="Z:/invite-api/db/seeders/20170208035540-create-pass-allocations.js" />
+      <jump line="61" column="8" filename="Z:/invite-api/db/seeders/20170208035540-create-pass-allocations.js" />
+      <jump line="43" column="56" filename="Z:/invite-api/db/seeders/20170208035540-create-pass-allocations.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>partners</text>
       </register>
       <register name="/" type="4">
-        <text>\.</text>
+        <text>0</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">J3VzZSBzdHJpY3QnOwoKY29uc3QgVEFCTEVfTkFNRSA9ICdQYXNzT3B0aW9uUXVvdGEnOwoKbW9kdWxlLmV4cG9ydHMgPSB7CiAgdXA6IChxdWVyeUludGVyZmFjZSwgU2VxdWVsaXplKSA9PiB7CiAgICByZXR1cm4gcXVlcnlJbnRlcmZhY2UuY3JlYXRlVGFibGUoCiAgICAgIFRBQkxFX05BTUUsCiAgICAgIHsKCiAgICAgICAgcXVvdGFJZDogewogICAgICAgICAgcHJpbWFyeUtleTogdHJ1ZSwKICAgICAgICAgIHR5cGU6IFNlcXVlbGl6ZS5VVUlELAogICAgICAgICAgcmVmZXJlbmNlczogewogICAgICAgICAgICBtb2RlbDogJ1F1b3RhcycsCiAgICAgICAgICAgIGtleTogJ2lkJwogICAgICAgICAgfSwKICAgICAgICAgIG9uVXBkYXRlOiAnQ0FTQ0FERScsCiAgICAgICAgICBvbkRlbGV0ZTogJ0NBU0NBREUnCiAgICAgICAgfSwKCiAgICAgICAgcGFzc09wdGlvbklkOiB7CiAgICAgICAgICBwcmltYXJ5S2V5OiB0cnVlLAogICAgICAgICAgdHlwZTogU2VxdWVsaXplLlVVSUQsCiAgICAgICAgICByZWZlcmVuY2VzOiB7CiAgICAgICAgICAgIG1vZGVsOiAnUGFzc09wdGlvbnMnLAogICAgICAgICAgICBrZXk6ICdpZCcKICAgICAgICAgIH0sCiAgICAgICAgICBvblVwZGF0ZTogJ0NBU0NBREUnLAogICAgICAgICAgb25EZWxldGU6ICdDQVNDQURFJwogICAgICAgIH0sCgogICAgICAgIGNyZWF0ZWRBdDogewogICAgICAgICAgYWxsb3dOdWxsOiB0cnVlLAogICAgICAgICAgdHlwZTogU2VxdWVsaXplLkRBVEUKICAgICAgICB9LAoKICAgICAgICB1cGRhdGVkQXQ6IHsKICAgICAgICAgIGFsbG93TnVsbDogdHJ1ZSwKICAgICAgICAgIHR5cGU6IFNlcXVlbGl6ZS5EQVRFCiAgICAgICAgfQoKICAgICAgfQogICAgKTsKICB9LAoKICBkb3duOiAocXVlcnlJbnRlcmZhY2UpID0+IHsKICAgIHJldHVybiBxdWVyeUludGVyZmFjZS5kcm9wVGFibGUoVEFCTEVfTkFNRSwgeyBjYXNjYWRlOiB0cnVlIH0pOwogIH0KfTsK</text>
+        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICBpZDogY29uZmlnLmdldCgnc2VlZC5xdW90YXMnKVswXS5pZCwKICAgICAgICAgIHBhcnRuZXJJZDogY29uZmlnLmdldCgnc2VlZC5wYXJ0bmVycycpWzBdLmlkLAogICAgICAgICAgcGFzc0lkOiBjb25maWcuZ2V0KCdzZWVkLnBhc3NlcycpWzBdLmlkCiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>{ cascade: true }</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBxdWVyeUludGVyZmFjZS5idWxrSW5zZXJ0KAogICAgICB7fQogICAgKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgewogICAgICAgIHF1b3RhSWQ6IHsKICAgICAgICAgIHByaW1hcnlLZXk6IHRydWUsCiAgICAgICAgICB0eXBlOiBTZXF1ZWxpemUuVVVJRCwKICAgICAgICAgIHJlZmVyZW5jZXM6IHsKICAgICAgICAgICAgbW9kZWw6ICdRdW90YXMnLAogICAgICAgICAgICBrZXk6ICdpZCcKICAgICAgICAgIH0sCiAgICAgICAgICBvblVwZGF0ZTogJ0NBU0NBREUnLAogICAgICAgICAgb25EZWxldGU6ICdDQVNDQURFJwogICAgICAgIH0sCgogICAgICAgIHBhc3NPcHRpb25JZDogewogICAgICAgICAgcHJpbWFyeUtleTogdHJ1ZSwKICAgICAgICAgIHR5cGU6IFNlcXVlbGl6ZS5VVUlELAogICAgICAgICAgcmVmZXJlbmNlczogewogICAgICAgICAgICBtb2RlbDogJ1Bhc3NPcHRpb25zJywKICAgICAgICAgICAga2V5OiAnaWQnCiAgICAgICAgICB9LAogICAgICAgICAgb25VcGRhdGU6ICdDQVNDQURFJywKICAgICAgICAgIG9uRGVsZXRlOiAnQ0FTQ0FERScKICAgICAgICB9LAoKICAgICAgICBjcmVhdGVkQXQ6IHsKICAgICAgICAgIGFsbG93TnVsbDogdHJ1ZSwKICAgICAgICAgIHR5cGU6IFNlcXVlbGl6ZS5EQVRFCiAgICAgICAgfSwKCiAgICAgICAgdXBkYXRlZEF0OiB7CiAgICAgICAgICBhbGxvd051bGw6IHRydWUsCiAgICAgICAgICB0eXBlOiBTZXF1ZWxpemUuREFURQogICAgICAgIH0KCiAgICAgIH0K</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">J3VzZSBzdHJpY3QnOwoKbW9kdWxlLmV4cG9ydHMgPSB7CiAgdXA6IGZ1bmN0aW9uIChxdWVyeUludGVyZmFjZSwgU2VxdWVsaXplKSB7CiAgICAvKgogICAgICBBZGQgYWx0ZXJpbmcgY29tbWFuZHMgaGVyZS4KICAgICAgUmV0dXJuIGEgcHJvbWlzZSB0byBjb3JyZWN0bHkgaGFuZGxlIGFzeW5jaHJvbmljaXR5LgoKICAgICAgRXhhbXBsZToKICAgICAgcmV0dXJuIHF1ZXJ5SW50ZXJmYWNlLmNyZWF0ZVRhYmxlKCd1c2VycycsIHsgaWQ6IFNlcXVlbGl6ZS5JTlRFR0VSIH0pOwogICAgKi8KICB9LAoKICBkb3duOiBmdW5jdGlvbiAocXVlcnlJbnRlcmZhY2UsIFNlcXVlbGl6ZSkgewogICAgLyoKICAgICAgQWRkIHJldmVydGluZyBjb21tYW5kcyBoZXJlLgogICAgICBSZXR1cm4gYSBwcm9taXNlIHRvIGNvcnJlY3RseSBoYW5kbGUgYXN5bmNocm9uaWNpdHkuCgogICAgICBFeGFtcGxlOgogICAgICByZXR1cm4gcXVlcnlJbnRlcmZhY2UuZHJvcFRhYmxlKCd1c2VycycpOwogICAgKi8KICB9Cn07Cg==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgVEFCTEVfTkFNRSwKICAgICAgWwogICAgICAgIHsKICAgICAgICAgIHF1b3RhSWQ6IGNvbmZpZy5nZXQoJ3NlZWQucXVvdGFzJylbMF0uaWQsCiAgICAgICAgICBwYXJ0bmVySWQ6IGNvbmZpZy5nZXQoJ3NlZWQucGFydG5lcnMnKVswXS5pZCwKICAgICAgICAgIHBhc3NJZDogY29uZmlnLmdldCgnc2VlZC5wYXNzZXMnKVswXS5pZCwKICAgICAgICAgIGNvbmZlcmVuY2VJbnZpdGVJZDogbnVsbCwKCiAgICAgICAgICBjcmVhdGVkQXQ6IG5ldyBEYXRlKCksCiAgICAgICAgICB1cGRhdGVkQXQ6IG5ldyBEYXRlKCkKICAgICAgICB9LAoKICAgICAgICB7CiAgICAgICAgICBxdW90YUlkOiBjb25maWcuZ2V0KCdzZWVkLnF1b3RhcycpWzFdLmlkLAogICAgICAgICAgcGFydG5lcklkOiBjb25maWcuZ2V0KCdzZWVkLnBhcnRuZXJzJylbMF0uaWQsCiAgICAgICAgICBwYXNzSWQ6IGNvbmZpZy5nZXQoJ3NlZWQucGFzc2VzJylbMF0uaWQsCiAgICAgICAgICBjb25mZXJlbmNlSW52aXRlSWQ6IG51bGwsCgogICAgICAgICAgY3JlYXRlZEF0OiBuZXcgRGF0ZSgpLAogICAgICAgICAgdXBkYXRlZEF0OiBuZXcgRGF0ZSgpCiAgICAgICAgfSwKCiAgICAgICAgewogICAgICAgICAgcXVvdGFJZDogY29uZmlnLmdldCgnc2VlZC5xdW90YXMnKVsyXS5pZCwKICAgICAgICAgIHBhcnRuZXJJZDogY29uZmlnLmdldCgnc2VlZC5wYXJ0bmVycycpWzBdLmlkLAogICAgICAgICAgcGFzc0lkOiBjb25maWcuZ2V0KCdzZWVkLnBhc3NlcycpWzBdLmlkLAogICAgICAgICAgY29uZmVyZW5jZUludml0ZUlkOiBudWxsLAoKICAgICAgICAgIGNyZWF0ZWRBdDogbmV3IERhdGUoKSwKICAgICAgICAgIHVwZGF0ZWRBdDogbmV3IERhdGUoKQogICAgICAgIH0KICAgICAgXSwK</text>
       </register>
-      <register name="6" type="4">
-        <text>.allow(null)</text>
+      <register name="5" type="2">
+        <text encoding="base64">Y29uc3QgdXVpZCA9IHJlcXVpcmUoJ3V1aWQnKTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGNvbnN0IHF1b3RhSWQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgJycK</text>
+        <text encoding="base64">ICAgICAgICAgIHJlZmVyZW5jZXM6IHsKICAgICAgICAgICAgbW9kZWw6ICdRdW90YXMnLAogICAgICAgICAgICBrZXk6ICdpZCcKICAgICAgICAgIH0sCiAgICAgICAgICBvblVwZGF0ZTogJ0NBU0NBREUnLAogICAgICAgICAgb25EZWxldGU6ICdDQVNDQURFJwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGRiIGZyb20gJ0AvZGInOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIGFsbG93TnVsbDogZmFsc2UsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>\.</last-search>
+      <last-search>0</last-search>
       <last-offset />
-      <last-pattern>\.</last-pattern>
+      <last-pattern>0</last-pattern>
       <last-replace>conference</last-replace>
       <last-substitute>user</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>V</entry>
-        <entry>con</entry>
-        <entry>conf</entry>
         <entry>consle</entry>
         <entry>console</entry>
         <entry>ACCEPT</entry>
@@ -1259,6 +1264,9 @@
         <entry>)</entry>
         <entry>\.add</entry>
         <entry>\.</entry>
+        <entry>cascade</entry>
+        <entry>9</entry>
+        <entry>0</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3RoZW4vdGhhbi9n</entry>
@@ -1309,6 +1317,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
