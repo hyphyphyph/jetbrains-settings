@@ -49,6 +49,13 @@
         <mark key="^" line="67" column="39" />
         <mark key="." line="67" column="42" />
       </file>
+      <file name="W:/boringcode/tooling/cli/index.js" timestamp="1488509620815">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="9" column="60" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="2" column="0" />
+      </file>
       <file name="Z:/invite-api/db/migrations/20170302214319-add-create-klik-and-category-to-passes.js" timestamp="1488491819061">
         <mark key="'" line="25" column="29" />
         <mark key="[" line="27" column="70" />
@@ -86,6 +93,12 @@
         <mark key="]" line="10" column="15" />
         <mark key="^" line="10" column="15" />
         <mark key="." line="10" column="15" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/9b1e8f9b-8d5d-4880-a9e9-7ddaf9ba75f4/console.sql" timestamp="1487912174153">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="20" />
+        <mark key="^" line="0" column="20" />
+        <mark key="." line="0" column="20" />
       </file>
       <file name="Z:/boringcode/src/models/user/deleteById.sql" timestamp="1487916606534">
         <mark key="[" line="1" column="18" />
@@ -232,6 +245,12 @@
         <mark key="." line="29" column="23" />
         <mark key="^" line="29" column="23" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/21b5e859-226b-42bb-bfbd-03d0ba7774f8/console.sql" timestamp="1488234743183">
+        <mark key="[" line="0" column="18" />
+        <mark key="]" line="0" column="26" />
+        <mark key="^" line="0" column="26" />
+        <mark key="." line="0" column="26" />
+      </file>
       <file name="Z:/invite-api/src/modules/conference/templates/invited-html.hbs" timestamp="1488400434734">
         <mark key="[" line="0" column="36" />
         <mark key="]" line="0" column="40" />
@@ -275,11 +294,11 @@
         <mark key="." line="1" column="17" />
         <mark key="^" line="1" column="17" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/9b1e8f9b-8d5d-4880-a9e9-7ddaf9ba75f4/console.sql" timestamp="1487912174153">
+      <file name="W:/boringcode/cli" timestamp="1488508413070">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="20" />
-        <mark key="^" line="0" column="20" />
-        <mark key="." line="0" column="20" />
+        <mark key="]" line="0" column="18" />
+        <mark key="." line="0" column="18" />
+        <mark key="^" line="0" column="18" />
       </file>
       <file name="Z:/partner-platform-api/src/modules/conference-invite/routes.js" timestamp="1487906666975">
         <mark key="[" line="52" column="2" />
@@ -338,12 +357,6 @@
         <mark key="]" line="33" column="62" />
         <mark key="^" line="33" column="62" />
         <mark key="." line="33" column="62" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/21b5e859-226b-42bb-bfbd-03d0ba7774f8/console.sql" timestamp="1488234743183">
-        <mark key="[" line="0" column="18" />
-        <mark key="]" line="0" column="26" />
-        <mark key="^" line="0" column="26" />
-        <mark key="." line="0" column="26" />
       </file>
       <file name="Z:/partner-platform-api/src/modules/core/base-handler.js" timestamp="1487974948053">
         <mark key="'" line="0" column="0" />
@@ -960,6 +973,12 @@
         <mark key="." line="0" column="36" />
         <mark key="^" line="0" column="36" />
       </file>
+      <file name="W:/boringcode/tooling/cli/commands/build/index.js" timestamp="1488509304741">
+        <mark key="[" line="1" column="19" />
+        <mark key="]" line="2" column="20" />
+        <mark key="." line="2" column="20" />
+        <mark key="^" line="2" column="20" />
+      </file>
       <file name="Z:/boringcode/core/helpers/make-route.js" timestamp="1488080790616">
         <mark key="'" line="8" column="16" />
         <mark key="[" line="8" column="54" />
@@ -1163,14 +1182,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="131" column="13" filename="Z:/invite-api/src/modules/quota/handlers/quota-crud.handler.js" />
-      <jump line="68" column="23" filename="Z:/invite-api/src/modules/quota/handlers/quota-crud.handler.js" />
-      <jump line="22" column="27" filename="Z:/invite-api/src/modules/quota/services/assignment.service.js" />
-      <jump line="0" column="0" filename="Z:/invite-api/src/modules/quota/handlers/quota-crud.handler.js" />
-      <jump line="54" column="33" filename="Z:/invite-api/src/models/quota.model.js" />
-      <jump line="21" column="26" filename="Z:/invite-api/src/modules/pass-option/routes.js" />
-      <jump line="32" column="61" filename="Z:/invite-api/src/modules/pass-option/routes.js" />
-      <jump line="86" column="19" filename="Z:/invite-api/src/modules/pass-option/handlers/pass-option-crud.handler.js" />
       <jump line="108" column="25" filename="Z:/invite-api/src/modules/pass-option/handlers/pass-option-crud.handler.js" />
       <jump line="0" column="0" filename="Z:/invite-api/src/models/conference.model.js" />
       <jump line="0" column="45" filename="Z:/invite-api/src/modules/user/routes.js" />
@@ -1263,55 +1274,63 @@
       <jump line="10" column="42" filename="Z:/invite-api/src/modules/upload/handlers/upload.handler.js" />
       <jump line="10" column="42" filename="Z:/invite-api/src/modules/signed-upload/routes.js" />
       <jump line="14" column="2" filename="Z:/invite-api/src/modules/signed-upload/handlers/signed-upload.handler.js" />
+      <jump line="4" column="22" filename="W:/boringcode/tooling/cli/index.js" />
+      <jump line="7" column="12" filename="W:/boringcode/tooling/cli/index.js" />
+      <jump line="6" column="24" filename="W:/boringcode/tooling/cli/index.js" />
+      <jump line="8" column="45" filename="W:/boringcode/tooling/cli/index.js" />
+      <jump line="5" column="1" filename="W:/boringcode/tooling/cli/index.js" />
+      <jump line="0" column="49" filename="W:/boringcode/tooling/cli/index.js" />
+      <jump line="12" column="60" filename="W:/boringcode/tooling/cli/index.js" />
+      <jump line="2" column="0" filename="W:/boringcode/tooling/cli/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgcmVnaW9uOiBjb25maWcuZ2V0KCdhd3MucmVnaW9uJykgfHwgJ3VzLXdlc3QtMScsCg==</text>
+        <text encoding="base64">ICBjb25zdCBjb21tYW5kcyA9IFsKICAgIHsgdGl0bGU6ICdidWlsZCcsIHZhbHVlOiAnYnVpbGQnIH0KICBdOwogIGNvbnN0IHN1Z2dlc3RDb21tYW5kcyA9IChpbnB1dCkgPT4gUHJvbWlzZS5yZXNvbHZlKAogICAgY29tbWFuZHMuZmlsdGVyKGNvbW1hbmQgPT4gY29tbWFuZC50aXRsZS5zbGljZSgwLCBpbnB1dC5sZW5ndGgpID09PSBpbnB1dCkKICApOwogIGNsaUF1dG9jb21wbGV0ZSgnV2hhdCBkbyB5b3Ugd2FudCB0byBkbz8nLCBzdWdnZXN0Q29tbWFuZHMpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>s3Plugin</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>R</text>
+        <text>au</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICBpZDogY29uZmlnLmdldCgnc2VlZC5xdW90YXMnKVswXS5pZCwKICAgICAgICAgIHBhcnRuZXJJZDogY29uZmlnLmdldCgnc2VlZC5wYXJ0bmVycycpWzBdLmlkLAogICAgICAgICAgcGFzc0lkOiBjb25maWcuZ2V0KCdzZWVkLnBhc3NlcycpWzBdLmlkCiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgcmVnaW9uOiBjb25maWcuZ2V0KCdhd3MucmVnaW9uJykgfHwgJ3VzLXdlc3QtMScsCg==</text>
+        <text encoding="base64">ICBjb25zdCBjb21tYW5kcyA9IFsKICAgIHsgdGl0bGU6ICdidWlsZCcsIHZhbHVlOiAnYnVpbGQnIH0KICBdOwogIGNvbnN0IHN1Z2dlc3RDb21tYW5kcyA9IChpbnB1dCkgPT4gUHJvbWlzZS5yZXNvbHZlKAogICAgY29tbWFuZHMuZmlsdGVyKGNvbW1hbmQgPT4gY29tbWFuZC50aXRsZS5zbGljZSgwLCBpbnB1dC5sZW5ndGgpID09PSBpbnB1dCkKICApOwogIGNsaUF1dG9jb21wbGV0ZSgnV2hhdCBkbyB5b3Ugd2FudCB0byBkbz8nLCBzdWdnZXN0Q29tbWFuZHMpOwo=</text>
       </register>
-      <register name="2" type="4">
-        <text>HandleUpload</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmVycm9yKGBTb3JyeSwgJHthcmd2Ll9bMF19IGlzIG5vdCBhIGNvbW1hbmQuYCk7CiAgdGhyb3cgZTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IFVwbG9hZEhhbmRsZXIgZnJvbSAnLi9oYW5kbGVycy9zaWduZWQtdXBsb2FkLmhhbmRsZXInOwo=</text>
+        <text encoding="base64">CmNvbnNvbGUubG9nKCdCVUlMRElORycpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICByZWdpb246IEFXU19SRUdJT04K</text>
+        <text encoding="base64">ICB0aHJvdyBlOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICByZWdpb246Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGkK</text>
+        <text encoding="base64">Y29uc29sZS5sb2coYXJndik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhlcnIsIGRhdGEpOwo=</text>
+        <text encoding="base64">Y29uc29sZS5sb2coeWFyZ3MuYXJndik7Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>'image/png'</text>
+      <register name="8" type="2">
+        <text encoding="base64">eWFyZ3MKICAuY29tbWFuZCgnYnVpbGQnLCAnRG8gc3R1ZmYnKTsKCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgYXV0aDogJ3NpbXBsZScsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>R</last-search>
+      <last-search>au</last-search>
       <last-offset />
-      <last-pattern>R</last-pattern>
+      <last-pattern>au</last-pattern>
       <last-replace>conference</last-replace>
       <last-substitute>user</last-substitute>
       <last-dir>1</last-dir>
@@ -1319,11 +1338,6 @@
     </search>
     <history>
       <history-search>
-        <entry>db</entry>
-        <entry>)</entry>
-        <entry>\.add</entry>
-        <entry>cascade</entry>
-        <entry>9</entry>
         <entry>0</entry>
         <entry>partner</entry>
         <entry>(</entry>
@@ -1339,9 +1353,13 @@
         <entry>H</entry>
         <entry>V</entry>
         <entry>R</entry>
+        <entry>s(</entry>
+        <entry>''</entry>
+        <entry>argv</entry>
+        <entry>]</entry>
+        <entry>au</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL3RoZW4vdGhhbi9n</entry>
         <entry>4</entry>
         <entry>80</entry>
         <entry encoding="base64">JzwsJz5zL09wdGlvbnMvT3B0aW9uL2c=</entry>
@@ -1352,7 +1370,6 @@
         <entry>W</entry>
         <entry>ww</entry>
         <entry>s</entry>
-        <entry>wq</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>:w</entry>
         <entry>46</entry>
@@ -1360,6 +1377,8 @@
         <entry>105</entry>
         <entry>89</entry>
         <entry>q</entry>
+        <entry>wq</entry>
+        <entry>sw</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
