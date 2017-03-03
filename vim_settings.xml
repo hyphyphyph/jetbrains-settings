@@ -49,6 +49,19 @@
         <mark key="^" line="67" column="39" />
         <mark key="." line="67" column="42" />
       </file>
+      <file name="Z:/boringcode/tooling/cli/commands/index.js" timestamp="1488511678363">
+        <mark key="[" line="4" column="7" />
+        <mark key="]" line="5" column="6" />
+        <mark key="^" line="5" column="6" />
+        <mark key="." line="5" column="6" />
+      </file>
+      <file name="Z:/boringcode/tooling/cli/index.js" timestamp="1488511418749">
+        <mark key="'" line="12" column="39" />
+        <mark key="[" line="10" column="13" />
+        <mark key="]" line="11" column="1" />
+        <mark key="." line="11" column="1" />
+        <mark key="^" line="11" column="1" />
+      </file>
       <file name="W:/boringcode/tooling/cli/index.js" timestamp="1488509620815">
         <mark key="'" line="2" column="0" />
         <mark key="[" line="3" column="0" />
@@ -118,6 +131,12 @@
         <mark key="]" line="56" column="11" />
         <mark key="^" line="53" column="24" />
         <mark key="." line="54" column="27" />
+      </file>
+      <file name="Z:/boringcode/tooling/cli/commands/start/index.js" timestamp="1488513249470">
+        <mark key="'" line="8" column="3" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="Z:/invite-api/src/modules/pass/services/assignment.service.js" timestamp="1488317905213">
         <mark key="'" line="18" column="35" />
@@ -589,6 +608,13 @@
         <mark key="." line="28" column="26" />
         <mark key="^" line="28" column="26" />
       </file>
+      <file name="Z:/boringcode/tooling/cli/commands/build/index.js" timestamp="1488512592680">
+        <mark key="'" line="7" column="33" />
+        <mark key="[" line="7" column="29" />
+        <mark key="]" line="7" column="29" />
+        <mark key="." line="7" column="29" />
+        <mark key="^" line="7" column="49" />
+      </file>
       <file name="Z:/boringcode/core/serializers/base-serializer.js" timestamp="1488142822813">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
@@ -866,11 +892,11 @@
         <mark key="." line="63" column="62" />
         <mark key="^" line="63" column="62" />
       </file>
-      <file name="Z:/boringcode/src/index.js" timestamp="1488133037084">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-        <mark key="^" line="8" column="34" />
+      <file name="Z:/boringcode/src/index.js" timestamp="1488512848817">
+        <mark key="[" line="3" column="18" />
+        <mark key="]" line="4" column="10" />
+        <mark key="." line="4" column="10" />
+        <mark key="^" line="4" column="10" />
       </file>
       <file name="Z:/partner-platform-api/src/modules/quota/handlers/quota-crud.handler.js" timestamp="1487975259696">
         <mark key="'" line="21" column="18" />
@@ -1182,29 +1208,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="108" column="25" filename="Z:/invite-api/src/modules/pass-option/handlers/pass-option-crud.handler.js" />
-      <jump line="0" column="0" filename="Z:/invite-api/src/models/conference.model.js" />
-      <jump line="0" column="45" filename="Z:/invite-api/src/modules/user/routes.js" />
-      <jump line="1" column="7" filename="Z:/invite-api/src/modules/user/routes.js" />
-      <jump line="15" column="3" filename="Z:/invite-api/src/modules/user/handlers/registration.handler.js" />
-      <jump line="16" column="0" filename="Z:/invite-api/src/modules/user/handlers/registration.handler.js" />
-      <jump line="19" column="5" filename="Z:/invite-api/src/modules/user/handlers/registration.handler.js" />
-      <jump line="56" column="47" filename="Z:/invite-api/src/modules/user/routes.js" />
-      <jump line="57" column="45" filename="Z:/invite-api/src/modules/user/routes.js" />
-      <jump line="67" column="20" filename="Z:/invite-api/src/modules/user/routes.js" />
-      <jump line="34" column="10" filename="Z:/invite-api/src/modules/user/handlers/registration.handler.js" />
-      <jump line="30" column="0" filename="Z:/invite-api/src/modules/user/handlers/registration.handler.js" />
-      <jump line="46" column="8" filename="Z:/invite-api/src/modules/user/handlers/registration.handler.js" />
-      <jump line="46" column="0" filename="Z:/invite-api/src/modules/core/base-handler.js" />
-      <jump line="27" column="24" filename="Z:/invite-api/src/modules/user/handlers/registration.handler.js" />
-      <jump line="26" column="47" filename="Z:/invite-api/src/modules/user/handlers/registration.handler.js" />
-      <jump line="18" column="28" filename="Z:/invite-api/db/migrations/20170228195629-create-pass-option-quota.js" />
-      <jump line="0" column="0" filename="Z:/invite-api/db/migrations/20170301030540-add-tokens-to-users.js" />
-      <jump line="12" column="4" filename="Z:/invite-api/db/migrations/20170301030540-add-tokens-to-users.js" />
-      <jump line="15" column="89" filename="Z:/invite-api/db/migrations/20170301030540-add-tokens-to-users.js" />
-      <jump line="32" column="8" filename="Z:/invite-api/db/migrations/20170301030540-add-tokens-to-users.js" />
-      <jump line="57" column="19" filename="Z:/invite-api/src/modules/user/handlers/registration.handler.js" />
-      <jump line="17" column="45" filename="Z:/invite-api/src/modules/user/handlers/registration.handler.js" />
       <jump line="88" column="0" filename="Z:/invite-api/src/modules/user/handlers/registration.handler.js" />
       <jump line="89" column="59" filename="Z:/invite-api/src/modules/user/handlers/registration.handler.js" />
       <jump line="0" column="27" filename="Z:/invite-api/src/modules/user/handlers/registration.handler.js" />
@@ -1282,55 +1285,78 @@
       <jump line="0" column="49" filename="W:/boringcode/tooling/cli/index.js" />
       <jump line="12" column="60" filename="W:/boringcode/tooling/cli/index.js" />
       <jump line="2" column="0" filename="W:/boringcode/tooling/cli/index.js" />
+      <jump line="8" column="2" filename="Z:/boringcode/tooling/cli/index.js" />
+      <jump line="11" column="0" filename="Z:/boringcode/tooling/cli/index.js" />
+      <jump line="19" column="1" filename="Z:/boringcode/tooling/cli/index.js" />
+      <jump line="16" column="0" filename="Z:/boringcode/tooling/cli/index.js" />
+      <jump line="0" column="0" filename="Z:/boringcode/tooling/cli/index.js" />
+      <jump line="27" column="55" filename="Z:/boringcode/tooling/cli/index.js" />
+      <jump line="21" column="1" filename="Z:/boringcode/tooling/cli/index.js" />
+      <jump line="28" column="4" filename="Z:/boringcode/tooling/cli/index.js" />
+      <jump line="3" column="0" filename="Z:/boringcode/tooling/cli/index.js" />
+      <jump line="25" column="2" filename="Z:/boringcode/tooling/cli/index.js" />
+      <jump line="9" column="14" filename="Z:/boringcode/tooling/cli/index.js" />
+      <jump line="5" column="22" filename="Z:/boringcode/tooling/cli/index.js" />
+      <jump line="10" column="39" filename="Z:/boringcode/tooling/cli/index.js" />
+      <jump line="4" column="10" filename="Z:/boringcode/tooling/cli/commands/build/index.js" />
+      <jump line="0" column="0" filename="Z:/boringcode/tooling/cli/commands/build/index.js" />
+      <jump line="0" column="0" filename="Z:/boringcode/tooling/cli/commands/start/index.js" />
+      <jump line="6" column="22" filename="Z:/boringcode/tooling/cli/commands/start/index.js" />
+      <jump line="11" column="86" filename="Z:/boringcode/tooling/cli/commands/start/index.js" />
+      <jump line="6" column="47" filename="Z:/boringcode/tooling/cli/commands/build/index.js" />
+      <jump line="7" column="33" filename="Z:/boringcode/tooling/cli/commands/build/index.js" />
+      <jump line="8" column="17" filename="Z:/boringcode/tooling/cli/commands/start/index.js" />
+      <jump line="10" column="22" filename="Z:/boringcode/tooling/cli/commands/start/index.js" />
+      <jump line="9" column="3" filename="Z:/boringcode/tooling/cli/commands/start/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb25zdCBjb21tYW5kcyA9IFsKICAgIHsgdGl0bGU6ICdidWlsZCcsIHZhbHVlOiAnYnVpbGQnIH0KICBdOwogIGNvbnN0IHN1Z2dlc3RDb21tYW5kcyA9IChpbnB1dCkgPT4gUHJvbWlzZS5yZXNvbHZlKAogICAgY29tbWFuZHMuZmlsdGVyKGNvbW1hbmQgPT4gY29tbWFuZC50aXRsZS5zbGljZSgwLCBpbnB1dC5sZW5ndGgpID09PSBpbnB1dCkKICApOwogIGNsaUF1dG9jb21wbGV0ZSgnV2hhdCBkbyB5b3Ugd2FudCB0byBkbz8nLCBzdWdnZXN0Q29tbWFuZHMpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>'node debug '</text>
       </register>
       <register name="/" type="4">
-        <text>au</text>
+        <text>`</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICBpZDogY29uZmlnLmdldCgnc2VlZC5xdW90YXMnKVswXS5pZCwKICAgICAgICAgIHBhcnRuZXJJZDogY29uZmlnLmdldCgnc2VlZC5wYXJ0bmVycycpWzBdLmlkLAogICAgICAgICAgcGFzc0lkOiBjb25maWcuZ2V0KCdzZWVkLnBhc3NlcycpWzBdLmlkCiAgICAgICAgfQo=</text>
+      <register name="0" type="4">
+        <text>`node debug ./${config.get('build.dest')}/src/index.js`</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zdCBjb21tYW5kcyA9IFsKICAgIHsgdGl0bGU6ICdidWlsZCcsIHZhbHVlOiAnYnVpbGQnIH0KICBdOwogIGNvbnN0IHN1Z2dlc3RDb21tYW5kcyA9IChpbnB1dCkgPT4gUHJvbWlzZS5yZXNvbHZlKAogICAgY29tbWFuZHMuZmlsdGVyKGNvbW1hbmQgPT4gY29tbWFuZC50aXRsZS5zbGljZSgwLCBpbnB1dC5sZW5ndGgpID09PSBpbnB1dCkKICApOwogIGNsaUF1dG9jb21wbGV0ZSgnV2hhdCBkbyB5b3Ugd2FudCB0byBkbz8nLCBzdWdnZXN0Q29tbWFuZHMpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmVycm9yKGBTb3JyeSwgJHthcmd2Ll9bMF19IGlzIG5vdCBhIGNvbW1hbmQuYCk7CiAgdGhyb3cgZTsK</text>
+        <text encoding="base64">aW1wb3J0IENoaWxkUHJvY2VzcyBmcm9tICdjaGlsZF9wcm9jZXNzJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CmNvbnNvbGUubG9nKCdCVUlMRElORycpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICB0aHJvdyBlOwo=</text>
+      <register name="4" type="4">
+        <text>, { shell: '/bin/bash' }</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIENoaWxkUHJvY2Vzcy5zcGF3bigneWFybiBidWlsZCcsIHsgc3RkaW86ICdpbmhlcml0JyB9KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coYXJndik7Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coeWFyZ3MuYXJndik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">eWFyZ3MKICAuY29tbWFuZCgnYnVpbGQnLCAnRG8gc3R1ZmYnKTsKCg==</text>
+        <text encoding="base64">ICAgIFNoZWxsSnMuZXhlYyhgbm9kZSAuLyR7YnVpbGQuZGVzdH0vc3JjL2luZGV4LmpzYCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IFNoZWxsSnMgZnJvbSAnc2hlbGxqcyc7CgpTaGVsbEpzLmV4ZWMoJ25vZGUgLi9ub2RlX21vZHVsZXMvLmJpbi9ndWxwIHNlcnZlcjpzdGFydCcpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>au</last-search>
+      <last-search>`</last-search>
       <last-offset />
-      <last-pattern>au</last-pattern>
+      <last-pattern>`</last-pattern>
       <last-replace>conference</last-replace>
       <last-substitute>user</last-substitute>
       <last-dir>1</last-dir>
@@ -1338,26 +1364,26 @@
     </search>
     <history>
       <history-search>
-        <entry>0</entry>
-        <entry>partner</entry>
-        <entry>(</entry>
-        <entry>aws</entry>
-        <entry>~</entry>
-        <entry>\~</entry>
-        <entry>fileType</entry>
-        <entry>new</entry>
-        <entry>handl</entry>
-        <entry>Type</entry>
-        <entry>,</entry>
-        <entry>\.</entry>
         <entry>H</entry>
         <entry>V</entry>
         <entry>R</entry>
         <entry>s(</entry>
         <entry>''</entry>
-        <entry>argv</entry>
         <entry>]</entry>
         <entry>au</entry>
+        <entry>argv</entry>
+        <entry>}</entry>
+        <entry>con</entry>
+        <entry>pro</entry>
+        <entry>Promise</entry>
+        <entry>commm</entry>
+        <entry>command</entry>
+        <entry>exec</entry>
+        <entry>exe</entry>
+        <entry>cmd</entry>
+        <entry>,</entry>
+        <entry>)</entry>
+        <entry>`</entry>
       </history-search>
       <history-cmd>
         <entry>4</entry>
