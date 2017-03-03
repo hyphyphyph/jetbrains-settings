@@ -121,10 +121,10 @@
         <mark key="." line="132" column="73" />
         <mark key="^" line="132" column="73" />
       </file>
-      <file name="$USER_HOME$/invite-api/src/modules/core/base-handler.js" timestamp="1488563578849">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/invite-api/src/modules/core/base-handler.js" timestamp="1488577224656">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="51" column="2" />
+        <mark key="." line="45" column="0" />
       </file>
       <file name="Z:/partner-platform-api/src/modules/quota/jsonapi/quota.jsonapi.js" timestamp="1487973498593">
         <mark key="[" line="29" column="18" />
@@ -534,12 +534,12 @@
         <mark key="." line="8" column="63" />
         <mark key="^" line="8" column="63" />
       </file>
-      <file name="$USER_HOME$/invite-api/src/modules/time-range/handlers/time-range-crud.handler.js" timestamp="1488576115712">
-        <mark key="'" line="37" column="11" />
-        <mark key="[" line="0" column="22" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/invite-api/src/modules/time-range/handlers/time-range-crud.handler.js" timestamp="1488577326720">
+        <mark key="'" line="65" column="17" />
+        <mark key="[" line="19" column="69" />
+        <mark key="]" line="19" column="68" />
+        <mark key="^" line="19" column="68" />
+        <mark key="." line="19" column="68" />
       </file>
       <file name="Z:/partner-platform-api/src/modules/conference-invite/templates/invite-cancel-on-behalf-html.hbs" timestamp="1487893592959">
         <mark key="[" line="1" column="59" />
@@ -1162,12 +1162,12 @@
         <mark key="." line="20" column="8" />
         <mark key="^" line="20" column="8" />
       </file>
-      <file name="$USER_HOME$/invite-api/src/modules/time-range/jsonapi/time-range.jsonapi.js" timestamp="1488573811087">
-        <mark key="'" line="58" column="63" />
-        <mark key="[" line="104" column="20" />
-        <mark key="]" line="104" column="26" />
-        <mark key="^" line="104" column="26" />
-        <mark key="." line="104" column="26" />
+      <file name="$USER_HOME$/invite-api/src/modules/time-range/jsonapi/time-range.jsonapi.js" timestamp="1488576947472">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="5" column="17" />
+        <mark key="]" line="5" column="27" />
+        <mark key="^" line="5" column="27" />
+        <mark key="." line="5" column="27" />
       </file>
       <file name="Z:/boringcode/config/default.yml" timestamp="1488079004843">
         <mark key="'" line="45" column="0" />
@@ -1311,9 +1311,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="2" filename="Z:/boringcode/tooling/cli/index.js" />
-      <jump line="11" column="0" filename="Z:/boringcode/tooling/cli/index.js" />
-      <jump line="19" column="1" filename="Z:/boringcode/tooling/cli/index.js" />
       <jump line="16" column="0" filename="Z:/boringcode/tooling/cli/index.js" />
       <jump line="0" column="0" filename="Z:/boringcode/tooling/cli/index.js" />
       <jump line="27" column="55" filename="Z:/boringcode/tooling/cli/index.js" />
@@ -1393,7 +1390,6 @@
       <jump line="23" column="0" filename="$USER_HOME$/invite-api/src/modules/time-range/handlers/time-range-crud.handler.js" />
       <jump line="19" column="12" filename="$USER_HOME$/invite-api/src/modules/quota/jsonapi/quota.jsonapi.js" />
       <jump line="0" column="0" filename="$USER_HOME$/invite-api/src/modules/quota/jsonapi/quota.jsonapi.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/invite-api/src/modules/time-range/jsonapi/time-range.jsonapi.js" />
       <jump line="70" column="19" filename="$USER_HOME$/invite-api/src/modules/time-range/jsonapi/time-range.jsonapi.js" />
       <jump line="3" column="21" filename="$USER_HOME$/invite-api/src/modules/time-range/jsonapi/time-range.jsonapi.js" />
       <jump line="8" column="6" filename="$USER_HOME$/invite-api/src/modules/time-range/jsonapi/time-range.jsonapi.js" />
@@ -1411,6 +1407,10 @@
       <jump line="6" column="11" filename="$USER_HOME$/invite-api/src/modules/time-range/handlers/time-range-crud.handler.js" />
       <jump line="0" column="0" filename="$USER_HOME$/invite-api/src/modules/time-range/handlers/time-range-crud.handler.js" />
       <jump line="35" column="11" filename="$USER_HOME$/invite-api/src/modules/time-range/handlers/time-range-crud.handler.js" />
+      <jump line="104" column="26" filename="$USER_HOME$/invite-api/src/modules/time-range/jsonapi/time-range.jsonapi.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/invite-api/src/modules/time-range/jsonapi/time-range.jsonapi.js" />
+      <jump line="20" column="7" filename="$USER_HOME$/invite-api/src/modules/time-range/handlers/time-range-crud.handler.js" />
+      <jump line="65" column="17" filename="$USER_HOME$/invite-api/src/modules/time-range/handlers/time-range-crud.handler.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1483,31 +1483,31 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>passes</text>
+        <text>data</text>
       </register>
       <register name="-" type="4">
-        <text>passes</text>
+        <text>data</text>
       </register>
       <register name="/" type="4">
-        <text>Joi</text>
+        <text>quot</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgcGFzczogdGhpcy5fVkFMSURBVEVfTUFLRV9SRUxBVElPTlNISVBTX09CSkVDVCgncGFzc2VzJywgeyBzaW5nbGU6IHRydWUgfSksCg==</text>
+        <text encoding="base64">ICBjcmVhdGUocmVxdWVzdCwgcmVwbHkpIHsKICAgIGNvbnN0IGRhdGEgPSByZXF1ZXN0LnBheWxvYWQ7CgogICAgdGhpcy5fZGVzZXJpYWxpemUoZGF0YSkKICAgICAgLnRoZW4oKCkgPT4gdGhpcy5NT0RFTC5jcmVhdGUodGhpcy5kZXNlcmlhbGl6ZWREYXRhKSkKICAgICAgLmNhdGNoKGNvbnNvbGUubG9nKQogICAgICAudGhlbihpbnN0YW5jZSA9PiB0aGlzLl9oYW5kbGVSZWxhdGlvbnNoaXBzKGluc3RhbmNlKSkKICAgICAgLnRoZW4oaW5zdGFuY2UgPT4gdGhpcy5fc3luY0RiKGluc3RhbmNlKSkKICAgICAgLnRoZW4oaW5zdGFuY2UgPT4gdGhpcy5fc2VyaWFsaXplKGluc3RhbmNlKSkKICAgICAgLnRoZW4oZGF0YSA9PiByZXBseShkYXRhKSkKICAgICAgLmNhdGNoKGVyciA9PiByZXBseShlcnIuYm9vbSgpKSk7CiAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgc2lnbmF0dXJlOiBKb2kuc3RyaW5nKCkuYWxsb3cobnVsbCkK</text>
+        <text encoding="base64">ICAgICAgcXVvdGE6IHRoaXMuX1ZBTElEQVRFX01BS0VfUkVMQVRJT05TSElQU19PQkpFQ1QoCiAgICAgICAgJ3F1b3RhcycsCiAgICAgICAgeyBzaW5nbGU6IHRydWUgfQogICAgICApLAogICAgICAnY29uZmVyZW5jZS1pbnZpdGUnOiB0aGlzLl9WQUxJREFURV9NQUtFX1JFTEFUSU9OU0hJUFNfT0JKRUNUKAogICAgICAgICdjb25mZXJlbmNlLWludml0ZXMnLAogICAgICAgIHsgc2luZ2xlOiB0cnVlIH0KICAgICAgKQo=</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgLmNhdGNoKGNvbnNvbGUubG9nKQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgc2lnbmF0dXJlOiBKb2kuc3RyaW5nKCkuYWxsb3cobnVsbCkK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgbG9nbzogSm9pLnN0cmluZygpLmFsbG93KG51bGwpLAo=</text>
       </register>
-      <register name="3" type="4">
-        <text>display-mention-on-passes</text>
-      </register>
-      <register name="4" type="4">
-        <text>Quota</text>
-      </register>
       <register name="5" type="4">
-        <text>Quota</text>
+        <text>display-mention-on-passes</text>
       </register>
       <register name="6" type="4">
         <text>Quota</text>
@@ -1515,20 +1515,20 @@
       <register name="7" type="4">
         <text>Quota</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIG1vZGVscy4K</text>
+      <register name="8" type="4">
+        <text>Quota</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGFzeW5jIG1vZGVscy4K</text>
+      <register name="9" type="4">
+        <text>Quota</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Joi</last-search>
+      <last-search>quot</last-search>
       <last-offset />
-      <last-pattern>Joi</last-pattern>
+      <last-pattern>quot</last-pattern>
       <last-replace>timeRange</last-replace>
       <last-substitute>quota</last-substitute>
       <last-dir>1</last-dir>
@@ -1536,7 +1536,6 @@
     </search>
     <history>
       <history-search>
-        <entry>validate</entry>
         <entry>new</entry>
         <entry>\.</entry>
         <entry>(</entry>
@@ -1556,6 +1555,7 @@
         <entry>'</entry>
         <entry>{</entry>
         <entry>Joi</entry>
+        <entry>quot</entry>
       </history-search>
       <history-cmd>
         <entry>80</entry>
