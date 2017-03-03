@@ -534,12 +534,12 @@
         <mark key="." line="8" column="63" />
         <mark key="^" line="8" column="63" />
       </file>
-      <file name="$USER_HOME$/invite-api/src/modules/time-range/handlers/time-range-crud.handler.js" timestamp="1488573942572">
-        <mark key="'" line="44" column="7" />
-        <mark key="[" line="46" column="8" />
-        <mark key="]" line="46" column="5" />
-        <mark key="^" line="46" column="5" />
-        <mark key="." line="46" column="5" />
+      <file name="$USER_HOME$/invite-api/src/modules/time-range/handlers/time-range-crud.handler.js" timestamp="1488576115712">
+        <mark key="'" line="37" column="11" />
+        <mark key="[" line="0" column="22" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="Z:/partner-platform-api/src/modules/conference-invite/templates/invite-cancel-on-behalf-html.hbs" timestamp="1487893592959">
         <mark key="[" line="1" column="59" />
@@ -1311,9 +1311,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="49" filename="W:/boringcode/tooling/cli/index.js" />
-      <jump line="12" column="60" filename="W:/boringcode/tooling/cli/index.js" />
-      <jump line="2" column="0" filename="W:/boringcode/tooling/cli/index.js" />
       <jump line="8" column="2" filename="Z:/boringcode/tooling/cli/index.js" />
       <jump line="11" column="0" filename="Z:/boringcode/tooling/cli/index.js" />
       <jump line="19" column="1" filename="Z:/boringcode/tooling/cli/index.js" />
@@ -1407,10 +1404,13 @@
       <jump line="58" column="63" filename="$USER_HOME$/invite-api/src/modules/time-range/jsonapi/time-range.jsonapi.js" />
       <jump line="0" column="0" filename="$USER_HOME$/invite-api/src/modules/partner/handlers/partner-crud.handler.js" />
       <jump line="71" column="2" filename="$USER_HOME$/invite-api/src/modules/partner/handlers/partner-crud.handler.js" />
-      <jump line="0" column="53" filename="$USER_HOME$/invite-api/src/modules/time-range/handlers/time-range-crud.handler.js" />
       <jump line="45" column="54" filename="$USER_HOME$/invite-api/src/modules/time-range/handlers/time-range-crud.handler.js" />
       <jump line="43" column="7" filename="$USER_HOME$/invite-api/src/modules/time-range/handlers/time-range-crud.handler.js" />
       <jump line="44" column="7" filename="$USER_HOME$/invite-api/src/modules/time-range/handlers/time-range-crud.handler.js" />
+      <jump line="29" column="42" filename="$USER_HOME$/invite-api/src/modules/time-range/handlers/time-range-crud.handler.js" />
+      <jump line="6" column="11" filename="$USER_HOME$/invite-api/src/modules/time-range/handlers/time-range-crud.handler.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/invite-api/src/modules/time-range/handlers/time-range-crud.handler.js" />
+      <jump line="35" column="11" filename="$USER_HOME$/invite-api/src/modules/time-range/handlers/time-range-crud.handler.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1489,7 +1489,7 @@
         <text>passes</text>
       </register>
       <register name="/" type="4">
-        <text>{</text>
+        <text>Joi</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgcGFzczogdGhpcy5fVkFMSURBVEVfTUFLRV9SRUxBVElPTlNISVBTX09CSkVDVCgncGFzc2VzJywgeyBzaW5nbGU6IHRydWUgfSksCg==</text>
@@ -1526,9 +1526,9 @@
       </register>
     </registers>
     <search>
-      <last-search>{</last-search>
+      <last-search>Joi</last-search>
       <last-offset />
-      <last-pattern>{</last-pattern>
+      <last-pattern>Joi</last-pattern>
       <last-replace>timeRange</last-replace>
       <last-substitute>quota</last-substitute>
       <last-dir>1</last-dir>
@@ -1536,7 +1536,6 @@
     </search>
     <history>
       <history-search>
-        <entry>es</entry>
         <entry>validate</entry>
         <entry>new</entry>
         <entry>\.</entry>
@@ -1556,6 +1555,7 @@
         <entry>passes</entry>
         <entry>'</entry>
         <entry>{</entry>
+        <entry>Joi</entry>
       </history-search>
       <history-cmd>
         <entry>80</entry>
