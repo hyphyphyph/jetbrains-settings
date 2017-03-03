@@ -311,6 +311,13 @@
         <mark key="." line="1" column="17" />
         <mark key="^" line="1" column="17" />
       </file>
+      <file name="$USER_HOME$/invite-api/src/models/conference-invite.model.js" timestamp="1488520444836">
+        <mark key="'" line="85" column="30" />
+        <mark key="[" line="85" column="41" />
+        <mark key="]" line="85" column="40" />
+        <mark key="." line="85" column="40" />
+        <mark key="^" line="85" column="40" />
+      </file>
       <file name="W:/boringcode/cli" timestamp="1488508413070">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="18" />
@@ -455,6 +462,12 @@
         <mark key="]" line="1" column="20" />
         <mark key="." line="1" column="20" />
         <mark key="^" line="1" column="20" />
+      </file>
+      <file name="$USER_HOME$/invite-api/src/models/index.js" timestamp="1488520435848">
+        <mark key="[" line="15" column="20" />
+        <mark key="]" line="15" column="24" />
+        <mark key="." line="15" column="24" />
+        <mark key="^" line="15" column="24" />
       </file>
       <file name="Z:/partner-platform-api/src/modules/partner/handlers/partner-crud.handler.js" timestamp="1487965874956">
         <mark key="[" line="60" column="0" />
@@ -1200,9 +1213,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="Z:/invite-api/src/modules/partner/templates/invited-html.hbs" />
-      <jump line="22" column="29" filename="Z:/invite-api/src/modules/user/handlers/user-crud.handler.js" />
-      <jump line="0" column="36" filename="Z:/invite-api/src/modules/user/handlers/user-crud.handler.js" />
       <jump line="2" column="18" filename="Z:/invite-api/src/modules/user/handlers/user-crud.handler.js" />
       <jump line="25" column="11" filename="Z:/invite-api/src/modules/pass/handlers/pass-crud.handler.js" />
       <jump line="67" column="42" filename="Z:/invite-api/src/modules/pass/handlers/pass-crud.handler.js" />
@@ -1300,19 +1310,22 @@
       <jump line="42" column="0" filename="Z:/invite-api/db/migrations/20170303053016-create-time-range-quota.js" />
       <jump line="0" column="0" filename="Z:/invite-api/db/migrations/20170303053024-create-time-range-conference-invite.js" />
       <jump line="0" column="0" filename="Z:/invite-api/db/migrations/20170303053016-create-time-range-quota.js" />
+      <jump line="18" column="3" filename="$USER_HOME$/invite-api/src/models/conference-invite.model.js" />
+      <jump line="92" column="10" filename="$USER_HOME$/invite-api/src/models/conference-invite.model.js" />
+      <jump line="85" column="30" filename="$USER_HOME$/invite-api/src/models/conference-invite.model.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>option</text>
       </register>
       <register name="-" type="4">
-        <text>Quotas</text>
+        <text>option</text>
       </register>
       <register name="/" type="4">
-        <text>Q</text>
+        <text>belongsToMany</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">J3VzZSBzdHJpY3QnOwoKY29uc3QgVEFCTEVfTkFNRSA9ICdUaW1lUmFuZ2VRdW90YSc7Cgptb2R1bGUuZXhwb3J0cyA9IHsKICB1cDogKHF1ZXJ5SW50ZXJmYWNlLCBTZXF1ZWxpemUpID0+IHsKICAgIHJldHVybiBxdWVyeUludGVyZmFjZS5jcmVhdGVUYWJsZSgKICAgICAgVEFCTEVfTkFNRSwKICAgICAgewogICAgICAgIHRpbWVSYW5nZUlkOiB7CiAgICAgICAgICBwcmltYXJ5S2V5OiB0cnVlLAogICAgICAgICAgYWxsb3dOdWxsOiBmYWxzZSwKICAgICAgICAgIHR5cGU6IFNlcXVlbGl6ZS5VVUlELAogICAgICAgICAgcmVmZXJlbmNlczogewogICAgICAgICAgICBtb2RlbDogJ1RpbWVSYW5nZXMnLAogICAgICAgICAgICBrZXk6ICdpZCcKICAgICAgICAgIH0sCiAgICAgICAgICBvblVwZGF0ZTogJ0NBU0NBREUnLAogICAgICAgICAgb25EZWxldGU6ICdDQVNDQURFJwogICAgICAgIH0sCgogICAgICAgIHF1b3RhSWQ6IHsKICAgICAgICAgIHByaW1hcnlLZXk6IHRydWUsCiAgICAgICAgICBhbGxvd051bGw6IGZhbHNlLAogICAgICAgICAgdHlwZTogU2VxdWVsaXplLlVVSUQsCiAgICAgICAgICByZWZlcmVuY2VzOiB7CiAgICAgICAgICAgIG1vZGVsOiAnUXVvdGFzJywKICAgICAgICAgICAga2V5OiAnaWQnCiAgICAgICAgICB9LAogICAgICAgICAgb25VcGRhdGU6ICdDQVNDQURFJywKICAgICAgICAgIG9uRGVsZXRlOiAnQ0FTQ0FERScKICAgICAgICB9LAoKICAgICAgICBjcmVhdGVkQXQ6IHsKICAgICAgICAgIGFsbG93TnVsbDogdHJ1ZSwKICAgICAgICAgIHR5cGU6IFNlcXVlbGl6ZS5EQVRFCiAgICAgICAgfSwKCiAgICAgICAgdXBkYXRlZEF0OiB7CiAgICAgICAgICBhbGxvd051bGw6IHRydWUsCiAgICAgICAgICB0eXBlOiBTZXF1ZWxpemUuREFURQogICAgICAgIH0KICAgICAgfQogICAgKTsKICB9LAoKICBkb3duOiAocXVlcnlJbnRlcmZhY2UpID0+IHsKICAgIHJldHVybiBxdWVyeUludGVyZmFjZS5kcm9wVGFibGUoVEFCTEVfTkFNRSwgeyBjYXNjYWRlOiB0cnVlIH0pOwogIH0KfTsK</text>
+        <text encoding="base64">ICBkYi5pbXBvcnQoJy4vcGFzcy1vcHRpb24ubW9kZWwnKSwK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -1346,9 +1359,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Q</last-search>
+      <last-search>belongsToMany</last-search>
       <last-offset />
-      <last-pattern>Q</last-pattern>
+      <last-pattern>belongsToMany</last-pattern>
       <last-replace>conference</last-replace>
       <last-substitute>user</last-substitute>
       <last-dir>1</last-dir>
@@ -1356,7 +1369,6 @@
     </search>
     <history>
       <history-search>
-        <entry>con</entry>
         <entry>pro</entry>
         <entry>Promise</entry>
         <entry>commm</entry>
@@ -1376,6 +1388,7 @@
         <entry>-</entry>
         <entry>`</entry>
         <entry>Q</entry>
+        <entry>belongsToMany</entry>
       </history-search>
       <history-cmd>
         <entry>4</entry>
