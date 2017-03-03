@@ -900,11 +900,11 @@
         <mark key="." line="63" column="62" />
         <mark key="^" line="63" column="62" />
       </file>
-      <file name="Z:/boringcode/src/index.js" timestamp="1488515091961">
+      <file name="Z:/boringcode/src/index.js" timestamp="1488516197704">
         <mark key="'" line="9" column="33" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="Z:/partner-platform-api/src/modules/quota/handlers/quota-crud.handler.js" timestamp="1487975259696">
         <mark key="'" line="21" column="18" />
@@ -999,6 +999,9 @@
         <mark key="]" line="14" column="4" />
         <mark key="^" line="14" column="4" />
         <mark key="." line="14" column="4" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1488516145236">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="Z:/boringcode/core/tooling/migrate/base-migration.js" timestamp="1488068749002">
         <mark key="'" line="0" column="0" />
@@ -1318,8 +1321,8 @@
       <jump line="46" column="76" filename="Z:/boringcode/tooling/cli/commands/migrate/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICR7ZGlyZWN0aW9ufQ==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ICR7ZGlyZWN0aW9ufQ==</text>
@@ -1330,32 +1333,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgLm9wdGlvbignLS11cCcsICdSdW4gbWlncmF0aW9ucyB1cCcpCg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICBzZXJ2ZXIuc3RhcnQoZXJyID0+IHsKICAgIGRlYnVnZ2VyOwo=</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">ICR7ZGlyZWN0aW9ufQ==</text>
       </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text encoding="base64">ICR7ZGlyZWN0aW9ufQ==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG1pZ3JhdGUgZnJvbSAnLi9taWdyYXRlJzsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5ydW4oKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG1pZ3JhdGUgZnJvbSAnLi9taWdyYXRlJzsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gV2VsY29tZSB0byBzb21lIHJlYWxseSBib3JpbmcgY29kZS4gOikK</text>
+        <text encoding="base64">ICAgICAgdGhpcy5ydW4oKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJzaGVsbGpzIjogIl4wLjcuNiIsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJtaW5pbWlzdCI6ICJeMS4yLjAiLAo=</text>
+        <text encoding="base64">Ly8gV2VsY29tZSB0byBzb21lIHJlYWxseSBib3JpbmcgY29kZS4gOikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJleGVjYSI6ICJeMC42LjAiLAo=</text>
+        <text encoding="base64">ICAgICJzaGVsbGpzIjogIl4wLjcuNiIsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
