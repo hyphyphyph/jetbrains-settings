@@ -615,7 +615,7 @@
         <mark key="^" line="2" column="13" />
         <mark key="." line="2" column="13" />
       </file>
-      <file name="/Dummy.txt" timestamp="1488597858527">
+      <file name="/Dummy.txt" timestamp="1488597873554">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="Z:/partner-platform-api/src/modules/conference-invite/templates/invite-auto-accept-text.hbs" timestamp="1487894815806">
@@ -754,6 +754,9 @@
         <mark key="]" line="27" column="70" />
         <mark key="." line="27" column="70" />
         <mark key="^" line="27" column="69" />
+      </file>
+      <file name="$USER_HOME$/boringcode/.gitignore" timestamp="1488597922960">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="Z:/partner-platform-api/tests/integration/modules/invite/handlers/test-conference-invite-crud.handler.js" timestamp="1487907002367">
         <mark key="[" line="35" column="54" />
@@ -1420,7 +1423,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="3" filename="$USER_HOME$/invite-api/src/models/conference-invite.model.js" />
       <jump line="92" column="10" filename="$USER_HOME$/invite-api/src/models/conference-invite.model.js" />
       <jump line="85" column="30" filename="$USER_HOME$/invite-api/src/models/conference-invite.model.js" />
       <jump line="29" column="0" filename="$USER_HOME$/invite-api/src/modules/pass/handlers/pass-crud.handler.js" />
@@ -1520,6 +1522,7 @@
       <jump line="1" column="0" filename="$USER_HOME$/boringcode/tooling/cli/index.js" />
       <jump line="0" column="0" filename="$USER_HOME$/boringcode/tooling/cli/main.js" />
       <jump line="0" column="0" filename="$USER_HOME$/boringcode/tooling/migrate/index.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/boringcode/.gitignore" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1598,7 +1601,7 @@
         <text encoding="base64">IGRlZmF1bHQ=</text>
       </register>
       <register name="/" type="4">
-        <text>process.env</text>
+        <text>.env</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHRoaXMuYm9vbSA9ICgpID0+IEJvb20uY29uZmxpY3QobXNnKHRoaXMpKTsK</text>
@@ -1635,9 +1638,9 @@
       </register>
     </registers>
     <search>
-      <last-search>process.env</last-search>
+      <last-search>.env</last-search>
       <last-offset />
-      <last-pattern>process.env</last-pattern>
+      <last-pattern>.env</last-pattern>
       <last-replace>invite</last-replace>
       <last-substitute>pass</last-substitute>
       <last-dir>1</last-dir>
@@ -1645,7 +1648,6 @@
     </search>
     <history>
       <history-search>
-        <entry>quot</entry>
         <entry>update</entry>
         <entry>:</entry>
         <entry>:id</entry>
@@ -1665,6 +1667,7 @@
         <entry>InviteError</entry>
         <entry>QuotaError</entry>
         <entry>process.env</entry>
+        <entry>.env</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3VzZXIvY29uZmVyZW5jZS9n</entry>
