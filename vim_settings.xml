@@ -237,10 +237,11 @@
         <mark key="^" line="33" column="62" />
         <mark key="." line="33" column="62" />
       </file>
-      <file name="$USER_HOME$/boringcode/tests/misc/test.js" timestamp="1488608581680">
-        <mark key="[" line="0" column="61" />
-        <mark key="]" line="0" column="60" />
-        <mark key="." line="0" column="60" />
+      <file name="$USER_HOME$/boringcode/tests/misc/test.js" timestamp="1488610372597">
+        <mark key="'" line="0" column="11" />
+        <mark key="[" line="0" column="46" />
+        <mark key="]" line="0" column="46" />
+        <mark key="." line="0" column="46" />
         <mark key="^" line="0" column="60" />
       </file>
       <file name="Z:/invite-api/db/migrations/20170228195629-create-pass-option-quota.js" timestamp="1488494246111">
@@ -358,11 +359,11 @@
         <mark key="." line="12" column="22" />
         <mark key="^" line="12" column="22" />
       </file>
-      <file name="$USER_HOME$/boringcode/core/testing/base-test.js" timestamp="1488609142327">
-        <mark key="[" line="15" column="28" />
-        <mark key="]" line="15" column="28" />
-        <mark key="." line="15" column="28" />
-        <mark key="^" line="15" column="28" />
+      <file name="$USER_HOME$/boringcode/core/testing/base-test.js" timestamp="1488609908793">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="^" line="39" column="1" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="Z:/partner-platform/partner-platform-api/src/modules/conference-invite/templates/invite-resend-html.hbs" timestamp="1487888355278">
         <mark key="[" line="1" column="67" />
@@ -1320,11 +1321,11 @@
         <mark key="^" line="63" column="22" />
         <mark key="." line="61" column="0" />
       </file>
-      <file name="$USER_HOME$/boringcode/core/testing/base-http-test.js" timestamp="1488609159440">
-        <mark key="[" line="17" column="25" />
-        <mark key="]" line="17" column="25" />
-        <mark key="^" line="17" column="25" />
-        <mark key="." line="17" column="25" />
+      <file name="$USER_HOME$/boringcode/core/testing/base-http-test.js" timestamp="1488610294054">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+        <mark key="^" line="22" column="1" />
       </file>
       <file name="Z:/boringcode/core/server-init/logging.js" timestamp="1488077169566">
         <mark key="[" line="0" column="20" />
@@ -1507,12 +1508,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="11" filename="$USER_HOME$/invite-api/src/modules/time-range/handlers/time-range-crud.handler.js" />
-      <jump line="104" column="26" filename="$USER_HOME$/invite-api/src/modules/time-range/jsonapi/time-range.jsonapi.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/invite-api/src/modules/time-range/jsonapi/time-range.jsonapi.js" />
-      <jump line="20" column="7" filename="$USER_HOME$/invite-api/src/modules/time-range/handlers/time-range-crud.handler.js" />
-      <jump line="65" column="17" filename="$USER_HOME$/invite-api/src/modules/time-range/handlers/time-range-crud.handler.js" />
-      <jump line="40" column="0" filename="$USER_HOME$/invite-api/src/modules/core/base-handler.js" />
       <jump line="28" column="27" filename="$USER_HOME$/invite-api/src/modules/time-range/routes.js" />
       <jump line="29" column="10" filename="$USER_HOME$/invite-api/src/modules/time-range/routes.js" />
       <jump line="30" column="10" filename="$USER_HOME$/invite-api/src/modules/time-range/routes.js" />
@@ -1607,6 +1602,12 @@
       <jump line="8" column="20" filename="$USER_HOME$/boringcode/tests/misc/test.js" />
       <jump line="5" column="0" filename="$USER_HOME$/boringcode/tests/misc.yml" />
       <jump line="0" column="0" filename="$USER_HOME$/boringcode/tests/misc.yml" />
+      <jump line="71" column="28" filename="$USER_HOME$/boringcode/core/testing/base-test.js" />
+      <jump line="72" column="65" filename="$USER_HOME$/boringcode/core/testing/base-test.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/boringcode/core/testing/base-test.js" />
+      <jump line="44" column="2" filename="$USER_HOME$/boringcode/core/testing/base-test.js" />
+      <jump line="46" column="18" filename="$USER_HOME$/boringcode/core/testing/base-test.js" />
+      <jump line="0" column="11" filename="$USER_HOME$/boringcode/tests/misc/test.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1679,52 +1680,52 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>run</text>
+        <text>-</text>
       </register>
       <register name="-" type="4">
-        <text>run</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
-        <text>argv</text>
+        <text>htt</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IGh0dHAgZnJvbSAnLi9odHRwJzsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAoKSB7CiAgICByZXR1cm4gdGhpcwogICAgICAucHJlKCkKICAgICAgLnRoZW4oZW52ID0+IHsKICAgICAgICB0aGlzLmVudiA9IG1lcmdlKHRydWUsIHRoaXMuZW52LCBlbnYpOwogICAgICB9KQogICAgICAudGhlbigoKSA9PiB0aGlzLnJlcXVlc3QoKSkKICAgICAgLnRoZW4ocmVzcG9uc2UgPT4gdGhpcy5fdGVzdChyZXNwb25zZSkpCiAgICAgIC50aGVuKHJlc3BvbnNlID0+IHRoaXMuX3Bvc3QocmVzcG9uc2UpKTsKICB9Cg==</text>
+      <register name="1" type="4">
+        <text>Http</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTRVJWRVI6IGdldFNlcnZlclVybCgpIHx8IHByb2Nlc3MuZW52LlNFUlZFUgo=</text>
+      <register name="2" type="4">
+        <text>Http</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGdldFNlcnZlclVybCBmcm9tICcuLi9oZWxwZXJzL2dldC1zZXJ2ZXItdXJsJzsKaW1wb3J0IFNpbXBsZUh0dHBSZXF1ZXN0IGZyb20gJy4uL2hlbHBlcnMvc2ltcGxlLWh0dHAtcmVxdWVzdCc7Cg==</text>
+        <text encoding="base64">CiAgcHJlKCkgewogICAgcmV0dXJuIG5ldyBQcm9taXNlKHJlc29sdmUgPT4gcmVzb2x2ZSgpKTsKICB9CgogIHJlcXVlc3QoKSB7CiAgICByZXR1cm4gbmV3IFByb21pc2UocmVzb2x2ZSA9PiByZXNvbHZlKCkpOwogIH0KCiAgdGVzdChyZXNwb25zZSkgewogICAgcmV0dXJuIHt9OwogIH0KCiAgcG9zdChyZXNwb25zZSkgewogIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aHR0cDoKICBsb2dpbjoKICAgIGxvZ2luOiBmYWxzZQogIHVzZXJzOgogICAgbGlzdC1hbGwtdXNlcnM6IGZhbHNlCg==</text>
+        <text encoding="base64">CiAgX3Rlc3QocmVzcG9uc2UpIHsKICAgIGNvbnN0IHRlc3RSZXN1bHRzID0gdGhpcy50ZXN0KHJlc3BvbnNlKTsKICAgIGlmICgKICAgICAgT2JqZWN0LmtleXModGVzdFJlc3VsdHMpLm1hcChrZXkgPT4KICAgICAgICB0ZXN0UmVzdWx0c1trZXldKS5maWx0ZXIoaSA9PiAhaSkubGVuZ3RoCiAgICApIHsKICAgICAgdGhyb3cgbmV3IEVycm9yKGAKICAgICAgICAgICAgICAke21vZHVsZS5wYXJlbnQuZmlsZW5hbWV9CiAgICAgICAgICAgICAgLQogICAgICAgICAgICAgICR7T2JqZWN0LmtleXModGVzdFJlc3VsdHMpLmZpbHRlcihrZXkgPT4gIXRlc3RSZXN1bHRzW2tleV0pfQogICAgICAgICAgICBgKTsKICAgIH0KICAgIGVsc2UgewogICAgICByZXR1cm4gcmVzcG9uc2U7CiAgICB9CiAgfQoKICBfcG9zdChyZXNwb25zZSkgewogICAgY29uc3QgcG9zdFJldHVybiA9IHRoaXMucG9zdChyZXNwb25zZSk7CiAgICBpZiAocG9zdFJldHVybiAmJiB0eXBlb2YgcG9zdFJldHVybi50aGVuID09PSAnZnVuY3Rpb24nKSB7CiAgICAgIHJldHVybiBwb3N0UmV0dXJuLnRoZW4oZW52ID0+IG1lcmdlKHRydWUsIHRoaXMuZW52LCBlbnYpKTsKICAgIH0KICAgIGVsc2UgewogICAgICByZXR1cm4gbmV3IFByb21pc2UocmVzb2x2ZSA9PiByZXNvbHZlKG1lcmdlKHRydWUsIHRoaXMuZW52LCBwb3N0UmV0dXJuKSkpOwogICAgfQogIH0KCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBfdGVzdChyZXNwb25zZSkgewogICAgY29uc3QgdGVzdFJlc3VsdHMgPSB0aGlzLnRlc3QocmVzcG9uc2UpOwogICAgaWYgKAogICAgICBPYmplY3Qua2V5cyh0ZXN0UmVzdWx0cykubWFwKGtleSA9PgogICAgICAgIHRlc3RSZXN1bHRzW2tleV0pLmZpbHRlcihpID0+ICFpKS5sZW5ndGgKICAgICkgewogICAgICB0aHJvdyBuZXcgRXJyb3IoYAogICAgICAgICAgICAgICR7bW9kdWxlLnBhcmVudC5maWxlbmFtZX0KICAgICAgICAgICAgICAtCiAgICAgICAgICAgICAgJHtPYmplY3Qua2V5cyh0ZXN0UmVzdWx0cykuZmlsdGVyKGtleSA9PiAhdGVzdFJlc3VsdHNba2V5XSl9CiAgICAgICAgICAgIGApOwogICAgfQogICAgZWxzZSB7CiAgICAgIHJldHVybiByZXNwb25zZTsKICAgIH0KICB9CgogIF9wb3N0KHJlc3BvbnNlKSB7CiAgICBjb25zdCBwb3N0UmV0dXJuID0gdGhpcy5wb3N0KHJlc3BvbnNlKTsKICAgIGlmIChwb3N0UmV0dXJuICYmIHR5cGVvZiBwb3N0UmV0dXJuLnRoZW4gPT09ICdmdW5jdGlvbicpIHsKICAgICAgcmV0dXJuIHBvc3RSZXR1cm4udGhlbihlbnYgPT4gbWVyZ2UodHJ1ZSwgdGhpcy5lbnYsIGVudikpOwogICAgfQogICAgZWxzZSB7CiAgICAgIHJldHVybiBuZXcgUHJvbWlzZShyZXNvbHZlID0+IHJlc29sdmUobWVyZ2UodHJ1ZSwgdGhpcy5lbnYsIHBvc3RSZXR1cm4pKSk7CiAgICB9CiAgfQoKICBnZXQgaHR0cCgpIHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aWYgKCFtb2R1bGUucGFyZW50KSB7CiAgbmV3IExpc3RBbGxVc2VycygpLnRoZW4oZW52ID0+IHsKICAgIGNvbnNvbGUubG9nKGVudik7CiAgfSkuY2F0Y2goY29uc29sZS5sb2cpOwp9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgdGVzdChyZXNwb25zZSkgewogICAgcmV0dXJuIHsKICAgICAgJ3N0YXR1c0NvZGUgc2hvdWxkIGJlIDIwMCc6IHJlc3BvbnNlLnN0YXR1c0NvZGUgPT09IDIwMAogICAgfTsKICB9CgogIHBvc3QocmVzcG9uc2UpIHsKICAgIHJldHVybiB7CiAgICAgIHVzZXJJZHM6IHJlc3BvbnNlLmJvZHkuZGF0YS5tYXAoaSA9PiBpLmlkKQogICAgfTsKICB9Cg==</text>
+        <text encoding="base64">CiAgX3Rlc3QocmVzcG9uc2UpIHsKICAgIGNvbnN0IHRlc3RSZXN1bHRzID0gdGhpcy50ZXN0KHJlc3BvbnNlKTsKICAgIGlmICgKICAgICAgT2JqZWN0LmtleXModGVzdFJlc3VsdHMpLm1hcChrZXkgPT4KICAgICAgICB0ZXN0UmVzdWx0c1trZXldKS5maWx0ZXIoaSA9PiAhaSkubGVuZ3RoCiAgICApIHsKICAgICAgdGhyb3cgbmV3IEVycm9yKGAKICAgICAgICAgICAgICAke21vZHVsZS5wYXJlbnQuZmlsZW5hbWV9CiAgICAgICAgICAgICAgLQogICAgICAgICAgICAgICR7T2JqZWN0LmtleXModGVzdFJlc3VsdHMpLmZpbHRlcihrZXkgPT4gIXRlc3RSZXN1bHRzW2tleV0pfQogICAgICAgICAgICBgKTsKICAgIH0KICAgIGVsc2UgewogICAgICByZXR1cm4gcmVzcG9uc2U7CiAgICB9CiAgfQoKICBfcG9zdChyZXNwb25zZSkgewogICAgY29uc3QgcG9zdFJldHVybiA9IHRoaXMucG9zdChyZXNwb25zZSk7CiAgICBpZiAocG9zdFJldHVybiAmJiB0eXBlb2YgcG9zdFJldHVybi50aGVuID09PSAnZnVuY3Rpb24nKSB7CiAgICAgIHJldHVybiBwb3N0UmV0dXJuLnRoZW4oZW52ID0+IG1lcmdlKHRydWUsIHRoaXMuZW52LCBlbnYpKTsKICAgIH0KICAgIGVsc2UgewogICAgICByZXR1cm4gUHJvbWlzZS5yZXNvbHZlKG1lcmdlKHRydWUsIHRoaXMuZW52LCBwb3N0UmV0dXJuKSk7CiAgICB9CiAgfQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAvLyBwcmUoKSB7CiAgLy8gICByZXR1cm4gbmV3IExvZ2luKCk7CiAgLy8gfQoK</text>
+      <register name="8" type="4">
+        <text encoding="base64">KHJlc29sdmUgPT4gcmVzb2x2ZSgpKQ==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IExvZ2luIGZyb20gJy4uL2xvZ2luL2xvZ2luJzsK</text>
+        <text encoding="base64">ICByZXF1ZXN0KCkgewogICAgcmV0dXJuIG5ldyBQcm9taXNlKHJlc29sdmUgPT4gcmVzb2x2ZSgpKTsKICB9Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>argv</last-search>
+      <last-search>htt</last-search>
       <last-offset />
-      <last-pattern>argv</last-pattern>
+      <last-pattern>htt</last-pattern>
       <last-replace>invite</last-replace>
       <last-substitute>pass</last-substitute>
       <last-dir>1</last-dir>
@@ -1732,12 +1733,6 @@
     </search>
     <history>
       <history-search>
-        <entry>!</entry>
-        <entry>yaml</entry>
-        <entry>,</entry>
-        <entry>.,</entry>
-        <entry>C</entry>
-        <entry>test</entry>
         <entry>[</entry>
         <entry>P</entry>
         <entry>N</entry>
@@ -1752,6 +1747,12 @@
         <entry>`</entry>
         <entry>'</entry>
         <entry>argv</entry>
+        <entry>H</entry>
+        <entry>;</entry>
+        <entry>{</entry>
+        <entry>Ht</entry>
+        <entry>T</entry>
+        <entry>htt</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3VzZXIvY29uZmVyZW5jZS9n</entry>
