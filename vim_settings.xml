@@ -108,6 +108,12 @@
         <mark key="." line="8" column="40" />
         <mark key="^" line="8" column="40" />
       </file>
+      <file name="$USER_HOME$/boringcode/tooling/migrate/index.js" timestamp="1488597814099">
+        <mark key="[" line="1" column="9" />
+        <mark key="]" line="1" column="14" />
+        <mark key="." line="1" column="14" />
+        <mark key="^" line="1" column="14" />
+      </file>
       <file name="Z:/partner-platform-api/.gitignore" timestamp="1487962972298">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="50" column="0" />
@@ -120,6 +126,12 @@
         <mark key="]" line="2" column="13" />
         <mark key="^" line="2" column="13" />
         <mark key="." line="2" column="13" />
+      </file>
+      <file name="$USER_HOME$/boringcode/tooling/cli/main.js" timestamp="1488597769870">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="Z:/partner-platform-api/src/modules/conference-invite/handlers/conference-invite-crud.handler.js" timestamp="1487959182755">
         <mark key="[" line="132" column="47" />
@@ -289,6 +301,12 @@
         <mark key="^" line="2" column="13" />
         <mark key="." line="2" column="13" />
       </file>
+      <file name="$USER_HOME$/boringcode/tooling/cli/index.js" timestamp="1488597776947">
+        <mark key="[" line="1" column="17" />
+        <mark key="]" line="1" column="17" />
+        <mark key="." line="1" column="17" />
+        <mark key="^" line="1" column="17" />
+      </file>
       <file name="Z:/boringcode/core/server-init/auth.js" timestamp="1488077150142">
         <mark key="'" line="20" column="38" />
         <mark key="[" line="14" column="14" />
@@ -315,6 +333,11 @@
         <mark key="^" line="2" column="12" />
         <mark key="." line="2" column="12" />
       </file>
+      <file name="$USER_HOME$/boringcode/tooling/migrate/main.js" timestamp="1488597798655">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="82" column="5" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="Z:/partner-platform-api/src/modules/partner/jsonapi/partner.jsonapi.js" timestamp="1487965674478">
         <mark key="[" line="53" column="0" />
         <mark key="]" line="63" column="7" />
@@ -339,6 +362,11 @@
         <mark key="]" line="11" column="20" />
         <mark key="." line="11" column="20" />
         <mark key="^" line="11" column="20" />
+      </file>
+      <file name="$USER_HOME$/boringcode/config/custom-environment-variables.yml" timestamp="1488597863753">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="Z:/invite-api/src/modules/signed-upload/routes.js" timestamp="1488505106792">
         <mark key="'" line="10" column="42" />
@@ -372,10 +400,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="2" column="35" />
-      </file>
-      <file name="$USER_HOME$/invite-api/src/modules/time-range/services/assignment.service.js" timestamp="1488592880190">
-        <mark key="'" line="0" column="0" />
-        <mark key="^" line="28" column="1" />
       </file>
       <file name="Z:/boringcode/tooling/gulp/tasks/server.js" timestamp="1488065180244">
         <mark key="'" line="11" column="18" />
@@ -591,7 +615,7 @@
         <mark key="^" line="2" column="13" />
         <mark key="." line="2" column="13" />
       </file>
-      <file name="/Dummy.txt" timestamp="1488595441645">
+      <file name="/Dummy.txt" timestamp="1488597858527">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="Z:/partner-platform-api/src/modules/conference-invite/templates/invite-auto-accept-text.hbs" timestamp="1487894815806">
@@ -612,6 +636,11 @@
         <mark key="]" line="9" column="23" />
         <mark key="." line="9" column="23" />
         <mark key="^" line="9" column="23" />
+      </file>
+      <file name="$USER_HOME$/boringcode/node_modules/dotenv/lib/main.js" timestamp="1488597078171">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/a.regexp" timestamp="1488595340491">
         <mark key="[" line="0" column="0" />
@@ -932,6 +961,11 @@
         <mark key="." line="12" column="47" />
         <mark key="^" line="12" column="47" />
       </file>
+      <file name="$USER_HOME$/boringcode/config/default.yml" timestamp="1488597869430">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="Z:/partner-platform-api/src/modules/conference-invite/handlers/workflow.handler.js" timestamp="1487903645180">
         <mark key="'" line="117" column="22" />
         <mark key="[" line="119" column="46" />
@@ -952,6 +986,12 @@
         <mark key="]" line="46" column="33" />
         <mark key="." line="46" column="33" />
         <mark key="^" line="46" column="33" />
+      </file>
+      <file name="$USER_HOME$/boringcode/src/index.js" timestamp="1488597662490">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="1" column="17" />
       </file>
       <file name="Z:/boringcode/core/models/auth-token/getByToken.sql" timestamp="1488076868577">
         <mark key="[" line="1" column="16" />
@@ -1070,6 +1110,11 @@
         <mark key="^" line="6" column="27" />
         <mark key="." line="6" column="27" />
       </file>
+      <file name="$USER_HOME$/boringcode/src/server.js" timestamp="1488597488702">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="Z:/invite-api/src/modules/signed-upload/handlers/signed-upload.handler.js" timestamp="1488505049876">
         <mark key="'" line="14" column="2" />
         <mark key="[" line="14" column="27" />
@@ -1123,6 +1168,12 @@
         <mark key="]" line="0" column="42" />
         <mark key="." line="0" column="42" />
         <mark key="^" line="0" column="73" />
+      </file>
+      <file name="$USER_HOME$/boringcode/src/main.js" timestamp="1488597742528">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="Z:/partner-platform-api/src/modules/conference-invite/templates/invite-cancel-on-behalf-text.hbs" timestamp="1487893599984">
         <mark key="[" line="2" column="13" />
@@ -1361,20 +1412,14 @@
         <mark key="." line="1" column="19" />
         <mark key="^" line="1" column="19" />
       </file>
+      <file name="$USER_HOME$/boringcode/node_modules/config/lib/config.js" timestamp="1488597125105">
+        <mark key="'" line="1292" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="22" filename="Z:/invite-api/db/migrations/20170222214032-create-pass-options.js" />
-      <jump line="56" column="0" filename="Z:/invite-api/db/migrations/20170222214032-create-pass-options.js" />
-      <jump line="0" column="0" filename="Z:/invite-api/db/migrations/20170222214032-create-pass-options.js" />
-      <jump line="20" column="5" filename="Z:/invite-api/db/migrations/20170303052954-create-time-ranges.js" />
-      <jump line="0" column="0" filename="Z:/invite-api/db/migrations/20170303052954-create-time-ranges.js" />
-      <jump line="21" column="0" filename="Z:/invite-api/db/migrations/20170228195156-create-pass-option-pass.js" />
-      <jump line="51" column="0" filename="Z:/invite-api/db/migrations/20170228195156-create-pass-option-pass.js" />
-      <jump line="0" column="0" filename="Z:/invite-api/db/migrations/20170228195156-create-pass-option-pass.js" />
-      <jump line="21" column="2" filename="Z:/invite-api/db/migrations/20170303053016-create-time-range-quota.js" />
-      <jump line="42" column="0" filename="Z:/invite-api/db/migrations/20170303053016-create-time-range-quota.js" />
-      <jump line="0" column="0" filename="Z:/invite-api/db/migrations/20170303053024-create-time-range-conference-invite.js" />
-      <jump line="0" column="0" filename="Z:/invite-api/db/migrations/20170303053016-create-time-range-quota.js" />
       <jump line="18" column="3" filename="$USER_HOME$/invite-api/src/models/conference-invite.model.js" />
       <jump line="92" column="10" filename="$USER_HOME$/invite-api/src/models/conference-invite.model.js" />
       <jump line="85" column="30" filename="$USER_HOME$/invite-api/src/models/conference-invite.model.js" />
@@ -1463,6 +1508,18 @@
       <jump line="178" column="2" filename="$USER_HOME$/invite-api/src/modules/conference-invite/services/workflow.service.js" />
       <jump line="257" column="22" filename="$USER_HOME$/invite-api/src/modules/conference-invite/services/workflow.service.js" />
       <jump line="0" column="9" filename="$USER_HOME$/invite-api/src/modules/conference-invite/services/workflow.service.js" />
+      <jump line="21" column="30" filename="$USER_HOME$/boringcode/node_modules/config/lib/config.js" />
+      <jump line="715" column="8" filename="$USER_HOME$/boringcode/node_modules/config/lib/config.js" />
+      <jump line="717" column="31" filename="$USER_HOME$/boringcode/node_modules/config/lib/config.js" />
+      <jump line="1242" column="53" filename="$USER_HOME$/boringcode/node_modules/config/lib/config.js" />
+      <jump line="1292" column="0" filename="$USER_HOME$/boringcode/node_modules/config/lib/config.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/boringcode/src/index.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/boringcode/src/index.js" />
+      <jump line="7" column="1" filename="$USER_HOME$/boringcode/src/server.js" />
+      <jump line="4" column="0" filename="$USER_HOME$/boringcode/src/main.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/boringcode/tooling/cli/index.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/boringcode/tooling/cli/main.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/boringcode/tooling/migrate/index.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1534,53 +1591,53 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>.prototype</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>.prototype</text>
+        <text encoding="base64">IGRlZmF1bHQ=</text>
       </register>
       <register name="/" type="4">
-        <text>QuotaError</text>
+        <text>process.env</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHRoaXMuYm9vbSA9ICgpID0+IEJvb20uY29uZmxpY3QobXNnKHRoaXMpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB0aGlzLmJvb20gPSAoKSA9PiBCb29tLmNvbmZsaWN0KG1zZyh0aGlzKSk7Cg==</text>
+        <text encoding="base64">aGk6IGhhaGEK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB0aGlzLmJvb20gPSAoKSA9PiBCb29tLmNvbmZsaWN0KG1zZyh0aGlzKSk7Cg==</text>
+        <text encoding="base64">aGk6IEhFTExPV09STEQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLy8gLnRoZW4oY29uc29sZS5sb2cpCiAgICAgIC8vIC5jYXRjaChjb25zb2xlLmxvZykK</text>
+        <text encoding="base64">aW1wb3J0IGNoYWxrIGZyb20gJ2NoYWxrJzsKaW1wb3J0IHBhdGggZnJvbSAncGF0aCc7CmltcG9ydCB3YXRlcmZhbGwgZnJvbSAncHJvbWlzZS53YXRlcmZhbGwnOwoKaW1wb3J0IG1pZ3JhdGlvbnMgZnJvbSAnLi4vLi4vbWlncmF0aW9ucyc7CmltcG9ydCBkYiBmcm9tICcuLi8uLi9zcmMvZGInOwoKY29uc3QgY29tbWFuZCA9IHByb2Nlc3MuYXJndi5wb3AoKTsKY29uc3Qgc2VyaWVzID0gW107Cgpjb25zb2xlLmxvZyhjaGFsay5ibHVlKCdSdW5uaW5nIGFsbCBtaWdyYXRpb25zLi4uJykpOwoKbWlncmF0aW9ucy5mb3JFYWNoKChmaWxlbmFtZSwgaSkgPT4gewogIGNvbnN0IG1pZ3JhdGlvbiA9IHJlcXVpcmUoZmlsZW5hbWUpOwogIGNvbnN0IGluc3RhbmNlID0gbmV3IG1pZ3JhdGlvbi5kZWZhdWx0KCk7CgogIGlmIChjb21tYW5kID09PSAndXAnKSB7CiAgICBzZXJpZXMucHVzaCgoKSA9PiB7CiAgICAgIGNvbnNvbGUubG9nKAogICAgICAgIGNoYWxrLmN5YW4oYCR7aSsxfS5gKSwKICAgICAgICBjaGFsay5ibHVlKGBTZXR0aW5nIHVwICR7aW5zdGFuY2UuY29uc3RydWN0b3IubmFtZX0gZnJvbSAke3BhdGgucmVsYXRpdmUoX19kaXJuYW1lLCBmaWxlbmFtZSl9YCkKICAgICAgKTsKICAgICAgcmV0dXJuIGluc3RhbmNlCiAgICAgICAgLnVwKCkKICAgICAgICAudGhlbigoKSA9PiBpbnN0YW5jZS5hZnRlcigpKQogICAgICAgIC50aGVuKCgpID0+IHsKICAgICAgICAgIGNvbnNvbGUubG9nKAogICAgICAgICAgICBjaGFsay5jeWFuKGAke2krMX0uYCksCiAgICAgICAgICAgIGNoYWxrLmdyZWVuKGBEb25lIHdpdGggJHtpbnN0YW5jZS5jb25zdHJ1Y3Rvci5uYW1lfS5gKQogICAgICAgICAgKTsKICAgICAgICB9KQogICAgICAgIC5jYXRjaChlcnIgPT4gaW5zdGFuY2UuYWZ0ZXIoKS50aGVuKCgpID0+IGVycikpCiAgICAgICAgLmNhdGNoKGVyciA9PiB7CiAgICAgICAgICBjb25zb2xlLmxvZygKICAgICAgICAgICAgY2hhbGsubWFnZW50YShgJHtpKzF9LmApLAogICAgICAgICAgICBjaGFsay5yZWQoYFByb2JsZW0gd2l0aCAke2luc3RhbmNlLmNvbnN0cnVjdG9yLm5hbWV9YCkKICAgICAgICAgICk7CiAgICAgICAgICBpZiAoZXJyKSB7CiAgICAgICAgICAgIGNvbnNvbGUuZXJyb3IoZXJyKTsKICAgICAgICAgIH0KICAgICAgICAgIHRocm93IGVycjsKICAgICAgICB9KTsKICAgIH0pOwogIH0KICBlbHNlIGlmIChjb21tYW5kID09PSAnZG93bicpIHsKICAgIHNlcmllcy5wdXNoKCgpID0+IHsKICAgICAgY29uc29sZS5sb2coCiAgICAgICAgY2hhbGsuY3lhbihpKzEgKyAnLicpLAogICAgICAgIGNoYWxrLmJsdWUoYFRlYXJpbmcgZG93biAke2luc3RhbmNlLmNvbnN0cnVjdG9yLm5hbWV9IGZyb20gJHtwYXRoLnJlbGF0aXZlKF9fZGlybmFtZSwgZmlsZW5hbWUpfWApCiAgICAgICk7CiAgICAgIHJldHVybiBpbnN0YW5jZQogICAgICAgIC5kb3duKCkKICAgICAgICAudGhlbigoKSA9PiBpbnN0YW5jZS5hZnRlcigpKQogICAgICAgIC50aGVuKCgpID0+IHsKICAgICAgICAgIGNvbnNvbGUubG9nKAogICAgICAgICAgICBjaGFsay5jeWFuKGAke2krMX0uYCksCiAgICAgICAgICAgIGNoYWxrLmdyZWVuKGBEb25lIHdpdGggJHtpbnN0YW5jZS5jb25zdHJ1Y3Rvci5uYW1lfS5gKQogICAgICAgICAgKTsKICAgICAgICB9KQogICAgICAgIC5jYXRjaChlcnIgPT4gaW5zdGFuY2UuYWZ0ZXIoKS50aGVuKCgpID0+IGVycikpCiAgICAgICAgLmNhdGNoKGVyciA9PiB7CiAgICAgICAgICBjb25zb2xlLmxvZygKICAgICAgICAgICAgY2hhbGsubWFnZW50YShgJHtpKzF9LmApLAogICAgICAgICAgICBjaGFsay5yZWQoYFByb2JsZW0gd2l0aCAke2luc3RhbmNlLmNvbnN0cnVjdG9yLm5hbWV9YCkKICAgICAgICAgICk7CiAgICAgICAgICBpZiAoZXJyKSB7CiAgICAgICAgICAgIGNvbnNvbGUuZXJyb3IoZXJyKTsKICAgICAgICAgIH0KICAgICAgICAgIHRocm93IGVycjsKICAgICAgICB9KTsKICAgIH0pOwogIH0KfSk7Cgp3YXRlcmZhbGwoc2VyaWVzKQogIC50aGVuKCgpID0+IHsKICAgIGRiLmVuZCgpOwogICAgY29uc29sZS5sb2coY2hhbGsuZ3JlZW4oJ0RvbmUgcnVubmluZyBtaWdyYXRpb25zLicpKTsKICB9KQogIC5jYXRjaCgoKSA9PiB7CiAgICBkYi5lbmQoKTsKICAgIGNvbnNvbGUubG9nKGNoYWxrLmJnUmVkKCdDb3VsZCBub3Qgc3VjY2Vzc2Z1bGx5IHJ1biBtaWdyYXRpb25zLicpKTsKICB9KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXN0OiB7CiAgICAgICAgICB0eXBlOiBTZXF1ZWxpemUuVVVJRAogICAgICAgIH0sCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLmNhdGNoKGNvbnNvbGUubG9nKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW5jbHVkZTogWwogICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIG1vZGVsOiBtb2RlbHMuUXVvdGEsCiAgICAgICAgICAgICAgICBhczogJ3F1b3RhcycKICAgICAgICAgICAgICB9CiAgICAgICAgICAgIF0K</text>
+        <text encoding="base64">CmltcG9ydCBjbGlBdXRvY29tcGxldGUgZnJvbSAnY2xpLWF1dG9jb21wbGV0ZSc7CmltcG9ydCBtaW5pbWlzdCBmcm9tICdtaW5pbWlzdCc7CgppbXBvcnQgY29tbWFuZHMgZnJvbSAnLi9jb21tYW5kcyc7Cgpjb25zdCBhcmd2ID0gbWluaW1pc3QocHJvY2Vzcy5hcmd2LnNsaWNlKDIpKTsKCmlmICghYXJndi5fLmxlbmd0aCkgewogIGNvbnN0IGNvbW1hbmRMaXN0ID0gT2JqZWN0LmtleXMoY29tbWFuZHMpLm1hcChpID0+ICh7CiAgICB0aXRsZTogaSwKICAgIHZhbHVlOiBpCiAgfSkpOwogIGNvbnN0IHN1Z2dlc3RDb21tYW5kcyA9IChpbnB1dCkgPT4gUHJvbWlzZS5yZXNvbHZlKAogICAgICBjb21tYW5kTGlzdC5maWx0ZXIoY29tbWFuZCA9PiBjb21tYW5kLnRpdGxlLnNsaWNlKDAsIGlucHV0Lmxlbmd0aCkgPT09IGlucHV0KQogICk7CiAgY2xpQXV0b2NvbXBsZXRlKCdXaGF0IGRvIHlvdSB3YW50IHRvIGRvPycsIHN1Z2dlc3RDb21tYW5kcykKICAgIC5vbignc3VibWl0JywgKGNvbW1hbmQpID0+IHsKICAgICAgcnVuQ29tbWFuZChjb21tYW5kKQogICAgfSk7Cn0KZWxzZSB7CiAgcnVuQ29tbWFuZChhcmd2Ll9bMF0pOwp9CgpmdW5jdGlvbiBydW5Db21tYW5kKGNvbW1hbmQpIHsKICBuZXcgY29tbWFuZHNbY29tbWFuZF0oYXJndik7Cn0KCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgJ3RpbWUtcmFuZ2VzOiBKb2kub2JqZWN0KHsKICAgICAgICBkYXRhOiBKb2kub2JqZWN0KHsKICAgICAgICAgIHR5cGU6IEpvaS5zdHJpbmcoKS52YWxpZCgncGFzc2VzJykucmVxdWlyZWQoKSwKICAgICAgICAgIGlkOiBKb2kuc3RyaW5nKCkudXVpZCgpLnJlcXVpcmVkKCkKICAgICAgICB9KS5yZXF1aXJlZCgpCiAgICAgIH0pLnJlcXVpcmVkKCkK</text>
+        <text encoding="base64">CmltcG9ydCBjb25maWcgZnJvbSAnY29uZmlnJzsKY29uc29sZS5sb2coY29uZmlnLmdldCgnaGknKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>QuotaError</last-search>
+      <last-search>process.env</last-search>
       <last-offset />
-      <last-pattern>QuotaError</last-pattern>
+      <last-pattern>process.env</last-pattern>
       <last-replace>invite</last-replace>
       <last-substitute>pass</last-substitute>
       <last-dir>1</last-dir>
@@ -1588,7 +1645,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Joi</entry>
         <entry>quot</entry>
         <entry>update</entry>
         <entry>:</entry>
@@ -1608,6 +1664,7 @@
         <entry encoding="base64">XDxRdW90YUVycm9yXD4=</entry>
         <entry>InviteError</entry>
         <entry>QuotaError</entry>
+        <entry>process.env</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3VzZXIvY29uZmVyZW5jZS9n</entry>
