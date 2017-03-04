@@ -359,11 +359,12 @@
         <mark key="." line="12" column="22" />
         <mark key="^" line="12" column="22" />
       </file>
-      <file name="$USER_HOME$/boringcode/core/testing/base-test.js" timestamp="1488609908793">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
+      <file name="$USER_HOME$/boringcode/core/testing/base-test.js" timestamp="1488613627592">
+        <mark key="'" line="40" column="0" />
+        <mark key="[" line="30" column="11" />
+        <mark key="]" line="30" column="11" />
         <mark key="^" line="39" column="1" />
-        <mark key="." line="40" column="0" />
+        <mark key="." line="30" column="11" />
       </file>
       <file name="Z:/partner-platform/partner-platform-api/src/modules/conference-invite/templates/invite-resend-html.hbs" timestamp="1487888355278">
         <mark key="[" line="1" column="67" />
@@ -677,9 +678,6 @@
         <mark key="^" line="2" column="13" />
         <mark key="." line="2" column="13" />
       </file>
-      <file name="/Dummy.txt" timestamp="1488605114704">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="Z:/partner-platform-api/src/modules/conference-invite/templates/invite-auto-accept-text.hbs" timestamp="1487894815806">
         <mark key="[" line="1" column="4" />
         <mark key="]" line="1" column="32" />
@@ -703,9 +701,6 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="/a.regexp" timestamp="1488595340491">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="Z:/boringcode/src/models/user/findAll.sql" timestamp="1487915027489">
         <mark key="[" line="1" column="0" />
@@ -1386,9 +1381,6 @@
         <mark key="." line="18" column="29" />
         <mark key="^" line="18" column="29" />
       </file>
-      <file name="/JavaScript Console" timestamp="1488516145236">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="W:/boringcode/tooling/cli/commands/build/index.js" timestamp="1488509304741">
         <mark key="[" line="1" column="19" />
         <mark key="]" line="2" column="20" />
@@ -1508,7 +1500,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="27" filename="$USER_HOME$/invite-api/src/modules/time-range/routes.js" />
       <jump line="29" column="10" filename="$USER_HOME$/invite-api/src/modules/time-range/routes.js" />
       <jump line="30" column="10" filename="$USER_HOME$/invite-api/src/modules/time-range/routes.js" />
       <jump line="31" column="13" filename="$USER_HOME$/invite-api/src/modules/time-range/routes.js" />
@@ -1608,6 +1599,7 @@
       <jump line="44" column="2" filename="$USER_HOME$/boringcode/core/testing/base-test.js" />
       <jump line="46" column="18" filename="$USER_HOME$/boringcode/core/testing/base-test.js" />
       <jump line="0" column="11" filename="$USER_HOME$/boringcode/tests/misc/test.js" />
+      <jump line="40" column="0" filename="$USER_HOME$/boringcode/core/testing/base-test.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1680,13 +1672,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>-</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>htt</text>
+        <text>new</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IGh0dHAgZnJvbSAnLi9odHRwJzsK</text>
@@ -1723,17 +1715,16 @@
       </register>
     </registers>
     <search>
-      <last-search>htt</last-search>
+      <last-search>new</last-search>
       <last-offset />
-      <last-pattern>htt</last-pattern>
+      <last-pattern>new</last-pattern>
       <last-replace>invite</last-replace>
       <last-substitute>pass</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>[</entry>
         <entry>P</entry>
         <entry>N</entry>
         <entry>\.</entry>
@@ -1753,6 +1744,7 @@
         <entry>Ht</entry>
         <entry>T</entry>
         <entry>htt</entry>
+        <entry>new</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3VzZXIvY29uZmVyZW5jZS9n</entry>
