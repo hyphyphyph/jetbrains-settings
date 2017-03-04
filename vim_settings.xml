@@ -44,12 +44,11 @@
         <mark key="." line="11" column="1" />
         <mark key="^" line="11" column="1" />
       </file>
-      <file name="$USER_HOME$/invite-api/src/modules/conference-invite/handlers/conference-invite-crud.handler.js" timestamp="1488589496302">
+      <file name="$USER_HOME$/invite-api/src/modules/conference-invite/handlers/conference-invite-crud.handler.js" timestamp="1488592951855">
         <mark key="'" line="162" column="2" />
-        <mark key="[" line="162" column="9" />
-        <mark key="]" line="162" column="18" />
-        <mark key="." line="162" column="18" />
-        <mark key="^" line="162" column="18" />
+        <mark key="[" line="203" column="0" />
+        <mark key="]" line="203" column="76" />
+        <mark key="." line="203" column="0" />
       </file>
       <file name="Z:/boringcode/tooling/gulp/reusable-tasks/babel.js" timestamp="1488067104016">
         <mark key="'" line="9" column="2" />
@@ -204,6 +203,12 @@
         <mark key="]" line="1" column="0" />
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/invite-api/src/modules/conference-invite/services/conference-invite-assignment.service.js" timestamp="1488592914947">
+        <mark key="[" line="44" column="15" />
+        <mark key="]" line="44" column="20" />
+        <mark key="^" line="44" column="20" />
+        <mark key="." line="44" column="20" />
       </file>
       <file name="Z:/invite-api/src/modules/pass-option/routes.js" timestamp="1488325675664">
         <mark key="'" line="32" column="61" />
@@ -361,11 +366,9 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="2" column="35" />
       </file>
-      <file name="$USER_HOME$/invite-api/src/modules/time-range/services/assignment.service.js" timestamp="1488570800844">
+      <file name="$USER_HOME$/invite-api/src/modules/time-range/services/assignment.service.js" timestamp="1488592880190">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="29" column="1" />
-        <mark key="." line="0" column="0" />
+        <mark key="^" line="28" column="1" />
       </file>
       <file name="Z:/boringcode/tooling/gulp/tasks/server.js" timestamp="1488065180244">
         <mark key="'" line="11" column="18" />
@@ -425,10 +428,10 @@
         <mark key="." line="2" column="25" />
         <mark key="^" line="2" column="25" />
       </file>
-      <file name="$USER_HOME$/invite-api/src/modules/quota/services/assignment.service.js" timestamp="1488588223240">
+      <file name="$USER_HOME$/invite-api/src/modules/quota/services/assignment.service.js" timestamp="1488592877368">
         <mark key="'" line="34" column="41" />
-        <mark key="[" line="34" column="14" />
-        <mark key="]" line="34" column="26" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="37" column="2" />
         <mark key="^" line="34" column="26" />
         <mark key="." line="34" column="26" />
       </file>
@@ -814,10 +817,10 @@
         <mark key="." line="85" column="40" />
         <mark key="^" line="85" column="40" />
       </file>
-      <file name="$USER_HOME$/invite-api/src/modules/quota/handlers/quota-crud.handler.js" timestamp="1488588295278">
+      <file name="$USER_HOME$/invite-api/src/modules/quota/handlers/quota-crud.handler.js" timestamp="1488592948281">
         <mark key="'" line="113" column="30" />
-        <mark key="[" line="142" column="63" />
-        <mark key="]" line="142" column="73" />
+        <mark key="[" line="142" column="0" />
+        <mark key="]" line="142" column="75" />
         <mark key="." line="142" column="73" />
         <mark key="^" line="142" column="73" />
       </file>
@@ -1500,38 +1503,38 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>Pass</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgJ3RpbWUtcmFuZ2VzOiBKb2kub2JqZWN0KHsKICAgICAgICBkYXRhOiBKb2kub2JqZWN0KHsKICAgICAgICAgIHR5cGU6IEpvaS5zdHJpbmcoKS52YWxpZCgncGFzc2VzJykucmVxdWlyZWQoKSwKICAgICAgICAgIGlkOiBKb2kuc3RyaW5nKCkudXVpZCgpLnJlcXVpcmVkKCkKICAgICAgICB9KS5yZXF1aXJlZCgpCiAgICAgIH0pLnJlcXVpcmVkKCkK</text>
       </register>
       <register name="-" type="4">
-        <text>Pass</text>
+        <text>pass</text>
       </register>
       <register name="/" type="4">
         <text>P</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBfaGFuZGxlUGFzcyhpbnZpdGUpIHsKICAgIGlmICh0aGlzLmRlc2VyaWFsaXplZERhdGEucGFzcykgewogICAgICByZXR1cm4gbmV3IEFzc2lnbm1lbnRTZXJ2aWNlKCkuc2V0UGFzc0J5SWQoCiAgICAgICAgaW52aXRlLAogICAgICAgIHRoaXMuZGVzZXJpYWxpemVkRGF0YS5wYXNzLmlkCiAgICAgICk7CiAgICB9CiAgICBlbHNlIHsKICAgICAgcmV0dXJuIG5ldyBQcm9taXNlKHJlc29sdmUgPT4gcmVzb2x2ZShpbnZpdGUpKTsKICAgIH0KICB9Cg==</text>
+        <text encoding="base64">ICAgICAgJ3RpbWUtcmFuZ2VzJzogdGhpcy5fVkFMSURBVEVfTUFLRV9SRUxBVElPTlNISVBTX09CSkVDVCgndGltZS1yYW5nZXMnKQo=</text>
       </register>
-      <register name="1" type="4">
-        <text>passOption</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgJ3RpbWUtcmFuZ2VzOiBKb2kub2JqZWN0KHsKICAgICAgICBkYXRhOiBKb2kub2JqZWN0KHsKICAgICAgICAgIHR5cGU6IEpvaS5zdHJpbmcoKS52YWxpZCgncGFzc2VzJykucmVxdWlyZWQoKSwKICAgICAgICAgIGlkOiBKb2kuc3RyaW5nKCkudXVpZCgpLnJlcXVpcmVkKCkKICAgICAgICB9KS5yZXF1aXJlZCgpCiAgICAgIH0pLnJlcXVpcmVkKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuZGVzZXJpYWxpemVkRGF0YSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmRlc2VyaWFsaXplZERhdGEucGFzcy5pZAo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuZGVzZXJpYWxpemVkRGF0YSk7Cg==</text>
+      <register name="3" type="4">
+        <text>passOption</text>
       </register>
-      <register name="4" type="4">
-        <text>PassOptions</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuZGVzZXJpYWxpemVkRGF0YSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLy8gLl9oYW5kbGVQYXJ0bmVyKHF1b3RhKQogICAgICAvLyAudGhlbigoKSA9PiB0aGlzLl9oYW5kbGVQYXNzKHF1b3RhKSk7CiAgICAgIC8vIC50aGVuKCgpID0+IHRoaXMuX2hhbmRsZVBhc3NPcHRpb25zKHF1b3RhKSk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuZGVzZXJpYWxpemVkRGF0YSk7Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>PassOptions</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gLl9oYW5kbGVQYXJ0bmVyKHF1b3RhKQogICAgICAvLyAudGhlbigoKSA9PiB0aGlzLl9oYW5kbGVQYXNzKHF1b3RhKSk7CiAgICAgIC8vIC50aGVuKCgpID0+IHRoaXMuX2hhbmRsZVBhc3NPcHRpb25zKHF1b3RhKSk7Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
