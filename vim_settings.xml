@@ -121,12 +121,6 @@
         <mark key="^" line="2" column="13" />
         <mark key="." line="2" column="13" />
       </file>
-      <file name="$USER_HOME$/boringcode/tooling/cli/main.js" timestamp="1488607510328">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="44" />
-        <mark key="." line="27" column="0" />
-      </file>
       <file name="Z:/partner-platform-api/src/modules/conference-invite/handlers/conference-invite-crud.handler.js" timestamp="1487959182755">
         <mark key="[" line="132" column="47" />
         <mark key="]" line="132" column="73" />
@@ -425,12 +419,6 @@
         <mark key="]" line="11" column="20" />
         <mark key="." line="11" column="20" />
         <mark key="^" line="11" column="20" />
-      </file>
-      <file name="$USER_HOME$/boringcode/tests/http/users/list-all-users.js" timestamp="1488608288016">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/boringcode/tooling/cli/commands/start/index.js" timestamp="1488605006795">
         <mark key="[" line="40" column="0" />
@@ -744,6 +732,9 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="/a.regexp" timestamp="1488618782382">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="Z:/boringcode/src/models/user/findAll.sql" timestamp="1487915027489">
         <mark key="[" line="1" column="0" />
@@ -1454,6 +1445,9 @@
         <mark key="]" line="18" column="29" />
         <mark key="." line="18" column="29" />
         <mark key="^" line="18" column="29" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1488516145236">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="W:/boringcode/tooling/cli/commands/build/index.js" timestamp="1488509304741">
         <mark key="[" line="1" column="19" />
