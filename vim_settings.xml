@@ -134,12 +134,11 @@
         <mark key="." line="48" column="28" />
         <mark key="^" line="48" column="28" />
       </file>
-      <file name="$USER_HOME$/invite-api/src/modules/core/base-handler.js" timestamp="1488581253872">
+      <file name="$USER_HOME$/invite-api/src/modules/core/base-handler.js" timestamp="1488733516311">
         <mark key="'" line="40" column="0" />
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="84" column="2" />
-        <mark key="." line="66" column="29" />
-        <mark key="^" line="66" column="29" />
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
       </file>
       <file name="Z:/partner-platform-api/src/modules/quota/jsonapi/quota.jsonapi.js" timestamp="1487973498593">
         <mark key="[" line="29" column="18" />
@@ -1413,6 +1412,12 @@
         <mark key="^" line="6" column="37" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/invite-api/src/modules/quota/routes.js" timestamp="1488733659171">
+        <mark key="[" line="11" column="42" />
+        <mark key="]" line="11" column="49" />
+        <mark key="^" line="11" column="49" />
+        <mark key="." line="11" column="49" />
+      </file>
       <file name="Z:/invite-api/src/errors.js" timestamp="1488403612778">
         <mark key="'" line="83" column="45" />
         <mark key="[" line="20" column="0" />
@@ -1739,61 +1744,60 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBzZXJpYWxpemUoKQo=</text>
+      <register name="&quot;" type="4">
+        <text>Create</text>
       </register>
       <register name="-" type="4">
-        <text>CrudDataRepo</text>
+        <text>Create</text>
       </register>
       <register name="/" type="4">
-        <text>db</text>
+        <text>V</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QmFzZUNydWRIYW5kbGVyLk1PREVMID0gQmFzZU1vZGVsOwo=</text>
+        <text encoding="base64">ICBzZXJ2ZXIucm91dGUoewogICAgbWV0aG9kOiAnUE9TVCcsCiAgICBwYXRoOiAnL3F1b3RhcycsCiAgICBjb25maWc6IHsKICAgICAgYXV0aDogJ3NpbXBsZScsCiAgICAgIGhhbmRsZXI6IChyZXF1ZXN0LCByZXBseSkgPT4KICAgICAgICBuZXcgUXVvdGFDcnVkSGFuZGxlcigpLmNyZWF0ZShyZXF1ZXN0LCByZXBseSksCiAgICAgIHZhbGlkYXRlOiBuZXcgUXVvdGFDcnVkSGFuZGxlcigpLmdldENyZWF0ZVZhbGlkYXRpb24oKQogICAgfQogIH0pOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICBzZXJpYWxpemUoKQo=</text>
+      <register name="1" type="4">
+        <text>Create</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">VXNlckNydWRIYW5kbGVyLlNFUklBTElaRVIgPSAK</text>
+        <text encoding="base64">ICAgICAgLmNhdGNoKGNvbnNvbGUubG9nKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGRiIGZyb20gJy4uLy4uL3NyYy9kYic7Cg==</text>
+        <text encoding="base64">ICBzZXJpYWxpemUoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">VXNlckNydWRIYW5kbGVyLlNFUklBTElaRVIgPSAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRiLmNvbm5lY3Rpb24oKQogICAgICAudGhlbihjb25uZWN0aW9uID0+IG5ldyB0aGlzLmNvbnN0cnVjdG9yLk1PREVMKHsgY29ubmVjdGlvbiB9KS5kZWxldGVPbmUoaWQpKQogICAgICAudGhlbihyZXN1bHRzID0+IHRoaXMuY2hlY2tGb3JOb1Jlc3VsdHMocmVzdWx0cykpCg==</text>
+        <text encoding="base64">aW1wb3J0IGRiIGZyb20gJy4uLy4uL3NyYy9kYic7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLnRoZW4ocmVzdWx0cyA9PiByZXBseSh7IGlkIH0pKQogICAgICAuY2F0Y2goZXJyID0+IHJlcGx5KGVyci5ib29tKCkpKQo=</text>
+        <text encoding="base64">ICAgIGRiLmNvbm5lY3Rpb24oKQogICAgICAudGhlbihjb25uZWN0aW9uID0+IG5ldyB0aGlzLmNvbnN0cnVjdG9yLk1PREVMKHsgY29ubmVjdGlvbiB9KS5kZWxldGVPbmUoaWQpKQogICAgICAudGhlbihyZXN1bHRzID0+IHRoaXMuY2hlY2tGb3JOb1Jlc3VsdHMocmVzdWx0cykpCg==</text>
       </register>
-      <register name="8" type="4">
-        <text>update</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLnRoZW4odGhpcy5zZXJpYWxpemUoKSkK</text>
+        <text encoding="base64">ICAgICAgLnRoZW4ocmVzdWx0cyA9PiByZXBseSh7IGlkIH0pKQogICAgICAuY2F0Y2goZXJyID0+IHJlcGx5KGVyci5ib29tKCkpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>db</last-search>
+      <last-search>V</last-search>
       <last-offset />
-      <last-pattern>db</last-pattern>
+      <last-pattern>V</last-pattern>
       <last-replace>invite</last-replace>
       <last-substitute>pass</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>dir</entry>
         <entry>__</entry>
         <entry>_</entry>
         <entry>one</entry>
@@ -1813,6 +1817,7 @@
         <entry>W</entry>
         <entry>up</entry>
         <entry>db</entry>
+        <entry>V</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3VzZXIvY29uZmVyZW5jZS9n</entry>
