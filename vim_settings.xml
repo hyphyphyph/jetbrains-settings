@@ -358,11 +358,11 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/invite-api/src/services/mailer.service.js" timestamp="1488755302649">
-        <mark key="[" line="43" column="18" />
-        <mark key="]" line="43" column="34" />
-        <mark key="." line="43" column="34" />
-        <mark key="^" line="43" column="34" />
+      <file name="$USER_HOME$/invite-api/src/services/mailer.service.js" timestamp="1488757407656">
+        <mark key="'" line="37" column="4" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/boringcode/tooling/cli/index.js" timestamp="1488597776947">
         <mark key="[" line="1" column="17" />
@@ -1613,9 +1613,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="4" filename="$USER_HOME$/boringcode/tests/http/users/dummy.js" />
-      <jump line="37" column="8" filename="$USER_HOME$/boringcode/tooling/test/main.js" />
-      <jump line="5" column="28" filename="$USER_HOME$/boringcode/tests/http/users/dummy2.js" />
       <jump line="4" column="4" filename="$USER_HOME$/boringcode/tests/http/users/dummy.js" />
       <jump line="34" column="36" filename="$USER_HOME$/boringcode/tooling/test/main.js" />
       <jump line="18" column="19" filename="$USER_HOME$/boringcode/tooling/cli/commands/test/index.js" />
@@ -1713,6 +1710,9 @@
       <jump line="36" column="15" filename="$USER_HOME$/invite-api/src/modules/user/handlers/user-crud.handler.js" />
       <jump line="29" column="25" filename="$USER_HOME$/invite-api/src/modules/user/handlers/user-crud.handler.js" />
       <jump line="30" column="23" filename="$USER_HOME$/invite-api/src/modules/user/handlers/user-crud.handler.js" />
+      <jump line="12" column="42" filename="$USER_HOME$/invite-api/src/services/mailer.service.js" />
+      <jump line="43" column="23" filename="$USER_HOME$/invite-api/src/services/mailer.service.js" />
+      <jump line="39" column="4" filename="$USER_HOME$/invite-api/src/services/mailer.service.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1785,61 +1785,59 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhlcnIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>true</text>
       </register>
       <register name="/" type="4">
-        <text>consle</text>
+        <text>console</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">WW91J3ZlIGJlZW4gaW52aXRlZC4Ke3t1c2VyLm5ld0FjY291bnRUb2tlbn19Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhlcnIpOwo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHJlcXVpcmVUbHMgPSBjb25maWcuZ2V0KCcnKQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHNlY3VyZSA9IGNvbmZpZwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDEyMyk7Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Y29uc29sZS5sb2coY29uZmlnLmdldCgnbWFpbGVyLnBhc3N3b3JkJykpOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhlcnIpOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IHJlcXVpcmVUbHMgPSBjb25maWcuZ2V0KCcnKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IHNlY3VyZSA9IGNvbmZpZwo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">J3ZlIGJlZW4gaW52aXRlZAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDEyMyk7Cg==</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">J3ZlIGJlZW4gaW52aXRlZAo=</text>
+      </register>
+      <register name="9" type="2">
         <text encoding="base64">WW91J3ZlIGJlZW4gaW52aXRlZAo=</text>
-      </register>
-      <register name="8" type="4">
-        <text>'ve been invited</text>
-      </register>
-      <register name="9" type="4">
-        <text>You\</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>consle</last-search>
+      <last-search>console</last-search>
       <last-offset />
-      <last-pattern>consle</last-pattern>
+      <last-pattern>console</last-pattern>
       <last-replace>invite</last-replace>
       <last-substitute>pass</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>-</entry>
-        <entry>B</entry>
         <entry>consl</entry>
         <entry>consol</entry>
         <entry>:</entry>
@@ -1858,6 +1856,8 @@
         <entry encoding="base64">XDxNYWlsZXJTZXJ2aWNlXD4=</entry>
         <entry encoding="base64">XDxfc2VuZFJlZ2lzdHJhdGlvbkVtYWlsXD4=</entry>
         <entry>consle</entry>
+        <entry>con</entry>
+        <entry>console</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3VzZXIvY29uZmVyZW5jZS9n</entry>
