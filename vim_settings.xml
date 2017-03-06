@@ -824,6 +824,10 @@
         <mark key="^" line="2" column="13" />
         <mark key="." line="2" column="13" />
       </file>
+      <file name="/Dummy.txt" timestamp="1488815482899">
+        <mark key="[" line="0" column="0" />
+        <mark key="." line="0" column="7" />
+      </file>
       <file name="$USER_HOME$/boringcode/server/core/handlers/errors.js" timestamp="1488776881416">
         <mark key="'" line="23" column="4" />
         <mark key="[" line="24" column="0" />
@@ -1161,6 +1165,11 @@
         <mark key="^" line="77" column="51" />
         <mark key="." line="77" column="51" />
       </file>
+      <file name="$USER_HOME$/invite-api/src/modules/user/handlers/me.handler.js" timestamp="1488815421741">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/boringcode/tests/main.yml" timestamp="1488605159140">
         <mark key="[" line="2" column="11" />
         <mark key="]" line="2" column="14" />
@@ -1427,6 +1436,12 @@
         <mark key="]" line="61" column="36" />
         <mark key="." line="61" column="36" />
         <mark key="^" line="61" column="36" />
+      </file>
+      <file name="$USER_HOME$/invite-api/src/models/user.model.js" timestamp="1488815399294">
+        <mark key="[" line="85" column="21" />
+        <mark key="]" line="85" column="28" />
+        <mark key="." line="85" column="28" />
+        <mark key="^" line="85" column="28" />
       </file>
       <file name="Z:/boringcode/migrations/0000-create-users/up.sql" timestamp="1488138615023">
         <mark key="[" line="7" column="20" />
@@ -1765,6 +1780,12 @@
         <mark key="^" line="167" column="12" />
         <mark key="." line="167" column="12" />
       </file>
+      <file name="$USER_HOME$/invite-api/src/modules/user/jsonapi/user.jsonapi.js" timestamp="1488814969569">
+        <mark key="[" line="130" column="35" />
+        <mark key="]" line="130" column="33" />
+        <mark key="." line="130" column="33" />
+        <mark key="^" line="130" column="33" />
+      </file>
       <file name="Z:/boringcode/migrations/0000-create-users/down.sql" timestamp="1488138189937">
         <mark key="[" line="0" column="11" />
         <mark key="]" line="0" column="17" />
@@ -2022,41 +2043,41 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>Conference</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgLnRoZW4oY29uc29sZS5sb2cpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>Conference</text>
+        <text>conferences</text>
       </register>
       <register name="/" type="4">
         <text>I</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBnZXRTaG93QWxsQnlDb25mZXJlbmNlSWRWYWxpZGF0aW9uKCkgewogICAgcmV0dXJuIHsKICAgICAgcGFyYW1zOiB7CiAgICAgICAgaWQ6IEpvaS5zdHJpbmcoKS51dWlkKCkKICAgICAgfQogICAgfTsKICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBtb2RlbDogbW9kZWxzLkNvbmZlcmVuY2UsCiAgICAgICAgICAgICAgICBhczogJ2NvbmZlcmVuY2VzJwogICAgICAgICAgICAgIH0K</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgLnRoZW4oY29uc29sZS5sb2cpCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICd0aXRsZScsCiAgICAgICAgICAnbG9nbycK</text>
+      </register>
+      <register name="4" type="4">
         <text>Conference</text>
       </register>
-      <register name="2" type="4">
+      <register name="5" type="4">
         <text>Partner</text>
       </register>
-      <register name="3" type="4">
+      <register name="6" type="4">
         <text>Pass</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CiAgICAgICAgPHAgY2xhc3M9Im1haWwtZm9vdGVyIj4KICAgICAgICAgIEh1YiBwb3dlcmVkIGJ5IDxhIGhyZWY9Imh0dHA6Ly93d3cuZS0xODAuY29tL2xhYnMvIj5FLTE4MCwgaW5jLjwvYT4gPGJyLz4KICAgICAgICAgIDxhIGhyZWY9Imh0dHBzOi8vd3d3Lmh1Yi5jMi5iaXovbWUvcHJlZmVyZW5jZXMvIiBjbGFzcz0idGV4dC1kZWNvIj5DaGFuZ2UgeW91ciBlbWFpbCBwcmVmZXJlbmNlczwvYT4KICAgICAgICA8L3A+Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8YSBocmVmPSJodHRwczovL3d3dy5odWIuYzIuYml6L3NpZ251cC8/aWQ9Nzg2OSZhbXA7Y2hlY2tzdW09MzUyYTMwM2IwNmFlM2Y1Y2IxNTc3ZTY0MTQ1ZWE2N2RlZGUzOWU3ZCZhbXA7YWN0aW9uPWRlY2xpbmUiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvYT4K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIERlY2xpbmUgSW52aXRhdGlvbgo=</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8YSBocmVmPSJodHRwczovL3d3dy5odWIuYzIuYml6L3NpZ251cC8/aWQ9Nzg2OSZhbXA7Y2hlY2tzdW09MzUyYTMwM2IwNmFlM2Y1Y2IxNTc3ZTY0MTQ1ZWE2N2RlZGUzOWU3ZCZhbXA7YWN0aW9uPWFjY2VwdCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9hPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8YSBocmVmPSJodHRwczovL3d3dy5odWIuYzIuYml6L3NpZ251cC8/aWQ9Nzg2OSZhbXA7Y2hlY2tzdW09MzUyYTMwM2IwNmFlM2Y1Y2IxNTc3ZTY0MTQ1ZWE2N2RlZGUzOWU3ZCZhbXA7YWN0aW9uPWRlY2xpbmUiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvYT4K</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
