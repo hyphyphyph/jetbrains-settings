@@ -312,11 +312,12 @@
         <mark key="^" line="0" column="38" />
         <mark key="." line="0" column="38" />
       </file>
-      <file name="$USER_HOME$/invite-api/src/modules/user/handlers/user-crud.handler.js" timestamp="1488758724529">
-        <mark key="'" line="25" column="20" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="7" column="73" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/invite-api/src/modules/user/handlers/user-crud.handler.js" timestamp="1488763295080">
+        <mark key="'" line="149" column="0" />
+        <mark key="[" line="47" column="24" />
+        <mark key="]" line="47" column="55" />
+        <mark key="." line="47" column="55" />
+        <mark key="^" line="47" column="55" />
       </file>
       <file name="Z:/boringcode/core/modules/auth/handlers/login/handle-login.js" timestamp="1488069560950">
         <mark key="'" line="10" column="43" />
@@ -564,10 +565,10 @@
         <mark key="." line="2" column="25" />
         <mark key="^" line="2" column="25" />
       </file>
-      <file name="$USER_HOME$/invite-api/src/modules/conference-invite/services/workflow.service.js" timestamp="1488595400192">
+      <file name="$USER_HOME$/invite-api/src/modules/conference-invite/services/workflow.service.js" timestamp="1488762774628">
         <mark key="'" line="0" column="9" />
-        <mark key="[" line="257" column="33" />
-        <mark key="]" line="257" column="55" />
+        <mark key="[" line="337" column="0" />
+        <mark key="]" line="344" column="2" />
         <mark key="^" line="257" column="55" />
         <mark key="." line="257" column="55" />
       </file>
@@ -590,11 +591,11 @@
         <mark key="^" line="25" column="9" />
         <mark key="." line="63" column="0" />
       </file>
-      <file name="$USER_HOME$/invite-api/src/modules/user/templates/registration-text.hbs" timestamp="1488754317527">
+      <file name="$USER_HOME$/invite-api/src/modules/user/templates/registration-text.hbs" timestamp="1488763528080">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="19" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="Z:/boringcode/core/helpers/get-server-url.js" timestamp="1488257549080">
         <mark key="'" line="7" column="37" />
@@ -757,7 +758,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/a.regexp" timestamp="1488737303564">
+      <file name="/a.regexp" timestamp="1488762334039">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="Z:/boringcode/src/models/user/findAll.sql" timestamp="1487915027489">
@@ -856,10 +857,10 @@
         <mark key="^" line="113" column="22" />
         <mark key="." line="113" column="22" />
       </file>
-      <file name="$USER_HOME$/invite-api/src/modules/user/templates/reset-text.hbs" timestamp="1488758586285">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="26" />
-        <mark key="." line="1" column="24" />
+      <file name="$USER_HOME$/invite-api/src/modules/user/templates/reset-text.hbs" timestamp="1488763542110">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
         <mark key="^" line="1" column="24" />
       </file>
       <file name="$USER_HOME$/boringcode/core/data-repo/crud-data-repo.js" timestamp="1488617102454">
@@ -1111,10 +1112,11 @@
         <mark key="^" line="27" column="18" />
         <mark key="." line="27" column="18" />
       </file>
-      <file name="$USER_HOME$/invite-api/src/modules/user/templates/reset-html.hbs" timestamp="1488758591622">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/invite-api/src/modules/user/templates/reset-html.hbs" timestamp="1488763774624">
+        <mark key="[" line="1" column="26" />
+        <mark key="]" line="1" column="34" />
+        <mark key="." line="1" column="34" />
+        <mark key="^" line="1" column="34" />
       </file>
       <file name="Z:/partner-platform-api/src/modules/quota/routes.js" timestamp="1487972883869">
         <mark key="'" line="12" column="16" />
@@ -1142,7 +1144,13 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="25" column="8" />
       </file>
-      <file name="$USER_HOME$/invite-api/src/modules/user/handlers/registration.handler.js" timestamp="1488758739598" />
+      <file name="$USER_HOME$/invite-api/src/modules/user/handlers/registration.handler.js" timestamp="1488763303299">
+        <mark key="'" line="137" column="0" />
+        <mark key="[" line="92" column="17" />
+        <mark key="]" line="92" column="41" />
+        <mark key="." line="92" column="41" />
+        <mark key="^" line="92" column="41" />
+      </file>
       <file name="Z:/boringcode/core/server-plugins/cors.js" timestamp="1488066250187">
         <mark key="'" line="46" column="33" />
         <mark key="[" line="46" column="20" />
@@ -1285,6 +1293,12 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/invite-api/src/helpers/make-client-url.js" timestamp="1488763134907">
+        <mark key="[" line="2" column="20" />
+        <mark key="]" line="2" column="22" />
+        <mark key="." line="2" column="22" />
+        <mark key="^" line="2" column="22" />
+      </file>
       <file name="Z:/invite-api/src/modules/signed-upload/handlers/signed-upload.handler.js" timestamp="1488505049876">
         <mark key="'" line="14" column="2" />
         <mark key="[" line="14" column="27" />
@@ -1299,12 +1313,12 @@
         <mark key="." line="50" column="0" />
         <mark key="^" line="12" column="29" />
       </file>
-      <file name="$USER_HOME$/invite-api/src/modules/user/templates/registration-html.hbs" timestamp="1488754321037">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="1" column="24" />
-        <mark key="]" line="1" column="24" />
-        <mark key="." line="1" column="24" />
-        <mark key="^" line="1" column="24" />
+      <file name="$USER_HOME$/invite-api/src/modules/user/templates/registration-html.hbs" timestamp="1488763766234">
+        <mark key="'" line="1" column="34" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="54" />
+        <mark key="." line="1" column="31" />
+        <mark key="^" line="1" column="34" />
       </file>
       <file name="Z:/invite-api/db/migrations/20170301051556-create-partner-user.js" timestamp="1488345423051">
         <mark key="'" line="40" column="0" />
@@ -1619,15 +1633,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="9" filename="$USER_HOME$/boringcode/tooling/test/main.js" />
-      <jump line="51" column="37" filename="$USER_HOME$/boringcode/tooling/test/main.js" />
-      <jump line="70" column="4" filename="$USER_HOME$/boringcode/tooling/test/main.js" />
-      <jump line="64" column="3" filename="$USER_HOME$/boringcode/tooling/test/main.js" />
-      <jump line="65" column="25" filename="$USER_HOME$/boringcode/tooling/test/main.js" />
-      <jump line="74" column="40" filename="$USER_HOME$/boringcode/tooling/test/main.js" />
-      <jump line="75" column="26" filename="$USER_HOME$/boringcode/tooling/test/main.js" />
-      <jump line="69" column="24" filename="$USER_HOME$/boringcode/tooling/test/main.js" />
-      <jump line="71" column="42" filename="$USER_HOME$/boringcode/tooling/test/main.js" />
       <jump line="52" column="36" filename="$USER_HOME$/boringcode/tooling/test/main.js" />
       <jump line="78" column="26" filename="$USER_HOME$/boringcode/tooling/test/main.js" />
       <jump line="7" column="0" filename="$USER_HOME$/boringcode/tooling/test/main.js" />
@@ -1719,6 +1724,15 @@
       <jump line="83" column="25" filename="$USER_HOME$/invite-api/src/modules/user/handlers/registration.handler.js" />
       <jump line="66" column="23" filename="$USER_HOME$/invite-api/src/modules/user/handlers/registration.handler.js" />
       <jump line="9" column="7" filename="$USER_HOME$/invite-api/src/modules/user/handlers/registration.handler.js" />
+      <jump line="15" column="13" filename="$USER_HOME$/invite-api/src/modules/user/handlers/user-crud.handler.js" />
+      <jump line="16" column="14" filename="$USER_HOME$/invite-api/src/modules/user/handlers/user-crud.handler.js" />
+      <jump line="148" column="0" filename="$USER_HOME$/invite-api/src/modules/user/handlers/user-crud.handler.js" />
+      <jump line="150" column="25" filename="$USER_HOME$/invite-api/src/modules/user/handlers/user-crud.handler.js" />
+      <jump line="144" column="80" filename="$USER_HOME$/invite-api/src/modules/user/handlers/user-crud.handler.js" />
+      <jump line="133" column="0" filename="$USER_HOME$/invite-api/src/modules/user/handlers/registration.handler.js" />
+      <jump line="47" column="18" filename="$USER_HOME$/invite-api/src/modules/user/handlers/user-crud.handler.js" />
+      <jump line="149" column="0" filename="$USER_HOME$/invite-api/src/modules/user/handlers/user-crud.handler.js" />
+      <jump line="1" column="34" filename="$USER_HOME$/invite-api/src/modules/user/templates/registration-html.hbs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1791,70 +1805,59 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>registration</text>
+        <text>verificationLink</text>
       </register>
       <register name="-" type="4">
-        <text>registration</text>
+        <text>verificationLink</text>
       </register>
       <register name="/" type="4">
-        <text>reg</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IFJlZ2lzdHJhdGlvbkh0bWxUZW1wbGF0ZSBmcm9tICcuLi90ZW1wbGF0ZXMvcmVnaXN0cmF0aW9uLWh0bWwuaGJzJzsKaW1wb3J0IFJlZ2lzdHJhdGlvblRleHRUZW1wbGF0ZSBmcm9tICcuLi90ZW1wbGF0ZXMvcmVnaXN0cmF0aW9uLXRleHQuaGJzJzsK</text>
+        <text encoding="base64">PGEgaHJlZj0ie3t2ZXJpZmljYXRpb25MaW5rfX0iPnt7dmVyaWZpY2F0aW9uTGlua319PC9hPgo=</text>
       </register>
-      <register name="1" type="8">
-        <text>Registration
-Registration</text>
+      <register name="1" type="2">
+        <text encoding="base64">e3tyZXNldExpbmt9fQo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">e3t1c2VyLm5ld0FjY291bnRUb2tlbn19Cg==</text>
+        <text encoding="base64">e3t1c2VyLnJlc2V0UGFzc3dvcmRUb2tlbn19Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">WW91J3ZlIGJlZW4gaW52aXRlZC4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="8">
-        <text>Registration
-Registration</text>
+      <register name="5" type="2">
+        <text encoding="base64">e3t1c2VyLnJlc2V0UGFzc3dvcmRUb2tlbn19Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>complete your account registration.</text>
+      <register name="6" type="2">
+        <text encoding="base64">e3t1c2VyLm5ld0FjY291bnRUb2tlbn19Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBQcm9taXNlLnJlc29sdmUodXNlcik7Cg==</text>
+        <text encoding="base64">ICAgIGxldCB1cmwgPSBjb25maWcuZ2V0KCdjbGllbnQuaG9zdCcpOwogICAgaWYgKGNvbmZpZy5nZXQoJ2NsaWVudC5wb3J0JykgIT09IDgwKSB7CiAgICAgIHVybCArPSAnOicgKyBjb25maWcuZ2V0KCdjbGllbnQucG9ydCcpOwogICAgfQoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLmNhdGNoKGNvbnNvbGUubG9nKQo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBgaHR0cDovLyR7dXJsfS9zZXQtcGFzc3dvcmQvP3Rva2VuPSR7dXNlci5yZXNldFBhc3N3b3JkVG9rZW59Jmludml0ZT1mYWxzZWA7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhlcnIpOwo=</text>
+        <text encoding="base64">ICAgIGxldCB1cmwgPSBjb25maWcuZ2V0KCdjbGllbnQuaG9zdCcpOwogICAgaWYgKGNvbmZpZy5nZXQoJ2NsaWVudC5wb3J0JykgIT09IDgwKSB7CiAgICAgIHVybCArPSAnOicgKyBjb25maWcuZ2V0KCdjbGllbnQucG9ydCcpOwogICAgfQoKICAgIHJldHVybiBgaHR0cDovLyR7dXJsfWA7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>reg</last-search>
+      <last-search encoding="base64">Pg==</last-search>
       <last-offset />
-      <last-pattern>reg</last-pattern>
+      <last-pattern encoding="base64">Pg==</last-pattern>
       <last-replace>invite</last-replace>
       <last-substitute>pass</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>}</entry>
-        <entry>{}</entry>
-        <entry>sendEmail</entry>
-        <entry>E</entry>
-        <entry>email</entry>
-        <entry>In</entry>
-        <entry>T</entry>
-        <entry>\.</entry>
-        <entry>`</entry>
         <entry encoding="base64">IA==</entry>
         <entry encoding="base64">XDxNYWlsZXJTZXJ2aWNlXD4=</entry>
         <entry encoding="base64">XDxfc2VuZFJlZ2lzdHJhdGlvbkVtYWlsXD4=</entry>
@@ -1866,6 +1869,15 @@ Registration</text>
         <entry>'</entry>
         <entry>reset</entry>
         <entry>reg</entry>
+        <entry>L</entry>
+        <entry>res</entry>
+        <entry>`</entry>
+        <entry>(</entry>
+        <entry>verify</entry>
+        <entry>Link</entry>
+        <entry>{{</entry>
+        <entry>}}</entry>
+        <entry encoding="base64">Pg==</entry>
       </history-search>
       <history-cmd>
         <entry>wwwww</entry>
