@@ -58,9 +58,6 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="16" column="12" />
       </file>
-      <file name="$USER_HOME$/invite-api/src/modules/conference-invite/handlers/conference-invite-crud.handler.js" timestamp="1488766405057">
-        <mark key="[" line="26" column="8" />
-      </file>
       <file name="$USER_HOME$/boringcode/server/core/modules/user/routes.js" timestamp="1488778364432">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -144,6 +141,13 @@
         <mark key="." line="1" column="14" />
         <mark key="^" line="1" column="14" />
       </file>
+      <file name="$USER_HOME$/invite-api/src/modules/partner/handlers/partner-user.handler.js" timestamp="1488817174693">
+        <mark key="'" line="24" column="20" />
+        <mark key="[" line="17" column="24" />
+        <mark key="]" line="17" column="24" />
+        <mark key="." line="17" column="24" />
+        <mark key="^" line="17" column="24" />
+      </file>
       <file name="Z:/partner-platform-api/.gitignore" timestamp="1487962972298">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="50" column="0" />
@@ -170,8 +174,8 @@
         <mark key="." line="48" column="28" />
         <mark key="^" line="48" column="28" />
       </file>
-      <file name="$USER_HOME$/invite-api/src/modules/core/base-handler.js" timestamp="1488765566943">
-        <mark key="'" line="40" column="0" />
+      <file name="$USER_HOME$/invite-api/src/modules/core/base-handler.js" timestamp="1488816725582">
+        <mark key="'" line="79" column="29" />
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
@@ -450,6 +454,13 @@
         <mark key="]" line="30" column="11" />
         <mark key="^" line="39" column="1" />
         <mark key="." line="30" column="11" />
+      </file>
+      <file name="$USER_HOME$/invite-api/src/modules/partner/routes.js" timestamp="1488816936318">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="1" column="51" />
+        <mark key="]" line="1" column="54" />
+        <mark key="^" line="1" column="54" />
+        <mark key="." line="1" column="54" />
       </file>
       <file name="Z:/partner-platform/partner-platform-api/src/modules/conference-invite/templates/invite-resend-html.hbs" timestamp="1487888355278">
         <mark key="[" line="1" column="67" />
@@ -871,9 +882,6 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="/a.regexp" timestamp="1488781147706">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="Z:/boringcode/src/models/user/findAll.sql" timestamp="1487915027489">
         <mark key="[" line="1" column="0" />
@@ -1718,9 +1726,6 @@
         <mark key="." line="18" column="29" />
         <mark key="^" line="18" column="29" />
       </file>
-      <file name="/JavaScript Console" timestamp="1488516145236">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="W:/boringcode/tooling/cli/commands/build/index.js" timestamp="1488509304741">
         <mark key="[" line="1" column="19" />
         <mark key="]" line="2" column="20" />
@@ -1872,27 +1877,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="25" filename="$USER_HOME$/boringcode/server/core/dal/pg-crud-dal.js" />
-      <jump line="35" column="10" filename="$USER_HOME$/boringcode/server/core/dal/pg-dal.js" />
-      <jump line="11" column="6" filename="$USER_HOME$/boringcode/server/src/models/user-model.js" />
-      <jump line="15" column="23" filename="$USER_HOME$/boringcode/server/src/models/user-model.js" />
-      <jump line="13" column="18" filename="$USER_HOME$/boringcode/server/core/modules/user/handlers/user-crud-handler.js" />
-      <jump line="5" column="28" filename="$USER_HOME$/boringcode/server/core/modules/user/handlers/user-crud-handler.js" />
-      <jump line="99" column="1" filename="$USER_HOME$/boringcode/server/core/handlers/base-crud-handler.js" />
-      <jump line="11" column="17" filename="$USER_HOME$/boringcode/server/core/dal/errors.js" />
-      <jump line="103" column="53" filename="$USER_HOME$/boringcode/server/core/handlers/base-crud-handler.js" />
-      <jump line="110" column="6" filename="$USER_HOME$/boringcode/server/core/handlers/base-crud-handler.js" />
-      <jump line="153" column="59" filename="$USER_HOME$/boringcode/server/core/handlers/base-crud-handler.js" />
-      <jump line="20" column="15" filename="$USER_HOME$/boringcode/server/core/model/errors.js" />
-      <jump line="19" column="22" filename="$USER_HOME$/boringcode/server/core/handlers/errors.js" />
-      <jump line="9" column="19" filename="$USER_HOME$/boringcode/server/core/handlers/base-crud-handler.js" />
-      <jump line="76" column="8" filename="$USER_HOME$/boringcode/server/core/handlers/base-crud-handler.js" />
-      <jump line="14" column="27" filename="$USER_HOME$/boringcode/server/core/handlers/base-crud-handler.js" />
-      <jump line="41" column="58" filename="$USER_HOME$/boringcode/server/core/handlers/base-crud-handler.js" />
-      <jump line="97" column="54" filename="$USER_HOME$/boringcode/server/core/handlers/base-crud-handler.js" />
-      <jump line="4" column="21" filename="$USER_HOME$/boringcode/server/core/handlers/base-crud-handler.js" />
-      <jump line="148" column="32" filename="$USER_HOME$/boringcode/server/core/handlers/base-crud-handler.js" />
-      <jump line="2" column="15" filename="$USER_HOME$/boringcode/server/core/handler-methods/crud/check-for-no-results.js" />
       <jump line="0" column="0" filename="$USER_HOME$/boringcode/server/core/handler-methods/crud/check-for-no-results.js" />
       <jump line="117" column="20" filename="$USER_HOME$/boringcode/server/core/handlers/base-crud-handler.js" />
       <jump line="118" column="0" filename="$USER_HOME$/boringcode/server/core/handlers/base-crud-handler.js" />
@@ -1972,6 +1956,27 @@
       <jump line="94" column="25" filename="$USER_HOME$/invite-api/src/modules/user/handlers/user-crud.handler.js" />
       <jump line="91" column="6" filename="$USER_HOME$/invite-api/src/modules/user/handlers/user-crud.handler.js" />
       <jump line="127" column="2" filename="$USER_HOME$/invite-api/src/modules/user/handlers/user-crud.handler.js" />
+      <jump line="34" column="2" filename="$USER_HOME$/invite-api/src/modules/partner/handlers/partner-user.handler.js" />
+      <jump line="19" column="41" filename="$USER_HOME$/invite-api/src/modules/partner/handlers/partner-user.handler.js" />
+      <jump line="30" column="39" filename="$USER_HOME$/invite-api/src/modules/partner/handlers/partner-user.handler.js" />
+      <jump line="6" column="40" filename="$USER_HOME$/invite-api/src/modules/partner/handlers/partner-user.handler.js" />
+      <jump line="16" column="27" filename="$USER_HOME$/invite-api/src/modules/core/base-handler.js" />
+      <jump line="46" column="29" filename="$USER_HOME$/invite-api/src/modules/core/base-handler.js" />
+      <jump line="79" column="29" filename="$USER_HOME$/invite-api/src/modules/core/base-handler.js" />
+      <jump line="65" column="34" filename="$USER_HOME$/invite-api/src/modules/partner/handlers/partner-user.handler.js" />
+      <jump line="7" column="21" filename="$USER_HOME$/invite-api/src/modules/partner/handlers/partner-user.handler.js" />
+      <jump line="32" column="64" filename="$USER_HOME$/invite-api/src/modules/partner/routes.js" />
+      <jump line="33" column="30" filename="$USER_HOME$/invite-api/src/modules/partner/routes.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/invite-api/src/modules/partner/routes.js" />
+      <jump line="60" column="29" filename="$USER_HOME$/invite-api/src/modules/partner/handlers/partner-user.handler.js" />
+      <jump line="67" column="36" filename="$USER_HOME$/invite-api/src/modules/partner/handlers/partner-user.handler.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/invite-api/src/modules/partner/handlers/partner-user.handler.js" />
+      <jump line="4" column="39" filename="$USER_HOME$/invite-api/src/modules/partner/handlers/partner-user.handler.js" />
+      <jump line="31" column="25" filename="$USER_HOME$/invite-api/src/modules/partner/handlers/partner-user.handler.js" />
+      <jump line="3" column="22" filename="$USER_HOME$/invite-api/src/modules/partner/handlers/partner-user.handler.js" />
+      <jump line="11" column="4" filename="$USER_HOME$/invite-api/src/modules/partner/handlers/partner-user.handler.js" />
+      <jump line="17" column="19" filename="$USER_HOME$/invite-api/src/modules/partner/handlers/partner-user.handler.js" />
+      <jump line="24" column="20" filename="$USER_HOME$/invite-api/src/modules/partner/handlers/partner-user.handler.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2043,53 +2048,53 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLnRoZW4oY29uc29sZS5sb2cpCg==</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>conferences</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>I</text>
+        <text>model</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBtb2RlbDogbW9kZWxzLkNvbmZlcmVuY2UsCiAgICAgICAgICAgICAgICBhczogJ2NvbmZlcmVuY2VzJwogICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">aW1wb3J0IFBhcnRuZXJDcnVkSGFuZGxlciBmcm9tICcuL2hhbmRsZXJzL3BhcnRuZXItY3J1ZC5oYW5kbGVyJzsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLnRoZW4oY29uc29sZS5sb2cpCg==</text>
+      <register name="1" type="4">
+        <text>Crud</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+      <register name="2" type="4">
+        <text>Crud</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICd0aXRsZScsCiAgICAgICAgICAnbG9nbycK</text>
+      <register name="3" type="4">
+        <text>Crud</text>
       </register>
-      <register name="4" type="4">
-        <text>Conference</text>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IFBhcnRuZXJKc29uQXBpIGZyb20gJy4uL2pzb25hcGkvcGFydG5lci5qc29uYXBpJzsK</text>
       </register>
-      <register name="5" type="4">
-        <text>Partner</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>Pass</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICBjb25zdHJ1Y3RvcigpIHsKICAgIHN1cGVyKCk7CgogICAgdGhpcy5NT0RFTCA9IG1vZGVscy5QYXJ0bmVyOwogICAgdGhpcy5TRVJJQUxJWkVSID0gUGFydG5lckpzb25BcGk7CiAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAgICAgPHAgY2xhc3M9Im1haWwtZm9vdGVyIj4KICAgICAgICAgIEh1YiBwb3dlcmVkIGJ5IDxhIGhyZWY9Imh0dHA6Ly93d3cuZS0xODAuY29tL2xhYnMvIj5FLTE4MCwgaW5jLjwvYT4gPGJyLz4KICAgICAgICAgIDxhIGhyZWY9Imh0dHBzOi8vd3d3Lmh1Yi5jMi5iaXovbWUvcHJlZmVyZW5jZXMvIiBjbGFzcz0idGV4dC1kZWNvIj5DaGFuZ2UgeW91ciBlbWFpbCBwcmVmZXJlbmNlczwvYT4KICAgICAgICA8L3A+Cg==</text>
+        <text encoding="base64">aW1wb3J0IEFzc2lnbm1lbnRTZXJ2aWNlIGZyb20gJy4uL3NlcnZpY2VzL2Fzc2lnbm1lbnQuc2VydmljZSc7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8YSBocmVmPSJodHRwczovL3d3dy5odWIuYzIuYml6L3NpZ251cC8/aWQ9Nzg2OSZhbXA7Y2hlY2tzdW09MzUyYTMwM2IwNmFlM2Y1Y2IxNTc3ZTY0MTQ1ZWE2N2RlZGUzOWU3ZCZhbXA7YWN0aW9uPWRlY2xpbmUiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvYT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgLy8gQ3JlYXRlIFVzZXIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>I</last-search>
+      <last-search>model</last-search>
       <last-offset />
-      <last-pattern>I</last-pattern>
+      <last-pattern>model</last-pattern>
       <last-replace>conference</last-replace>
       <last-substitute>partner</last-substitute>
       <last-dir>1</last-dir>
@@ -2097,15 +2102,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">IA==</entry>
-        <entry>H</entry>
-        <entry>DAL</entry>
-        <entry>consle</entry>
-        <entry>conslle</entry>
-        <entry>conso</entry>
-        <entry>\.</entry>
-        <entry>\,</entry>
-        <entry encoding="base64">PA==</entry>
         <entry encoding="base64">XDxfZ2V0QWNjZXB0TGlua1w+</entry>
         <entry>quota</entry>
         <entry>B</entry>
@@ -2115,8 +2111,17 @@
         <entry>P</entry>
         <entry>partner</entry>
         <entry>show</entry>
-        <entry>C</entry>
         <entry>I</entry>
+        <entry>\.</entry>
+        <entry>sync</entry>
+        <entry encoding="base64">XDxfc3luY0RiXD4=</entry>
+        <entry>Ass</entry>
+        <entry>Cr</entry>
+        <entry>C</entry>
+        <entry>H</entry>
+        <entry>users</entry>
+        <entry>mode\.</entry>
+        <entry>model</entry>
       </history-search>
       <history-cmd>
         <entry>we</entry>
