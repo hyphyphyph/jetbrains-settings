@@ -835,9 +835,9 @@
         <mark key="^" line="2" column="13" />
         <mark key="." line="2" column="13" />
       </file>
-      <file name="/Dummy.txt" timestamp="1488820033624">
+      <file name="/Dummy.txt" timestamp="1488823930103">
         <mark key="[" line="0" column="0" />
-        <mark key="." line="0" column="7" />
+        <mark key="." line="0" column="19" />
       </file>
       <file name="$USER_HOME$/boringcode/server/core/handlers/errors.js" timestamp="1488776881416">
         <mark key="'" line="23" column="4" />
@@ -1551,12 +1551,12 @@
         <mark key="." line="319" column="0" />
         <mark key="^" line="313" column="1" />
       </file>
-      <file name="$USER_HOME$/invite-api/src/modules/partner/handlers/partner-crud.handler.js" timestamp="1488573836773">
+      <file name="$USER_HOME$/invite-api/src/modules/partner/handlers/partner-crud.handler.js" timestamp="1488823898719">
         <mark key="'" line="71" column="2" />
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="75" column="2" />
-        <mark key="^" line="60" column="25" />
-        <mark key="." line="60" column="25" />
+        <mark key="[" line="95" column="62" />
+        <mark key="]" line="95" column="62" />
+        <mark key="." line="95" column="62" />
+        <mark key="^" line="95" column="62" />
       </file>
       <file name="$USER_HOME$/boringcode/server/core/helpers/make-route.js" timestamp="1488778050623">
         <mark key="'" line="1" column="4" />
@@ -2058,16 +2058,16 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>object</text>
+        <text>users</text>
       </register>
       <register name="-" type="4">
-        <text>object</text>
+        <text>users</text>
       </register>
       <register name="/" type="4">
         <text>cons</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IFJlZ2lzdHJhdGlvbkh0bWxUZW1wbGF0ZSBmcm9tICcuLi90ZW1wbGF0ZXMvcmVnaXN0cmF0aW9uLWh0bWwuaGJzJzsKaW1wb3J0IFJlZ2lzdHJhdGlvblRleHRUZW1wbGF0ZSBmcm9tICcuLi90ZW1wbGF0ZXMvcmVnaXN0cmF0aW9uLXRleHQuaGJzJzsK</text>
+        <text encoding="base64">ICAgICAgdXNlcnM6IHRoaXMuX1ZBTElEQVRFX01BS0VfUkVMQVRJT05TSElQU19PQkpFQ1QoJ3VzZXJzJykK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHVzZXIpOwogICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIHVzZXI7CiAgICAgICAgICAgICAgICAgICAgfSk7Cg==</text>
