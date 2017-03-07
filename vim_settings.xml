@@ -162,12 +162,11 @@
         <mark key="." line="1" column="14" />
         <mark key="^" line="1" column="14" />
       </file>
-      <file name="$USER_HOME$/invite-api/src/modules/partner/handlers/partner-user.handler.js" timestamp="1488920421634">
-        <mark key="'" line="83" column="4" />
-        <mark key="[" line="92" column="22" />
-        <mark key="]" line="92" column="27" />
-        <mark key="." line="92" column="47" />
-        <mark key="^" line="92" column="27" />
+      <file name="$USER_HOME$/invite-api/src/modules/partner/handlers/partner-user.handler.js" timestamp="1488921124561">
+        <mark key="[" line="94" column="12" />
+        <mark key="]" line="94" column="13" />
+        <mark key="^" line="94" column="13" />
+        <mark key="." line="94" column="13" />
       </file>
       <file name="Z:/partner-platform-api/.gitignore" timestamp="1487962972298">
         <mark key="'" line="0" column="0" />
@@ -1911,8 +1910,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/boringcode/server/core/migration/base-migration.js" />
-      <jump line="2" column="0" filename="$USER_HOME$/boringcode/server/core/testing/base-test.js" />
       <jump line="6" column="46" filename="$USER_HOME$/boringcode/server/src/dals/user-dal.js" />
       <jump line="16" column="0" filename="$USER_HOME$/boringcode/server/src/dals/user-dal.js" />
       <jump line="5" column="92" filename="$USER_HOME$/boringcode/server/core/class-helpers/inject-local-files.js" />
@@ -2011,6 +2008,8 @@
       <jump line="9" column="0" filename="$USER_HOME$/invite-api/src/modules/partner/handlers/partner-user.handler.js" />
       <jump line="82" column="11" filename="$USER_HOME$/invite-api/src/modules/partner/handlers/partner-user.handler.js" />
       <jump line="83" column="4" filename="$USER_HOME$/invite-api/src/modules/partner/handlers/partner-user.handler.js" />
+      <jump line="94" column="11" filename="$USER_HOME$/invite-api/src/modules/partner/handlers/partner-user.handler.js" />
+      <jump line="106" column="14" filename="$USER_HOME$/invite-api/src/modules/partner/handlers/partner-user.handler.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2083,52 +2082,52 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>data.email</text>
+        <text>data</text>
       </register>
       <register name="-" type="4">
-        <text>data.email</text>
+        <text>data</text>
       </register>
       <register name="/" type="4">
-        <text>partnerId</text>
+        <text>{</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbnN0IHBhcnRuZXJJZCA9IHJlcXVlc3QucGFyYW1zLnBhcnRuZXJJZDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJlbGF0aW9uc2hpcHM6IEpvaS5vYmplY3QoKQo=</text>
+        <text encoding="base64">ICAgICAgfSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGF0dHJpYnV0ZXM6IEpvaS5vYmplY3QoewogICAgICAgICAgICAnZmlyc3QtbmFtZSc6IEpvaS5zdHJpbmcoKSwKICAgICAgICAgICAgJ2xhc3QtbmFtZSc6IEpvaS5zdHJpbmcoKSwKICAgICAgICAgICAgZW1haWw6IEpvaS5zdHJpbmcoKS5lbWFpbCgpLnJlcXVpcmVkKCkKICAgICAgICAgIH0pLnJlcXVpcmVkKCksCg==</text>
+        <text encoding="base64">ICAgICAgICAgIC50aGVuKCgpID0+IHVzZXIpOwo=</text>
       </register>
-      <register name="3" type="4">
-        <text>CreateOrAddUser</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgfSkK</text>
       </register>
-      <register name="4" type="4">
-        <text>createOrAdd</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgIC50aGVuKGRhdGEgPT4gewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhlcnIpOwoK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IFVzZXJKc29uQXBpKCkKICAgICAgICAgIC5kZXNlcmlhbGl6ZShyZXF1ZXN0LnBheWxvYWQpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLmNhdGNoKGNvbnNvbGUubG9nKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
-      <register name="7" type="4">
-        <text>feedback</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICB0eXBlOiAndXNlcnMnCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKDEyMzEyMzEyMyk7CiAgICAgICAgICBjb25zb2xlLmxvZyh0aGlzLm9wdGlvbnMpOwo=</text>
+        <text encoding="base64">ICAgICAgLnRoZW4odXNlciA9PiBtb2RlbHMuVXNlci5maW5kQnlJZCh1c2VyLmlkKSkKICAgICAgLnRoZW4odXNlciA9PiBuZXcgVXNlckpzb25BcGkoKS5zZXJpYWxpemUodXNlcikpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIFRoaXMgZ2V0cyBzYXZlZCBpbiB0aGUgd29ya2Zsb3cgc2VydmljZS4KICAgICAgICAgIGludml0ZS5mZWVkYmFja01lc3NhZ2UgPSB0aGlzLmRlc2VyaWFsaXplZERhdGEuZmVlZGJhY2tNZXNzYWdlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIH0pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>partnerId</last-search>
+      <last-search>{</last-search>
       <last-offset />
-      <last-pattern>partnerId</last-pattern>
+      <last-pattern>{</last-pattern>
       <last-replace>userId</last-replace>
       <last-substitute>partnerId</last-substitute>
       <last-dir>1</last-dir>
@@ -2153,9 +2152,9 @@
         <entry>c</entry>
         <entry>Cre</entry>
         <entry>V</entry>
-        <entry>{</entry>
         <entry>get</entry>
         <entry>partnerId</entry>
+        <entry>{</entry>
       </history-search>
       <history-cmd>
         <entry>s</entry>
