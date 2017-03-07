@@ -683,11 +683,12 @@
         <mark key="." line="2" column="25" />
         <mark key="^" line="2" column="25" />
       </file>
-      <file name="$USER_HOME$/invite-api/src/modules/conference-invite/services/workflow.service.js" timestamp="1488917534039">
-        <mark key="[" line="102" column="44" />
-        <mark key="]" line="102" column="42" />
-        <mark key="^" line="102" column="42" />
-        <mark key="." line="102" column="42" />
+      <file name="$USER_HOME$/invite-api/src/modules/conference-invite/services/workflow.service.js" timestamp="1488925253919">
+        <mark key="'" line="134" column="25" />
+        <mark key="[" line="210" column="9" />
+        <mark key="]" line="211" column="38" />
+        <mark key="." line="211" column="38" />
+        <mark key="^" line="211" column="38" />
       </file>
       <file name="$USER_HOME$/boringcode/server/core/dal/pg-dal.js" timestamp="1488776159524">
         <mark key="'" line="5" column="0" />
@@ -851,7 +852,7 @@
         <mark key="^" line="2" column="13" />
         <mark key="." line="2" column="13" />
       </file>
-      <file name="/Dummy.txt" timestamp="1488925053869">
+      <file name="/Dummy.txt" timestamp="1488925340317">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="27" />
       </file>
@@ -1347,8 +1348,8 @@
         <mark key="." line="0" column="13" />
         <mark key="^" line="0" column="13" />
       </file>
-      <file name="$USER_HOME$/invite-api/src/modules/conference-invite/handlers/workflow.handler.js" timestamp="1488916597740">
-        <mark key="'" line="16" column="26" />
+      <file name="$USER_HOME$/invite-api/src/modules/conference-invite/handlers/workflow.handler.js" timestamp="1488925198271">
+        <mark key="'" line="89" column="45" />
         <mark key="[" line="97" column="0" />
         <mark key="]" line="97" column="0" />
         <mark key="." line="97" column="0" />
@@ -1911,16 +1912,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="4" filename="$USER_HOME$/boringcode/server/core/handlers/errors.js" />
-      <jump line="23" column="4" filename="$USER_HOME$/boringcode/server/core/handlers/errors.js" />
-      <jump line="14" column="0" filename="$USER_HOME$/boringcode/server/core/model/errors.js" />
-      <jump line="3" column="0" filename="$USER_HOME$/boringcode/server/core/server-init/logging.js" />
-      <jump line="9" column="0" filename="$USER_HOME$/boringcode/server/core/modules/user/handlers/user-crud-handler.js" />
-      <jump line="1" column="4" filename="$USER_HOME$/boringcode/server/core/helpers/make-route.js" />
-      <jump line="8" column="55" filename="$USER_HOME$/boringcode/server/core/modules/user/handlers/user-crud-handler.js" />
-      <jump line="19" column="32" filename="$USER_HOME$/boringcode/server/core/modules/user/handlers/user-crud-handler.js" />
-      <jump line="11" column="0" filename="$USER_HOME$/boringcode/server/core/modules/user/handlers/user-crud-handler.js" />
-      <jump line="101" column="31" filename="$USER_HOME$/boringcode/server/core/handlers/base-crud-handler.js" />
       <jump line="19" column="15" filename="$USER_HOME$/boringcode/server/core/handlers/base-crud-handler.js" />
       <jump line="15" column="11" filename="$USER_HOME$/boringcode/server/core/handlers/base-crud-handler.js" />
       <jump line="102" column="0" filename="$USER_HOME$/boringcode/server/core/handlers/base-crud-handler.js" />
@@ -1983,9 +1974,7 @@
       <jump line="20" column="5" filename="$USER_HOME$/invite-api/db/migrations/20170307192322-add-message-fields-to-invite.js" />
       <jump line="0" column="0" filename="$USER_HOME$/invite-api/db/migrations/20170307192322-add-message-fields-to-invite.js" />
       <jump line="7" column="61" filename="$USER_HOME$/invite-api/db/migrations/20170307192322-add-message-fields-to-invite.js" />
-      <jump line="134" column="22" filename="$USER_HOME$/invite-api/src/modules/conference-invite/services/workflow.service.js" />
       <jump line="215" column="2" filename="$USER_HOME$/invite-api/src/modules/conference-invite/services/workflow.service.js" />
-      <jump line="102" column="41" filename="$USER_HOME$/invite-api/src/modules/conference-invite/services/workflow.service.js" />
       <jump line="101" column="33" filename="$USER_HOME$/invite-api/src/modules/conference-invite/services/workflow.service.js" />
       <jump line="140" column="40" filename="$USER_HOME$/invite-api/src/modules/conference-invite/services/workflow.service.js" />
       <jump line="225" column="6" filename="$USER_HOME$/invite-api/src/modules/conference-invite/services/workflow.service.js" />
@@ -2011,6 +2000,18 @@
       <jump line="176" column="33" filename="$USER_HOME$/invite-api/src/modules/conference-invite/handlers/conference-invite-crud.handler.js" />
       <jump line="178" column="7" filename="$USER_HOME$/invite-api/src/modules/conference-invite/handlers/conference-invite-crud.handler.js" />
       <jump line="43" column="53" filename="$USER_HOME$/invite-api/src/modules/conference-invite/handlers/conference-invite-crud.handler.js" />
+      <jump line="171" column="2" filename="$USER_HOME$/invite-api/src/modules/conference-invite/handlers/workflow.handler.js" />
+      <jump line="90" column="44" filename="$USER_HOME$/invite-api/src/modules/conference-invite/handlers/workflow.handler.js" />
+      <jump line="89" column="45" filename="$USER_HOME$/invite-api/src/modules/conference-invite/handlers/workflow.handler.js" />
+      <jump line="102" column="42" filename="$USER_HOME$/invite-api/src/modules/conference-invite/services/workflow.service.js" />
+      <jump line="169" column="23" filename="$USER_HOME$/invite-api/src/modules/conference-invite/services/workflow.service.js" />
+      <jump line="189" column="11" filename="$USER_HOME$/invite-api/src/modules/conference-invite/services/workflow.service.js" />
+      <jump line="201" column="20" filename="$USER_HOME$/invite-api/src/modules/conference-invite/services/workflow.service.js" />
+      <jump line="211" column="20" filename="$USER_HOME$/invite-api/src/modules/conference-invite/services/workflow.service.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/invite-api/src/modules/conference-invite/services/workflow.service.js" />
+      <jump line="14" column="15" filename="$USER_HOME$/invite-api/src/modules/conference-invite/services/workflow.service.js" />
+      <jump line="95" column="25" filename="$USER_HOME$/invite-api/src/modules/conference-invite/services/workflow.service.js" />
+      <jump line="134" column="25" filename="$USER_HOME$/invite-api/src/modules/conference-invite/services/workflow.service.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2083,57 +2084,52 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgZW1haWw6IEpvaS5zdHJpbmcoKS5lbWFpbCgpLnJlcXVpcmVkKCksCgogICAgICAnZmlyc3QtbmFtZSc6IEpvaS5zdHJpbmcoKSwKICAgICAgJ2xhc3QtbmFtZSc6IEpvaS5zdHJpbmcoKSwKICAgICAgYXZhdGFyOiBKb2kuc3RyaW5nKCkuYWxsb3cobnVsbCksCiAgICAgIGNvbXBhbnk6IEpvaS5zdHJpbmcoKSwKICAgICAgJ2V4cGlyZXMtYXQnOiBKb2kuZGF0ZSgpLmFsbG93KG51bGwpLAoKICAgICAgbG9jYWxlOiBKb2kuc3RyaW5nKCkudmFsaWQoJ2VuJywgJ2ZyJyksCiAgICAgICdkaXNwbGF5LW1lbnRpb24tb24tcGFzcyc6IEpvaS5ib29sZWFuKCkK</text>
+        <text encoding="base64">ICAgICAgICAgIGRhdGEK</text>
       </register>
       <register name="-" type="4">
         <text>email</text>
       </register>
       <register name="/" type="4">
-        <text>email-message</text>
+        <text encoding="base64">XDxfdXBkYXRlU3RhdHVzXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZW1haWw6IEpvaS5zdHJpbmcoKS5lbWFpbCgpLnJlcXVpcmVkKCksCiAgICAgICAgICAgICdmaXJzdC1uYW1lJzogSm9pLnN0cmluZygpLAogICAgICAgICAgICAnbGFzdC1uYW1lJzogSm9pLnN0cmluZygpLAogICAgICAgICAgICBhdmF0YXI6IEpvaS5zdHJpbmcoKS5hbGxvdyhudWxsKSwKICAgICAgICAgICAgY29tcGFueTogSm9pLmFueSgpLAogICAgICAgICAgICBsb2NhbGU6IEpvaS5zdHJpbmcoKS52YWxpZCgnZW4nLCAnZnInKS5hbGxvdyhudWxsKSwKICAgICAgICAgICAgJ2Rpc3BsYXktbWVudGlvbi1vbi1wYXNzJzogSm9pLmJvb2xlYW4oKSwKCiAgICAgICAgICAgICdleHBpcmVzLWF0JzogSm9pLmRhdGUoKS5hbGxvdyhudWxsKSwKICAgICAgICAgICAgJ3NlbmQtZW1haWwnOiBKb2kuYm9vbGVhbigpLAogICAgICAgICAgICAnYXV0by1hY2NlcHQnOiBKb2kuYm9vbGVhbigpLAogICAgICAgICAgICAnZW1haWwtbWVzc2FnZSc6IEpvaS5zdHJpbmcoKSwKICAgICAgICAgICAgJ2ZlZWRiYWNrLW1lc3NhZ2UnOiBKb2kuc3RyaW5nKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZW1haWw6IEpvaS5zdHJpbmcoKS5lbWFpbCgpLnJlcXVpcmVkKCksCgogICAgICAnZmlyc3QtbmFtZSc6IEpvaS5zdHJpbmcoKSwKICAgICAgJ2xhc3QtbmFtZSc6IEpvaS5zdHJpbmcoKSwKICAgICAgYXZhdGFyOiBKb2kuc3RyaW5nKCkuYWxsb3cobnVsbCksCiAgICAgIGNvbXBhbnk6IEpvaS5zdHJpbmcoKSwKICAgICAgJ2V4cGlyZXMtYXQnOiBKb2kuZGF0ZSgpLmFsbG93KG51bGwpLAoKICAgICAgbG9jYWxlOiBKb2kuc3RyaW5nKCkudmFsaWQoJ2VuJywgJ2ZyJyksCiAgICAgICdkaXNwbGF5LW1lbnRpb24tb24tcGFzcyc6IEpvaS5ib29sZWFuKCkK</text>
+        <text encoding="base64">ICAgICAgICAgIGRhdGEK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgZW1haWw6IEpvaS5zdHJpbmcoKS5lbWFpbCgpLnJlcXVpcmVkKCksCgogICAgICAnZmlyc3QtbmFtZSc6IEpvaS5zdHJpbmcoKSwKICAgICAgJ2xhc3QtbmFtZSc6IEpvaS5zdHJpbmcoKSwKICAgICAgYXZhdGFyOiBKb2kuc3RyaW5nKCkuYWxsb3cobnVsbCksCiAgICAgIGNvbXBhbnk6IEpvaS5zdHJpbmcoKSwKICAgICAgJ2V4cGlyZXMtYXQnOiBKb2kuZGF0ZSgpLmFsbG93KG51bGwpLAoKICAgICAgbG9jYWxlOiBKb2kuc3RyaW5nKCkudmFsaWQoJ2VuJywgJ2ZyJyksCiAgICAgICdkaXNwbGF5LW1lbnRpb24tb24tcGFzcyc6IEpvaS5ib29sZWFuKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh1c2Vycyk7Cg==</text>
+        <text encoding="base64">ICAgICAgZW1haWw6IEpvaS5zdHJpbmcoKS5lbWFpbCgpLnJlcXVpcmVkKCksCgogICAgICAnZmlyc3QtbmFtZSc6IEpvaS5zdHJpbmcoKSwKICAgICAgJ2xhc3QtbmFtZSc6IEpvaS5zdHJpbmcoKSwKICAgICAgYXZhdGFyOiBKb2kuc3RyaW5nKCkuYWxsb3cobnVsbCksCiAgICAgIGNvbXBhbnk6IEpvaS5zdHJpbmcoKSwKICAgICAgJ2V4cGlyZXMtYXQnOiBKb2kuZGF0ZSgpLmFsbG93KG51bGwpLAoKICAgICAgbG9jYWxlOiBKb2kuc3RyaW5nKCkudmFsaWQoJ2VuJywgJ2ZyJyksCiAgICAgICdkaXNwbGF5LW1lbnRpb24tb24tcGFzcyc6IEpvaS5ib29sZWFuKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh1c2Vycyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB1c2VycyA9IHBhcnRuZXIudXNlcnMuZmlsdGVyKGkgPT4gY29uc29sZS5sb2coaS5pZCA9PT0gdXNlcklkKTsK</text>
+        <text encoding="base64">ICAgICAgICB9KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLmNhdGNoKGNvbnNvbGUubG9nKQo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCB1c2VycyA9IHBhcnRuZXIudXNlcnMuZmlsdGVyKGkgPT4gY29uc29sZS5sb2coaS5pZCA9PT0gdXNlcklkKTsK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgLmNhdGNoKGNvbnNvbGUubG9nKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhwYXJ0bmVyKTsK</text>
+        <text encoding="base64">ICAgICAgLmNhdGNoKGNvbnNvbGUubG9nKQo=</text>
       </register>
-      <register name="9" type="4">
-        <text>[
-            {
-              model: 'Users',
-              as: 'users'
-            }
-          ]</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhwYXJ0bmVyKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>email-message</last-search>
+      <last-search encoding="base64">XDxfdXBkYXRlU3RhdHVzXD4=</last-search>
       <last-offset />
-      <last-pattern>email-message</last-pattern>
+      <last-pattern encoding="base64">XDxfdXBkYXRlU3RhdHVzXD4=</last-pattern>
       <last-replace>userId</last-replace>
       <last-substitute>partnerId</last-substitute>
       <last-dir>1</last-dir>
@@ -2141,10 +2137,6 @@
     </search>
     <history>
       <history-search>
-        <entry>updateMessage</entry>
-        <entry>mes</entry>
-        <entry encoding="base64">XDxfdXBkYXRlTWVzc2FnZXNcPg==</entry>
-        <entry>M</entry>
         <entry>sen</entry>
         <entry>sendBy</entry>
         <entry>sent-by</entry>
@@ -2161,6 +2153,10 @@
         <entry>ca</entry>
         <entry>message</entry>
         <entry>email-message</entry>
+        <entry encoding="base64">XDxBQ0NFUFRFRFw+</entry>
+        <entry>accept</entry>
+        <entry>accept(</entry>
+        <entry encoding="base64">XDxfdXBkYXRlU3RhdHVzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>s</entry>
