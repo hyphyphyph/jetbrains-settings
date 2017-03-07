@@ -64,12 +64,12 @@
         <mark key="." line="0" column="13" />
         <mark key="^" line="0" column="13" />
       </file>
-      <file name="$USER_HOME$/invite-api/src/modules/conference-invite/handlers/conference-invite-crud.handler.js" timestamp="1488918664424">
-        <mark key="'" line="26" column="7" />
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="69" column="0" />
-        <mark key="." line="69" column="0" />
-        <mark key="^" line="53" column="78" />
+      <file name="$USER_HOME$/invite-api/src/modules/conference-invite/handlers/conference-invite-crud.handler.js" timestamp="1488923749406">
+        <mark key="'" line="43" column="53" />
+        <mark key="[" line="179" column="38" />
+        <mark key="]" line="179" column="48" />
+        <mark key="^" line="179" column="48" />
+        <mark key="." line="179" column="48" />
       </file>
       <file name="$USER_HOME$/boringcode/server/core/model/base-model.js" timestamp="1488781683771">
         <mark key="'" line="52" column="37" />
@@ -851,9 +851,9 @@
         <mark key="^" line="2" column="13" />
         <mark key="." line="2" column="13" />
       </file>
-      <file name="/Dummy.txt" timestamp="1488923309512">
+      <file name="/Dummy.txt" timestamp="1488923814748">
         <mark key="[" line="0" column="0" />
-        <mark key="." line="0" column="30" />
+        <mark key="." line="0" column="27" />
       </file>
       <file name="$USER_HOME$/boringcode/server/core/handlers/errors.js" timestamp="1488776881416">
         <mark key="'" line="23" column="4" />
@@ -1911,10 +1911,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="23" filename="$USER_HOME$/boringcode/server/src/models/user-model.js" />
-      <jump line="6" column="76" filename="$USER_HOME$/boringcode/server/core/handlers/base-crud-handler.js" />
-      <jump line="25" column="3" filename="$USER_HOME$/boringcode/server/core/handlers/errors.js" />
-      <jump line="15" column="0" filename="$USER_HOME$/boringcode/server/core/handlers/errors.js" />
       <jump line="16" column="44" filename="$USER_HOME$/boringcode/server/core/handlers/errors.js" />
       <jump line="21" column="4" filename="$USER_HOME$/boringcode/server/core/handlers/errors.js" />
       <jump line="22" column="4" filename="$USER_HOME$/boringcode/server/core/handlers/errors.js" />
@@ -2011,6 +2007,10 @@
       <jump line="98" column="1" filename="$USER_HOME$/invite-api/src/modules/partner/handlers/partner-crud.handler.js" />
       <jump line="59" column="37" filename="$USER_HOME$/invite-api/src/modules/partner/handlers/partner-crud.handler.js" />
       <jump line="98" column="0" filename="$USER_HOME$/invite-api/src/modules/partner/handlers/partner-user.handler.js" />
+      <jump line="66" column="36" filename="$USER_HOME$/invite-api/src/modules/conference-invite/handlers/conference-invite-crud.handler.js" />
+      <jump line="173" column="0" filename="$USER_HOME$/invite-api/src/modules/conference-invite/handlers/conference-invite-crud.handler.js" />
+      <jump line="106" column="13" filename="$USER_HOME$/invite-api/src/modules/conference-invite/handlers/conference-invite-crud.handler.js" />
+      <jump line="43" column="53" filename="$USER_HOME$/invite-api/src/modules/conference-invite/handlers/conference-invite-crud.handler.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2083,36 +2083,42 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh1c2Vycyk7Cg==</text>
+        <text encoding="base64">ICAgICAgZW1haWw6IEpvaS5zdHJpbmcoKS5lbWFpbCgpLnJlcXVpcmVkKCksCgogICAgICAnZmlyc3QtbmFtZSc6IEpvaS5zdHJpbmcoKSwKICAgICAgJ2xhc3QtbmFtZSc6IEpvaS5zdHJpbmcoKSwKICAgICAgYXZhdGFyOiBKb2kuc3RyaW5nKCkuYWxsb3cobnVsbCksCiAgICAgIGNvbXBhbnk6IEpvaS5zdHJpbmcoKSwKICAgICAgJ2V4cGlyZXMtYXQnOiBKb2kuZGF0ZSgpLmFsbG93KG51bGwpLAoKICAgICAgbG9jYWxlOiBKb2kuc3RyaW5nKCkudmFsaWQoJ2VuJywgJ2ZyJyksCiAgICAgICdkaXNwbGF5LW1lbnRpb24tb24tcGFzcyc6IEpvaS5ib29sZWFuKCkK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>email</text>
       </register>
       <register name="/" type="4">
-        <text>ca</text>
+        <text>email-message</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHBhcnRuZXJJZCA9IHJlcXVlc3QucGFyYW1zLnBhcnRuZXJJZDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZW1haWw6IEpvaS5zdHJpbmcoKS5lbWFpbCgpLnJlcXVpcmVkKCksCiAgICAgICAgICAgICdmaXJzdC1uYW1lJzogSm9pLnN0cmluZygpLAogICAgICAgICAgICAnbGFzdC1uYW1lJzogSm9pLnN0cmluZygpLAogICAgICAgICAgICBhdmF0YXI6IEpvaS5zdHJpbmcoKS5hbGxvdyhudWxsKSwKICAgICAgICAgICAgY29tcGFueTogSm9pLmFueSgpLAogICAgICAgICAgICBsb2NhbGU6IEpvaS5zdHJpbmcoKS52YWxpZCgnZW4nLCAnZnInKS5hbGxvdyhudWxsKSwKICAgICAgICAgICAgJ2Rpc3BsYXktbWVudGlvbi1vbi1wYXNzJzogSm9pLmJvb2xlYW4oKSwKCiAgICAgICAgICAgICdleHBpcmVzLWF0JzogSm9pLmRhdGUoKS5hbGxvdyhudWxsKSwKICAgICAgICAgICAgJ3NlbmQtZW1haWwnOiBKb2kuYm9vbGVhbigpLAogICAgICAgICAgICAnYXV0by1hY2NlcHQnOiBKb2kuYm9vbGVhbigpLAogICAgICAgICAgICAnZW1haWwtbWVzc2FnZSc6IEpvaS5zdHJpbmcoKSwKICAgICAgICAgICAgJ2ZlZWRiYWNrLW1lc3NhZ2UnOiBKb2kuc3RyaW5nKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh1c2Vycyk7Cg==</text>
+        <text encoding="base64">ICAgICAgZW1haWw6IEpvaS5zdHJpbmcoKS5lbWFpbCgpLnJlcXVpcmVkKCksCgogICAgICAnZmlyc3QtbmFtZSc6IEpvaS5zdHJpbmcoKSwKICAgICAgJ2xhc3QtbmFtZSc6IEpvaS5zdHJpbmcoKSwKICAgICAgYXZhdGFyOiBKb2kuc3RyaW5nKCkuYWxsb3cobnVsbCksCiAgICAgIGNvbXBhbnk6IEpvaS5zdHJpbmcoKSwKICAgICAgJ2V4cGlyZXMtYXQnOiBKb2kuZGF0ZSgpLmFsbG93KG51bGwpLAoKICAgICAgbG9jYWxlOiBKb2kuc3RyaW5nKCkudmFsaWQoJ2VuJywgJ2ZyJyksCiAgICAgICdkaXNwbGF5LW1lbnRpb24tb24tcGFzcyc6IEpvaS5ib29sZWFuKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgZW1haWw6IEpvaS5zdHJpbmcoKS5lbWFpbCgpLnJlcXVpcmVkKCksCgogICAgICAnZmlyc3QtbmFtZSc6IEpvaS5zdHJpbmcoKSwKICAgICAgJ2xhc3QtbmFtZSc6IEpvaS5zdHJpbmcoKSwKICAgICAgYXZhdGFyOiBKb2kuc3RyaW5nKCkuYWxsb3cobnVsbCksCiAgICAgIGNvbXBhbnk6IEpvaS5zdHJpbmcoKSwKICAgICAgJ2V4cGlyZXMtYXQnOiBKb2kuZGF0ZSgpLmFsbG93KG51bGwpLAoKICAgICAgbG9jYWxlOiBKb2kuc3RyaW5nKCkudmFsaWQoJ2VuJywgJ2ZyJyksCiAgICAgICdkaXNwbGF5LW1lbnRpb24tb24tcGFzcyc6IEpvaS5ib29sZWFuKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB1c2VycyA9IHBhcnRuZXIudXNlcnMuZmlsdGVyKGkgPT4gY29uc29sZS5sb2coaS5pZCA9PT0gdXNlcklkKTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh1c2Vycyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLmNhdGNoKGNvbnNvbGUubG9nKQo=</text>
+        <text encoding="base64">ICAgICAgICB9KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLmNhdGNoKGNvbnNvbGUubG9nKQo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCB1c2VycyA9IHBhcnRuZXIudXNlcnMuZmlsdGVyKGkgPT4gY29uc29sZS5sb2coaS5pZCA9PT0gdXNlcklkKTsK</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgICAgLmNhdGNoKGNvbnNvbGUubG9nKQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgLmNhdGNoKGNvbnNvbGUubG9nKQo=</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhwYXJ0bmVyKTsK</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text>[
             {
               model: 'Users',
@@ -2120,20 +2126,14 @@
             }
           ]</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygxMjMxMjMpOwo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>ca</last-search>
+      <last-search>email-message</last-search>
       <last-offset />
-      <last-pattern>ca</last-pattern>
+      <last-pattern>email-message</last-pattern>
       <last-replace>userId</last-replace>
       <last-substitute>partnerId</last-substitute>
       <last-dir>1</last-dir>
@@ -2141,8 +2141,6 @@
     </search>
     <history>
       <history-search>
-        <entry>m</entry>
-        <entry>email</entry>
         <entry>updateMessage</entry>
         <entry>mes</entry>
         <entry encoding="base64">XDxfdXBkYXRlTWVzc2FnZXNcPg==</entry>
@@ -2161,6 +2159,8 @@
         <entry>Promise.resolve</entry>
         <entry>new Promise</entry>
         <entry>ca</entry>
+        <entry>message</entry>
+        <entry>email-message</entry>
       </history-search>
       <history-cmd>
         <entry>s</entry>
