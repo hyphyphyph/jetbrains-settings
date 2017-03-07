@@ -64,12 +64,12 @@
         <mark key="." line="0" column="13" />
         <mark key="^" line="0" column="13" />
       </file>
-      <file name="$USER_HOME$/invite-api/src/modules/conference-invite/handlers/conference-invite-crud.handler.js" timestamp="1488917950479">
+      <file name="$USER_HOME$/invite-api/src/modules/conference-invite/handlers/conference-invite-crud.handler.js" timestamp="1488918543928">
         <mark key="'" line="26" column="7" />
-        <mark key="[" line="69" column="24" />
-        <mark key="]" line="69" column="24" />
-        <mark key="." line="69" column="24" />
-        <mark key="^" line="69" column="24" />
+        <mark key="[" line="53" column="79" />
+        <mark key="]" line="53" column="78" />
+        <mark key="." line="53" column="78" />
+        <mark key="^" line="53" column="78" />
       </file>
       <file name="$USER_HOME$/boringcode/server/core/model/base-model.js" timestamp="1488781683771">
         <mark key="'" line="52" column="37" />
@@ -143,9 +143,9 @@
         <mark key="." line="1" column="17" />
         <mark key="^" line="1" column="17" />
       </file>
-      <file name="$USER_HOME$/invite-api/db/migrations/20170307165454-add-sent-by-to-conference-invite.js" timestamp="1488907617544">
+      <file name="$USER_HOME$/invite-api/db/migrations/20170307165454-add-sent-by-to-conference-invite.js" timestamp="1488918414936">
         <mark key="'" line="9" column="16" />
-        <mark key="[" line="22" column="39" />
+        <mark key="[" line="22" column="33" />
         <mark key="]" line="22" column="40" />
         <mark key="^" line="22" column="40" />
         <mark key="." line="22" column="40" />
@@ -851,9 +851,9 @@
         <mark key="^" line="2" column="13" />
         <mark key="." line="2" column="13" />
       </file>
-      <file name="/Dummy.txt" timestamp="1488918321045">
+      <file name="/Dummy.txt" timestamp="1488918596580">
         <mark key="[" line="0" column="0" />
-        <mark key="." line="0" column="19" />
+        <mark key="." line="0" column="30" />
       </file>
       <file name="$USER_HOME$/boringcode/server/core/handlers/errors.js" timestamp="1488776881416">
         <mark key="'" line="23" column="4" />
@@ -893,6 +893,9 @@
         <mark key="]" line="9" column="23" />
         <mark key="." line="9" column="23" />
         <mark key="^" line="9" column="23" />
+      </file>
+      <file name="/a.regexp" timestamp="1488918573662">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-decline-text.hbs" timestamp="1488915122825">
         <mark key="[" line="0" column="2" />
@@ -1015,11 +1018,11 @@
         <mark key="." line="175" column="49" />
         <mark key="^" line="175" column="49" />
       </file>
-      <file name="$USER_HOME$/invite-api/src/modules/conference-invite/jsonapi/conference-invite.jsonapi.js" timestamp="1488915024763">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="^" line="32" column="23" />
-        <mark key="." line="32" column="0" />
+      <file name="$USER_HOME$/invite-api/src/modules/conference-invite/jsonapi/conference-invite.jsonapi.js" timestamp="1488918494698">
+        <mark key="[" line="79" column="6" />
+        <mark key="]" line="79" column="11" />
+        <mark key="^" line="79" column="11" />
+        <mark key="." line="79" column="11" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-accept-html.hbs" timestamp="1488915198358">
         <mark key="[" line="0" column="2" />
@@ -1234,12 +1237,12 @@
         <mark key="." line="42" column="34" />
         <mark key="^" line="42" column="34" />
       </file>
-      <file name="$USER_HOME$/invite-api/src/models/conference-invite.model.js" timestamp="1488917890170">
+      <file name="$USER_HOME$/invite-api/src/models/conference-invite.model.js" timestamp="1488918579006">
         <mark key="'" line="42" column="39" />
-        <mark key="[" line="44" column="6" />
-        <mark key="]" line="44" column="10" />
-        <mark key="." line="44" column="10" />
-        <mark key="^" line="44" column="10" />
+        <mark key="[" line="133" column="21" />
+        <mark key="]" line="133" column="26" />
+        <mark key="." line="133" column="26" />
+        <mark key="^" line="133" column="26" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-accept-text.hbs" timestamp="1488915160265">
         <mark key="[" line="0" column="2" />
@@ -1993,7 +1996,6 @@
       <jump line="42" column="39" filename="$USER_HOME$/invite-api/src/models/conference-invite.model.js" />
       <jump line="24" column="29" filename="$USER_HOME$/invite-api/db/migrations/20170302214319-add-create-klik-and-category-to-passes.js" />
       <jump line="0" column="0" filename="$USER_HOME$/invite-api/db/migrations/20170307165454-add-sent-by-to-conference-invite.js" />
-      <jump line="9" column="16" filename="$USER_HOME$/invite-api/db/migrations/20170307165454-add-sent-by-to-conference-invite.js" />
       <jump line="26" column="7" filename="$USER_HOME$/invite-api/src/modules/conference-invite/handlers/conference-invite-crud.handler.js" />
       <jump line="0" column="0" filename="$USER_HOME$/invite-api/db/migrations/20170302214319-add-create-klik-and-category-to-passes.js" />
       <jump line="20" column="5" filename="$USER_HOME$/invite-api/db/migrations/20170307192322-add-message-fields-to-invite.js" />
@@ -2008,6 +2010,7 @@
       <jump line="138" column="22" filename="$USER_HOME$/invite-api/src/modules/conference-invite/services/workflow.service.js" />
       <jump line="223" column="2" filename="$USER_HOME$/invite-api/src/modules/conference-invite/services/workflow.service.js" />
       <jump line="99" column="22" filename="$USER_HOME$/invite-api/src/modules/conference-invite/services/workflow.service.js" />
+      <jump line="9" column="16" filename="$USER_HOME$/invite-api/db/migrations/20170307165454-add-sent-by-to-conference-invite.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2080,13 +2083,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>feedback</text>
+        <text>sentBy</text>
       </register>
       <register name="-" type="4">
-        <text>feedback</text>
+        <text>sentBy</text>
       </register>
       <register name="/" type="4">
-        <text>M</text>
+        <text>sent-by</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgZmVlZGJhY2tNZXNzYWdlOiB7IHR5cGU6IERhdGFUeXBlcy5URVhUIH0sCg==</text>
@@ -2123,9 +2126,9 @@
       </register>
     </registers>
     <search>
-      <last-search>M</last-search>
+      <last-search>sent-by</last-search>
       <last-offset />
-      <last-pattern>M</last-pattern>
+      <last-pattern>sent-by</last-pattern>
       <last-replace>conference</last-replace>
       <last-substitute>partner</last-substitute>
       <last-dir>1</last-dir>
@@ -2133,9 +2136,6 @@
     </search>
     <history>
       <history-search>
-        <entry>s</entry>
-        <entry>''</entry>
-        <entry>_send</entry>
         <entry>{</entry>
         <entry>_get</entry>
         <entry encoding="base64">XDxfZ2V0VmVyaWZpY2F0aW9uTGlua1w+</entry>
@@ -2153,6 +2153,9 @@
         <entry>mes</entry>
         <entry encoding="base64">XDxfdXBkYXRlTWVzc2FnZXNcPg==</entry>
         <entry>M</entry>
+        <entry>sen</entry>
+        <entry>sendBy</entry>
+        <entry>sent-by</entry>
       </history-search>
       <history-cmd>
         <entry>ww</entry>
