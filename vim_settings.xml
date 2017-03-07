@@ -135,11 +135,12 @@
         <mark key="." line="1" column="17" />
         <mark key="^" line="1" column="17" />
       </file>
-      <file name="$USER_HOME$/invite-api/db/migrations/20170307165454-add-sent-by-to-conference-invite.js" timestamp="1488905990990">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="^" line="22" column="38" />
-        <mark key="." line="25" column="0" />
+      <file name="$USER_HOME$/invite-api/db/migrations/20170307165454-add-sent-by-to-conference-invite.js" timestamp="1488907617544">
+        <mark key="'" line="9" column="16" />
+        <mark key="[" line="22" column="39" />
+        <mark key="]" line="22" column="40" />
+        <mark key="^" line="22" column="40" />
+        <mark key="." line="22" column="40" />
       </file>
       <file name="Z:/boringcode/core/make-route.js" timestamp="1488079531822">
         <mark key="[" line="8" column="46" />
@@ -1227,12 +1228,12 @@
         <mark key="." line="42" column="34" />
         <mark key="^" line="42" column="34" />
       </file>
-      <file name="$USER_HOME$/invite-api/src/models/conference-invite.model.js" timestamp="1488904779302">
+      <file name="$USER_HOME$/invite-api/src/models/conference-invite.model.js" timestamp="1488907605767">
         <mark key="'" line="42" column="39" />
-        <mark key="[" line="42" column="36" />
-        <mark key="]" line="42" column="36" />
-        <mark key="." line="42" column="36" />
-        <mark key="^" line="42" column="39" />
+        <mark key="[" line="42" column="12" />
+        <mark key="]" line="42" column="13" />
+        <mark key="." line="42" column="13" />
+        <mark key="^" line="42" column="13" />
       </file>
       <file name="Z:/partner-platform-api/src/modules/conference-invite/routes.js" timestamp="1487906666975">
         <mark key="[" line="52" column="2" />
@@ -1906,7 +1907,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="0" filename="$USER_HOME$/boringcode/server/core/testing/base-test.js" />
       <jump line="6" column="9" filename="$USER_HOME$/boringcode/server/core/migration/base-migration.js" />
       <jump line="3" column="5" filename="$USER_HOME$/boringcode/server/core/migration/base-migration.js" />
       <jump line="7" column="6" filename="$USER_HOME$/boringcode/server/core/class-helpers/inject-local-files.js" />
@@ -2006,6 +2006,7 @@
       <jump line="24" column="29" filename="$USER_HOME$/invite-api/db/migrations/20170302214319-add-create-klik-and-category-to-passes.js" />
       <jump line="0" column="0" filename="$USER_HOME$/invite-api/db/migrations/20170302214319-add-create-klik-and-category-to-passes.js" />
       <jump line="0" column="0" filename="$USER_HOME$/invite-api/db/migrations/20170307165454-add-sent-by-to-conference-invite.js" />
+      <jump line="9" column="16" filename="$USER_HOME$/invite-api/db/migrations/20170307165454-add-sent-by-to-conference-invite.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2077,17 +2078,17 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>hasOne</text>
       </register>
       <register name="-" type="4">
-        <text>createKlikAccount</text>
+        <text>hasOne</text>
       </register>
       <register name="/" type="4">
-        <text>,</text>
+        <text>sent</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJlZmVyZW5jZXM6IHsKICAgICAgICAgICAgbW9kZWw6ICdQYXNzT3B0aW9ucycsCiAgICAgICAgICAgIGtleTogJ2lkJwogICAgICAgICAgfSwKICAgICAgICAgIG9uVXBkYXRlOiAnQ0FTQ0FERScsCiAgICAgICAgICBvbkRlbGV0ZTogJ0NBU0NBREUnCg==</text>
+        <text encoding="base64">ICAgICAgICAgIENvbmZlcmVuY2VJbnZpdGUuaGFzT25lKAogICAgICAgICAgICBtb2RlbHMuUGFzc0FsbG9jYXRpb24sCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICBhczogJ3Bhc3NBbGxvY2F0aW9uJywKICAgICAgICAgICAgICBmb3JlaWduS2V5OiAnY29uZmVyZW5jZUludml0ZUlkJwogICAgICAgICAgICB9CiAgICAgICAgICApOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -2122,17 +2123,16 @@
       </register>
     </registers>
     <search>
-      <last-search>,</last-search>
+      <last-search>sent</last-search>
       <last-offset />
-      <last-pattern>,</last-pattern>
+      <last-pattern>sent</last-pattern>
       <last-replace>conference</last-replace>
       <last-substitute>partner</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>I</entry>
         <entry>\.</entry>
         <entry>sync</entry>
         <entry encoding="base64">XDxfc3luY0RiXD4=</entry>
@@ -2152,6 +2152,7 @@
         <entry>make</entry>
         <entry>cons</entry>
         <entry>,</entry>
+        <entry>sent</entry>
       </history-search>
       <history-cmd>
         <entry>ww</entry>
