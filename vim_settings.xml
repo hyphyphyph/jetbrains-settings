@@ -340,11 +340,11 @@
         <mark key="." line="2" column="25" />
         <mark key="^" line="2" column="25" />
       </file>
-      <file name="$USER_HOME$/invite-api/src/modules/conference-invite/services/workflow.service.js" timestamp="1488916667350">
-        <mark key="[" line="99" column="0" />
-        <mark key="]" line="99" column="0" />
-        <mark key="^" line="101" column="31" />
-        <mark key="." line="99" column="0" />
+      <file name="$USER_HOME$/invite-api/src/modules/conference-invite/services/workflow.service.js" timestamp="1488917534039">
+        <mark key="[" line="102" column="44" />
+        <mark key="]" line="102" column="42" />
+        <mark key="^" line="102" column="42" />
+        <mark key="." line="102" column="42" />
       </file>
       <file name="$USER_HOME$/boringcode/server/core/dal/pg-dal.js" timestamp="1488776159524">
         <mark key="'" line="5" column="0" />
@@ -424,7 +424,7 @@
         <mark key="^" line="2" column="13" />
         <mark key="." line="2" column="13" />
       </file>
-      <file name="/Dummy.txt" timestamp="1488917110317">
+      <file name="/Dummy.txt" timestamp="1488917537657">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="19" />
       </file>
