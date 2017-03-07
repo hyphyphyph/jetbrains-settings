@@ -63,6 +63,12 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/invite-api/src/modules/conference-invite/handlers/conference-invite-crud.handler.js" timestamp="1488904824197">
+        <mark key="[" line="53" column="8" />
+        <mark key="]" line="53" column="29" />
+        <mark key="." line="53" column="29" />
+        <mark key="^" line="53" column="29" />
+      </file>
       <file name="$USER_HOME$/boringcode/server/core/model/base-model.js" timestamp="1488781683771">
         <mark key="'" line="52" column="37" />
         <mark key="[" line="5" column="57" />
@@ -801,7 +807,6 @@
         <mark key="^" line="14" column="4" />
         <mark key="." line="14" column="4" />
       </file>
-      <file name="$USER_HOME$/invite-api/src/modules/conference/handlers/conference-crud.handler.js" timestamp="1488812552168" />
       <file name="Z:/boringcode/core/tooling/migrate/base-migration.js" timestamp="1488068749002">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="34" />
@@ -1216,12 +1221,12 @@
         <mark key="." line="42" column="34" />
         <mark key="^" line="42" column="34" />
       </file>
-      <file name="$USER_HOME$/invite-api/src/models/conference-invite.model.js" timestamp="1488765906231">
-        <mark key="'" line="85" column="30" />
-        <mark key="[" line="121" column="15" />
-        <mark key="]" line="121" column="31" />
-        <mark key="." line="121" column="31" />
-        <mark key="^" line="121" column="31" />
+      <file name="$USER_HOME$/invite-api/src/models/conference-invite.model.js" timestamp="1488904779302">
+        <mark key="'" line="42" column="39" />
+        <mark key="[" line="42" column="36" />
+        <mark key="]" line="42" column="36" />
+        <mark key="." line="42" column="36" />
+        <mark key="^" line="42" column="39" />
       </file>
       <file name="Z:/partner-platform-api/src/modules/conference-invite/routes.js" timestamp="1487906666975">
         <mark key="[" line="52" column="2" />
@@ -1886,7 +1891,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="32" filename="$USER_HOME$/boringcode/server/core/testing/base-test.js" />
       <jump line="7" column="49" filename="$USER_HOME$/boringcode/server/core/testing/base-test.js" />
       <jump line="72" column="0" filename="$USER_HOME$/boringcode/server/core/testing/base-test.js" />
       <jump line="0" column="8" filename="$USER_HOME$/boringcode/server/core/testing/base-test.js" />
@@ -1986,6 +1990,7 @@
       <jump line="55" column="5" filename="$USER_HOME$/invite-api/src/modules/partner/handlers/partner-user.handler.js" />
       <jump line="0" column="0" filename="$USER_HOME$/invite-api/src/modules/partner/handlers/partner-user.handler.js" />
       <jump line="58" column="0" filename="$USER_HOME$/invite-api/src/modules/partner/handlers/partner-user.handler.js" />
+      <jump line="42" column="39" filename="$USER_HOME$/invite-api/src/models/conference-invite.model.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2058,52 +2063,52 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>users</text>
+        <text>acceptedBy</text>
       </register>
       <register name="-" type="4">
-        <text>users</text>
+        <text>acceptedBy</text>
       </register>
       <register name="/" type="4">
-        <text>cons</text>
+        <text>,</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgdXNlcnM6IHRoaXMuX1ZBTElEQVRFX01BS0VfUkVMQVRJT05TSElQU19PQkpFQ1QoJ3VzZXJzJykK</text>
+        <text encoding="base64">ICAgICAgICAgIGFjY2VwdGVkQnkgPSByZXF1ZXN0LmF1dGguY3JlZGVudGlhbHMudG9rZW4udXNlcklkOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHVzZXIpOwogICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIHVzZXI7CiAgICAgICAgICAgICAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLnRoZW4odXNlciA9PiB7CiAgICAgICAgY29uc29sZS5sb2codXNlcik7CiAgICAgICAgcmV0dXJuIHVzZXI7CiAgICAgIH0pCg==</text>
+        <text encoding="base64">ICB7IHR5cGU6IERhdGFUeXBlcy5VVUlELCB9OwoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZmF1bHRWYWx1ZTogbnVsbAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGFsbG93TnVsbDogdHJ1ZSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFRPRE86IFN5bmMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHVzZXIpOwogICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIHVzZXI7CiAgICAgICAgICAgICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgLy8gVE9ETzogU2VuZCBlbWFpbCBhbmQgc2hpdC4K</text>
+        <text encoding="base64">ICAgICAgLnRoZW4odXNlciA9PiB7CiAgICAgICAgY29uc29sZS5sb2codXNlcik7CiAgICAgICAgcmV0dXJuIHVzZXI7CiAgICAgIH0pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gdXNlcjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG1ha2VDbGllbnRVcmwgZnJvbSAK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFRPRE86IFN5bmMK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>cons</last-search>
+      <last-search>,</last-search>
       <last-offset />
-      <last-pattern>cons</last-pattern>
+      <last-pattern>,</last-pattern>
       <last-replace>conference</last-replace>
       <last-substitute>partner</last-substitute>
       <last-dir>-1</last-dir>
@@ -2111,7 +2116,6 @@
     </search>
     <history>
       <history-search>
-        <entry>show</entry>
         <entry>I</entry>
         <entry>\.</entry>
         <entry>sync</entry>
@@ -2131,6 +2135,7 @@
         <entry encoding="base64">XDxfZ2V0VmVyaWZpY2F0aW9uTGlua1w+</entry>
         <entry>make</entry>
         <entry>cons</entry>
+        <entry>,</entry>
       </history-search>
       <history-cmd>
         <entry>ww</entry>
