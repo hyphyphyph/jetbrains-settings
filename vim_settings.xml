@@ -64,12 +64,12 @@
         <mark key="." line="0" column="13" />
         <mark key="^" line="0" column="13" />
       </file>
-      <file name="$USER_HOME$/invite-api/src/modules/conference-invite/handlers/conference-invite-crud.handler.js" timestamp="1488923749406">
+      <file name="$USER_HOME$/invite-api/src/modules/conference-invite/handlers/conference-invite-crud.handler.js" timestamp="1488924996800">
         <mark key="'" line="43" column="53" />
-        <mark key="[" line="179" column="38" />
-        <mark key="]" line="179" column="48" />
-        <mark key="^" line="179" column="48" />
-        <mark key="." line="179" column="48" />
+        <mark key="[" line="107" column="44" />
+        <mark key="]" line="107" column="54" />
+        <mark key="^" line="107" column="54" />
+        <mark key="." line="107" column="54" />
       </file>
       <file name="$USER_HOME$/boringcode/server/core/model/base-model.js" timestamp="1488781683771">
         <mark key="'" line="52" column="37" />
@@ -851,7 +851,7 @@
         <mark key="^" line="2" column="13" />
         <mark key="." line="2" column="13" />
       </file>
-      <file name="/Dummy.txt" timestamp="1488923814748">
+      <file name="/Dummy.txt" timestamp="1488925053869">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="27" />
       </file>
@@ -1911,8 +1911,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="44" filename="$USER_HOME$/boringcode/server/core/handlers/errors.js" />
-      <jump line="21" column="4" filename="$USER_HOME$/boringcode/server/core/handlers/errors.js" />
       <jump line="22" column="4" filename="$USER_HOME$/boringcode/server/core/handlers/errors.js" />
       <jump line="23" column="4" filename="$USER_HOME$/boringcode/server/core/handlers/errors.js" />
       <jump line="14" column="0" filename="$USER_HOME$/boringcode/server/core/model/errors.js" />
@@ -2010,6 +2008,8 @@
       <jump line="66" column="36" filename="$USER_HOME$/invite-api/src/modules/conference-invite/handlers/conference-invite-crud.handler.js" />
       <jump line="173" column="0" filename="$USER_HOME$/invite-api/src/modules/conference-invite/handlers/conference-invite-crud.handler.js" />
       <jump line="106" column="13" filename="$USER_HOME$/invite-api/src/modules/conference-invite/handlers/conference-invite-crud.handler.js" />
+      <jump line="176" column="33" filename="$USER_HOME$/invite-api/src/modules/conference-invite/handlers/conference-invite-crud.handler.js" />
+      <jump line="178" column="7" filename="$USER_HOME$/invite-api/src/modules/conference-invite/handlers/conference-invite-crud.handler.js" />
       <jump line="43" column="53" filename="$USER_HOME$/invite-api/src/modules/conference-invite/handlers/conference-invite-crud.handler.js" />
     </jumps>
     <registers>
