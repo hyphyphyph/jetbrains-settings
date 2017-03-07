@@ -63,11 +63,11 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/invite-api/src/modules/conference-invite/handlers/conference-invite-crud.handler.js" timestamp="1488904824197">
-        <mark key="[" line="53" column="8" />
-        <mark key="]" line="53" column="29" />
-        <mark key="." line="53" column="29" />
-        <mark key="^" line="53" column="29" />
+      <file name="$USER_HOME$/invite-api/src/modules/conference-invite/handlers/conference-invite-crud.handler.js" timestamp="1488906025743">
+        <mark key="[" line="26" column="8" />
+        <mark key="]" line="26" column="5" />
+        <mark key="." line="26" column="5" />
+        <mark key="^" line="26" column="5" />
       </file>
       <file name="$USER_HOME$/boringcode/server/core/model/base-model.js" timestamp="1488781683771">
         <mark key="'" line="52" column="37" />
@@ -134,6 +134,12 @@
         <mark key="]" line="1" column="17" />
         <mark key="." line="1" column="17" />
         <mark key="^" line="1" column="17" />
+      </file>
+      <file name="$USER_HOME$/invite-api/db/migrations/20170307165454-add-sent-by-to-conference-invite.js" timestamp="1488905990990">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="^" line="22" column="38" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="Z:/boringcode/core/make-route.js" timestamp="1488079531822">
         <mark key="[" line="8" column="46" />
@@ -1305,6 +1311,10 @@
         <mark key="^" line="27" column="18" />
         <mark key="." line="27" column="18" />
       </file>
+      <file name="$USER_HOME$/invite-api/db/migrations/20170228195629-create-pass-option-quota.js" timestamp="1488905737702">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="31" column="28" />
+      </file>
       <file name="Z:/partner-platform-api/src/modules/quota/routes.js" timestamp="1487972883869">
         <mark key="'" line="12" column="16" />
         <mark key="[" line="12" column="42" />
@@ -1587,6 +1597,11 @@
         <mark key="]" line="70" column="4" />
         <mark key="." line="56" column="37" />
         <mark key="^" line="56" column="37" />
+      </file>
+      <file name="$USER_HOME$/invite-api/db/migrations/20170302214319-add-create-klik-and-category-to-passes.js" timestamp="1488905703401">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="29" column="1" />
       </file>
       <file name="Z:/invite-api/src/modules/partner/templates/invited-html.hbs" timestamp="1488400167364">
         <mark key="'" line="0" column="0" />
@@ -1891,9 +1906,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="49" filename="$USER_HOME$/boringcode/server/core/testing/base-test.js" />
-      <jump line="72" column="0" filename="$USER_HOME$/boringcode/server/core/testing/base-test.js" />
-      <jump line="0" column="8" filename="$USER_HOME$/boringcode/server/core/testing/base-test.js" />
       <jump line="69" column="0" filename="$USER_HOME$/boringcode/server/core/testing/base-test.js" />
       <jump line="6" column="9" filename="$USER_HOME$/boringcode/server/core/migration/base-migration.js" />
       <jump line="3" column="5" filename="$USER_HOME$/boringcode/server/core/migration/base-migration.js" />
@@ -1991,6 +2003,9 @@
       <jump line="0" column="0" filename="$USER_HOME$/invite-api/src/modules/partner/handlers/partner-user.handler.js" />
       <jump line="58" column="0" filename="$USER_HOME$/invite-api/src/modules/partner/handlers/partner-user.handler.js" />
       <jump line="42" column="39" filename="$USER_HOME$/invite-api/src/models/conference-invite.model.js" />
+      <jump line="24" column="29" filename="$USER_HOME$/invite-api/db/migrations/20170302214319-add-create-klik-and-category-to-passes.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/invite-api/db/migrations/20170302214319-add-create-klik-and-category-to-passes.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/invite-api/db/migrations/20170307165454-add-sent-by-to-conference-invite.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2062,44 +2077,45 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>acceptedBy</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>acceptedBy</text>
+        <text>createKlikAccount</text>
       </register>
       <register name="/" type="4">
         <text>,</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIGFjY2VwdGVkQnkgPSByZXF1ZXN0LmF1dGguY3JlZGVudGlhbHMudG9rZW4udXNlcklkOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIHJlZmVyZW5jZXM6IHsKICAgICAgICAgICAgbW9kZWw6ICdQYXNzT3B0aW9ucycsCiAgICAgICAgICAgIGtleTogJ2lkJwogICAgICAgICAgfSwKICAgICAgICAgIG9uVXBkYXRlOiAnQ0FTQ0FERScsCiAgICAgICAgICBvbkRlbGV0ZTogJ0NBU0NBREUnCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB7IHR5cGU6IERhdGFUeXBlcy5VVUlELCB9OwoK</text>
+        <text encoding="base64">ICAgICAgLnRoZW4oKCkgPT4gcXVlcnlJbnRlcmZhY2UucmVtb3ZlQ29sdW1uKFRBQkxFX05BTUUsICdjYXRlZ29yeScpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlZmF1bHRWYWx1ZTogbnVsbAo=</text>
+        <text encoding="base64">ICAgICAgICAgIG5EZWxldGU6ICdDQVNDQURFJwo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGFsbG93TnVsbDogdHJ1ZSwK</text>
+      <register name="4" type="4">
+        <text>onUpdate: 'CASCADE',
+          o</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHVzZXIpOwogICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIHVzZXI7CiAgICAgICAgICAgICAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGRlZmF1bHRWYWx1ZTogdHJ1ZSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLnRoZW4odXNlciA9PiB7CiAgICAgICAgY29uc29sZS5sb2codXNlcik7CiAgICAgICAgcmV0dXJuIHVzZXI7CiAgICAgIH0pCg==</text>
+        <text encoding="base64">ICAgICAgLnRoZW4oKCkgPT4gcXVlcnlJbnRlcmZhY2UuYWRkQ29sdW1uKAogICAgICAgIFRBQkxFX05BTUUsCiAgICAgICAgJ2NhdGVnb3J5JywKICAgICAgICB7CiAgICAgICAgICB0eXBlOiBTZXF1ZWxpemUuVEVYVAogICAgICAgIH0KICAgICAgKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">J3VzZSBzdHJpY3QnOwoKbW9kdWxlLmV4cG9ydHMgPSB7CiAgdXA6IGZ1bmN0aW9uIChxdWVyeUludGVyZmFjZSwgU2VxdWVsaXplKSB7CiAgICAvKgogICAgICBBZGQgYWx0ZXJpbmcgY29tbWFuZHMgaGVyZS4KICAgICAgUmV0dXJuIGEgcHJvbWlzZSB0byBjb3JyZWN0bHkgaGFuZGxlIGFzeW5jaHJvbmljaXR5LgoKICAgICAgRXhhbXBsZToKICAgICAgcmV0dXJuIHF1ZXJ5SW50ZXJmYWNlLmNyZWF0ZVRhYmxlKCd1c2VycycsIHsgaWQ6IFNlcXVlbGl6ZS5JTlRFR0VSIH0pOwogICAgKi8KICB9LAoKICBkb3duOiBmdW5jdGlvbiAocXVlcnlJbnRlcmZhY2UsIFNlcXVlbGl6ZSkgewogICAgLyoKICAgICAgQWRkIHJldmVydGluZyBjb21tYW5kcyBoZXJlLgogICAgICBSZXR1cm4gYSBwcm9taXNlIHRvIGNvcnJlY3RseSBoYW5kbGUgYXN5bmNocm9uaWNpdHkuCgogICAgICBFeGFtcGxlOgogICAgICByZXR1cm4gcXVlcnlJbnRlcmZhY2UuZHJvcFRhYmxlKCd1c2VycycpOwogICAgKi8KICB9Cn07Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFRPRE86IFN5bmMK</text>
+        <text encoding="base64">ICB7IHR5cGU6IERhdGFUeXBlcy5VVUlELCB9OwoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
