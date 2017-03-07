@@ -162,12 +162,12 @@
         <mark key="." line="1" column="14" />
         <mark key="^" line="1" column="14" />
       </file>
-      <file name="$USER_HOME$/invite-api/src/modules/partner/handlers/partner-user.handler.js" timestamp="1488918655494">
-        <mark key="'" line="56" column="0" />
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="." line="57" column="0" />
-        <mark key="^" line="75" column="34" />
+      <file name="$USER_HOME$/invite-api/src/modules/partner/handlers/partner-user.handler.js" timestamp="1488920421634">
+        <mark key="'" line="83" column="4" />
+        <mark key="[" line="92" column="22" />
+        <mark key="]" line="92" column="27" />
+        <mark key="." line="92" column="47" />
+        <mark key="^" line="92" column="27" />
       </file>
       <file name="Z:/partner-platform-api/.gitignore" timestamp="1487962972298">
         <mark key="'" line="0" column="0" />
@@ -491,12 +491,12 @@
         <mark key="^" line="39" column="1" />
         <mark key="." line="30" column="11" />
       </file>
-      <file name="$USER_HOME$/invite-api/src/modules/partner/routes.js" timestamp="1488816936318">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="1" column="51" />
-        <mark key="]" line="1" column="54" />
-        <mark key="^" line="1" column="54" />
-        <mark key="." line="1" column="54" />
+      <file name="$USER_HOME$/invite-api/src/modules/partner/routes.js" timestamp="1488919892551">
+        <mark key="'" line="73" column="12" />
+        <mark key="[" line="67" column="44" />
+        <mark key="]" line="67" column="53" />
+        <mark key="^" line="67" column="53" />
+        <mark key="." line="67" column="53" />
       </file>
       <file name="Z:/partner-platform/partner-platform-api/src/modules/conference-invite/templates/invite-resend-html.hbs" timestamp="1487888355278">
         <mark key="[" line="1" column="67" />
@@ -1911,12 +1911,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="70" column="27" filename="$USER_HOME$/boringcode/server/core/testing/base-test.js" />
-      <jump line="39" column="0" filename="$USER_HOME$/boringcode/server/core/dal/base-dal.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/boringcode/server/core/dal/base-dal.js" />
-      <jump line="38" column="39" filename="$USER_HOME$/boringcode/server/core/dal/base-dal.js" />
-      <jump line="4" column="0" filename="$USER_HOME$/boringcode/server/core/dal/base-dal.js" />
-      <jump line="5" column="0" filename="$USER_HOME$/boringcode/server/core/dal/pg-dal.js" />
       <jump line="1" column="0" filename="$USER_HOME$/boringcode/server/core/migration/base-migration.js" />
       <jump line="2" column="0" filename="$USER_HOME$/boringcode/server/core/testing/base-test.js" />
       <jump line="6" column="46" filename="$USER_HOME$/boringcode/server/src/dals/user-dal.js" />
@@ -2011,6 +2005,12 @@
       <jump line="223" column="2" filename="$USER_HOME$/invite-api/src/modules/conference-invite/services/workflow.service.js" />
       <jump line="99" column="22" filename="$USER_HOME$/invite-api/src/modules/conference-invite/services/workflow.service.js" />
       <jump line="9" column="16" filename="$USER_HOME$/invite-api/db/migrations/20170307165454-add-sent-by-to-conference-invite.js" />
+      <jump line="67" column="38" filename="$USER_HOME$/invite-api/src/modules/partner/routes.js" />
+      <jump line="73" column="12" filename="$USER_HOME$/invite-api/src/modules/partner/routes.js" />
+      <jump line="59" column="2" filename="$USER_HOME$/invite-api/src/modules/partner/handlers/partner-user.handler.js" />
+      <jump line="9" column="0" filename="$USER_HOME$/invite-api/src/modules/partner/handlers/partner-user.handler.js" />
+      <jump line="82" column="11" filename="$USER_HOME$/invite-api/src/modules/partner/handlers/partner-user.handler.js" />
+      <jump line="83" column="4" filename="$USER_HOME$/invite-api/src/modules/partner/handlers/partner-user.handler.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2082,67 +2082,60 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhlcnIpOwoK</text>
+      <register name="&quot;" type="4">
+        <text>data.email</text>
       </register>
       <register name="-" type="4">
-        <text>sentBy</text>
+        <text>data.email</text>
       </register>
       <register name="/" type="4">
-        <text>sent-by</text>
+        <text>partnerId</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgZmVlZGJhY2tNZXNzYWdlOiB7IHR5cGU6IERhdGFUeXBlcy5URVhUIH0sCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHBhcnRuZXJJZCA9IHJlcXVlc3QucGFyYW1zLnBhcnRuZXJJZDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhlcnIpOwoK</text>
+        <text encoding="base64">ICAgICAgICAgIHJlbGF0aW9uc2hpcHM6IEpvaS5vYmplY3QoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLmNhdGNoKGNvbnNvbGUubG9nKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIGF0dHJpYnV0ZXM6IEpvaS5vYmplY3QoewogICAgICAgICAgICAnZmlyc3QtbmFtZSc6IEpvaS5zdHJpbmcoKSwKICAgICAgICAgICAgJ2xhc3QtbmFtZSc6IEpvaS5zdHJpbmcoKSwKICAgICAgICAgICAgZW1haWw6IEpvaS5zdHJpbmcoKS5lbWFpbCgpLnJlcXVpcmVkKCkKICAgICAgICAgIH0pLnJlcXVpcmVkKCksCg==</text>
       </register>
       <register name="3" type="4">
-        <text>feedback</text>
+        <text>CreateOrAddUser</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKDEyMzEyMzEyMyk7CiAgICAgICAgICBjb25zb2xlLmxvZyh0aGlzLm9wdGlvbnMpOwo=</text>
+      <register name="4" type="4">
+        <text>createOrAdd</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIFRoaXMgZ2V0cyBzYXZlZCBpbiB0aGUgd29ya2Zsb3cgc2VydmljZS4KICAgICAgICAgIGludml0ZS5mZWVkYmFja01lc3NhZ2UgPSB0aGlzLmRlc2VyaWFsaXplZERhdGEuZmVlZGJhY2tNZXNzYWdlOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhlcnIpOwoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIFRoaXMgZ2V0cyBzYXZlZCBpbiB0aGUgd29ya2Zsb3cgc2VydmljZS4KICAgICAgICAgIGludml0ZS5mZWVkYmFja01lc3NhZ2UgPSB0aGlzLmRlc2VyaWFsaXplZERhdGEuZmVlZGJhY2tNZXNzYWdlOwo=</text>
+        <text encoding="base64">ICAgICAgLmNhdGNoKGNvbnNvbGUubG9nKQo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHRoaXMuZGVzZXJpYWxpemVkRGF0YSk7Cg==</text>
+      <register name="7" type="4">
+        <text>feedback</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKDEyMzEyMzEyMyk7CiAgICAgICAgICBjb25zb2xlLmxvZyh0aGlzLm9wdGlvbnMpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlkOiBKb2kuc3RyaW5nKCkudXVpZCgpLnJlcXVpcmVkKCksCg==</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIFRoaXMgZ2V0cyBzYXZlZCBpbiB0aGUgd29ya2Zsb3cgc2VydmljZS4KICAgICAgICAgIGludml0ZS5mZWVkYmFja01lc3NhZ2UgPSB0aGlzLmRlc2VyaWFsaXplZERhdGEuZmVlZGJhY2tNZXNzYWdlOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>sent-by</last-search>
+      <last-search>partnerId</last-search>
       <last-offset />
-      <last-pattern>sent-by</last-pattern>
-      <last-replace>conference</last-replace>
-      <last-substitute>partner</last-substitute>
+      <last-pattern>partnerId</last-pattern>
+      <last-replace>userId</last-replace>
+      <last-substitute>partnerId</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>{</entry>
-        <entry>_get</entry>
-        <entry encoding="base64">XDxfZ2V0VmVyaWZpY2F0aW9uTGlua1w+</entry>
-        <entry>make</entry>
-        <entry>cons</entry>
-        <entry>,</entry>
-        <entry>sent</entry>
         <entry>sentBy</entry>
         <entry encoding="base64">IFQ=</entry>
         <entry>Message</entry>
@@ -2156,9 +2149,15 @@
         <entry>sen</entry>
         <entry>sendBy</entry>
         <entry>sent-by</entry>
+        <entry>U</entry>
+        <entry>c</entry>
+        <entry>Cre</entry>
+        <entry>V</entry>
+        <entry>{</entry>
+        <entry>get</entry>
+        <entry>partnerId</entry>
       </history-search>
       <history-cmd>
-        <entry>ww</entry>
         <entry>s</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>46</entry>
@@ -2177,6 +2176,7 @@
         <entry encoding="base64">JzwsJz5zL3Bhc3MvcGFydG5lci9n</entry>
         <entry encoding="base64">JzwsJz5zL3BhcnRuZXIvY29uZmVyZW5jZS9n</entry>
         <entry>88</entry>
+        <entry encoding="base64">JzwsJz5zL3BhcnRuZXJJZC91c2VySWQvZw==</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
