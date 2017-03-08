@@ -844,7 +844,7 @@
         <mark key="^" line="2" column="13" />
         <mark key="." line="2" column="13" />
       </file>
-      <file name="/Dummy.txt" timestamp="1488988828757">
+      <file name="/Dummy.txt" timestamp="1488989523457">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="27" />
       </file>
@@ -1340,12 +1340,12 @@
         <mark key="." line="0" column="13" />
         <mark key="^" line="0" column="13" />
       </file>
-      <file name="$USER_HOME$/invite-api/src/modules/conference-invite/handlers/workflow.handler.js" timestamp="1488988288956">
+      <file name="$USER_HOME$/invite-api/src/modules/conference-invite/handlers/workflow.handler.js" timestamp="1488989504883">
         <mark key="'" line="89" column="0" />
-        <mark key="[" line="89" column="0" />
-        <mark key="]" line="89" column="0" />
-        <mark key="." line="89" column="0" />
-        <mark key="^" line="92" column="17" />
+        <mark key="[" line="149" column="44" />
+        <mark key="]" line="149" column="44" />
+        <mark key="." line="149" column="44" />
+        <mark key="^" line="149" column="44" />
       </file>
       <file name="Z:/invite-api/config/default.yml" timestamp="1488504312257">
         <mark key="'" line="0" column="0" />
@@ -2076,17 +2076,17 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlIHsKICAgICAgICAgIGlmICghW1NFTlQsIFJFU0VOVF0uaW5jbHVkZXMoaW52aXRlLnN0YXR1cykpIHsKICAgICAgICAgICAgcmV0dXJuIHJlamVjdChuZXcgV29ya2Zsb3dPcGVyYXRpb25FcnJvcihgQ2Fubm90IEFDQ0VQVCBvbiAke2ludml0ZS5zdGF0dXN9YCkpOwogICAgICAgICAgfQogICAgICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text>locale</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>locale</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfY2hlY2tXb3JrZmxvd09wZXJhdGlvblw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIWludml0ZSkgewogICAgICAgICAgdGhyb3cgbmV3IE5vdEZvdW5kRXJyb3IoKTsKICAgICAgICB9CiAgICAgICAgZWxzZSBpZiAoW1NFTlQsIFJFU0VOVF0uaW5jbHVkZXMoaW52aXRlLnN0YXR1cykpIHsKICAgICAgICAgIHRocm93IG5ldyBOb3RGb3VuZEVycm9yKCk7CiAgICAgICAgfQogICAgICAgIHJldHVybiBpbnZpdGU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9jYWxlOiBKb2kuc3RyaW5nKCkuYWxsb3cobnVsbCkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBlbHNlIHsKICAgICAgICAgIGlmICghW1NFTlQsIFJFU0VOVF0uaW5jbHVkZXMoaW52aXRlLnN0YXR1cykpIHsKICAgICAgICAgICAgcmV0dXJuIHJlamVjdChuZXcgV29ya2Zsb3dPcGVyYXRpb25FcnJvcihgQ2Fubm90IEFDQ0VQVCBvbiAke2ludml0ZS5zdGF0dXN9YCkpOwogICAgICAgICAgfQogICAgICAgIH0K</text>
