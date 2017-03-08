@@ -64,12 +64,12 @@
         <mark key="." line="0" column="13" />
         <mark key="^" line="0" column="13" />
       </file>
-      <file name="$USER_HOME$/invite-api/src/modules/conference-invite/handlers/conference-invite-crud.handler.js" timestamp="1488981116551">
-        <mark key="'" line="35" column="39" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
-        <mark key="^" line="43" column="23" />
+      <file name="$USER_HOME$/invite-api/src/modules/conference-invite/handlers/conference-invite-crud.handler.js" timestamp="1488983999820">
+        <mark key="'" line="41" column="102" />
+        <mark key="[" line="43" column="28" />
+        <mark key="]" line="44" column="5" />
+        <mark key="." line="44" column="5" />
+        <mark key="^" line="44" column="5" />
       </file>
       <file name="$USER_HOME$/boringcode/server/core/model/base-model.js" timestamp="1488781683771">
         <mark key="'" line="52" column="37" />
@@ -194,8 +194,8 @@
         <mark key="." line="48" column="28" />
         <mark key="^" line="48" column="28" />
       </file>
-      <file name="$USER_HOME$/invite-api/src/modules/core/base-handler.js" timestamp="1488922527785">
-        <mark key="'" line="153" column="2" />
+      <file name="$USER_HOME$/invite-api/src/modules/core/base-handler.js" timestamp="1488983878205">
+        <mark key="'" line="80" column="29" />
         <mark key="[" line="49" column="0" />
         <mark key="]" line="49" column="0" />
         <mark key="." line="49" column="0" />
@@ -509,9 +509,9 @@
         <mark key="^" line="18" column="26" />
         <mark key="." line="18" column="26" />
       </file>
-      <file name="$USER_HOME$/invite-api/src/modules/pass/jsonapi/pass.jsonapi.js" timestamp="1488563437599">
-        <mark key="[" line="70" column="25" />
-        <mark key="]" line="70" column="23" />
+      <file name="$USER_HOME$/invite-api/src/modules/pass/jsonapi/pass.jsonapi.js" timestamp="1488984224816">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="72" column="6" />
         <mark key="." line="70" column="23" />
         <mark key="^" line="70" column="23" />
       </file>
@@ -845,7 +845,7 @@
         <mark key="^" line="2" column="13" />
         <mark key="." line="2" column="13" />
       </file>
-      <file name="/Dummy.txt" timestamp="1488981128117">
+      <file name="/Dummy.txt" timestamp="1488984562677">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="27" />
       </file>
@@ -1012,11 +1012,11 @@
         <mark key="." line="175" column="49" />
         <mark key="^" line="175" column="49" />
       </file>
-      <file name="$USER_HOME$/invite-api/src/modules/conference-invite/jsonapi/conference-invite.jsonapi.js" timestamp="1488980806394">
-        <mark key="[" line="90" column="19" />
-        <mark key="]" line="90" column="18" />
-        <mark key="." line="90" column="18" />
-        <mark key="^" line="90" column="18" />
+      <file name="$USER_HOME$/invite-api/src/modules/conference-invite/jsonapi/conference-invite.jsonapi.js" timestamp="1488984230381">
+        <mark key="'" line="58" column="20" />
+        <mark key="[" line="170" column="0" />
+        <mark key="]" line="170" column="0" />
+        <mark key="." line="170" column="0" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-accept-html.hbs" timestamp="1488915198358">
         <mark key="[" line="0" column="2" />
@@ -1231,12 +1231,12 @@
         <mark key="." line="42" column="34" />
         <mark key="^" line="42" column="34" />
       </file>
-      <file name="$USER_HOME$/invite-api/src/models/conference-invite.model.js" timestamp="1488918579006">
+      <file name="$USER_HOME$/invite-api/src/models/conference-invite.model.js" timestamp="1488984386243">
         <mark key="'" line="42" column="39" />
-        <mark key="[" line="133" column="21" />
-        <mark key="]" line="133" column="26" />
-        <mark key="." line="133" column="26" />
-        <mark key="^" line="133" column="26" />
+        <mark key="[" line="130" column="26" />
+        <mark key="]" line="134" column="35" />
+        <mark key="." line="134" column="35" />
+        <mark key="^" line="134" column="35" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-accept-text.hbs" timestamp="1488915160265">
         <mark key="[" line="0" column="2" />
@@ -1870,10 +1870,10 @@
         <mark key="." line="38" column="11" />
         <mark key="^" line="38" column="11" />
       </file>
-      <file name="$USER_HOME$/invite-api/src/modules/partner/jsonapi/partner.jsonapi.js" timestamp="1488817902050">
+      <file name="$USER_HOME$/invite-api/src/modules/partner/jsonapi/partner.jsonapi.js" timestamp="1488984182679">
         <mark key="'" line="80" column="10" />
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="46" column="7" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="26" column="19" />
         <mark key="^" line="36" column="34" />
         <mark key="." line="36" column="34" />
       </file>
@@ -1905,12 +1905,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="11" filename="$USER_HOME$/boringcode/server/core/handlers/base-crud-handler.js" />
-      <jump line="102" column="0" filename="$USER_HOME$/boringcode/server/core/handlers/base-crud-handler.js" />
-      <jump line="9" column="40" filename="$USER_HOME$/boringcode/server/src/dals/user-dal.js" />
-      <jump line="14" column="19" filename="$USER_HOME$/boringcode/server/core/model/base-model.js" />
-      <jump line="51" column="37" filename="$USER_HOME$/boringcode/server/core/model/base-model.js" />
-      <jump line="9" column="0" filename="$USER_HOME$/boringcode/server/core/serializers/noop-serializer.js" />
       <jump line="3" column="0" filename="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-send-html.hbs" />
       <jump line="493" column="6" filename="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-send-html.hbs" />
       <jump line="0" column="0" filename="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-send-html.hbs" />
@@ -2005,6 +1999,12 @@
       <jump line="95" column="25" filename="$USER_HOME$/invite-api/src/modules/conference-invite/services/workflow.service.js" />
       <jump line="134" column="25" filename="$USER_HOME$/invite-api/src/modules/conference-invite/services/workflow.service.js" />
       <jump line="36" column="39" filename="$USER_HOME$/invite-api/src/modules/conference-invite/handlers/conference-invite-crud.handler.js" />
+      <jump line="49" column="0" filename="$USER_HOME$/invite-api/src/modules/core/base-handler.js" />
+      <jump line="80" column="29" filename="$USER_HOME$/invite-api/src/modules/core/base-handler.js" />
+      <jump line="8" column="43" filename="$USER_HOME$/invite-api/src/modules/conference-invite/jsonapi/conference-invite.jsonapi.js" />
+      <jump line="102" column="2" filename="$USER_HOME$/invite-api/src/modules/conference-invite/jsonapi/conference-invite.jsonapi.js" />
+      <jump line="58" column="20" filename="$USER_HOME$/invite-api/src/modules/conference-invite/jsonapi/conference-invite.jsonapi.js" />
+      <jump line="41" column="102" filename="$USER_HOME$/invite-api/src/modules/conference-invite/handlers/conference-invite-crud.handler.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2077,66 +2077,59 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLmNhdGNoKGNvbnNvbGUubG9nKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIGlnbm9yZVJlbGF0aW9uc2hpcERhdGE6IGZhbHNlLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfdXBkYXRlU3RhdHVzXD4=</text>
+        <text>C</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgc2VuZGVyOiB7CiAgICAgICAgaW5jbHVkZTogdHJ1ZSwKICAgICAgICByZWY6ICdpZCcsCiAgICAgICAgYXR0cmlidXRlczogWwogICAgICAgICAgJ2ZpcnN0TmFtZScsCiAgICAgICAgICAnbGFzdE5hbWUnLAogICAgICAgICAgJ2VtYWlsJwogICAgICAgIF0KICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgcGFzc09wdGlvbnM6IHsKICAgICAgICBpbmNsdWRlZDogdHJ1ZSwKICAgICAgICByZWY6ICdpZCcsCiAgICAgICAgaWdub3JlUmVsYXRpb25zaGlwRGF0YTogZmFsc2UsCiAgICAgICAgcmVsYXRpb25zaGlwTGlua3M6IHsKICAgICAgICAgIHNlbGY6IChwYXNzKSA9PiBgL3Bhc3Nlcy8ke3Bhc3MuaWR9L3JlbGF0aW9uc2hpcHMvcGFzcy1vcHRpb25zYCwKICAgICAgICAgIHJlbGF0ZWQ6IChwYXNzKSA9PiBgL3Bhc3Nlcy8ke3Bhc3MuaWR9L3Bhc3Mtb3B0aW9uc2AsCiAgICAgICAgfSwKICAgICAgICBhdHRyaWJ1dGVzOiBbCiAgICAgICAgICAndGl0bGVFbicsCiAgICAgICAgICAndGl0bGVGcicsCiAgICAgICAgICAnY29uZmlndXJhYmxlJwogICAgICAgIF0KICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLmNhdGNoKGNvbnNvbGUubG9nKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIGlnbm9yZVJlbGF0aW9uc2hpcERhdGE6IGZhbHNlLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhpbnZpdGUpOwo=</text>
+        <text encoding="base64">ICAgICAgICBwYXNzT3B0aW9uczogewogICAgICAgICAgCiAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhpbnZpdGUpOwo=</text>
+        <text encoding="base64">CiAgICAgICAgICAnY3JlYXRlZEF0JywKICAgICAgICAgICd1cGRhdGVkQXQnLAoKICAgICAgICAgICdjb25mZXJlbmNlJywK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIC5jYXRjaChlcnIgPT4gewogICAgICAgICAgICB0aHJvdyBlcnI7CiAgICAgICAgICB9KTsK</text>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgICAgICAgICAnY3JlYXRlZEF0JywKICAgICAgICAgICc=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxzZSB7CiAgICAgICAgICAgICAgCiAgICAgICAgICAgIH0K</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICdlbWFpbCcK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBpZ25vcmVSZWxhdGlvbnNoaXBEYXRhOiB0cnVlLAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBpZ25vcmVSZWxhdGlvbnNoaXBEYXRhOiB0cnVlLAo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAncGFydG5lcicsCg==</text>
+        <text encoding="base64">CiAgICAgICAgJ2NvbmZlcmVuY2UnCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfdXBkYXRlU3RhdHVzXD4=</last-search>
+      <last-search>C</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfdXBkYXRlU3RhdHVzXD4=</last-pattern>
+      <last-pattern>C</last-pattern>
       <last-replace>userId</last-replace>
       <last-substitute>partnerId</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>sen</entry>
-        <entry>sendBy</entry>
-        <entry>sent-by</entry>
-        <entry>U</entry>
-        <entry>c</entry>
-        <entry>Cre</entry>
-        <entry>V</entry>
         <entry>get</entry>
         <entry>partnerId</entry>
         <entry>{</entry>
@@ -2150,6 +2143,13 @@
         <entry>accept</entry>
         <entry>accept(</entry>
         <entry encoding="base64">XDxfdXBkYXRlU3RhdHVzXD4=</entry>
+        <entry>_create</entry>
+        <entry>_ser</entry>
+        <entry>)</entry>
+        <entry>D</entry>
+        <entry>DEF</entry>
+        <entry>false</entry>
+        <entry>C</entry>
       </history-search>
       <history-cmd>
         <entry>s</entry>
