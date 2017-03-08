@@ -599,6 +599,11 @@
         <mark key="^" line="17" column="17" />
         <mark key="." line="17" column="17" />
       </file>
+      <file name="$USER_HOME$/invite-api/db/migrations/20170113204512-create-pass-allocations.js" timestamp="1488992175944">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
       <file name="Z:/invite-api/config/custom-environment-variables.yml" timestamp="1488504318458">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -844,7 +849,7 @@
         <mark key="^" line="2" column="13" />
         <mark key="." line="2" column="13" />
       </file>
-      <file name="/Dummy.txt" timestamp="1488990015179">
+      <file name="/Dummy.txt" timestamp="1488992201048">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="27" />
       </file>
@@ -1752,6 +1757,12 @@
         <mark key="." line="18" column="29" />
         <mark key="^" line="18" column="29" />
       </file>
+      <file name="$USER_HOME$/invite-api/db/migrations/20170222213607-create-quotas.js" timestamp="1488992418457">
+        <mark key="[" line="50" column="7" />
+        <mark key="]" line="50" column="44" />
+        <mark key="." line="50" column="44" />
+        <mark key="^" line="50" column="44" />
+      </file>
       <file name="W:/boringcode/tooling/cli/commands/build/index.js" timestamp="1488509304741">
         <mark key="[" line="1" column="19" />
         <mark key="]" line="2" column="20" />
@@ -2076,11 +2087,11 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLmNhdGNoKGNvbnNvbGUubG9nKQo=</text>
+      <register name="&quot;" type="4">
+        <text>addIndex</text>
       </register>
       <register name="-" type="4">
-        <text>locale</text>
+        <text>addIndex</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfY2hlY2tXb3JrZmxvd09wZXJhdGlvblw+</text>
@@ -2089,31 +2100,31 @@
         <text encoding="base64">ICAgICAgICAgICAgbG9jYWxlOiBKb2kuc3RyaW5nKCkuYWxsb3cobnVsbCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLmNhdGNoKGNvbnNvbGUubG9nKQo=</text>
+        <text encoding="base64">CiAgICAgICAgcXVvdGFJZDogewogICAgICAgIH0sCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlIHsKICAgICAgICAgIGlmICghW1NFTlQsIFJFU0VOVF0uaW5jbHVkZXMoaW52aXRlLnN0YXR1cykpIHsKICAgICAgICAgICAgcmV0dXJuIHJlamVjdChuZXcgV29ya2Zsb3dPcGVyYXRpb25FcnJvcihgQ2Fubm90IEFDQ0VQVCBvbiAke2ludml0ZS5zdGF0dXN9YCkpOwogICAgICAgICAgfQogICAgICAgIH0K</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlIHsKICAgICAgICAgIGlmICghW1NFTlQsIFJFU0VOVF0uaW5jbHVkZXMoaW52aXRlLnN0YXR1cykpIHsKICAgICAgICAgICAgcmV0dXJuIHJlamVjdChuZXcgV29ya2Zsb3dPcGVyYXRpb25FcnJvcihgQ2Fubm90IENBTkNFTC9ERUNMSU5FIG9uICR7aW52aXRlLnN0YXR1c31gKSk7CiAgICAgICAgICB9CiAgICAgICAgfQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhpbnZpdGUpOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgTm90Rm91bmRFcnJvciB9IGZyb20gJy4uL3dvcmtmbG93LXN0YXRlcyc7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHt9Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgIGFsbG93TnVsbDogZmFsc2UsCiAgICAgICAgICB0eXBlOiBTZXF1ZWxpemUuVVVJRAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBxdW90YUlkOiB7CiAgICAgICAgICBhbGxvd051bGw6IGZhbHNlLAogICAgICAgICAgdHlwZTogU2VxdWVsaXplLlVVSUQKICAgICAgICB9LAoK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgLmNhdGNoKGNvbnNvbGUubG9nKQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBlbHNlIHsKICAgICAgICAgIGlmICghW1NFTlQsIFJFU0VOVF0uaW5jbHVkZXMoaW52aXRlLnN0YXR1cykpIHsKICAgICAgICAgICAgcmV0dXJuIHJlamVjdChuZXcgV29ya2Zsb3dPcGVyYXRpb25FcnJvcihgQ2Fubm90IEFDQ0VQVCBvbiAke2ludml0ZS5zdGF0dXN9YCkpOwogICAgICAgICAgfQogICAgICAgIH0K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBlbHNlIHsKICAgICAgICAgIGlmICghW1NFTlQsIFJFU0VOVF0uaW5jbHVkZXMoaW52aXRlLnN0YXR1cykpIHsKICAgICAgICAgICAgcmV0dXJuIHJlamVjdChuZXcgV29ya2Zsb3dPcGVyYXRpb25FcnJvcihgQ2Fubm90IENBTkNFTC9ERUNMSU5FIG9uICR7aW52aXRlLnN0YXR1c31gKSk7CiAgICAgICAgICB9CiAgICAgICAgfQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLnRoZW4oaW52aXRlID0+IHsKICAgICAgICByZXR1cm4gaW52aXRlOwogICAgICB9KQo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhpbnZpdGUpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoW1NFTlQsIFJFU0VOVF0uaW5jbHVkZXMoaW52aXRlLnN0YXR1cykpIHsKICAgICAgICAgIHRocm93IG5ldyBOb3RGb3VuZEVycm9yKCk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">aW1wb3J0IHsgTm90Rm91bmRFcnJvciB9IGZyb20gJy4uL3dvcmtmbG93LXN0YXRlcyc7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -2170,8 +2181,8 @@
         <entry encoding="base64">JzwsJz5zL3BhcnRuZXIvY29uZmVyZW5jZS9n</entry>
         <entry>88</entry>
         <entry encoding="base64">JzwsJz5zL3BhcnRuZXJJZC91c2VySWQvZw==</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
