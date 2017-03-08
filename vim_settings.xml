@@ -235,6 +235,12 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="0" column="44" />
       </file>
+      <file name="$USER_HOME$/invite-api/config/custom-environment-variables.yml" timestamp="1488993398171">
+        <mark key="[" line="20" column="19" />
+        <mark key="]" line="21" column="18" />
+        <mark key="^" line="21" column="18" />
+        <mark key="." line="21" column="18" />
+      </file>
       <file name="Z:/boringcode/tooling/gulp/helpers/copy-files.js" timestamp="1488136512041">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -849,7 +855,7 @@
         <mark key="^" line="2" column="13" />
         <mark key="." line="2" column="13" />
       </file>
-      <file name="/Dummy.txt" timestamp="1488992201048">
+      <file name="/Dummy.txt" timestamp="1488993415331">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="27" />
       </file>
