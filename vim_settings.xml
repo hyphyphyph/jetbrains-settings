@@ -1388,12 +1388,12 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="25" column="8" />
       </file>
-      <file name="$USER_HOME$/invite-api/src/modules/user/handlers/registration.handler.js" timestamp="1488763303299">
-        <mark key="'" line="137" column="0" />
-        <mark key="[" line="92" column="17" />
-        <mark key="]" line="92" column="41" />
-        <mark key="." line="92" column="41" />
-        <mark key="^" line="92" column="41" />
+      <file name="$USER_HOME$/invite-api/src/modules/user/handlers/registration.handler.js" timestamp="1489095717705">
+        <mark key="'" line="22" column="5" />
+        <mark key="[" line="25" column="1" />
+        <mark key="]" line="25" column="1" />
+        <mark key="." line="25" column="1" />
+        <mark key="^" line="25" column="1" />
       </file>
       <file name="Z:/boringcode/core/server-plugins/cors.js" timestamp="1488066250187">
         <mark key="'" line="46" column="33" />
@@ -1605,6 +1605,13 @@
         <mark key="]" line="8" column="37" />
         <mark key="^" line="8" column="37" />
         <mark key="." line="8" column="37" />
+      </file>
+      <file name="$USER_HOME$/invite-api/src/modules/user/services/registration.service.js" timestamp="1489095556621">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="5" column="0" />
       </file>
       <file name="Z:/invite-api/src/modules/s3/services/signed-url.service.js" timestamp="1488498351647">
         <mark key="[" line="8" column="43" />
@@ -1936,13 +1943,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="0" filename="$USER_HOME$/boringcode/server/migrations/0010-create-auth-tokens/index.js" />
-      <jump line="5" column="71" filename="$USER_HOME$/boringcode/server/migrations/0010-create-auth-tokens/index.js" />
-      <jump line="8" column="2" filename="$USER_HOME$/boringcode/server/migrations/0010-create-auth-tokens/index.js" />
-      <jump line="15" column="43" filename="$USER_HOME$/boringcode/server/migrations/0010-create-auth-tokens/index.js" />
-      <jump line="5" column="8" filename="$USER_HOME$/boringcode/server/tooling/migrate/main.js" />
-      <jump line="76" column="5" filename="$USER_HOME$/boringcode/server/tooling/migrate/main.js" />
-      <jump line="80" column="5" filename="$USER_HOME$/boringcode/server/tooling/migrate/main.js" />
       <jump line="0" column="0" filename="$USER_HOME$/boringcode/server/tooling/migrate/main.js" />
       <jump line="24" column="29" filename="$USER_HOME$/boringcode/server/tooling/migrate/main.js" />
       <jump line="8" column="2" filename="$USER_HOME$/boringcode/server/migrations/0000-create-users/index.js" />
@@ -2036,6 +2036,13 @@
       <jump line="3" column="0" filename="$USER_HOME$/invite-api/src/modules/partner/templates/invited-text.hbs" />
       <jump line="0" column="0" filename="$USER_HOME$/invite-api/src/modules/partner/templates/invited-text.hbs" />
       <jump line="0" column="0" filename="$USER_HOME$/invite-api/src/modules/conference/templates/invited-text.hbs" />
+      <jump line="12" column="31" filename="$USER_HOME$/invite-api/src/modules/user/services/registration.service.js" />
+      <jump line="13" column="31" filename="$USER_HOME$/invite-api/src/modules/user/services/registration.service.js" />
+      <jump line="24" column="6" filename="$USER_HOME$/invite-api/src/modules/user/services/registration.service.js" />
+      <jump line="6" column="0" filename="$USER_HOME$/invite-api/src/modules/user/services/registration.service.js" />
+      <jump line="13" column="0" filename="$USER_HOME$/invite-api/src/modules/user/handlers/registration.handler.js" />
+      <jump line="19" column="26" filename="$USER_HOME$/invite-api/src/modules/user/handlers/registration.handler.js" />
+      <jump line="22" column="5" filename="$USER_HOME$/invite-api/src/modules/user/handlers/registration.handler.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2107,64 +2114,65 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>titleEn</text>
+      <register name="&quot;" type="8">
+        <text>Html
+Html</text>
       </register>
       <register name="-" type="4">
-        <text>titleEn</text>
+        <text>html</text>
       </register>
       <register name="/" type="4">
-        <text>con</text>
+        <text>Ht</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">SGkge3t1c2VyLmZpcnN0TmFtZX19LAoKWW91J3ZlIGJlZW4gaW52aXRlZCB0byBtYW5hZ2UgZXZlbnRzIGZvciB7e3BhcnRuZXIudGl0bGVFbn19Lgo=</text>
+        <text encoding="base64">ICBodG1sOiB7CiAgICBlbjogUmVzZXRIdG1sVGVtcGxhdGVFbiwKICAgIGZyOiBSZXNldEh0bWxUZW1wbGF0ZUZyCiAgfQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">WW91J3ZlIGJlZW4gaW52aXRlZCB0byB7e2NvbmZlcmVuY2UudGl0bGV9fQo=</text>
+      <register name="1" type="8">
+        <text>Html
+Html</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">WW91J3ZlIGJlZW4gaW52aXRlZCB0byB7e2NvbmZlcmVuY2UudGl0bGV9fQo=</text>
+      <register name="2" type="8">
+        <text>en
+en</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CjxwPgogIFBsZWFzZSBmb2xsb3cgdGhpcyBjdXN0b20gbGluayB0byB2ZXJpZnkgeW91ciBhY2NvdW50Ogo8L3A+Cgo8dWw+CiAgPGxpIGNsYXNzPSJwcmltYXJ5Ij4KICAgIDxhIGhyZWY9Int7dmVyaWZpY2F0aW9uTGlua319Ij5WZXJ5aWZ5IG15IGFjY291bnQ8L2E+CiAgPC9saT4KPC91bD4KCg==</text>
+      <register name="3" type="8">
+        <text>En
+En</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICA8cD4KICAgICAgUGxlYXNlIGZvbGxvdyB0aGlzIGN1c3RvbSBsaW5rIHRvIHZlcmlmeSB5b3VyIGFjY291bnQ6CiAgICA8L3A+CgogICAgPHVsPgogICAgICA8bGkgY2xhc3M9InByaW1hcnkiPgogICAgICAgIDxhIGhyZWY9Int7dmVyaWZpY2F0aW9uTGlua319Ij5WZXJ5aWZ5IG15IGFjY291bnQ8L2E+CiAgICAgIDwvbGk+CiAgICA8L3VsPgo=</text>
+        <text encoding="base64">aW1wb3J0IFJlc2V0SHRtbFRlbXBsYXRlIGZyb20gJy4uL3RlbXBsYXRlcy9yZXNldC1odG1sLmhicyc7CmltcG9ydCBSZXNldFRleHRUZW1wbGF0ZSBmcm9tICcuLi90ZW1wbGF0ZXMvcmVzZXQtdGV4dC5oYnMnOwo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">PC9wPgo=</text>
+      <register name="5" type="8">
+        <text>en
+en</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PC9wPgoKPHA+Cg==</text>
+        <text encoding="base64">ago=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PHA+Cg==</text>
+        <text encoding="base64">WW91J3ZlIGJlZW4gaW52aXRlZCB0byB7e2NvbmZlcmVuY2UudGl0bGV9fQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">WW91J3ZlIGJlZW4gaW52aXRlZCBieSB7e3BhcnRuZXIudGl0bGVFbn19Cg==</text>
+        <text encoding="base64">WW91J3ZlIGJlZW4gaW52aXRlZCB0byB7e2NvbmZlcmVuY2UudGl0bGV9fQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">WW91J3ZlIGJlZW4gaW52aXRlZCBieSB7e3BhcnRuZXIudGl0bGVFbn19Cg==</text>
+        <text encoding="base64">CjxwPgogIFBsZWFzZSBmb2xsb3cgdGhpcyBjdXN0b20gbGluayB0byB2ZXJpZnkgeW91ciBhY2NvdW50Ogo8L3A+Cgo8dWw+CiAgPGxpIGNsYXNzPSJwcmltYXJ5Ij4KICAgIDxhIGhyZWY9Int7dmVyaWZpY2F0aW9uTGlua319Ij5WZXJ5aWZ5IG15IGFjY291bnQ8L2E+CiAgPC9saT4KPC91bD4KCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>con</last-search>
+      <last-search>Ht</last-search>
       <last-offset />
-      <last-pattern>con</last-pattern>
+      <last-pattern>Ht</last-pattern>
       <last-replace>userId</last-replace>
       <last-substitute>partnerId</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>is</entry>
-        <entry>font</entry>
-        <entry>font-sdize</entry>
-        <entry>size</entry>
         <entry>font-size</entry>
         <entry>style</entry>
         <entry>send</entry>
@@ -2181,6 +2189,10 @@
         <entry>conf</entry>
         <entry>partner</entry>
         <entry>con</entry>
+        <entry>html</entry>
+        <entry>En</entry>
+        <entry>en</entry>
+        <entry>Ht</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
