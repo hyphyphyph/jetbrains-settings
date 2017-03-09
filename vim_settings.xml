@@ -657,13 +657,6 @@
         <mark key="^" line="22" column="25" />
         <mark key="." line="59" column="0" />
       </file>
-      <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-send-html.hbs" timestamp="1489085000528">
-        <mark key="'" line="78" column="5" />
-        <mark key="[" line="2" column="4" />
-        <mark key="]" line="2" column="5" />
-        <mark key="." line="2" column="5" />
-        <mark key="^" line="2" column="5" />
-      </file>
       <file name="$USER_HOME$/invite-api/src/models/time-range.model.js" timestamp="1488594906740">
         <mark key="[" line="59" column="33" />
         <mark key="]" line="59" column="48" />
