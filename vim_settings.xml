@@ -239,11 +239,12 @@
         <mark key="^" line="54" column="33" />
         <mark key="." line="54" column="33" />
       </file>
-      <file name="$USER_HOME$/invite-api/src/modules/user/templates/registration-html-en.html" timestamp="1489187972200">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="6" column="14" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="3" column="0" />
+      <file name="$USER_HOME$/invite-api/src/modules/user/templates/registration-html-en.html" timestamp="1489189519067">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="49" />
+        <mark key="^" line="0" column="45" />
+        <mark key="." line="0" column="45" />
       </file>
       <file name="Z:/partner-platform-api/src/modules/quota/jsonapi/quota.jsonapi.js" timestamp="1487973498593">
         <mark key="[" line="29" column="18" />
@@ -268,6 +269,12 @@
         <mark key="]" line="0" column="40" />
         <mark key="." line="0" column="40" />
         <mark key="^" line="0" column="40" />
+      </file>
+      <file name="$USER_HOME$/invite-api/src/modules/user/templates/registration-html-fr.html" timestamp="1489189523051">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="50" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
       </file>
       <file name="Z:/boringcode/tooling/gulp/tasks/tests.js" timestamp="1488067708249">
         <mark key="[" line="2" column="0" />
@@ -371,6 +378,13 @@
         <mark key="." line="8" column="49" />
         <mark key="^" line="8" column="49" />
       </file>
+      <file name="$USER_HOME$/invite-api/src/modules/user/templates/reset-html-en.html" timestamp="1489189529992">
+        <mark key="'" line="4" column="13" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="50" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+      </file>
       <file name="Z:/boringcode/tooling/gulp/tasks/core.js" timestamp="1488063979782">
         <mark key="[" line="14" column="76" />
         <mark key="]" line="14" column="75" />
@@ -395,6 +409,9 @@
         <mark key="]" line="85" column="27" />
         <mark key="." line="85" column="27" />
         <mark key="^" line="85" column="27" />
+      </file>
+      <file name="$USER_HOME$/invite-api/src/modules/quota/jsonapi/quota.jsonapi.js" timestamp="1489188546526">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-resend-text.hbs" timestamp="1488915111502">
         <mark key="[" line="0" column="2" />
@@ -421,12 +438,12 @@
         <mark key="^" line="1" column="12" />
         <mark key="." line="1" column="12" />
       </file>
-      <file name="$USER_HOME$/invite-api/src/modules/user/handlers/registration.handler.js" timestamp="1489095717705">
-        <mark key="'" line="22" column="5" />
-        <mark key="[" line="25" column="1" />
-        <mark key="]" line="25" column="1" />
-        <mark key="." line="25" column="1" />
-        <mark key="^" line="25" column="1" />
+      <file name="$USER_HOME$/invite-api/src/modules/user/handlers/registration.handler.js" timestamp="1489189730771">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="14" column="64" />
+        <mark key="]" line="14" column="64" />
+        <mark key="." line="14" column="64" />
+        <mark key="^" line="14" column="64" />
       </file>
       <file name="$USER_HOME$/boringcode/src/index.js" timestamp="1488597662490">
         <mark key="[" line="2" column="0" />
@@ -434,12 +451,12 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="1" column="17" />
       </file>
-      <file name="$USER_HOME$/invite-api/src/templates/base-email.html" timestamp="1489184073177">
+      <file name="$USER_HOME$/invite-api/src/templates/base-email.html" timestamp="1489188238827">
         <mark key="'" line="84" column="20" />
-        <mark key="[" line="89" column="0" />
-        <mark key="]" line="89" column="0" />
-        <mark key="^" line="88" column="33" />
-        <mark key="." line="89" column="0" />
+        <mark key="[" line="85" column="17" />
+        <mark key="]" line="85" column="21" />
+        <mark key="^" line="85" column="21" />
+        <mark key="." line="85" column="21" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference/templates/invited-text.hbs" timestamp="1489094407909">
         <mark key="'" line="0" column="0" />
@@ -539,11 +556,10 @@
         <mark key="." line="1" column="17" />
         <mark key="^" line="1" column="17" />
       </file>
-      <file name="$USER_HOME$/invite-api/src/models/user.model.js" timestamp="1488818042494">
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="88" column="12" />
-        <mark key="." line="85" column="29" />
-        <mark key="^" line="85" column="29" />
+      <file name="$USER_HOME$/invite-api/src/models/user.model.js" timestamp="1489189178347">
+        <mark key="[" line="16" column="35" />
+        <mark key="]" line="16" column="35" />
+        <mark key="." line="16" column="35" />
       </file>
       <file name="Z:/invite-api/src/modules/upload/hapi-plugin.js" timestamp="1488498416853">
         <mark key="[" line="10" column="9" />
@@ -647,6 +663,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="2" column="35" />
+      </file>
+      <file name="$USER_HOME$/invite-api/src/models/conference.model.js" timestamp="1489189294742">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="20" column="6" />
       </file>
       <file name="Z:/boringcode/tooling/migrate/base-migration.js" timestamp="1488068735070">
         <mark key="[" line="0" column="30" />
@@ -968,6 +988,9 @@
         <mark key="." line="103" column="27" />
         <mark key="^" line="103" column="27" />
       </file>
+      <file name="/a.regexp" timestamp="1489188512499">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-decline-text.hbs" timestamp="1488915122825">
         <mark key="[" line="0" column="2" />
         <mark key="]" line="0" column="13" />
@@ -1022,6 +1045,13 @@
         <mark key="." line="7" column="3" />
         <mark key="^" line="7" column="3" />
       </file>
+      <file name="$USER_HOME$/invite-api/src/modules/user/templates/reset-html-fr.html" timestamp="1489189535949">
+        <mark key="'" line="8" column="23" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="50" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+      </file>
       <file name="Z:/boringcode/migrations/0010-create-auth-tokens/down.sql" timestamp="1488140267803">
         <mark key="[" line="0" column="18" />
         <mark key="]" line="0" column="28" />
@@ -1036,20 +1066,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="101" column="25" filename="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-send-html.hbs" />
-      <jump line="3" column="0" filename="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-resend-html.hbs" />
-      <jump line="105" column="23" filename="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-resend-html.hbs" />
-      <jump line="0" column="0" filename="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-resend-html.hbs" />
-      <jump line="99" column="9" filename="$USER_HOME$/invite-api/resources/email-template-message.html" />
-      <jump line="0" column="0" filename="$USER_HOME$/invite-api/resources/email-template-message.html" />
-      <jump line="24" column="14" filename="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-decline-html.hbs" />
-      <jump line="3" column="0" filename="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-cancel-on-behalf-html.hbs" />
-      <jump line="86" column="7" filename="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-cancel-on-behalf-html.hbs" />
-      <jump line="0" column="0" filename="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-cancel-on-behalf-html.hbs" />
-      <jump line="105" column="8" filename="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-send-html.hbs" />
-      <jump line="25" column="18" filename="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-decline-html.hbs" />
-      <jump line="104" column="0" filename="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-decline-html.hbs" />
-      <jump line="0" column="0" filename="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-decline-html.hbs" />
       <jump line="27" column="30" filename="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-send-html.hbs" />
       <jump line="93" column="78" filename="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-auto-accept-html.hbs" />
       <jump line="3" column="0" filename="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-accept-on-behalf-html.hbs" />
@@ -1136,6 +1152,20 @@
       <jump line="8" column="31" filename="$USER_HOME$/invite-api/src/services/mailer.service.js" />
       <jump line="84" column="0" filename="$USER_HOME$/invite-api/src/services/mailer.service.js" />
       <jump line="84" column="20" filename="$USER_HOME$/invite-api/src/modules/user/templates/registration-html-en.html" />
+      <jump line="22" column="0" filename="$USER_HOME$/invite-api/src/modules/user/templates/registration-html-en.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/invite-api/src/modules/quota/jsonapi/quota.jsonapi.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/invite-api/src/modules/user/templates/registration-html-en.html" />
+      <jump line="0" column="4" filename="$USER_HOME$/invite-api/src/modules/user/templates/registration-html-fr.html" />
+      <jump line="84" column="20" filename="$USER_HOME$/invite-api/src/modules/user/templates/reset-html-en.html" />
+      <jump line="5" column="6" filename="$USER_HOME$/invite-api/src/modules/user/templates/reset-html-en.html" />
+      <jump line="27" column="7" filename="$USER_HOME$/invite-api/src/modules/user/templates/reset-html-en.html" />
+      <jump line="23" column="13" filename="$USER_HOME$/invite-api/src/modules/user/templates/reset-html-en.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/invite-api/src/modules/user/templates/reset-html-en.html" />
+      <jump line="20" column="11" filename="$USER_HOME$/invite-api/src/modules/user/templates/reset-html-fr.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/invite-api/src/modules/user/templates/reset-html-fr.html" />
+      <jump line="2" column="13" filename="$USER_HOME$/invite-api/src/modules/user/templates/reset-html-en.html" />
+      <jump line="6" column="23" filename="$USER_HOME$/invite-api/src/modules/user/templates/reset-html-fr.html" />
+      <jump line="11" column="0" filename="$USER_HOME$/invite-api/src/modules/user/handlers/registration.handler.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1207,53 +1237,68 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">eyUgYmxvY2sgY292ZXJUZXh0ICV9ClZlcmlmeSB5b3UgbmV3IGFjY291bnQuCnslIGVuZGJsb2NrICV9Cg==</text>
+      <register name="&quot;" type="8">
+        <text>hbs
+hbs
+hbs
+hbs</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>getter</text>
       </register>
       <register name="/" type="4">
-        <text>R</text>
+        <text>from</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">eyUgYmxvY2sgY292ZXJUZXh0ICV9ClZlcmlmeSB5b3UgbmV3IGFjY291bnQuCnslIGVuZGJsb2NrICV9Cg==</text>
+        <text encoding="base64">eyUgZXh0ZW5kcyAnLi4vLi4vLi4vdGVtcGxhdGVzL2Jhc2UtZW1haWwuaHRtbCcgJX0K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">PGh0bWw+CjxoZWFkPgogIDxzdHlsZT4KICAgIGh0bWwsCiAgICBib2R5IHsKICAgICAgbWFyZ2luOiAwOwogICAgICBwYWRkaW5nOiAwOwoKICAgICAgYmFja2dyb3VuZDogI2ZmZjsKICAgIH0KCiAgICAubWFpbi1ib3ggewogICAgICBiYWNrZ3JvdW5kOiAjZTRlNWUzOwoKICAgICAgcG9zaXRpb246IHJlbGF0aXZlOwoKICAgICAgd2lkdGg6IDU4MHB4OwogICAgICBtYXJnaW46IDAgYXV0bzsKICAgIH0KCiAgICAuY292ZXIgewogICAgICBwb3NpdGlvbjogYWJzb2x1dGU7CiAgICAgIHRvcDogMDsKICAgICAgbGVmdDogMDsKICAgICAgcmlnaHQ6IDA7CiAgICAgIGhlaWdodDogMjcwcHg7CgogICAgICBiYWNrZ3JvdW5kOiB1cmwoaHR0cHM6Ly9tZWRpYS5lLTE4MC5jb20vQ0FDSEUvaW1hZ2VzL2dyb3Vwc19ncm91cHBpY3R1cmUvcGljdHVyZV8xNDdfMjAxNjA0MjExODIxMTMvN2UxNTdkNjcyMzEyMjU0MTM5ZTUxYTYwNTA0MmU4OWUuanBlZyk7CiAgICB9CgogICAgLmNvdmVyIGgxIHsKICAgICAgbWFyZ2luOiAwOwogICAgICBwb3NpdGlvbjogYWJzb2x1dGU7CiAgICAgIGxlZnQ6IDA7CiAgICAgIGJvdHRvbTogMDsKICAgICAgcmlnaHQ6IDA7CiAgICAgIGNvbG9yOiAjMDAwOwogICAgICBmb250LWZhbWlseTogIkxhdG8iLCAiSGVsdmV0aWNhIiwgIkFyaWFsIiwgc2Fucy1zZXJpZjsKICAgICAgYmFja2dyb3VuZDogIzQ3ZWFjODsKICAgICAgdGV4dC1hbGlnbjogY2VudGVyOwogICAgICBwYWRkaW5nOiAyMHB4IDA7CiAgICAgIG9wYWNpdHk6IDAuODsKICAgIH0KCiAgICAuY29udGVudCB7CiAgICAgIHBhZGRpbmc6IDI5MHB4IDAgMWVtIDA7CiAgICAgIGZvbnQtZmFtaWx5OiAiTGF0byIsICJIZWx2ZXRpY2EiLCAiQXJpYWwiLCBzYW5zLXNlcmlmOwogICAgICBmb250LXNpemU6IDE4cHg7CiAgICB9CgogICAgLmNvbnRlbnQgcCB7CiAgICAgIG1hcmdpbjogMWVtIDUwcHg7CiAgICB9CgogICAgLmNvbnRlbnQgdWwgewogICAgICBsaXN0LXN0eWxlOiBub25lOwogICAgICBtYXJnaW46IDNlbSAwIDFlbSAwOwogICAgICBwYWRkaW5nOiAwOwoKICAgICAgdGV4dC1hbGlnbjogY2VudGVyOwogICAgfQoKICAgIC5jb250ZW50IHVsIGxpIHsKICAgICAgZGlzcGxheTogaW5saW5lOwogICAgICBwYWRkaW5nOiAxMHB4IDIwcHg7CiAgICAgIG1hcmdpbjogMCAxMHB4OwoKICAgICAgYmFja2dyb3VuZDogIzAwMDsKICAgIH0KCiAgICAuY29udGVudCBsaSBhIHsKICAgICAgY29sb3I6ICNmZmY7CiAgICAgIHRleHQtZGVjb3JhdGlvbjogbm9uZTsKICAgIH0KCiAgICAuY29udGVudCB1bCAucHJpbWFyeSB7CiAgICAgIGJhY2tncm91bmQ6ICM0N2VhYzg7CiAgICAgIGZvbnQtd2VpZ2h0OiBib2xkOwogICAgfQogIDwvc3R5bGU+CjwvaGVhZD4KPGJvZHk+Cgo8ZGl2IGNsYXNzPSJtYWluLWJveCI+CiAgPGRpdiBjbGFzcz0iY292ZXIiPgo=</text>
+      <register name="1" type="8">
+        <text>hbs
+hbs
+hbs
+hbs</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gVE9ETzogQ2hlY2sgd2hldGhlciB3ZSBuZWVkIHRoaXMuCkhhbmRsZWJhcnNSZXF1aXJlRXh0ZW5zaW9uKCk7Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IEhhbmRsZWJhcnNSZXF1aXJlRXh0ZW5zaW9uIGZyb20gJ0AvcmVxdWlyZS1leHRlbnNpb25zL2hhbmRsZWJhcnMnOwo=</text>
+      <register name="3" type="8">
+        <text encoding="base64">IAogCiAKIA==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IEhhbmRsZWJhcnMgZnJvbSAnaGFuZGxlYmFycyc7Cg==</text>
+      <register name="4" type="8">
+        <text>)
+)
+)
+)</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB0ZXh0VGVtcGxhdGUgPSBIYW5kbGViYXJzLmNvbXBpbGUodGhpcy5vcHRpb25zLnRleHRUZW1wbGF0ZSk7CiAgICAgICAgdGV4dCA9IHRleHRUZW1wbGF0ZShkYXRhKTsK</text>
+      <register name="5" type="8">
+        <text>from
+from
+from
+from</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBodG1sID0gaHRtbFRlbXBsYXRlKGRhdGEpOwo=</text>
+      <register name="6" type="8">
+        <text>import
+import
+import
+import</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjb25zdCBodG1sVGVtcGxhdGUgPSBIYW5kbGViYXJzLmNvbXBpbGUodGhpcy5vcHRpb25zLmh0bWxUZW1wbGF0ZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBnZXQ6IGZ1bmN0aW9uICgpIHsKICAgICAgICAgIHJldHVybiAnMTIzJyArIHRoaXMuZ2V0RGF0YVZhbHVlKCdlbWFpbCcpOwogICAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBodG1sVGVtcGxhdGUK</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHBhdGgucmVzb2x2ZShjb25maWcuZ2V0KCdhd3MuczN1cmwnKSwgdGhpcy5nZXREYXRhVmFsdWUoJ2xvZ28nKSkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CmNvbnNvbGUubG9nKFJlZ2lzdHJhdGlvblRleHRUZW1wbGF0ZUZyKTsK</text>
+        <text encoding="base64">PGh0bWw+CjxoZWFkPgogIDxzdHlsZT4KICAgIGh0bWwsCiAgICBib2R5IHsKICAgICAgbWFyZ2luOiAwOwogICAgICBwYWRkaW5nOiAwOwoKICAgICAgYmFja2dyb3VuZDogI2ZmZjsKICAgIH0KCiAgICAubWFpbi1ib3ggewogICAgICBiYWNrZ3JvdW5kOiAjZTRlNWUzOwoKICAgICAgcG9zaXRpb246IHJlbGF0aXZlOwoKICAgICAgd2lkdGg6IDU4MHB4OwogICAgICBtYXJnaW46IDAgYXV0bzsKICAgIH0KCiAgICAuY292ZXIgewogICAgICBwb3NpdGlvbjogYWJzb2x1dGU7CiAgICAgIHRvcDogMDsKICAgICAgbGVmdDogMDsKICAgICAgcmlnaHQ6IDA7CiAgICAgIGhlaWdodDogMjcwcHg7CgogICAgICBiYWNrZ3JvdW5kOiB1cmwoaHR0cHM6Ly9tZWRpYS5lLTE4MC5jb20vQ0FDSEUvaW1hZ2VzL2dyb3Vwc19ncm91cHBpY3R1cmUvcGljdHVyZV8xNDdfMjAxNjA0MjExODIxMTMvN2UxNTdkNjcyMzEyMjU0MTM5ZTUxYTYwNTA0MmU4OWUuanBlZyk7CiAgICB9CgogICAgLmNvdmVyIGgxIHsKICAgICAgbWFyZ2luOiAwOwogICAgICBwb3NpdGlvbjogYWJzb2x1dGU7CiAgICAgIGxlZnQ6IDA7CiAgICAgIGJvdHRvbTogMDsKICAgICAgcmlnaHQ6IDA7CiAgICAgIGNvbG9yOiAjMDAwOwogICAgICBmb250LWZhbWlseTogIkxhdG8iLCAiSGVsdmV0aWNhIiwgIkFyaWFsIiwgc2Fucy1zZXJpZjsKICAgICAgYmFja2dyb3VuZDogIzQ3ZWFjODsKICAgICAgdGV4dC1hbGlnbjogY2VudGVyOwogICAgICBwYWRkaW5nOiAyMHB4IDA7CiAgICAgIG9wYWNpdHk6IDAuODsKICAgIH0KCiAgICAuY29udGVudCB7CiAgICAgIHBhZGRpbmc6IDI5MHB4IDAgMWVtIDA7CiAgICAgIGZvbnQtZmFtaWx5OiAiTGF0byIsICJIZWx2ZXRpY2EiLCAiQXJpYWwiLCBzYW5zLXNlcmlmOwogICAgICBmb250LXNpemU6IDE4cHg7CiAgICB9CgogICAgLmNvbnRlbnQgcCB7CiAgICAgIG1hcmdpbjogMWVtIDUwcHg7CiAgICB9CgogICAgLmNvbnRlbnQgdWwgewogICAgICBsaXN0LXN0eWxlOiBub25lOwogICAgICBtYXJnaW46IDNlbSAwIDFlbSAwOwogICAgICBwYWRkaW5nOiAwOwoKICAgICAgdGV4dC1hbGlnbjogY2VudGVyOwogICAgfQoKICAgIC5jb250ZW50IHVsIGxpIHsKICAgICAgZGlzcGxheTogaW5saW5lOwogICAgICBwYWRkaW5nOiAxMHB4IDIwcHg7CiAgICAgIG1hcmdpbjogMCAxMHB4OwoKICAgICAgYmFja2dyb3VuZDogIzAwMDsKICAgIH0KCiAgICAuY29udGVudCBsaSBhIHsKICAgICAgY29sb3I6ICNmZmY7CiAgICAgIHRleHQtZGVjb3JhdGlvbjogbm9uZTsKICAgIH0KCiAgICAuY29udGVudCB1bCAucHJpbWFyeSB7CiAgICAgIGJhY2tncm91bmQ6ICM0N2VhYzg7CiAgICAgIGZvbnQtd2VpZ2h0OiBib2xkOwogICAgfQogIDwvc3R5bGU+CjwvaGVhZD4KPGJvZHk+Cgo8ZGl2IGNsYXNzPSJtYWluLWJveCI+CiAgPGRpdiBjbGFzcz0iY292ZXIiPgogICAgPGgxPlJlc2V0IHlvdXIgcGFzc3dvcmQuPC9oMT4KICA8L2Rpdj4KICA8ZGl2IGNsYXNzPSJjb250ZW50Ij4KICAgIDxwPgogICAgICBIaSB7e3VzZXIuZmlyc3ROYW1lfX0sCiAgICA8L3A+CgogICAgPHA+CiAgICAgIFlvdSd2ZSByZXF1ZXN0ZWQgYSBwYXNzd29yZCByZXNldCBvbiB5b3VyIGFjY291bnQuCiAgICA8L3A+CgogICAgPHA+CiAgICAgIElmIHRoaXMgd2Fzbid0IHlvdSwgaWdub3JlIHRoaXMgZW1haWwuCiAgICA8L3A+CgogICAgPHA+CiAgICAgIFBsZWFzZSBmb2xsb3cgdGhpcyBjdXN0b20gbGluayB0byByZXNldCB5b3VyIHBhc3N3b3JkOgogICAgPC9wPgoKICAgIDx1bD4KICAgICAgPGxpIGNsYXNzPSJwcmltYXJ5Ij4KICAgICAgICA8YSBocmVmPSJ7e3Jlc2V0TGlua319Ij5SZXNldCBwYXNzd29yZDwvYT4KICAgICAgPC9saT4KICAgIDwvdWw+CiAgPC9kaXY+CjwvZGl2PgoKPC9ib2R5Pgo8L2h0bWw+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>R</last-search>
+      <last-search>from</last-search>
       <last-offset />
-      <last-pattern>R</last-pattern>
+      <last-pattern>from</last-pattern>
       <last-replace>userId</last-replace>
       <last-substitute>partnerId</last-substitute>
       <last-dir>1</last-dir>
@@ -1261,10 +1306,6 @@
     </search>
     <history>
       <history-search>
-        <entry>conf</entry>
-        <entry>partner</entry>
-        <entry>con</entry>
-        <entry>html</entry>
         <entry>En</entry>
         <entry>en</entry>
         <entry encoding="base64">XDxfc2VuZEVtYWlsXD4=</entry>
@@ -1281,6 +1322,10 @@
         <entry encoding="base64">XDxzZXJ2ZXJcPg==</entry>
         <entry encoding="base64">IA==</entry>
         <entry>R</entry>
+        <entry>Te</entry>
+        <entry>status</entry>
+        <entry>total</entry>
+        <entry>from</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
