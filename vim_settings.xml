@@ -41,12 +41,12 @@
         <mark key="." line="11" column="65" />
         <mark key="^" line="11" column="65" />
       </file>
-      <file name="$USER_HOME$/invite-api/src/modules/user/templates/registration-html-en.html" timestamp="1489196187977">
-        <mark key="'" line="0" column="46" />
-        <mark key="[" line="0" column="11" />
-        <mark key="]" line="0" column="11" />
-        <mark key="^" line="0" column="11" />
-        <mark key="." line="0" column="11" />
+      <file name="$USER_HOME$/invite-api/src/modules/user/templates/registration-html-en.html" timestamp="1489198219490">
+        <mark key="'" line="0" column="11" />
+        <mark key="[" line="0" column="27" />
+        <mark key="]" line="0" column="28" />
+        <mark key="^" line="0" column="26" />
+        <mark key="." line="0" column="28" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/user/templates/registration-html-fr.html" timestamp="1489189523051">
         <mark key="[" line="0" column="0" />
@@ -123,12 +123,12 @@
         <mark key="." line="0" column="47" />
         <mark key="^" line="0" column="22" />
       </file>
-      <file name="$USER_HOME$/invite-api/src/services/mailer.service.js" timestamp="1489187921189">
-        <mark key="'" line="79" column="0" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="78" column="69" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/invite-api/src/services/mailer.service.js" timestamp="1489198319302">
+        <mark key="'" line="96" column="55" />
+        <mark key="[" line="9" column="70" />
+        <mark key="]" line="9" column="70" />
+        <mark key="." line="9" column="70" />
+        <mark key="^" line="9" column="70" />
       </file>
       <file name="$USER_HOME$/invite-api/src/models/user.model.js" timestamp="1489189178347">
         <mark key="[" line="16" column="35" />
@@ -153,11 +153,11 @@
         <mark key="[" line="18" column="0" />
         <mark key="]" line="20" column="6" />
       </file>
-      <file name="$USER_HOME$/invite-api/src/modules/user/services/registration.service.js" timestamp="1489186617773">
-        <mark key="'" line="8" column="0" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/invite-api/src/modules/user/services/registration.service.js" timestamp="1489198329984">
+        <mark key="'" line="27" column="11" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-decline-html.hbs" timestamp="1489091521016">
         <mark key="'" line="0" column="0" />
@@ -249,10 +249,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-send-text.hbs" />
-      <jump line="12" column="0" filename="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-send-text.hbs" />
-      <jump line="15" column="0" filename="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-send-text.hbs" />
-      <jump line="107" column="45" filename="$USER_HOME$/invite-api/resources/registration-verify-template.html" />
       <jump line="89" column="19" filename="$USER_HOME$/invite-api/resources/registration-verify-template.html" />
       <jump line="0" column="0" filename="$USER_HOME$/invite-api/resources/registration-verify-template.html" />
       <jump line="1" column="0" filename="$USER_HOME$/invite-api/src/modules/user/templates/registration-html.hbs" />
@@ -348,7 +344,11 @@
       <jump line="13" column="7" filename="$USER_HOME$/invite-api/src/modules/conference/templates/invited-html.html" />
       <jump line="0" column="11" filename="$USER_HOME$/invite-api/BUILD/src/modules/user/templates/registration-html-en.html" />
       <jump line="0" column="11" filename="$USER_HOME$/invite-api/BUILD/src/modules/user/templates/registration-html-fr.html" />
-      <jump line="0" column="46" filename="$USER_HOME$/invite-api/src/modules/user/templates/registration-html-en.html" />
+      <jump line="25" column="15" filename="$USER_HOME$/invite-api/src/modules/user/services/registration.service.js" />
+      <jump line="7" column="0" filename="$USER_HOME$/invite-api/src/services/mailer.service.js" />
+      <jump line="27" column="11" filename="$USER_HOME$/invite-api/src/modules/user/services/registration.service.js" />
+      <jump line="93" column="55" filename="$USER_HOME$/invite-api/src/services/mailer.service.js" />
+      <jump line="0" column="11" filename="$USER_HOME$/invite-api/src/modules/user/templates/registration-html-en.html" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -420,61 +420,53 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>../../templates/</text>
       </register>
       <register name="/" type="4">
-        <text>tem</text>
+        <text>&quot;</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">eyUgZXh0ZW5kcyBiYXNlVGVtcGxhdGUgJX0K</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKF9fZGlybmFtZSk7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>&quot;../../../</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>'../../../templates/base-email.html'</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDEyMzEyMzEyMyk7CiAgICBjb25zb2xlLmxvZyhfX2Rpcm5hbWUpOwogICAgY29uc29sZS5sb2cocGF0aC5yZXNvbHZlKHBhdGguam9pbihfX2Rpcm5hbWUsICcuLi90ZW1wbGF0ZXMnKSkpOwo=</text>
       </register>
       <register name="3" type="4">
-        <text>'../../../templates/base-email.html'</text>
+        <text>../../templates/</text>
       </register>
-      <register name="4" type="8">
-        <text>hbs
-hbs</text>
+      <register name="4" type="2">
+        <text encoding="base64">Y29uc29sZS5sb2coMTIzMTIzMTIzKTsKY29uc29sZS5sb2coX19kaXJuYW1lKTsKCg==</text>
       </register>
-      <register name="5" type="8">
-        <text encoding="base64">ZnJvbSAKZnJvbSA=</text>
+      <register name="5" type="4">
+        <text>text</text>
       </register>
-      <register name="6" type="8">
-        <text>import
-import</text>
+      <register name="6" type="4">
+        <text>../../../templates/base-email.html</text>
       </register>
-      <register name="7" type="8">
-        <text encoding="base64">ZnJvbSAKZnJvbSAKZnJvbSAKZnJvbSA=</text>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IHBhdGggZnJvbSAncGF0aCc7Cg==</text>
       </register>
-      <register name="8" type="8">
-        <text>import
-import
-import
-import</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBwYXRoLnJlc29sdmUocGF0aC5qb2luKF9fZGlybmFtZSwgJy4uL3RlbXBsYXRlcycpKTsK</text>
       </register>
-      <register name="9" type="8">
-        <text>hbs
-hbs
-hbs
-hbs</text>
+      <register name="9" type="4">
+        <text>this.options.path</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>tem</last-search>
+      <last-search>&quot;</last-search>
       <last-offset />
-      <last-pattern>tem</last-pattern>
+      <last-pattern>&quot;</last-pattern>
       <last-replace>userId</last-replace>
       <last-substitute>partnerId</last-substitute>
       <last-dir>1</last-dir>
@@ -482,10 +474,7 @@ hbs</text>
     </search>
     <history>
       <history-search>
-        <entry>;</entry>
-        <entry>H</entry>
         <entry>Ht</entry>
-        <entry>T</entry>
         <entry encoding="base64">XDxodG1sVGVtcGxhdGVcPg==</entry>
         <entry>Tem</entry>
         <entry encoding="base64">XDx0ZXh0VGVtcGxhdGVcPg==</entry>
@@ -500,8 +489,11 @@ hbs</text>
         <entry>from</entry>
         <entry encoding="base64">IA==</entry>
         <entry>'</entry>
-        <entry>&quot;</entry>
         <entry>tem</entry>
+        <entry>)</entry>
+        <entry>T</entry>
+        <entry>bas</entry>
+        <entry>&quot;</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
