@@ -41,12 +41,12 @@
         <mark key="." line="11" column="65" />
         <mark key="^" line="11" column="65" />
       </file>
-      <file name="$USER_HOME$/invite-api/src/modules/user/templates/registration-html-en.html" timestamp="1489194693418">
-        <mark key="'" line="0" column="11" />
-        <mark key="[" line="0" column="46" />
-        <mark key="]" line="0" column="47" />
-        <mark key="^" line="0" column="45" />
-        <mark key="." line="0" column="47" />
+      <file name="$USER_HOME$/invite-api/src/modules/user/templates/registration-html-en.html" timestamp="1489196187977">
+        <mark key="'" line="0" column="46" />
+        <mark key="[" line="0" column="11" />
+        <mark key="]" line="0" column="11" />
+        <mark key="^" line="0" column="11" />
+        <mark key="." line="0" column="11" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/user/templates/registration-html-fr.html" timestamp="1489189523051">
         <mark key="[" line="0" column="0" />
@@ -348,7 +348,7 @@
       <jump line="13" column="7" filename="$USER_HOME$/invite-api/src/modules/conference/templates/invited-html.html" />
       <jump line="0" column="11" filename="$USER_HOME$/invite-api/BUILD/src/modules/user/templates/registration-html-en.html" />
       <jump line="0" column="11" filename="$USER_HOME$/invite-api/BUILD/src/modules/user/templates/registration-html-fr.html" />
-      <jump line="0" column="11" filename="$USER_HOME$/invite-api/src/modules/user/templates/registration-html-en.html" />
+      <jump line="0" column="46" filename="$USER_HOME$/invite-api/src/modules/user/templates/registration-html-en.html" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -421,60 +421,60 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>baseTemplate</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>baseTemplate</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>'</text>
+        <text>tem</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">eyUgZXh0ZW5kcyBiYXNlVGVtcGxhdGUgJX0K</text>
       </register>
       <register name="1" type="4">
-        <text>'../../../templates/base-email.html'</text>
+        <text>&quot;../../../</text>
       </register>
       <register name="2" type="4">
         <text>'../../../templates/base-email.html'</text>
       </register>
-      <register name="3" type="8">
-        <text>hbs
-hbs</text>
+      <register name="3" type="4">
+        <text>'../../../templates/base-email.html'</text>
       </register>
       <register name="4" type="8">
-        <text encoding="base64">ZnJvbSAKZnJvbSA=</text>
+        <text>hbs
+hbs</text>
       </register>
       <register name="5" type="8">
-        <text>import
-import</text>
+        <text encoding="base64">ZnJvbSAKZnJvbSA=</text>
       </register>
       <register name="6" type="8">
-        <text encoding="base64">ZnJvbSAKZnJvbSAKZnJvbSAKZnJvbSA=</text>
+        <text>import
+import</text>
       </register>
       <register name="7" type="8">
+        <text encoding="base64">ZnJvbSAKZnJvbSAKZnJvbSAKZnJvbSA=</text>
+      </register>
+      <register name="8" type="8">
         <text>import
 import
 import
 import</text>
       </register>
-      <register name="8" type="8">
+      <register name="9" type="8">
         <text>hbs
 hbs
 hbs
 hbs</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICA8L2Rpdj4KPC9kaXY+Cgo8L2JvZHk+CjwvaHRtbD4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>'</last-search>
+      <last-search>tem</last-search>
       <last-offset />
-      <last-pattern>'</last-pattern>
+      <last-pattern>tem</last-pattern>
       <last-replace>userId</last-replace>
       <last-substitute>partnerId</last-substitute>
       <last-dir>1</last-dir>
@@ -482,8 +482,6 @@ hbs</text>
     </search>
     <history>
       <history-search>
-        <entry>en</entry>
-        <entry encoding="base64">XDxfc2VuZEVtYWlsXD4=</entry>
         <entry>;</entry>
         <entry>H</entry>
         <entry>Ht</entry>
@@ -502,6 +500,8 @@ hbs</text>
         <entry>from</entry>
         <entry encoding="base64">IA==</entry>
         <entry>'</entry>
+        <entry>&quot;</entry>
+        <entry>tem</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
