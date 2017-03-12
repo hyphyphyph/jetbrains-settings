@@ -16,7 +16,7 @@
         <mark key="]" line="88" column="0" />
         <mark key="." line="88" column="0" />
       </file>
-      <file name="$USER_HOME$/boringcode/new-server/core/modules/user/errors/auth-token-error.js" timestamp="1489337364060">
+      <file name="$USER_HOME$/boringcode/new-server/core/modules/user/errors/auth-token-error.js" timestamp="1489339552299">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="2" column="33" />
         <mark key="]" line="2" column="31" />
@@ -190,11 +190,11 @@
         <mark key="^" line="0" column="26" />
         <mark key="." line="0" column="28" />
       </file>
-      <file name="$USER_HOME$/boringcode/new-server/tooling/cli/commands/build/index.js" timestamp="1489337405327">
-        <mark key="[" line="10" column="7" />
-        <mark key="]" line="12" column="22" />
-        <mark key="." line="12" column="22" />
-        <mark key="^" line="12" column="22" />
+      <file name="$USER_HOME$/boringcode/new-server/tooling/cli/commands/build/index.js" timestamp="1489340362222">
+        <mark key="[" line="9" column="5" />
+        <mark key="]" line="9" column="8" />
+        <mark key="." line="9" column="5" />
+        <mark key="^" line="9" column="8" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-auto-accept-html-en.html" timestamp="1489272152033">
         <mark key="'" line="20" column="0" />
@@ -664,6 +664,10 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/boringcode/new-server/tooling/cli/commands/migrate/index.js" timestamp="1489340329331">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="26" column="2" />
+      </file>
       <file name="$USER_HOME$/boringcode/server/core/server-init/lout.js" timestamp="1489295050596">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
@@ -876,10 +880,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="15" filename="$USER_HOME$/boringcode/server/core/dal/pg-dal.js" />
-      <jump line="44" column="13" filename="$USER_HOME$/boringcode/server/core/dal/pg-dal.js" />
-      <jump line="25" column="9" filename="$USER_HOME$/boringcode/server/core/dal/pg-dal.js" />
-      <jump line="29" column="13" filename="$USER_HOME$/boringcode/server/core/dal/pg-dal.js" />
       <jump line="30" column="34" filename="$USER_HOME$/boringcode/server/core/dal/pg-dal.js" />
       <jump line="52" column="0" filename="$USER_HOME$/boringcode/server/core/dal/pg-crud-dal.js" />
       <jump line="57" column="0" filename="$USER_HOME$/boringcode/server/core/dal/pg-crud-dal.js" />
@@ -975,7 +975,11 @@
       <jump line="18" column="0" filename="$USER_HOME$/boringcode/new-server/tooling/gulp/tasks/migrations.js" />
       <jump line="14" column="0" filename="$USER_HOME$/boringcode/new-server/tooling/gulp/tasks/migrations.js" />
       <jump line="2" column="31" filename="$USER_HOME$/boringcode/new-server/core/modules/user/errors/auth-token-error.js" />
+      <jump line="8" column="0" filename="$USER_HOME$/boringcode/new-server/core/modules/user/errors/auth-token-error.js" />
       <jump line="0" column="0" filename="$USER_HOME$/boringcode/new-server/core/modules/user/errors/auth-token-error.js" />
+      <jump line="35" column="31" filename="$USER_HOME$/boringcode/new-server/tooling/cli/commands/build/index.js" />
+      <jump line="1" column="24" filename="$USER_HOME$/boringcode/new-server/tooling/cli/commands/build/index.js" />
+      <jump line="10" column="5" filename="$USER_HOME$/boringcode/new-server/tooling/cli/commands/build/index.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1048,61 +1052,59 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Run migrations up</text>
       </register>
       <register name="/" type="4">
-        <text>run</text>
+        <text>{</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBoZWxwICgpIHsKICAgIGNvbW1hbmRlcgogICAgICAuY29tbWFuZCgnbWlncmF0ZScpCiAgICAgIC5vcHRpb24oJy0tZGVidWcnLCAnRGVidWcnKQogICAgICAub3B0aW9uKCctLXVwJywgJ1J1biBtaWdyYXRpb25zIHVwJykKICAgICAgLm9wdGlvbignLS1kb3duJywgJ1J1biBtaWdyYXRpb25zIGRvd24nKQogICAgICAucGFyc2UocHJvY2Vzcy5hcmd2LnNsaWNlKDAsIDIpLmNvbmNhdChbJy0taGVscCddKSkKICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmIChyZXMpIHsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Y29uc3QgcnVuID0gcmVxdWlyZSgnZ3VscC1ydW4nKTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Z3VscC50YXNrKAogICdtaWdyYXRpb25zOnVwJywKICBbCiAgICAndG9vbGluZzptaWdyYXRlOmJ1aWxkJywKICAgICdtaWdyYXRpb25zOmJ1aWxkJwogIF0sCiAgKCkgPT4gcGFydHMubWlncmF0aW9ucy50YXNrTWlncmF0aW9uc1VwKCkKKTsKCmd1bHAudGFzaygKICAnbWlncmF0aW9uczpkb3duJywKICBbCiAgICAnbWlncmF0aW9uczpidWlsZCcsCiAgICAndG9vbGluZzptaWdyYXRlOmJ1aWxkJwogIF0sCiAgKCkgPT4gcnVuKGBub2RlICR7Y29uZmlnLmdldCgnYnVpbGQuZGVzdCcpfS90b29saW5nL21pZ3JhdGUvaW5kZXguanMgZG93bmApLmV4ZWMoKQopOwoKZ3VscC50YXNrKAogICdtaWdyYXRpb25zOnVwJywKICBbCiAgICAnbWlncmF0aW9uczpidWlsZCcsCiAgICAndG9vbGluZzptaWdyYXRlOmJ1aWxkJwogIF0sCiAgKCkgPT4gcnVuKGBub2RlICR7Y29uZmlnLmdldCgnYnVpbGQuZGVzdCcpfS90b29saW5nL21pZ3JhdGUvaW5kZXguanMgdXBgKS5leGVjKCkKKTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">cmVxdWlyZSgnLi90b29saW5nL2d1bHAvdGFza3MvbWlncmF0aW9ucycpCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHRyeSB7CiAgICAgIGV4ZWNhLnN5bmMoCiAgICAgICAgJ3lhcm4nLAogICAgICAgIFsKICAgICAgICAgICdzdGFuZGFyZCcKICAgICAgICBdLAogICAgICAgIHsKICAgICAgICAgIHN0ZGlvOiAnaW5oZXJpdCcKICAgICAgICB9CiAgICAgICkKICAgIH0KICAgIGNhdGNoIChlcnIpIHsKICAgICAgcmV0dXJuCiAgICB9Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgLm9wdGlvbignLS1kb3duJywgJ1J1biBtaWdyYXRpb25zIGRvd24nKQo=</text>
+      </register>
+      <register name="5" type="4">
+        <text>Run migrations up</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgLm9wdGlvbignLS1kZWJ1ZycsICdEZWJ1ZycpCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGV4ZWNhLnN5bmMoCiAgICAgICd5YXJuJywKICAgICAgWwogICAgICAgICdzdGFuZGFyZCcKICAgICAgXSwKICAgICAgewogICAgICAgIHN0ZGlvOiAnaW5oZXJpdCcKICAgICAgfQogICAgKQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGV4ZWNhKAogICAgICAneWFybicsCiAgICAgIFsKICAgICAgICAnYnVpbGQnCiAgICAgIF0sCiAgICAgIHsKICAgICAgICBzdGRpbzogJ2luaGVyaXQnCiAgICAgIH0KICAgICkK</text>
+        <text encoding="base64">ICAgICAgdGhyb3cgZXJyCiAgICB9KQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>run</last-search>
+      <last-search>{</last-search>
       <last-offset />
-      <last-pattern>run</last-pattern>
+      <last-pattern>{</last-pattern>
       <last-replace>AuthTokenDal</last-replace>
       <last-substitute>UserDal</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>msdg</entry>
-        <entry>debugger</entry>
         <entry>()</entry>
         <entry>ms</entry>
         <entry encoding="base64">IA==</entry>
@@ -1121,6 +1123,8 @@
         <entry>testClass</entry>
         <entry>migr</entry>
         <entry>run</entry>
+        <entry>'</entry>
+        <entry>{</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3Bhc3MvaW52aXRlL2c=</entry>
