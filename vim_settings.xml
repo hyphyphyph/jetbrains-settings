@@ -133,11 +133,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/boringcode/new-server/tests/main.yml" timestamp="1489353580621">
-        <mark key="[" line="5" column="4" />
-        <mark key="]" line="5" column="9" />
-        <mark key="^" line="5" column="9" />
-        <mark key="." line="5" column="9" />
+      <file name="$USER_HOME$/boringcode/new-server/tests/main.yml" timestamp="1489356317406">
+        <mark key="[" line="4" column="22" />
+        <mark key="]" line="4" column="20" />
+        <mark key="^" line="4" column="20" />
+        <mark key="." line="4" column="20" />
       </file>
       <file name="$USER_HOME$/boringcode/new-server/tests/misc/test.js" timestamp="1489352969437">
         <mark key="[" line="2" column="42" />
@@ -272,6 +272,12 @@
         <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="12" />
         <mark key="^" line="0" column="49" />
+      </file>
+      <file name="$USER_HOME$/boringcode/new-server/gulpfile.js" timestamp="1489337117956">
+        <mark key="'" line="6" column="38" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/boringcode/server/core/server-init/connection.js" timestamp="1489295027573">
         <mark key="[" line="0" column="0" />
@@ -723,12 +729,12 @@
         <mark key="." line="11" column="14" />
         <mark key="^" line="11" column="14" />
       </file>
-      <file name="$USER_HOME$/boringcode/new-server/tests/http/users/create-user.js" timestamp="1489353427548">
+      <file name="$USER_HOME$/boringcode/new-server/tests/http/users/create-user.js" timestamp="1489356274018">
         <mark key="'" line="10" column="27" />
-        <mark key="[" line="21" column="55" />
-        <mark key="]" line="21" column="58" />
-        <mark key="." line="21" column="58" />
-        <mark key="^" line="21" column="58" />
+        <mark key="[" line="19" column="58" />
+        <mark key="]" line="19" column="59" />
+        <mark key="." line="19" column="59" />
+        <mark key="^" line="19" column="61" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-accept-html-en.html" timestamp="1489272124405">
         <mark key="'" line="12" column="18" />
@@ -756,12 +762,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/boringcode/new-server/tests/http/users/delete-user.js" timestamp="1489353547364">
-        <mark key="'" line="9" column="28" />
-        <mark key="[" line="21" column="12" />
-        <mark key="]" line="21" column="15" />
-        <mark key="." line="21" column="15" />
-        <mark key="^" line="21" column="15" />
+      <file name="$USER_HOME$/boringcode/new-server/tests/http/users/delete-user.js" timestamp="1489356308914">
+        <mark key="'" line="8" column="17" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-cancel-on-behalf-html-fr.html" timestamp="1489272169981">
         <mark key="'" line="18" column="13" />
@@ -948,7 +953,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/boringcode/server/core/dal/errors.js" />
       <jump line="21" column="20" filename="$USER_HOME$/boringcode/server/core/handlers/errors.js" />
       <jump line="0" column="0" filename="$USER_HOME$/boringcode/server/core/handlers/errors.js" />
       <jump line="0" column="0" filename="$USER_HOME$/boringcode/server/core/handlers/errors/no-serializer-error.js" />
@@ -1048,6 +1052,7 @@
       <jump line="21" column="1" filename="$USER_HOME$/boringcode/new-server/tests/http/login/login.js" />
       <jump line="6" column="0" filename="$USER_HOME$/boringcode/new-server/tests/http/users/delete-user.js" />
       <jump line="9" column="28" filename="$USER_HOME$/boringcode/new-server/tests/http/users/delete-user.js" />
+      <jump line="8" column="17" filename="$USER_HOME$/boringcode/new-server/tests/http/users/delete-user.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1119,53 +1124,53 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>create</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuZW52KTsK</text>
       </register>
       <register name="-" type="4">
-        <text>create</text>
+        <text>payload</text>
       </register>
       <register name="/" type="4">
-        <text>'</text>
+        <text>Test</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNyZWF0ZS11c2VyOiB0cnVlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgcG9zdCAocmVzcG9uc2UpIHsKICAgIHJldHVybiB7CiAgICAgIHVzZXI6IHJlc3BvbnNlLnBheWxvYWQKICAgIH0KICB9Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuZW52KTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgJ3Bhc3N3b3JkIGlzIGhhc2hlZCc6IHJlc3BvbnNlLmJvZHkucGFzc3dvcmQgPT09IG51bGwK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdBQkMnKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgJ3VzZXJuYW1lIGlzIGNvcnJlY3QnOiByZXNwb25zZS5ib2R5LnVzZXJuYW1lID09PSB0aGlzLnVzZXJuYW1lLAogICAgICAncGFzc3dvcmQgaXMgaGFzaGVkJzogcmVzcG9uc2UuYm9keS5wYXNzd29yZCA9PT0gbnVsbAo=</text>
+        <text encoding="base64">CiAgcG9zdCAocmVzcG9uc2UpIHsKICAgIHJldHVybiB7CiAgICAgIHVzZXI6IHJlc3BvbnNlLnBheWxvYWQKICAgIH0KICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAganNvbjogbWVyZ2UodGhpcy5maWxlLmpzb25bJ2NyZWF0ZS11c2VyJ10sIHsgdXNlcm5hbWU6IHRoaXMudXNlcm5hbWUgfSkK</text>
+        <text encoding="base64">ICAgICAgJ3Bhc3N3b3JkIGlzIGhhc2hlZCc6IHJlc3BvbnNlLmJvZHkucGFzc3dvcmQgPT09IG51bGwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRoaXMudXNlcm5hbWUgPSB1dWlkLnY0KCkKCg==</text>
+        <text encoding="base64">ICAgICAgJ3VzZXJuYW1lIGlzIGNvcnJlY3QnOiByZXNwb25zZS5ib2R5LnVzZXJuYW1lID09PSB0aGlzLnVzZXJuYW1lLAogICAgICAncGFzc3dvcmQgaXMgaGFzaGVkJzogcmVzcG9uc2UuYm9keS5wYXNzd29yZCA9PT0gbnVsbAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW5qZWN0TG9jYWxlRmlsZXMoQ3JlYXRlVXNlciwgX19kaXJuYW1lKQo=</text>
+        <text encoding="base64">ICAgICAganNvbjogbWVyZ2UodGhpcy5maWxlLmpzb25bJ2NyZWF0ZS11c2VyJ10sIHsgdXNlcm5hbWU6IHRoaXMudXNlcm5hbWUgfSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGluamVjdExvY2FsZUZpbGVzIGZyb20gJy4uLy4uLy4uL2NvcmUvY2xhc3MtaGVscGVycy9pbmplY3QtbG9jYWwtZmlsZXMnCg==</text>
+        <text encoding="base64">ICAgIHRoaXMudXNlcm5hbWUgPSB1dWlkLnY0KCkKCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8KLy8gaWYgKCFtb2R1bGUucGFyZW50KSB7Ci8vICAgbmV3IExvZ2luKCkudGhlbihlbnYgPT4gewovLyAgICAgY29uc29sZS5sb2coZW52KQovLyAgIH0pLmNhdGNoKGNvbnNvbGUubG9nKQo=</text>
+        <text encoding="base64">aW5qZWN0TG9jYWxlRmlsZXMoQ3JlYXRlVXNlciwgX19kaXJuYW1lKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgCg==</text>
+        <text encoding="base64">aW1wb3J0IGluamVjdExvY2FsZUZpbGVzIGZyb20gJy4uLy4uLy4uL2NvcmUvY2xhc3MtaGVscGVycy9pbmplY3QtbG9jYWwtZmlsZXMnCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>'</last-search>
+      <last-search>Test</last-search>
       <last-offset />
-      <last-pattern>'</last-pattern>
+      <last-pattern>Test</last-pattern>
       <last-replace>AuthTokenDal</last-replace>
       <last-substitute>UserDal</last-substitute>
       <last-dir>1</last-dir>
@@ -1173,7 +1178,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ms</entry>
         <entry>msd</entry>
         <entry>msg</entry>
         <entry>)</entry>
@@ -1193,6 +1197,7 @@
         <entry>GET</entry>
         <entry encoding="base64">IA==</entry>
         <entry>'</entry>
+        <entry>Test</entry>
       </history-search>
       <history-cmd>
         <entry>ew</entry>
