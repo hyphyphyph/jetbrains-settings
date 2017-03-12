@@ -105,12 +105,12 @@
         <mark key="." line="0" column="30" />
         <mark key="^" line="0" column="30" />
       </file>
-      <file name="$USER_HOME$/boringcode/server/core/dal/pg-dal.js" timestamp="1489285856742">
-        <mark key="'" line="1" column="7" />
-        <mark key="[" line="46" column="20" />
-        <mark key="]" line="46" column="21" />
-        <mark key="^" line="46" column="22" />
-        <mark key="." line="46" column="21" />
+      <file name="$USER_HOME$/boringcode/server/core/dal/pg-dal.js" timestamp="1489287058079">
+        <mark key="'" line="41" column="29" />
+        <mark key="[" line="53" column="8" />
+        <mark key="]" line="53" column="19" />
+        <mark key="." line="53" column="19" />
+        <mark key="^" line="53" column="19" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/user/templates/registration-html-en.html" timestamp="1489198219490">
         <mark key="'" line="0" column="11" />
@@ -310,12 +310,12 @@
         <mark key="." line="23" column="17" />
         <mark key="^" line="23" column="17" />
       </file>
-      <file name="$USER_HOME$/boringcode/server/core/dal/pg-crud-dal.js" timestamp="1489285952046">
-        <mark key="'" line="55" column="17" />
-        <mark key="[" line="16" column="32" />
-        <mark key="]" line="16" column="33" />
-        <mark key="." line="16" column="33" />
-        <mark key="^" line="16" column="33" />
+      <file name="$USER_HOME$/boringcode/server/core/dal/pg-crud-dal.js" timestamp="1489286963544">
+        <mark key="'" line="60" column="26" />
+        <mark key="[" line="18" column="38" />
+        <mark key="]" line="18" column="38" />
+        <mark key="." line="18" column="38" />
+        <mark key="^" line="18" column="38" />
       </file>
       <file name="$USER_HOME$/invite-api/src/services/mailer.service.js" timestamp="1489198319302">
         <mark key="'" line="96" column="55" />
@@ -366,9 +366,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="11" filename="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-accept-on-behalf-html-fr.html" />
-      <jump line="3" column="0" filename="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-accept-html-en.html" />
-      <jump line="11" column="0" filename="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-accept-html-en.html" />
       <jump line="10" column="13" filename="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-accept-html-en.html" />
       <jump line="0" column="0" filename="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-accept-html-en.html" />
       <jump line="0" column="0" filename="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-accept-html-fr.html" />
@@ -466,6 +463,9 @@
       <jump line="86" column="2" filename="$USER_HOME$/boringcode/server/core/handlers/base-crud-handler.js" />
       <jump line="102" column="12" filename="$USER_HOME$/boringcode/server/core/handlers/base-crud-handler.js" />
       <jump line="123" column="27" filename="$USER_HOME$/boringcode/server/core/handlers/base-crud-handler.js" />
+      <jump line="15" column="41" filename="$USER_HOME$/boringcode/server/core/dal/pg-crud-dal.js" />
+      <jump line="41" column="29" filename="$USER_HOME$/boringcode/server/core/dal/pg-dal.js" />
+      <jump line="59" column="26" filename="$USER_HOME$/boringcode/server/core/dal/pg-crud-dal.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -538,52 +538,52 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>123</text>
+        <text>promiseTo</text>
       </register>
       <register name="/" type="4">
-        <text>{</text>
+        <text>R</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMik7Cg==</text>
+        <text encoding="base64">ICAgICAgLmNhdGNoKGVyciA9PiB7CiAgICAgICAgdGhpcy5pbW1lZGlhdGVseVJlbGVhc2VDb25uZWN0aW9uKCk7CiAgICAgICAgdGhyb3cgZXJyOwogICAgICB9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRoaXMuZGFsSW5zdGFuY2UucmVsZWFzZUNvbm5lY3Rpb24oKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhlcnIpOwo=</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIFByb21pc2UucmVzb2x2ZShpbnB1dCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLnRoZW4obW9kZWwgPT4gewogICAgICAgIGNvbnNvbGUubG9nKG1vZGVsKTsKICAgICAgfSkK</text>
+        <text encoding="base64">ICAgICAgZGVidWdnZXI7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLmNhdGNoKHRoaXMucmVsZWFzZUNvbm5lY3Rpb24oKSkK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBkZXNlcmlhbGl6ZShvcHRpb25zKSB7CiAgICByZXR1cm4gKGRhdGEpID0+IHRoaXMuc2VyaWFsaXplcihvcHRpb25zKQogICAgICAuZGVzZXJpYWxpemUoZGF0YSkKICAgICAgLnRoZW4oZGVzZXJpYWxpemVkUGF5bG9hZCA9PiB7CiAgICAgICAgZGVidWdnZXI7CiAgICAgICAgdGhpcy5kZXNlcmlhbGl6ZWRQYXlsb2FkID0gZGVzZXJpYWxpemVkUGF5bG9hZDsKICAgICAgICByZXR1cm4gZGVzZXJpYWxpemVkUGF5bG9hZDsKICAgICAgfSk7CiAgfQoK</text>
+      <register name="5" type="4">
+        <text>promiseTo</text>
       </register>
-      <register name="6" type="4">
-        <text>createPersistent</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBQcm9taXNlLnJlc29sdmUoaW5wdXQpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zdHJ1Y3RvcigpIHsKICAgIHN1cGVyKCk7CgogICAgY29uc29sZS5sb2coVXNlckNydWRIYW5kbGVyLlNFUklBTElaRVIpOwogIH0K</text>
+        <text encoding="base64">ICAgIH07Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGVycik7CiAgICByZXR1cm4gZXJyLmJvb20oKTsK</text>
+        <text encoding="base64">ICAgIHJldHVybiAoaW5wdXQpID0+IHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygzKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>{</last-search>
+      <last-search>R</last-search>
       <last-offset />
-      <last-pattern>{</last-pattern>
+      <last-pattern>R</last-pattern>
       <last-replace>html</last-replace>
       <last-substitute>hbs</last-substitute>
       <last-dir>1</last-dir>
@@ -591,9 +591,6 @@
     </search>
     <history>
       <history-search>
-        <entry>signature</entry>
-        <entry>sign</entry>
-        <entry>,</entry>
         <entry>email</entry>
         <entry encoding="base64">PA==</entry>
         <entry encoding="base64">Pg==</entry>
@@ -611,6 +608,9 @@
         <entry>Mo</entry>
         <entry>M</entry>
         <entry>{</entry>
+        <entry>rel</entry>
+        <entry>pro</entry>
+        <entry>R</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
