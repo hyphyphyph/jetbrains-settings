@@ -109,6 +109,12 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/boringcode/new-server/.gitattributes" timestamp="1489333130585">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/boringcode/server/core/handlers/base-crud-handler.js" timestamp="1489302389400">
         <mark key="[" line="41" column="0" />
         <mark key="]" line="48" column="49" />
@@ -147,6 +153,13 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
         <mark key="^" line="2" column="24" />
+      </file>
+      <file name="$USER_HOME$/boringcode/new-server/.eslintrc" timestamp="1489333624672">
+        <mark key="'" line="2" column="3" />
+        <mark key="[" line="3" column="3" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/user/templates/registration-html-en.html" timestamp="1489198219490">
         <mark key="'" line="0" column="11" />
@@ -400,6 +413,11 @@
         <mark key="." line="0" column="18" />
         <mark key="^" line="0" column="18" />
       </file>
+      <file name="$USER_HOME$/boringcode/new-server/tooling/gulp/reusable-tasks/babel.js" timestamp="1489333310147">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/boringcode/server/core/serializers/base-serializer.js" timestamp="1489304319243">
         <mark key="[" line="12" column="6" />
         <mark key="]" line="12" column="11" />
@@ -492,10 +510,6 @@
         <mark key="]" line="3" column="6" />
         <mark key="^" line="3" column="6" />
         <mark key="." line="3" column="6" />
-      </file>
-      <file name="$USER_HOME$/boringcode/server/core/dal/base-pg-crud-dal.js" timestamp="1489304810386">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="18" column="38" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/partner/templates/invited-html-en.html" timestamp="1489198662306">
         <mark key="'" line="0" column="0" />
@@ -629,6 +643,12 @@
         <mark key="^" line="0" column="60" />
         <mark key="." line="0" column="60" />
       </file>
+      <file name="$USER_HOME$/boringcode/new-server/package.json" timestamp="1489333294660">
+        <mark key="'" line="25" column="18" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1489274283574">
         <mark key="[" line="0" column="0" />
       </file>
@@ -725,15 +745,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="0" filename="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-decline-text-en.html" />
-      <jump line="2" column="0" filename="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-decline-text-fr.html" />
-      <jump line="7" column="0" filename="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-send-text-en.html" />
-      <jump line="6" column="0" filename="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-send-text-fr.html" />
-      <jump line="161" column="42" filename="$USER_HOME$/boringcode/server/core/handlers/base-crud-handler.js" />
-      <jump line="1" column="0" filename="$USER_HOME$/boringcode/server/core/handlers/base-crud-handler.js" />
-      <jump line="155" column="0" filename="$USER_HOME$/boringcode/server/core/handlers/base-crud-handler.js" />
-      <jump line="16" column="31" filename="$USER_HOME$/boringcode/server/core/handlers/base-crud-handler.js" />
-      <jump line="109" column="0" filename="$USER_HOME$/boringcode/server/core/handlers/base-crud-handler.js" />
       <jump line="50" column="17" filename="$USER_HOME$/boringcode/server/core/dal/pg-crud-dal.js" />
       <jump line="8" column="0" filename="$USER_HOME$/boringcode/server/src/dals/user-dal.js" />
       <jump line="23" column="18" filename="$USER_HOME$/boringcode/server/core/dal/base-dal.js" />
@@ -825,6 +836,15 @@
       <jump line="29" column="59" filename="$USER_HOME$/boringcode/server/core/modules/user/services/auth-token-service.js" />
       <jump line="27" column="34" filename="$USER_HOME$/boringcode/server/core/modules/user/handlers/login-handler.js" />
       <jump line="0" column="38" filename="$USER_HOME$/boringcode/server/migrations/0010-create-auth-tokens/up.sql" />
+      <jump line="2" column="0" filename="$USER_HOME$/boringcode/new-server/.gitattributes" />
+      <jump line="13" column="36" filename="$USER_HOME$/boringcode/new-server/package.json" />
+      <jump line="14" column="18" filename="$USER_HOME$/boringcode/new-server/package.json" />
+      <jump line="18" column="0" filename="$USER_HOME$/boringcode/new-server/package.json" />
+      <jump line="32" column="13" filename="$USER_HOME$/boringcode/new-server/package.json" />
+      <jump line="26" column="18" filename="$USER_HOME$/boringcode/new-server/package.json" />
+      <jump line="0" column="9" filename="$USER_HOME$/boringcode/new-server/.eslintrc" />
+      <jump line="1" column="1" filename="$USER_HOME$/boringcode/new-server/.eslintrc" />
+      <jump line="2" column="3" filename="$USER_HOME$/boringcode/new-server/.eslintrc" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -897,52 +917,52 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>users</text>
+        <text>, &quot;standard-jsx&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>users</text>
+        <text>, &quot;standard-jsx&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>public</text>
+        <text>]</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IEF1dGhUb2tlbkRhbCBmcm9tICcuLi9kYWxzL2F1dGgtdG9rZW4tZGFsJzsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">QXUvRGlvCg==</text>
+      <register name="1" type="4">
+        <text>, &quot;standard-jsx&quot;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IENyZWRlbnRpYWxzRXJyb3IgZnJvbSAnLi4vZXJyb3JzL2NyZWRlbnRpYWxzLWVycm9yJzsK</text>
+        <text encoding="base64">ICAucGlwZShzb3VyY2VtYXBzLndyaXRlKCcuJykpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAucGlwZShzb3VyY2VtYXBzLmluaXQoKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgQXV0aFRva2VuRGFsKClbaXNOZXcgJiYgJ2NyZWF0ZU9uZScgfHwgJ3VwZGF0ZU9uZSddKGF1dGhUb2tlbikK</text>
+        <text encoding="base64">Y29uc3Qgc291cmNlbWFwcyA9IHJlcXVpcmUoJ2d1bHAtc291cmNlbWFwcycpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">InVzZXJJZCIgPSAke3VzZXJJZH0sCg==</text>
+        <text encoding="base64">ICAgICJndWxwLXNvdXJjZW1hcHMiOiAiXjIuNC4xIiwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLnRoZW4oY29uc29sZS5sb2cpCg==</text>
+        <text encoding="base64">ICAgICJlc2xpbnQiOiAiXjMuMTYuMSIsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICJiYWJlbC1lc2xpbnQiOiAiXjcuMS4xIiwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgbmV3IEF1dGhUb2tlbk1vZGVsKCkuYnVpbGQoewogICAgICAgIHRva2VuOiB1dWlkLnY0KCksCiAgICAgICAgdXNlcklkOiB1c2VyLmlkCiAgICAgIH0pKQo=</text>
+        <text encoding="base64">IyBDdXN0b20gZm9yIFZpc3VhbCBTdHVkaW8KKi5jcyAgICAgZGlmZj1jc2hhcnAKCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">IyBDdXN0b20gZm9yIFZpc3VhbCBTdHVkaW8KKi5jcyAgICAgZGlmZj1jc2hhcnAKCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>public</last-search>
+      <last-search>]</last-search>
       <last-offset />
-      <last-pattern>public</last-pattern>
+      <last-pattern>]</last-pattern>
       <last-replace>AuthTokenDal</last-replace>
       <last-substitute>UserDal</last-substitute>
       <last-dir>1</last-dir>
@@ -950,13 +970,6 @@
     </search>
     <history>
       <history-search>
-        <entry>UserDal</entry>
-        <entry>methods</entry>
-        <entry>updateModel</entry>
-        <entry encoding="base64">XDx1cGRhdGVNb2RlbFw+</entry>
-        <entry>Crud</entry>
-        <entry>\.</entry>
-        <entry>INV</entry>
         <entry>P</entry>
         <entry>E</entry>
         <entry>;</entry>
@@ -970,6 +983,13 @@
         <entry>(</entry>
         <entry>_</entry>
         <entry>public</entry>
+        <entry>es-lint</entry>
+        <entry>es</entry>
+        <entry>source</entry>
+        <entry>&quot;</entry>
+        <entry>[</entry>
+        <entry>,</entry>
+        <entry>]</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
