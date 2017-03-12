@@ -266,11 +266,11 @@
         <mark key="^" line="0" column="8" />
         <mark key="." line="0" column="8" />
       </file>
-      <file name="$USER_HOME$/boringcode/new-server/core/dal/errors/no-model-error.js" timestamp="1489335000916">
+      <file name="$USER_HOME$/boringcode/new-server/core/dal/errors/no-model-error.js" timestamp="1489341841460">
         <mark key="'" line="6" column="45" />
-        <mark key="[" line="2" column="33" />
-        <mark key="]" line="2" column="31" />
-        <mark key="." line="2" column="31" />
+        <mark key="[" line="6" column="11" />
+        <mark key="]" line="6" column="11" />
+        <mark key="." line="6" column="11" />
         <mark key="^" line="2" column="31" />
       </file>
       <file name="$USER_HOME$/boringcode/new-server/core/handlers/errors/no-model-error.js" timestamp="1489335151724">
@@ -294,11 +294,11 @@
         <mark key="." line="0" column="12" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/boringcode/new-server/core/errors/not-found-error.js" timestamp="1489334884304">
-        <mark key="[" line="4" column="43" />
-        <mark key="]" line="4" column="50" />
-        <mark key="." line="4" column="50" />
-        <mark key="^" line="4" column="50" />
+      <file name="$USER_HOME$/boringcode/new-server/core/errors/not-found-error.js" timestamp="1489341800885">
+        <mark key="[" line="6" column="11" />
+        <mark key="]" line="6" column="11" />
+        <mark key="." line="6" column="11" />
+        <mark key="^" line="6" column="3" />
       </file>
       <file name="$USER_HOME$/boringcode/server/core/handler-methods/crud/check-for-no-results.js" timestamp="1489293791872">
         <mark key="[" line="0" column="39" />
@@ -365,11 +365,11 @@
         <mark key="." line="0" column="47" />
         <mark key="^" line="0" column="22" />
       </file>
-      <file name="$USER_HOME$/boringcode/new-server/core/errors/not-implemented-error.js" timestamp="1489334935574">
+      <file name="$USER_HOME$/boringcode/new-server/core/errors/not-implemented-error.js" timestamp="1489341808481">
         <mark key="'" line="6" column="6" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+        <mark key="[" line="6" column="11" />
+        <mark key="]" line="6" column="11" />
+        <mark key="." line="6" column="11" />
         <mark key="^" line="6" column="10" />
       </file>
       <file name="$USER_HOME$/boringcode/server/core/modules/auth/handlers/login-handler.js" timestamp="1489304576392">
@@ -1051,11 +1051,11 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>Run migrations up</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>{</text>
