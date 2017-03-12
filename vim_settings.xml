@@ -154,7 +154,7 @@
         <mark key="." line="1" column="15" />
         <mark key="^" line="1" column="15" />
       </file>
-      <file name="$USER_HOME$/boringcode/server/core/modules/user/dals/user-dal.js" timestamp="1489296516686">
+      <file name="$USER_HOME$/boringcode/server/core/modules/user/dals/user-dal.js" timestamp="1489301118062">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="11" column="25" />
@@ -319,7 +319,7 @@
         <mark key="]" line="41" column="20" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/boringcode/server/core/modules/user/models/user-model.js" timestamp="1489296547513">
+      <file name="$USER_HOME$/boringcode/server/core/modules/user/models/user-model.js" timestamp="1489300720918">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="13" column="1" />
@@ -581,8 +581,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="13" filename="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-cancel-on-behalf-html-fr.html" />
-      <jump line="0" column="0" filename="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-decline-html-en.html" />
       <jump line="0" column="0" filename="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-decline-html-fr.html" />
       <jump line="32" column="0" filename="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-resend-html-en.html" />
       <jump line="34" column="0" filename="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-resend-html-en.html" />
@@ -667,9 +665,7 @@
       <jump line="3" column="21" filename="$USER_HOME$/boringcode/server/core/modules/auth/services/token-service.js" />
       <jump line="4" column="4" filename="$USER_HOME$/boringcode/server/core/modules/auth/services/token-service.js" />
       <jump line="4" column="8" filename="$USER_HOME$/boringcode/server/core/modules/user/dals/user-dal.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/boringcode/server/core/modules/user/dals/user-dal.js" />
       <jump line="14" column="0" filename="$USER_HOME$/boringcode/server/core/modules/user/models/user-model.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/boringcode/server/core/modules/user/models/user-model.js" />
       <jump line="6" column="0" filename="$USER_HOME$/boringcode/server/core/modules/auth/models/auth-token-model.js" />
       <jump line="1" column="21" filename="$USER_HOME$/boringcode/server/core/modules/auth/dals/auth-token-dal/findOne.sql" />
       <jump line="7" column="47" filename="$USER_HOME$/boringcode/server/core/modules/auth/dals/auth-token-dal.js" />
@@ -681,6 +677,10 @@
       <jump line="18" column="0" filename="$USER_HOME$/boringcode/server/core/modules/user/handlers/user-crud-handler.js" />
       <jump line="60" column="28" filename="$USER_HOME$/boringcode/server/core/handlers/base-crud-handler.js" />
       <jump line="68" column="20" filename="$USER_HOME$/boringcode/server/core/handlers/base-crud-handler.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/boringcode/server/core/modules/user/models/user-model.js" />
+      <jump line="12" column="0" filename="$USER_HOME$/boringcode/server/core/modules/user/dals/user-dal.js" />
+      <jump line="11" column="0" filename="$USER_HOME$/boringcode/server/core/modules/user/dals/user-dal.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/boringcode/server/core/modules/user/dals/user-dal.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -753,7 +753,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLmNhdGNoKGVyciA9PiByZXBseShlcnIuYm9vbSgpKSk7Cg==</text>
+        <text encoding="base64">Ly8gQ29yZQppbXBvcnQgaW5qZWN0TG9jYWxGaWxlcyBmcm9tICcuLi8uLi8uLi9jbGFzcy1oZWxwZXJzL2luamVjdC1sb2NhbC1maWxlcyc7CmltcG9ydCBQZ0NydWREYWwgZnJvbSAnLi4vLi4vLi4vZGFsL2Jhc2UtcGctY3J1ZC1kYWwnOwoKLy8gTW9kdWxlCmltcG9ydCBVc2VyTW9kZWwgZnJvbSAnLi4vbW9kZWxzL3VzZXItbW9kZWwnOwoKZXhwb3J0IGRlZmF1bHQgY2xhc3MgVXNlckRhbCBleHRlbmRzIFBnQ3J1ZERhbCB7Cn0KaW5qZWN0TG9jYWxGaWxlcyhVc2VyRGFsLCBfX2Rpcm5hbWUsIF9fZmlsZW5hbWUsIHRydWUpOwoKVXNlckRhbC5NT0RFTCA9IFVzZXJNb2RlbDsK</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
