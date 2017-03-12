@@ -10,11 +10,11 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="19" column="50" />
       </file>
-      <file name="$USER_HOME$/boringcode/new-server/core/handlers/base-crud-handler.js" timestamp="1489335024351">
+      <file name="$USER_HOME$/boringcode/new-server/core/handlers/base-crud-handler.js" timestamp="1489344119768">
         <mark key="'" line="118" column="33" />
-        <mark key="[" line="88" column="0" />
-        <mark key="]" line="88" column="0" />
-        <mark key="." line="88" column="0" />
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
       </file>
       <file name="$USER_HOME$/boringcode/new-server/core/modules/user/errors/auth-token-error.js" timestamp="1489339552299">
         <mark key="'" line="0" column="0" />
@@ -752,6 +752,12 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/boringcode/new-server/core/handler-helpers/crud/handle-error.js" timestamp="1489344150222">
+        <mark key="[" line="11" column="23" />
+        <mark key="]" line="11" column="23" />
+        <mark key="." line="11" column="23" />
+        <mark key="^" line="11" column="23" />
+      </file>
       <file name="$USER_HOME$/boringcode/server/core/modules/user/errors/credentials-error.js" timestamp="1489305832539">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -1052,10 +1058,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>bomo</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>bomo</text>
       </register>
       <register name="/" type="4">
         <text>{</text>
@@ -1064,31 +1070,31 @@
         <text encoding="base64">ICBoZWxwICgpIHsKICAgIGNvbW1hbmRlcgogICAgICAuY29tbWFuZCgnbWlncmF0ZScpCiAgICAgIC5vcHRpb24oJy0tZGVidWcnLCAnRGVidWcnKQogICAgICAub3B0aW9uKCctLXVwJywgJ1J1biBtaWdyYXRpb25zIHVwJykKICAgICAgLm9wdGlvbignLS1kb3duJywgJ1J1biBtaWdyYXRpb25zIGRvd24nKQogICAgICAucGFyc2UocHJvY2Vzcy5hcmd2LnNsaWNlKDAsIDIpLmNvbmNhdChbJy0taGVscCddKSkKICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICByZXR1cm4gZXJyLmJvb20oKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRyeSB7CiAgICAgIGV4ZWNhLnN5bmMoCiAgICAgICAgJ3lhcm4nLAogICAgICAgIFsKICAgICAgICAgICdzdGFuZGFyZCcKICAgICAgICBdLAogICAgICAgIHsKICAgICAgICAgIHN0ZGlvOiAnaW5oZXJpdCcKICAgICAgICB9CiAgICAgICkKICAgIH0KICAgIGNhdGNoIChlcnIpIHsKICAgICAgcmV0dXJuCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgLmNhdGNoKCgpID0+IHJlcGx5KDEyMykpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLm9wdGlvbignLS1kb3duJywgJ1J1biBtaWdyYXRpb25zIGRvd24nKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>Run migrations up</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLm9wdGlvbignLS1kZWJ1ZycsICdEZWJ1ZycpCg==</text>
-      </register>
-      <register name="7" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGV4ZWNhLnN5bmMoCiAgICAgICd5YXJuJywKICAgICAgWwogICAgICAgICdzdGFuZGFyZCcKICAgICAgXSwKICAgICAgewogICAgICAgIHN0ZGlvOiAnaW5oZXJpdCcKICAgICAgfQogICAgKQo=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHRyeSB7CiAgICAgIGV4ZWNhLnN5bmMoCiAgICAgICAgJ3lhcm4nLAogICAgICAgIFsKICAgICAgICAgICdzdGFuZGFyZCcKICAgICAgICBdLAogICAgICAgIHsKICAgICAgICAgIHN0ZGlvOiAnaW5oZXJpdCcKICAgICAgICB9CiAgICAgICkKICAgIH0KICAgIGNhdGNoIChlcnIpIHsKICAgICAgcmV0dXJuCiAgICB9Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgLm9wdGlvbignLS1kb3duJywgJ1J1biBtaWdyYXRpb25zIGRvd24nKQo=</text>
+      </register>
+      <register name="8" type="4">
+        <text>Run migrations up</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdGhyb3cgZXJyCiAgICB9KQo=</text>
+        <text encoding="base64">ICAgICAgLm9wdGlvbignLS1kZWJ1ZycsICdEZWJ1ZycpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
