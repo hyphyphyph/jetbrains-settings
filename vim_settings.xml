@@ -3,19 +3,14 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/boringcode/server/core/modules/user/handlers/user-crud-handler.js" timestamp="1489282935478">
+      <file name="$USER_HOME$/boringcode/server/core/modules/user/handlers/user-crud-handler.js" timestamp="1489294974404">
         <mark key="'" line="16" column="36" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+        <mark key="[" line="5" column="66" />
+        <mark key="]" line="7" column="8" />
+        <mark key="." line="7" column="8" />
+        <mark key="^" line="7" column="8" />
       </file>
-      <file name="$USER_HOME$/boringcode/server/core/serializers/base-serializer.js" timestamp="1489284952399">
-        <mark key="[" line="27" column="31" />
-        <mark key="]" line="27" column="31" />
-        <mark key="." line="27" column="31" />
-        <mark key="^" line="27" column="25" />
-      </file>
-      <file name="/a.dummy" timestamp="1489282922385">
+      <file name="/a.dummy" timestamp="1489295733627">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-accept-text-fr.html" timestamp="1489272304859">
@@ -32,23 +27,24 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/boringcode/server/core/model/base-model.js" timestamp="1489277898332">
-        <mark key="'" line="9" column="0" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/boringcode/server/core/serializers/noop-serializer.js" timestamp="1489294993453">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="6" />
+        <mark key="^" line="0" column="6" />
+        <mark key="." line="0" column="6" />
       </file>
-      <file name="$USER_HOME$/invite-api/src/models/conference.model.js" timestamp="1489270622266">
-        <mark key="[" line="22" column="28" />
-        <mark key="]" line="23" column="22" />
-        <mark key="." line="23" column="22" />
-        <mark key="^" line="23" column="22" />
-      </file>
-      <file name="$USER_HOME$/boringcode/server/core/handler-methods/crud/handle-error.js" timestamp="1489282975759">
+      <file name="$USER_HOME$/boringcode/server/core/migration/base-migration.js" timestamp="1489294783499">
+        <mark key="'" line="17" column="35" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="^" line="0" column="5" />
         <mark key="." line="0" column="5" />
+      </file>
+      <file name="$USER_HOME$/boringcode/server/core/modules/user/routes.js" timestamp="1489294946104">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="3" column="8" />
+        <mark key="^" line="3" column="8" />
+        <mark key="." line="3" column="8" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-resend-html-fr.html" timestamp="1489272193661">
         <mark key="'" line="0" column="0" />
@@ -57,12 +53,24 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="33" column="0" />
       </file>
+      <file name="$USER_HOME$/boringcode/server/core/handlers/errors/no-model-error.js" timestamp="1489294104722">
+        <mark key="[" line="11" column="7" />
+        <mark key="]" line="11" column="14" />
+        <mark key="." line="11" column="14" />
+        <mark key="^" line="11" column="14" />
+      </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-decline-text-fr.html" timestamp="1489272340292">
         <mark key="'" line="3" column="0" />
         <mark key="[" line="3" column="0" />
         <mark key="]" line="5" column="23" />
         <mark key="." line="6" column="0" />
         <mark key="^" line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/boringcode/server/core/logger.js" timestamp="1489295087026">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="8" />
+        <mark key="^" line="0" column="8" />
+        <mark key="." line="0" column="8" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-decline-text-en.html" timestamp="1489272330780">
         <mark key="'" line="3" column="0" />
@@ -71,25 +79,19 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/boringcode/server/src/dals/user-dal/findOne.sql" timestamp="1489282845768">
-        <mark key="[" line="1" column="13" />
-        <mark key="]" line="1" column="19" />
-        <mark key="." line="1" column="19" />
-        <mark key="^" line="1" column="19" />
+      <file name="$USER_HOME$/boringcode/server/core/handler-helpers/login/handle-login.js" timestamp="1489294647356">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="3" column="3" />
+        <mark key="]" line="3" column="6" />
+        <mark key="^" line="3" column="6" />
+        <mark key="." line="3" column="6" />
       </file>
-      <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-accept-on-behalf-text-en.html" timestamp="1489272277287">
-        <mark key="'" line="6" column="20" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="8" column="23" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/boringcode/server/core/handlers/base-crud-handler.js" timestamp="1489285725054">
-        <mark key="'" line="128" column="27" />
-        <mark key="[" line="38" column="19" />
-        <mark key="]" line="38" column="19" />
-        <mark key="." line="38" column="19" />
-        <mark key="^" line="38" column="19" />
+      <file name="$USER_HOME$/boringcode/server/core/handlers/base-crud-handler.js" timestamp="1489295894967">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="6" column="36" />
+        <mark key="]" line="6" column="42" />
+        <mark key="." line="6" column="42" />
+        <mark key="^" line="6" column="42" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/handlers/email-templates.handler.js" timestamp="1489199845084">
         <mark key="'" line="5" column="77" />
@@ -98,19 +100,12 @@
         <mark key="." line="11" column="77" />
         <mark key="^" line="11" column="77" />
       </file>
-      <file name="$USER_HOME$/invite-api/src/modules/partner/templates/invited-html-en.html" timestamp="1489198662306">
+      <file name="$USER_HOME$/boringcode/server/core/errors/not-found-error.js" timestamp="1489294134266">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="30" />
-        <mark key="." line="0" column="30" />
-        <mark key="^" line="0" column="30" />
-      </file>
-      <file name="$USER_HOME$/boringcode/server/core/dal/pg-dal.js" timestamp="1489287058079">
-        <mark key="'" line="41" column="29" />
-        <mark key="[" line="53" column="8" />
-        <mark key="]" line="53" column="19" />
-        <mark key="." line="53" column="19" />
-        <mark key="^" line="53" column="19" />
+        <mark key="]" line="0" column="8" />
+        <mark key="." line="0" column="8" />
+        <mark key="^" line="0" column="8" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/user/templates/registration-html-en.html" timestamp="1489198219490">
         <mark key="'" line="0" column="11" />
@@ -142,12 +137,18 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-accept-html-en.html" timestamp="1489272124405">
-        <mark key="'" line="12" column="18" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="18" column="13" />
-        <mark key="." line="17" column="19" />
-        <mark key="^" line="17" column="19" />
+      <file name="$USER_HOME$/boringcode/server/seeds/123-test-seed/index.js" timestamp="1489295202955">
+        <mark key="'" line="1" column="48" />
+        <mark key="[" line="1" column="11" />
+        <mark key="]" line="1" column="15" />
+        <mark key="." line="1" column="15" />
+        <mark key="^" line="1" column="15" />
+      </file>
+      <file name="$USER_HOME$/boringcode/server/core/modules/user/dals/user-dal.js" timestamp="1489294964298">
+        <mark key="[" line="2" column="49" />
+        <mark key="]" line="4" column="8" />
+        <mark key="." line="4" column="8" />
+        <mark key="^" line="4" column="8" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-accept-html-fr.html" timestamp="1489272132031">
         <mark key="'" line="12" column="14" />
@@ -163,12 +164,11 @@
         <mark key="." line="0" column="12" />
         <mark key="^" line="0" column="49" />
       </file>
-      <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-cancel-on-behalf-html-fr.html" timestamp="1489272169981">
-        <mark key="'" line="18" column="13" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="26" column="14" />
-        <mark key="." line="20" column="0" />
-        <mark key="^" line="18" column="14" />
+      <file name="$USER_HOME$/boringcode/server/core/server-init/connection.js" timestamp="1489295027573">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="8" />
+        <mark key="^" line="0" column="8" />
+        <mark key="." line="0" column="8" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-cancel-on-behalf-html-en.html" timestamp="1489272165800">
         <mark key="'" line="0" column="0" />
@@ -184,12 +184,240 @@
         <mark key="." line="0" column="12" />
         <mark key="^" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/boringcode/server/core/handler-methods/crud/check-for-no-results.js" timestamp="1489293791872">
+        <mark key="[" line="0" column="39" />
+        <mark key="]" line="0" column="54" />
+        <mark key="." line="0" column="54" />
+        <mark key="^" line="0" column="54" />
+      </file>
+      <file name="$USER_HOME$/invite-api/src/modules/partner/templates/invited-html-fr.html" timestamp="1489198674826">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="30" />
+        <mark key="." line="0" column="30" />
+        <mark key="^" line="0" column="30" />
+      </file>
+      <file name="$USER_HOME$/invite-api/src/modules/user/handlers/registration.handler.js" timestamp="1489189730771">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="14" column="64" />
+        <mark key="]" line="14" column="64" />
+        <mark key="." line="14" column="64" />
+        <mark key="^" line="14" column="64" />
+      </file>
+      <file name="$USER_HOME$/invite-api/src/templates/base-email.html" timestamp="1489272065322">
+        <mark key="'" line="85" column="15" />
+        <mark key="[" line="82" column="18" />
+        <mark key="]" line="82" column="19" />
+        <mark key="." line="82" column="19" />
+        <mark key="^" line="85" column="19" />
+      </file>
+      <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-resend-text-fr.html" timestamp="1489272358028">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="5" column="23" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/invite-api/BUILD/src/modules/user/templates/registration-html-en.html" timestamp="1489194224484">
+        <mark key="'" line="0" column="11" />
+        <mark key="[" line="0" column="46" />
+        <mark key="]" line="0" column="47" />
+        <mark key="." line="0" column="47" />
+        <mark key="^" line="0" column="22" />
+      </file>
+      <file name="$USER_HOME$/boringcode/server/core/server-init/logging.js" timestamp="1489295042770">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="5" />
+        <mark key="^" line="0" column="5" />
+        <mark key="." line="0" column="5" />
+      </file>
+      <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-resend-html-en.html" timestamp="1489272189020">
+        <mark key="'" line="34" column="0" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="40" column="14" />
+        <mark key="^" line="33" column="0" />
+        <mark key="." line="34" column="0" />
+      </file>
+      <file name="$USER_HOME$/boringcode/server/core/models/auth-token.js" timestamp="1489294793496">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="6" />
+        <mark key="^" line="0" column="6" />
+        <mark key="." line="0" column="6" />
+      </file>
+      <file name="$USER_HOME$/invite-api/db/migrations/20170311221511-add-signature-to-conference.js" timestamp="1489270587886">
+        <mark key="'" line="6" column="8" />
+        <mark key="[" line="13" column="52" />
+        <mark key="]" line="13" column="60" />
+        <mark key="." line="13" column="60" />
+        <mark key="^" line="13" column="60" />
+      </file>
+      <file name="$USER_HOME$/invite-api/src/modules/conference/jsonapi/conference.jsonapi.js" timestamp="1489271657581">
+        <mark key="[" line="23" column="9" />
+        <mark key="]" line="23" column="17" />
+        <mark key="." line="23" column="17" />
+        <mark key="^" line="23" column="17" />
+      </file>
+      <file name="$USER_HOME$/boringcode/server/core/dal/pg-crud-dal.js" timestamp="1489294689093">
+        <mark key="'" line="89" column="19" />
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="6" />
+        <mark key="." line="0" column="6" />
+        <mark key="^" line="0" column="6" />
+      </file>
+      <file name="$USER_HOME$/boringcode/server/core/helpers/get-server-url.js" timestamp="1489294583320">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="8" />
+        <mark key="^" line="0" column="8" />
+        <mark key="." line="0" column="8" />
+      </file>
+      <file name="$USER_HOME$/invite-api/src/services/mailer.service.js" timestamp="1489198319302">
+        <mark key="'" line="96" column="55" />
+        <mark key="[" line="9" column="70" />
+        <mark key="]" line="9" column="70" />
+        <mark key="." line="9" column="70" />
+        <mark key="^" line="9" column="70" />
+      </file>
+      <file name="$USER_HOME$/boringcode/server/core/modules/user/models/user-model.js" timestamp="1489294922286" />
+      <file name="$USER_HOME$/boringcode/server/migrations/0000-create-users/index.js" timestamp="1489295710472">
+        <mark key="'" line="7" column="41" />
+        <mark key="[" line="7" column="41" />
+        <mark key="]" line="7" column="54" />
+        <mark key="^" line="7" column="54" />
+        <mark key="." line="7" column="54" />
+      </file>
+      <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-accept-on-behalf-html-en.html" timestamp="1489272136677">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="18" column="14" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/boringcode/server/migrations/index.js" timestamp="1489295137965">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="8" />
+        <mark key="^" line="0" column="8" />
+        <mark key="." line="0" column="8" />
+      </file>
+      <file name="$USER_HOME$/boringcode/server/core/serializers/base-serializer.js" timestamp="1489284952399">
+        <mark key="[" line="27" column="31" />
+        <mark key="]" line="27" column="31" />
+        <mark key="." line="27" column="31" />
+        <mark key="^" line="27" column="25" />
+      </file>
+      <file name="$USER_HOME$/boringcode/server/core/dal/errors/no-model-error.js" timestamp="1489294120905">
+        <mark key="[" line="11" column="7" />
+        <mark key="]" line="11" column="14" />
+        <mark key="." line="11" column="14" />
+        <mark key="^" line="11" column="14" />
+      </file>
+      <file name="$USER_HOME$/boringcode/server/core/server-init/cors.js" timestamp="1489295037463">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="3" column="6" />
+        <mark key="^" line="3" column="6" />
+        <mark key="." line="3" column="6" />
+      </file>
+      <file name="$USER_HOME$/boringcode/server/core/helpers/simple-http-request.js" timestamp="1489294577779">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="8" />
+        <mark key="^" line="0" column="8" />
+        <mark key="." line="0" column="8" />
+      </file>
+      <file name="$USER_HOME$/invite-api/src/models/conference.model.js" timestamp="1489270622266">
+        <mark key="[" line="22" column="28" />
+        <mark key="]" line="23" column="22" />
+        <mark key="." line="23" column="22" />
+        <mark key="^" line="23" column="22" />
+      </file>
+      <file name="$USER_HOME$/boringcode/server/core/handler-methods/crud/handle-error.js" timestamp="1489293634758">
+        <mark key="[" line="5" column="2" />
+        <mark key="]" line="5" column="8" />
+        <mark key="." line="5" column="8" />
+        <mark key="^" line="5" column="8" />
+      </file>
+      <file name="$USER_HOME$/boringcode/server/core/handler-helpers/crud/check-for-no-results.js" timestamp="1489294656660">
+        <mark key="[" line="0" column="3" />
+        <mark key="]" line="0" column="6" />
+        <mark key="^" line="0" column="6" />
+        <mark key="." line="0" column="6" />
+      </file>
+      <file name="$USER_HOME$/boringcode/server/src/dals/user-dal/findOne.sql" timestamp="1489282845768">
+        <mark key="[" line="1" column="13" />
+        <mark key="]" line="1" column="19" />
+        <mark key="." line="1" column="19" />
+        <mark key="^" line="1" column="19" />
+      </file>
+      <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-accept-on-behalf-text-en.html" timestamp="1489272277287">
+        <mark key="'" line="6" column="20" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="8" column="23" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/boringcode/server/core/testing/base-http-test.js" timestamp="1489295077421">
+        <mark key="[" line="3" column="8" />
+        <mark key="]" line="3" column="6" />
+        <mark key="^" line="3" column="6" />
+        <mark key="." line="3" column="6" />
+      </file>
+      <file name="$USER_HOME$/invite-api/src/modules/partner/templates/invited-html-en.html" timestamp="1489198662306">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="30" />
+        <mark key="." line="0" column="30" />
+        <mark key="^" line="0" column="30" />
+      </file>
+      <file name="$USER_HOME$/boringcode/server/core/dal/pg-dal.js" timestamp="1489294680017">
+        <mark key="'" line="37" column="10" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/boringcode/server/core/server-init/lout.js" timestamp="1489295050596">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="8" />
+        <mark key="^" line="0" column="8" />
+        <mark key="." line="0" column="8" />
+      </file>
+      <file name="$USER_HOME$/boringcode/server/core/handlers/errors/no-serializer-error.js" timestamp="1489294109416">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="11" column="7" />
+        <mark key="]" line="11" column="14" />
+        <mark key="." line="11" column="14" />
+        <mark key="^" line="11" column="14" />
+      </file>
+      <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-accept-html-en.html" timestamp="1489272124405">
+        <mark key="'" line="12" column="18" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="18" column="13" />
+        <mark key="." line="17" column="19" />
+        <mark key="^" line="17" column="19" />
+      </file>
+      <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-cancel-on-behalf-html-fr.html" timestamp="1489272169981">
+        <mark key="'" line="18" column="13" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="26" column="14" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="18" column="14" />
+      </file>
+      <file name="$USER_HOME$/boringcode/server/core/modules/user/hapi-plugin.js" timestamp="1489294936352">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="8" />
+        <mark key="^" line="0" column="8" />
+        <mark key="." line="0" column="8" />
+      </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-send-text-en.html" timestamp="1489272362330">
         <mark key="'" line="7" column="0" />
         <mark key="[" line="18" column="0" />
         <mark key="]" line="20" column="24" />
         <mark key="." line="18" column="0" />
         <mark key="^" line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/boringcode/server/core/errors/not-implemented-error.js" timestamp="1489294139944">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="8" />
+        <mark key="." line="0" column="8" />
+        <mark key="^" line="0" column="8" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-resend-text-en.html" timestamp="1489272348372">
         <mark key="[" line="3" column="0" />
@@ -210,19 +438,6 @@
         <mark key="." line="77" column="40" />
         <mark key="^" line="77" column="40" />
       </file>
-      <file name="$USER_HOME$/invite-api/src/modules/partner/templates/invited-html-fr.html" timestamp="1489198674826">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="30" />
-        <mark key="." line="0" column="30" />
-        <mark key="^" line="0" column="30" />
-      </file>
-      <file name="$USER_HOME$/invite-api/src/modules/user/handlers/registration.handler.js" timestamp="1489189730771">
-        <mark key="'" line="14" column="0" />
-        <mark key="[" line="14" column="64" />
-        <mark key="]" line="14" column="64" />
-        <mark key="." line="14" column="64" />
-        <mark key="^" line="14" column="64" />
-      </file>
       <file name="$USER_HOME$/invite-api/src/modules/partner/services/assignment.service.js" timestamp="1489193583125">
         <mark key="'" line="69" column="34" />
         <mark key="[" line="0" column="60" />
@@ -230,48 +445,22 @@
         <mark key="^" line="0" column="60" />
         <mark key="." line="0" column="60" />
       </file>
-      <file name="$USER_HOME$/invite-api/src/templates/base-email.html" timestamp="1489272065322">
-        <mark key="'" line="85" column="15" />
-        <mark key="[" line="82" column="18" />
-        <mark key="]" line="82" column="19" />
-        <mark key="." line="82" column="19" />
-        <mark key="^" line="85" column="19" />
-      </file>
-      <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-resend-text-fr.html" timestamp="1489272358028">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="5" column="23" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-decline-html-fr.html" timestamp="1489272181609">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="26" column="14" />
-        <mark key="." line="20" column="0" />
-      </file>
       <file name="/Dummy.txt" timestamp="1489274283574">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/invite-api/BUILD/src/modules/user/templates/registration-html-en.html" timestamp="1489194224484">
-        <mark key="'" line="0" column="11" />
-        <mark key="[" line="0" column="46" />
-        <mark key="]" line="0" column="47" />
-        <mark key="." line="0" column="47" />
-        <mark key="^" line="0" column="22" />
-      </file>
-      <file name="$USER_HOME$/boringcode/server/core/handlers/errors.js" timestamp="1489278825085">
-        <mark key="'" line="27" column="31" />
-        <mark key="[" line="21" column="18" />
-        <mark key="]" line="21" column="20" />
+      <file name="$USER_HOME$/boringcode/server/core/handlers/errors.js" timestamp="1489293962669">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="36" column="56" />
         <mark key="^" line="21" column="20" />
         <mark key="." line="21" column="20" />
       </file>
-      <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-resend-html-en.html" timestamp="1489272189020">
-        <mark key="'" line="34" column="0" />
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="40" column="14" />
-        <mark key="^" line="33" column="0" />
-        <mark key="." line="34" column="0" />
+      <file name="$USER_HOME$/boringcode/server/core/database/pg.js" timestamp="1489294610555">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="8" />
+        <mark key="^" line="0" column="8" />
+        <mark key="." line="0" column="8" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/index.js" timestamp="1489198786739">
         <mark key="'" line="37" column="0" />
@@ -294,35 +483,9 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="18" column="14" />
       </file>
-      <file name="/a.regexp" timestamp="1489272219838">
+      <file name="/a.regexp" timestamp="1489295739041">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/invite-api/db/migrations/20170311221511-add-signature-to-conference.js" timestamp="1489270587886">
-        <mark key="'" line="6" column="8" />
-        <mark key="[" line="13" column="52" />
-        <mark key="]" line="13" column="60" />
-        <mark key="." line="13" column="60" />
-        <mark key="^" line="13" column="60" />
-      </file>
-      <file name="$USER_HOME$/invite-api/src/modules/conference/jsonapi/conference.jsonapi.js" timestamp="1489271657581">
-        <mark key="[" line="23" column="9" />
-        <mark key="]" line="23" column="17" />
-        <mark key="." line="23" column="17" />
-        <mark key="^" line="23" column="17" />
-      </file>
-      <file name="$USER_HOME$/boringcode/server/core/dal/pg-crud-dal.js" timestamp="1489286963544">
-        <mark key="'" line="60" column="26" />
-        <mark key="[" line="18" column="38" />
-        <mark key="]" line="18" column="38" />
-        <mark key="." line="18" column="38" />
-        <mark key="^" line="18" column="38" />
-      </file>
-      <file name="$USER_HOME$/invite-api/src/services/mailer.service.js" timestamp="1489198319302">
-        <mark key="'" line="96" column="55" />
-        <mark key="[" line="9" column="70" />
-        <mark key="]" line="9" column="70" />
-        <mark key="." line="9" column="70" />
-        <mark key="^" line="9" column="70" />
+        <mark key="." line="0" column="26" />
       </file>
       <file name="$USER_HOME$/boringcode/server/src/dals/user-dal.js" timestamp="1489278215219">
         <mark key="'" line="9" column="27" />
@@ -338,24 +501,24 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/boringcode/server/src/models/user-model.js" timestamp="1489278948241">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/boringcode/server/core/server-init/auth.js" timestamp="1489295011478">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="3" column="6" />
+        <mark key="^" line="3" column="6" />
+        <mark key="." line="3" column="6" />
       </file>
-      <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-accept-on-behalf-html-en.html" timestamp="1489272136677">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="18" column="14" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-        <mark key="^" line="19" column="0" />
+      <file name="$USER_HOME$/boringcode/server/migrations/0010-create-auth-tokens/index.js" timestamp="1489295125591">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="4" column="5" />
+        <mark key="^" line="4" column="5" />
+        <mark key="." line="4" column="5" />
       </file>
-      <file name="$USER_HOME$/boringcode/server/core/dal/base-dal.js" timestamp="1489277308816">
+      <file name="$USER_HOME$/boringcode/server/core/dal/base-dal.js" timestamp="1489294695213">
         <mark key="'" line="23" column="18" />
-        <mark key="[" line="27" column="10" />
-        <mark key="]" line="27" column="19" />
-        <mark key="." line="27" column="19" />
-        <mark key="^" line="27" column="19" />
+        <mark key="[" line="3" column="8" />
+        <mark key="]" line="3" column="6" />
+        <mark key="." line="3" column="6" />
+        <mark key="^" line="3" column="6" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-accept-text-en.html" timestamp="1489272299470">
         <mark key="'" line="0" column="0" />
@@ -366,37 +529,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="13" filename="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-accept-html-en.html" />
-      <jump line="0" column="0" filename="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-accept-html-en.html" />
-      <jump line="0" column="0" filename="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-accept-html-fr.html" />
-      <jump line="11" column="72" filename="$USER_HOME$/invite-api/src/modules/conference-invite/handlers/email-templates.handler.js" />
-      <jump line="5" column="77" filename="$USER_HOME$/invite-api/src/modules/conference-invite/handlers/email-templates.handler.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-send-html-en.html" />
-      <jump line="20" column="2" filename="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-auto-accept-html-fr.html" />
-      <jump line="2" column="0" filename="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-auto-accept-text-fr.html" />
-      <jump line="2" column="0" filename="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-auto-accept-text-en.html" />
-      <jump line="5" column="10" filename="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-auto-accept-text-en.html" />
-      <jump line="8" column="0" filename="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-auto-accept-text-en.html" />
-      <jump line="0" column="0" filename="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-auto-accept-text-en.html" />
-      <jump line="8" column="0" filename="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-auto-accept-text-fr.html" />
-      <jump line="2" column="15" filename="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-cancel-on-behalf-html-en.html" />
-      <jump line="4" column="12" filename="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-cancel-on-behalf-html-en.html" />
-      <jump line="6" column="17" filename="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-cancel-on-behalf-html-en.html" />
-      <jump line="18" column="12" filename="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-cancel-on-behalf-html-en.html" />
-      <jump line="3" column="0" filename="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-cancel-on-behalf-text-en.html" />
-      <jump line="5" column="0" filename="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-cancel-on-behalf-text-en.html" />
-      <jump line="4" column="0" filename="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-cancel-on-behalf-text-en.html" />
-      <jump line="0" column="0" filename="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-cancel-on-behalf-text-fr.html" />
-      <jump line="16" column="17" filename="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-accept-on-behalf-html-fr.html" />
-      <jump line="19" column="0" filename="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-accept-on-behalf-html-fr.html" />
-      <jump line="0" column="0" filename="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-accept-on-behalf-html-fr.html" />
-      <jump line="5" column="0" filename="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-accept-on-behalf-text-en.html" />
-      <jump line="0" column="0" filename="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-accept-on-behalf-text-en.html" />
-      <jump line="3" column="0" filename="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-accept-on-behalf-text-fr.html" />
-      <jump line="0" column="0" filename="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-accept-on-behalf-text-fr.html" />
-      <jump line="12" column="0" filename="$USER_HOME$/invite-api/src/models/partner.model.js" />
-      <jump line="27" column="6" filename="$USER_HOME$/invite-api/src/models/partner.model.js" />
-      <jump line="12" column="25" filename="$USER_HOME$/invite-api/db/migrations/20170113204459-create-partners.js" />
       <jump line="21" column="0" filename="$USER_HOME$/invite-api/db/migrations/20170307192322-add-message-fields-to-invite.js" />
       <jump line="0" column="0" filename="$USER_HOME$/invite-api/db/migrations/20170307192322-add-message-fields-to-invite.js" />
       <jump line="23" column="0" filename="$USER_HOME$/invite-api/db/migrations/20170311221511-add-signature-to-conference.js" />
@@ -455,7 +587,6 @@
       <jump line="20" column="0" filename="$USER_HOME$/boringcode/server/core/handlers/errors.js" />
       <jump line="27" column="31" filename="$USER_HOME$/boringcode/server/core/handlers/errors.js" />
       <jump line="121" column="44" filename="$USER_HOME$/boringcode/server/core/handlers/base-crud-handler.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/boringcode/server/core/handlers/base-crud-handler.js" />
       <jump line="16" column="36" filename="$USER_HOME$/boringcode/server/core/modules/user/handlers/user-crud-handler.js" />
       <jump line="94" column="48" filename="$USER_HOME$/boringcode/server/core/handlers/base-crud-handler.js" />
       <jump line="75" column="27" filename="$USER_HOME$/boringcode/server/core/handlers/base-crud-handler.js" />
@@ -464,8 +595,40 @@
       <jump line="102" column="12" filename="$USER_HOME$/boringcode/server/core/handlers/base-crud-handler.js" />
       <jump line="123" column="27" filename="$USER_HOME$/boringcode/server/core/handlers/base-crud-handler.js" />
       <jump line="15" column="41" filename="$USER_HOME$/boringcode/server/core/dal/pg-crud-dal.js" />
-      <jump line="41" column="29" filename="$USER_HOME$/boringcode/server/core/dal/pg-dal.js" />
       <jump line="59" column="26" filename="$USER_HOME$/boringcode/server/core/dal/pg-crud-dal.js" />
+      <jump line="41" column="0" filename="$USER_HOME$/boringcode/server/core/dal/pg-dal.js" />
+      <jump line="43" column="15" filename="$USER_HOME$/boringcode/server/core/dal/pg-dal.js" />
+      <jump line="44" column="13" filename="$USER_HOME$/boringcode/server/core/dal/pg-dal.js" />
+      <jump line="25" column="9" filename="$USER_HOME$/boringcode/server/core/dal/pg-dal.js" />
+      <jump line="29" column="13" filename="$USER_HOME$/boringcode/server/core/dal/pg-dal.js" />
+      <jump line="30" column="34" filename="$USER_HOME$/boringcode/server/core/dal/pg-dal.js" />
+      <jump line="52" column="0" filename="$USER_HOME$/boringcode/server/core/dal/pg-crud-dal.js" />
+      <jump line="57" column="0" filename="$USER_HOME$/boringcode/server/core/dal/pg-crud-dal.js" />
+      <jump line="7" column="34" filename="$USER_HOME$/boringcode/server/core/dal/pg-crud-dal.js" />
+      <jump line="87" column="19" filename="$USER_HOME$/boringcode/server/core/dal/pg-crud-dal.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/boringcode/server/core/errors/not-found-error.js" />
+      <jump line="1" column="33" filename="$USER_HOME$/boringcode/server/core/errors.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/boringcode/server/core/errors/not-implemented-error.js" />
+      <jump line="10" column="0" filename="$USER_HOME$/boringcode/server/core/dal/errors.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/boringcode/server/core/dal/errors.js" />
+      <jump line="21" column="20" filename="$USER_HOME$/boringcode/server/core/handlers/errors.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/boringcode/server/core/handlers/errors.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/boringcode/server/core/handlers/errors/no-serializer-error.js" />
+      <jump line="11" column="0" filename="$USER_HOME$/boringcode/server/core/handlers/errors/no-serializer-error.js" />
+      <jump line="18" column="49" filename="$USER_HOME$/boringcode/server/core/handlers/errors/no-dal-handler.js" />
+      <jump line="19" column="0" filename="$USER_HOME$/boringcode/server/core/handlers/errors/no-model-error.js" />
+      <jump line="4" column="40" filename="$USER_HOME$/boringcode/server/core/handlers/base-crud-handler.js" />
+      <jump line="12" column="0" filename="$USER_HOME$/boringcode/server/core/helpers/simple-http-request.js" />
+      <jump line="15" column="0" filename="$USER_HOME$/boringcode/server/core/database/pg.js" />
+      <jump line="12" column="0" filename="$USER_HOME$/boringcode/server/core/handler-helpers/login/handle-login.js" />
+      <jump line="37" column="10" filename="$USER_HOME$/boringcode/server/core/dal/pg-dal.js" />
+      <jump line="11" column="14" filename="$USER_HOME$/boringcode/server/core/handlers/errors/no-dal-handler.js" />
+      <jump line="125" column="16" filename="$USER_HOME$/boringcode/server/core/handlers/base-crud-handler.js" />
+      <jump line="16" column="35" filename="$USER_HOME$/boringcode/server/core/migration/base-migration.js" />
+      <jump line="1" column="48" filename="$USER_HOME$/boringcode/server/seeds/123-test-seed/index.js" />
+      <jump line="6" column="41" filename="$USER_HOME$/boringcode/server/migrations/0000-create-users/index.js" />
+      <jump line="21" column="9" filename="$USER_HOME$/boringcode/server/core/handlers/base-crud-handler.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/boringcode/server/core/handlers/base-crud-handler.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -537,53 +700,53 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>methods</text>
       </register>
       <register name="-" type="4">
-        <text>promiseTo</text>
+        <text>methods</text>
       </register>
       <register name="/" type="4">
-        <text>R</text>
+        <text>methods</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgLmNhdGNoKGVyciA9PiB7CiAgICAgICAgdGhpcy5pbW1lZGlhdGVseVJlbGVhc2VDb25uZWN0aW9uKCk7CiAgICAgICAgdGhyb3cgZXJyOwogICAgICB9KTsK</text>
+        <text encoding="base64">aW1wb3J0IE5vTW9kZWxFcnJvciBmcm9tICcuL2Vycm9ycy9uby1tb2RlbC1lcnJvcic7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">aW1wb3J0IEJhc2VNaWdyYXRpb24gZnJvbSAnLi4vLi4vY29yZS9taWdyYXRpb24vYmFzZS1taWdyYXRpb24nOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIFByb21pc2UucmVzb2x2ZShpbnB1dCk7Cg==</text>
+        <text encoding="base64">Ci8vIFNyYwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZGVidWdnZXI7Cg==</text>
+        <text encoding="base64">aW1wb3J0IFVzZXJEYWwgZnJvbSAnLi4vZGFscy91c2VyLWRhbCc7CmltcG9ydCBVc2VyTW9kZWwgZnJvbSAnLi4vbW9kZWxzL3VzZXItbW9kZWwnOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLmNhdGNoKHRoaXMucmVsZWFzZUNvbm5lY3Rpb24oKSkK</text>
+        <text encoding="base64">ICBmaW5kQnlVc2VybmFtZSh1c2VybmFtZSkgewogICAgcmV0dXJuIFByb21pc2UucmVzb2x2ZSh0aGlzLmZpbGUuc3FsLmZpbmRCeVVzZXJuYW1lKTsKICAgIC8vIHJldHVybiB0aGlzCiAgICAvLyAgIC5nZXRDb25uZWN0aW9uKCkKICAgIC8vICAgLm9uZSh0aGlzLmZpbGUuc3FsLmZpbmRCeVVzZXJuYW1lLCB7IHVzZXJuYW1lIH0pCiAgICAvLyAgIC50aGVuKHRoaXMuX25ld01vZGVsSW5zdGFuY2UoKSkKICAgIC8vICAgLnRoZW4odGhpcy5yZWxlYXNlQ29ubmVjdGlvbigpKTsKICB9Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>promiseTo</text>
+      <register name="5" type="2">
+        <text encoding="base64">Ly8gQ29yZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBQcm9taXNlLnJlc29sdmUoaW5wdXQpOwo=</text>
+        <text encoding="base64">Ly8gQ29yZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH07Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAoaW5wdXQpID0+IHsK</text>
+        <text encoding="base64">Ly8gQ29yZQppbXBvcnQgQmFzZUNydWRIYW5kbGVyIGZyb20gJy4uLy4uLy4uL2hhbmRsZXJzL2Jhc2UtY3J1ZC1oYW5kbGVyJzsKaW1wb3J0IE5vb3BTZXJpYWxpemVyIGZyb20gJy4uLy4uLy4uL3NlcmlhbGl6ZXJzL25vb3Atc2VyaWFsaXplcic7Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygzKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>R</last-search>
+      <last-search>methods</last-search>
       <last-offset />
-      <last-pattern>R</last-pattern>
+      <last-pattern>methods</last-pattern>
       <last-replace>html</last-replace>
       <last-substitute>hbs</last-substitute>
       <last-dir>1</last-dir>
@@ -591,26 +754,26 @@
     </search>
     <history>
       <history-search>
-        <entry>email</entry>
-        <entry encoding="base64">PA==</entry>
-        <entry encoding="base64">Pg==</entry>
-        <entry encoding="base64">ICA=</entry>
-        <entry>18</entry>
-        <entry>16</entry>
-        <entry>)</entry>
-        <entry>new</entry>
-        <entry encoding="base64">XDxfbmV3TW9kZWxJbnN0YW5jZXNcPg==</entry>
         <entry encoding="base64">XDxtZXJnZVw+</entry>
         <entry>Model</entry>
         <entry>E</entry>
         <entry>(</entry>
         <entry>err</entry>
         <entry>Mo</entry>
-        <entry>M</entry>
         <entry>{</entry>
         <entry>rel</entry>
         <entry>pro</entry>
         <entry>R</entry>
+        <entry>_connection</entry>
+        <entry>,</entry>
+        <entry>)</entry>
+        <entry>C</entry>
+        <entry>throw</entry>
+        <entry>M</entry>
+        <entry>N</entry>
+        <entry>User</entry>
+        <entry>'</entry>
+        <entry>methods</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
