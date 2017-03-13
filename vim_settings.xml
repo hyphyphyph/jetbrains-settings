@@ -339,6 +339,12 @@
         <mark key="^" line="22" column="43" />
         <mark key="." line="22" column="43" />
       </file>
+      <file name="$USER_HOME$/invite-api/src/modules/user/handlers/user-crud.handler.js" timestamp="1489447986814">
+        <mark key="[" line="148" column="50" />
+        <mark key="]" line="148" column="50" />
+        <mark key="^" line="148" column="50" />
+        <mark key="." line="148" column="50" />
+      </file>
       <file name="$USER_HOME$/invite-api/BUILD/src/modules/user/templates/registration-html-en.html" timestamp="1489194224484">
         <mark key="'" line="0" column="11" />
         <mark key="[" line="0" column="46" />
