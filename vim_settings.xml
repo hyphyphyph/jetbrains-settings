@@ -553,12 +553,6 @@
         <mark key="^" line="0" column="8" />
         <mark key="." line="0" column="8" />
       </file>
-      <file name="$USER_HOME$/invite-api/src/models/conference.model.js" timestamp="1489270622266">
-        <mark key="[" line="22" column="28" />
-        <mark key="]" line="23" column="22" />
-        <mark key="." line="23" column="22" />
-        <mark key="^" line="23" column="22" />
-      </file>
       <file name="$USER_HOME$/boringcode/server/core/handler-methods/crud/handle-error.js" timestamp="1489293634758">
         <mark key="[" line="5" column="2" />
         <mark key="]" line="5" column="8" />
