@@ -313,11 +313,12 @@
         <mark key="." line="14" column="64" />
         <mark key="^" line="14" column="64" />
       </file>
-      <file name="$USER_HOME$/invite-api/src/templates/base-email.html" timestamp="1489425936336">
+      <file name="$USER_HOME$/invite-api/src/templates/base-email.html" timestamp="1489428594486">
         <mark key="'" line="388" column="23" />
-        <mark key="[" line="410" column="0" />
-        <mark key="]" line="410" column="0" />
-        <mark key="." line="410" column="0" />
+        <mark key="[" line="388" column="84" />
+        <mark key="]" line="388" column="142" />
+        <mark key="." line="388" column="84" />
+        <mark key="^" line="388" column="83" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-resend-text-fr.html" timestamp="1489362340799">
         <mark key="[" line="2" column="14" />
@@ -1057,11 +1058,11 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">PHVsPgogIDxsaSBjbGFzcz0icHJpbWFyeSI+CiAgICA8YSBocmVmPSJ7e2FjY2VwdExpbmt9fSI+QWNjZXB0IEludml0YXRpb248L2E+CiAgPC9saT4KICA8bGkgY2xhc3M9InNlY29uZGFyeSI+CiAgICA8YSBocmVmPSJ7e2RlY2xpbmVMaW5rfX0iPkRlY2xpbmUgSW52aXRhdGlvbjwvYT4KICA8L2xpPgo8L3VsPgo=</text>
+      <register name="&quot;" type="4">
+        <text>PLACEHOLDER</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aHR0cHM6Ly93d3cuaHViLmMyLmJpei9zaWdudXAvP2lkPTc4NjkmYW1wO2NoZWNrc3VtPTM1MmEzMDNiMDZhZTNmNWNiMTU3N2U2NDE0NWVhNjdkZWRlMzllN2QmYW1wO2FjdGlvbj1kZWNsaW5l</text>
+        <text>PLACEHOLDER</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
