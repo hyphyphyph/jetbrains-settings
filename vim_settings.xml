@@ -345,12 +345,6 @@
         <mark key="." line="13" column="13" />
         <mark key="^" line="13" column="13" />
       </file>
-      <file name="$USER_HOME$/invite-api/src/modules/signed-upload/services/signed-url.service.js" timestamp="1489520669200">
-        <mark key="[" line="14" column="22" />
-        <mark key="]" line="14" column="22" />
-        <mark key="." line="14" column="22" />
-        <mark key="^" line="14" column="22" />
-      </file>
       <file name="$USER_HOME$/invite-api/src/modules/private-activity/jsonapi/private-activity.jsonapi.js" timestamp="1489460094274">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="71" column="0" />
@@ -665,12 +659,6 @@
         <mark key="]" line="10" column="15" />
         <mark key="." line="10" column="15" />
         <mark key="^" line="10" column="15" />
-      </file>
-      <file name="$USER_HOME$/invite-api/src/models/conference.model.js" timestamp="1489512006337">
-        <mark key="[" line="34" column="7" />
-        <mark key="]" line="34" column="7" />
-        <mark key="^" line="34" column="7" />
-        <mark key="." line="34" column="7" />
       </file>
       <file name="$USER_HOME$/boringcode/server/core/handler-helpers/crud/check-for-no-results.js" timestamp="1489294656660">
         <mark key="[" line="0" column="3" />
