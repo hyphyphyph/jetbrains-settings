@@ -345,11 +345,11 @@
         <mark key="." line="13" column="13" />
         <mark key="^" line="13" column="13" />
       </file>
-      <file name="$USER_HOME$/invite-api/src/modules/signed-upload/services/signed-url.service.js" timestamp="1489518305564">
-        <mark key="[" line="16" column="63" />
-        <mark key="]" line="16" column="62" />
-        <mark key="." line="16" column="62" />
-        <mark key="^" line="16" column="62" />
+      <file name="$USER_HOME$/invite-api/src/modules/signed-upload/services/signed-url.service.js" timestamp="1489519425826">
+        <mark key="[" line="30" column="19" />
+        <mark key="]" line="30" column="22" />
+        <mark key="." line="30" column="22" />
+        <mark key="^" line="30" column="22" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/private-activity/jsonapi/private-activity.jsonapi.js" timestamp="1489460094274">
         <mark key="'" line="0" column="0" />
@@ -1228,10 +1228,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>{</text>
+        <text>path</text>
       </register>
       <register name="-" type="4">
-        <text>{</text>
+        <text>path</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
@@ -1240,31 +1240,31 @@
         <text>https://s3.ca-central-1.amazonaws.com/c2-invite-api/c2.png</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgCgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coc2x1ZygpKQo=</text>
+        <text encoding="base64">ICAgICAgCiAgICAgIGNvbnNvbGUubG9nKHBhdGgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocGF0aE9iamVjdCkK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coc2x1ZygpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZGVidWdnZXI7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocGF0aC5mb3JtYXQocGF0aE9iamVjdCkpCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocGF0aE9iamVjdCkK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgZGVidWdnZXI7Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coa2V5KQo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocGF0aC5mb3JtYXQocGF0aE9iamVjdCkpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
