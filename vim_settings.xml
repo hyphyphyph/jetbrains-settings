@@ -345,11 +345,11 @@
         <mark key="." line="13" column="13" />
         <mark key="^" line="13" column="13" />
       </file>
-      <file name="$USER_HOME$/invite-api/src/modules/signed-upload/services/signed-url.service.js" timestamp="1489519425826">
-        <mark key="[" line="30" column="19" />
-        <mark key="]" line="30" column="22" />
-        <mark key="." line="30" column="22" />
-        <mark key="^" line="30" column="22" />
+      <file name="$USER_HOME$/invite-api/src/modules/signed-upload/services/signed-url.service.js" timestamp="1489520669200">
+        <mark key="[" line="14" column="22" />
+        <mark key="]" line="14" column="22" />
+        <mark key="." line="14" column="22" />
+        <mark key="^" line="14" column="22" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/private-activity/jsonapi/private-activity.jsonapi.js" timestamp="1489460094274">
         <mark key="'" line="0" column="0" />
@@ -953,7 +953,7 @@
         <mark key="^" line="4" column="47" />
         <mark key="." line="6" column="11" />
       </file>
-      <file name="/Dummy.txt" timestamp="1489516728656">
+      <file name="/Dummy.txt" timestamp="1489520441553">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/boringcode/server/core/modules/auth/errors/auth-token-error.js" timestamp="1489296916903">
@@ -1228,10 +1228,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>path</text>
+        <text>=</text>
       </register>
       <register name="-" type="4">
-        <text>path</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
@@ -1239,32 +1239,32 @@
       <register name="0" type="4">
         <text>https://s3.ca-central-1.amazonaws.com/c2-invite-api/c2.png</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCgo=</text>
+      <register name="1" type="8">
+        <text>=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCiAgICAgIGNvbnNvbGUubG9nKHBhdGgpCg==</text>
+        <text encoding="base64">CiAgICAgIGNvbnNvbGUubG9nKGZpbGVuYW1lKTsKCiAgICAgIC8vIGNvbnNvbGUubG9nKGtleSk7CiAgICAgIC8vIGNvbnN0IHBhdGhPYmplY3QgPSBwYXRoLnBhcnNlKGtleSk7CiAgICAgIC8vIGNvbnNvbGUubG9nKHBhdGhPYmplY3QubmFtZSk7CiAgICAgIC8vIHBhdGhPYmplY3QuZGlyID0gZm9sZGVyOwogICAgICAvLyBwYXRoT2JqZWN0LmJhc2UgPSBzbHVnKHBhdGhPYmplY3QubmFtZSkgKyAnLScgKyBEYXRlLm5vdygpICsgcGF0aE9iamVjdC5leHQ7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgCgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coc2x1ZygpKQo=</text>
+        <text encoding="base64">ICAgICAgCiAgICAgIGNvbnNvbGUubG9nKHBhdGgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocGF0aE9iamVjdCkK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coc2x1ZygpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZGVidWdnZXI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocGF0aC5mb3JtYXQocGF0aE9iamVjdCkpCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocGF0aE9iamVjdCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZGVidWdnZXI7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
