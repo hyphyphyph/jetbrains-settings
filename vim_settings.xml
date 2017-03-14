@@ -14,10 +14,6 @@
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="17" />
       </file>
-      <file name="$USER_HOME$/invite-api/.env.example" timestamp="1489462870622">
-        <mark key="[" line="4" column="11" />
-        <mark key="]" line="4" column="63" />
-      </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-accept-text-fr.html" timestamp="1489362276695">
         <mark key="'" line="4" column="20" />
         <mark key="[" line="2" column="0" />
@@ -102,6 +98,12 @@
         <mark key="^" line="0" column="8" />
         <mark key="." line="0" column="8" />
       </file>
+      <file name="$USER_HOME$/boringcode/server/tests/endpoints/users/a.js" timestamp="1489479498531">
+        <mark key="[" line="10" column="7" />
+        <mark key="]" line="10" column="12" />
+        <mark key="." line="10" column="12" />
+        <mark key="^" line="10" column="12" />
+      </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-decline-text-en.html" timestamp="1489362313963">
         <mark key="'" line="4" column="0" />
         <mark key="[" line="2" column="14" />
@@ -168,11 +170,12 @@
         <mark key="^" line="1" column="22" />
         <mark key="." line="1" column="22" />
       </file>
-      <file name="$USER_HOME$/invite-api/src/templates/buttons.html" timestamp="1489425957818">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="46" column="7" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/boringcode/server/tests/endpoints/users/user-crud.yml" timestamp="1489478789621">
+        <mark key="'" line="6" column="5" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="2" />
+        <mark key="^" line="5" column="5" />
+        <mark key="." line="12" column="2" />
       </file>
       <file name="$USER_HOME$/boringcode/server/core/errors/not-found-error.js" timestamp="1489294134266">
         <mark key="'" line="0" column="0" />
@@ -208,12 +211,6 @@
         <mark key="]" line="4" column="0" />
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/invite-api/src/modules/core/base-handler.js" timestamp="1489464490006">
-        <mark key="'" line="10" column="15" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/user/templates/registration-html-en.html" timestamp="1489198219490">
         <mark key="'" line="0" column="11" />
@@ -404,12 +401,6 @@
         <mark key="]" line="34" column="36" />
         <mark key="." line="34" column="36" />
         <mark key="^" line="34" column="36" />
-      </file>
-      <file name="$USER_HOME$/invite-api/src/modules/user/handlers/user-crud.handler.js" timestamp="1489456216468">
-        <mark key="'" line="160" column="4" />
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
       </file>
       <file name="$USER_HOME$/invite-api/BUILD/src/modules/user/templates/registration-html-en.html" timestamp="1489194224484">
         <mark key="'" line="0" column="11" />
@@ -680,12 +671,12 @@
         <mark key="." line="8" column="95" />
         <mark key="^" line="8" column="95" />
       </file>
-      <file name="$USER_HOME$/boringcode/server/tooling/test/main.js" timestamp="1489475103287">
-        <mark key="'" line="14" column="19" />
-        <mark key="[" line="16" column="32" />
-        <mark key="]" line="16" column="32" />
-        <mark key="." line="16" column="32" />
-        <mark key="^" line="16" column="32" />
+      <file name="$USER_HOME$/boringcode/server/tooling/test/main.js" timestamp="1489478965554">
+        <mark key="'" line="42" column="0" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="17" column="0" />
       </file>
       <file name="$USER_HOME$/boringcode/server/core/modules/user/services/auth-token-service.js" timestamp="1489307479077">
         <mark key="'" line="29" column="59" />
@@ -800,6 +791,11 @@
         <mark key="]" line="0" column="8" />
         <mark key="^" line="0" column="8" />
         <mark key="." line="0" column="8" />
+      </file>
+      <file name="$USER_HOME$/boringcode/server/tests/endpoints/users/b.js" timestamp="1489477821953">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/boringcode/server/core/handlers/errors/no-serializer-error.js" timestamp="1489294109416">
         <mark key="'" line="11" column="0" />
@@ -966,6 +962,12 @@
         <mark key="^" line="37" column="17" />
         <mark key="." line="37" column="17" />
       </file>
+      <file name="$USER_HOME$/boringcode/server/tests/endpoints/users/dummy.yml" timestamp="1489478444928">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="10" />
+        <mark key="." line="0" column="10" />
+        <mark key="^" line="0" column="10" />
+      </file>
       <file name="$USER_HOME$/boringcode/server/core/database/pg.js" timestamp="1489294610555">
         <mark key="'" line="16" column="0" />
         <mark key="[" line="0" column="0" />
@@ -1040,28 +1042,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="5" filename="$USER_HOME$/boringcode/new-server/tooling/cli/commands/build/index.js" />
-      <jump line="1" column="62" filename="$USER_HOME$/boringcode/new-server/tests/http/users/create-user.js" />
-      <jump line="3" column="54" filename="$USER_HOME$/boringcode/new-server/tests/http/users/list-all-users.js" />
-      <jump line="3" column="13" filename="$USER_HOME$/boringcode/new-server/tests/http/login/login.js" />
-      <jump line="25" column="0" filename="$USER_HOME$/boringcode/new-server/tests/http/login/login.js" />
-      <jump line="9" column="27" filename="$USER_HOME$/boringcode/new-server/tests/http/users/create-user.js" />
-      <jump line="21" column="1" filename="$USER_HOME$/boringcode/new-server/tests/http/login/login.js" />
-      <jump line="6" column="0" filename="$USER_HOME$/boringcode/new-server/tests/http/users/delete-user.js" />
-      <jump line="9" column="28" filename="$USER_HOME$/boringcode/new-server/tests/http/users/delete-user.js" />
-      <jump line="8" column="17" filename="$USER_HOME$/boringcode/new-server/tests/http/users/delete-user.js" />
-      <jump line="17" column="1" filename="$USER_HOME$/boringcode/new-server/tests/http/users/list-all-users.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/boringcode/new-server/tests/http/users/list-all-users.js" />
-      <jump line="24" column="0" filename="$USER_HOME$/boringcode/new-server/tests/http/users/list-all-users.js" />
-      <jump line="4" column="25" filename="$USER_HOME$/boringcode/new-server/tests/endpoints/users/create-user.js" />
-      <jump line="988" column="7" filename="$USER_HOME$/invite-api/src/templates/base-email.html" />
-      <jump line="0" column="0" filename="$USER_HOME$/invite-api/src/templates/base-email.html" />
-      <jump line="494" column="7" filename="$USER_HOME$/invite-api/src/templates/base-email.html" />
-      <jump line="4" column="0" filename="$USER_HOME$/invite-api/src/templates/base-email.html" />
-      <jump line="388" column="23" filename="$USER_HOME$/invite-api/src/templates/base-email.html" />
-      <jump line="0" column="0" filename="$USER_HOME$/invite-api/src/templates/buttons.html" />
-      <jump line="17" column="0" filename="$USER_HOME$/invite-api/db/migrations/20170311221511-add-signature-to-conference.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/invite-api/db/migrations/20170311221511-add-signature-to-conference.js" />
       <jump line="20" column="5" filename="$USER_HOME$/invite-api/db/migrations/20170313190004-change-locales-to-enum.js" />
       <jump line="34" column="14" filename="$USER_HOME$/invite-api/db/migrations/20170313190004-change-locales-to-enum.js" />
       <jump line="0" column="0" filename="$USER_HOME$/invite-api/db/migrations/20170313190004-change-locales-to-enum.js" />
@@ -1097,7 +1077,6 @@
       <jump line="11" column="0" filename="$USER_HOME$/boringcode/server/tooling/test/main.js" />
       <jump line="4" column="22" filename="$USER_HOME$/boringcode/server/tooling/test/main.js" />
       <jump line="87" column="0" filename="$USER_HOME$/boringcode/server/tooling/test/main.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/boringcode/server/tooling/test/main.js" />
       <jump line="9" column="17" filename="$USER_HOME$/boringcode/server/tooling/cli/main.js" />
       <jump line="10" column="0" filename="$USER_HOME$/boringcode/server/tooling/cli/main.js" />
       <jump line="29" column="0" filename="$USER_HOME$/boringcode/server/tooling/cli/main.js" />
@@ -1140,6 +1119,29 @@
       <jump line="7" column="47" filename="$USER_HOME$/boringcode/server/tooling/test/main.js" />
       <jump line="12" column="19" filename="$USER_HOME$/boringcode/server/tooling/test/main.js" />
       <jump line="0" column="0" filename="$USER_HOME$/boringcode/server/package.json" />
+      <jump line="16" column="32" filename="$USER_HOME$/boringcode/server/tooling/test/main.js" />
+      <jump line="13" column="47" filename="$USER_HOME$/boringcode/server/tooling/test/main.js" />
+      <jump line="14" column="46" filename="$USER_HOME$/boringcode/server/tooling/test/main.js" />
+      <jump line="22" column="29" filename="$USER_HOME$/boringcode/server/tooling/test/main.js" />
+      <jump line="2" column="0" filename="$USER_HOME$/boringcode/server/tests/endpoints/users/dummy.yml" />
+      <jump line="2" column="28" filename="$USER_HOME$/boringcode/server/tests/endpoints/users/a.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/boringcode/server/tests/endpoints/users/a.js" />
+      <jump line="3" column="2" filename="$USER_HOME$/boringcode/server/tests/endpoints/users/a.js" />
+      <jump line="9" column="9" filename="$USER_HOME$/boringcode/server/tests/endpoints/users/a.js" />
+      <jump line="34" column="6" filename="$USER_HOME$/boringcode/server/tooling/test/main.js" />
+      <jump line="23" column="7" filename="$USER_HOME$/boringcode/server/tooling/test/main.js" />
+      <jump line="32" column="30" filename="$USER_HOME$/boringcode/server/tooling/test/main.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/boringcode/server/tooling/test/main.js" />
+      <jump line="7" column="0" filename="$USER_HOME$/boringcode/server/tests/endpoints/users/user-crud.yml" />
+      <jump line="6" column="5" filename="$USER_HOME$/boringcode/server/tests/endpoints/users/user-crud.yml" />
+      <jump line="21" column="3" filename="$USER_HOME$/boringcode/server/tooling/test/main.js" />
+      <jump line="19" column="4" filename="$USER_HOME$/boringcode/server/tooling/test/main.js" />
+      <jump line="50" column="12" filename="$USER_HOME$/boringcode/server/tooling/test/main.js" />
+      <jump line="35" column="12" filename="$USER_HOME$/boringcode/server/tooling/test/main.js" />
+      <jump line="17" column="31" filename="$USER_HOME$/boringcode/server/tooling/test/main.js" />
+      <jump line="49" column="0" filename="$USER_HOME$/boringcode/server/tooling/test/main.js" />
+      <jump line="18" column="0" filename="$USER_HOME$/boringcode/server/tooling/test/main.js" />
+      <jump line="42" column="0" filename="$USER_HOME$/boringcode/server/tooling/test/main.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1211,70 +1213,60 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>JsYaml</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="-" type="4">
-        <text>JsYaml</text>
+        <text>(this.env)</text>
       </register>
       <register name="/" type="4">
-        <text>yaml</text>
+        <text>const</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IGNoYWxrIGZyb20gJ2NoYWxrJwppbXBvcnQgY29tbWFuZGVyIGZyb20gJ2NvbW1hbmRlcicKaW1wb3J0IGNvbmZpZyBmcm9tICdjb25maWcnCmltcG9ydCBleGVjYSBmcm9tICdleGVjYScKCmV4cG9ydCBkZWZhdWx0IGNsYXNzIFRlc3QgewogIGNvbnN0cnVjdG9yICh2b3JwYWwsIGFyZ3MsIGRvbmUpIHsKICAgIHRoaXMudm9ycGFsID0gdm9ycGFsCiAgICB0aGlzLmFyZ3MgPSBhcmdzCiAgICB0aGlzLmRvbmUgPSBkb25lCgogICAgdGhpcy5ydW4oKQogIH0KCiAgcnVuICgpIHsKICAgIGNvbnNvbGUubG9nKCdCdWlsZGluZy4uLicpCgogICAgbGV0IGNvbW1hbmQgPSBbJ2J1aWxkJ10KICAgIGlmICh0aGlzLmFyZ3Mub3B0aW9ucy52ZXJib3NlICE9PSB0cnVlKSB7CiAgICAgIGNvbW1hbmQucHVzaCgnLS1zaWxlbnQnKQogICAgfQogICAgZXhlY2Euc3luYygKICAgICAgJ2d1bHAnLAogICAgICBjb21tYW5kLAogICAgICB7CiAgICAgICAgc3RkaW86ICdpbmhlcml0JwogICAgICB9CiAgICApCgogICAgY29uc29sZS5sb2coJ0RvbmUgYnVpbGRpbmcuJykKICAgIGNvbnNvbGUubG9nKCdSdW5uaW5nIHRlc3RzLi4uJykKICAgIGNvbnNvbGUubG9nKCcnKQoKICAgIGlmICh0aGlzLmFyZ3Mub3B0aW9ucy5kZWJ1ZykgewogICAgICBleGVjYS5zeW5jKAogICAgICAgICdub2RlJywKICAgICAgICBbCiAgICAgICAgICAnZGVidWcnLAogICAgICAgICAgYC4vJHtjb25maWcuZ2V0KCdidWlsZC5kZXN0Jyl9L3Rvb2xpbmcvdGVzdC9pbmRleC5qc2AsCiAgICAgICAgICB0aGlzLmFyZ3MuZ2xvYgogICAgICAgIF0sCiAgICAgICAgewogICAgICAgICAgc3RkaW86ICdpbmhlcml0JwogICAgICAgIH0KICAgICAgKQogICAgfSBlbHNlIHsKICAgICAgZXhlY2Euc3luYygKICAgICAgICAnbm9kZScsCiAgICAgICAgWwogICAgICAgICAgYC4vJHtjb25maWcuZ2V0KCdidWlsZC5kZXN0Jyl9L3Rvb2xpbmcvdGVzdC9pbmRleC5qc2AsCiAgICAgICAgICB0aGlzLmFyZ3MuZ2xvYgogICAgICAgIF0sCiAgICAgICAgewogICAgICAgICAgc3RkaW86ICdpbmhlcml0JwogICAgICAgIH0KICAgICAgKQogICAgfQoKICAgIHRoaXMuZG9uZSgpCiAgfQp9CgpUZXN0LkNPTU1BTkQgPSAndGVzdCBbZ2xvYl0nClRlc3QuT1BUSU9OUyA9IFsKICBbJy0tZGVidWcnLCAnU3RhcnQgd2l0aCBkZWJ1Z2dlciddLAogIFsnLS12ZXJib3NlJywgJ1Nob3cgYnVpbGQgcHJvZ3Jlc3MnXQpdCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coYFN1aXRlOiAke21vZHVsZS5zdWl0ZS5uYW1lfSAtLS0gVGVzdDogJHttb2R1bGUudGVzdH1gKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coc3VpdGVzKQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coYXJncyk7Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gU3lzdGVtCg==</text>
+        <text encoding="base64">ICB9KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IG1lcmdlIGZyb20gJ21lcmdlJwppbXBvcnQgdXVpZCBmcm9tICd1dWlkJwoK</text>
+        <text encoding="base64">ICAgICAgcmVzb2x2ZSgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICByZXR1cm4gbmV3IFByb21pc2UocmVzb2x2ZSA9PiB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
+        <text encoding="base64">c3VpdGVQcm9taXNlcy50aGVuKCgpID0+IHt9KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbW1hbmRlciBmcm9tICdjb21tYW5kZXInCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgaGVscCAoKSB7CiAgICBjb21tYW5kZXIKICAgICAgLmNvbW1hbmQoJ2J1aWxkJykKICAgICAgLm9wdGlvbignLS1mb3JjZScsICdTa2lwIGxpbnRpbmcnKQogICAgICAucGFyc2UocHJvY2Vzcy5hcmd2LnNsaWNlKDAsIDIpLmNvbmNhdChbJy0taGVscCddKSkKICB9Cg==</text>
+        <text encoding="base64">ICBjb25zdCBzdWl0ZUNvbnRlbnRzID0gZnMucmVhZEZpbGVTeW5jKHN1aXRlLCAndXRmOCcpCiAgbGV0IHN1aXRlQ29uZmlnID0geWFtbC5zYWZlTG9hZChzdWl0ZUNvbnRlbnRzKQoKICBsZXQgbW9kdWxlcyA9IHN1aXRlQ29uZmlnLnRlc3RzLm1hcCh0ZXN0ID0+ICh7CiAgICB0ZXN0LAogICAgTW9kdWxlOiByZXF1aXJlKHBhdGgucmVzb2x2ZShwYXRoLmpvaW4ocGF0aC5kaXJuYW1lKHN1aXRlKSwgdGVzdCkpKS5kZWZhdWx0LAogICAgc3VpdGU6IHN1aXRlQ29uZmlnCiAgfSkpCiAgbW9kdWxlcy5yZXZlcnNlKCkKCiAgbGV0IG1vZHVsZSA9IG1vZHVsZXMucG9wKCkKICBtb2R1bGVzLnJldmVyc2UoKQoKICBjb25zb2xlLmxvZyhgU3VpdGU6ICR7bW9kdWxlLnN1aXRlLm5hbWV9IC0tLSBUZXN0OiAke21vZHVsZS50ZXN0fWApCiAgbGV0IHByb21pc2VDaGFpbiA9IG5ldyBtb2R1bGUuTW9kdWxlKCkucnVuKCkKCiAgbW9kdWxlcy5mb3JFYWNoKG1vZHVsZSA9PiB7CiAgICBwcm9taXNlQ2hhaW4gPSBwcm9taXNlQ2hhaW4udGhlbihlbnYgPT4gewogICAgICBjb25zb2xlLmxvZyhgU3VpdGU6ICR7bW9kdWxlLnN1aXRlLm5hbWV9IC0tLSBUZXN0OiAke21vZHVsZS50ZXN0fWApCiAgICAgIHJldHVybiBuZXcgbW9kdWxlLk1vZHVsZShlbnYpLnJ1bigpCiAgICB9KQogIH0pCgogIHByb21pc2VDaGFpbi50aGVuKGVudiA9PiB7CiAgICBjb25zb2xlLmxvZygnRmluYWwgRW52OicsIGVudikKICAgIGNvbnNvbGUubG9nKCcnKQogICAgcmVzb2x2ZSgpCiAgfSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmICh0aGlzLmFyZ3Mub3B0aW9uLmhlbHApIHsKICAgICAgdGhpcy5oZWxwKCkK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coYFRlc3Q6ICR7bW9kdWxlLnRlc3R9YCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>yaml</last-search>
+      <last-search>const</last-search>
       <last-offset />
-      <last-pattern>yaml</last-pattern>
+      <last-pattern>const</last-pattern>
       <last-replace>PrivateActivityJsonApi</last-replace>
       <last-substitute>PassJsonApi</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>PassJsonApi</entry>
-        <entry>Pass</entry>
-        <entry>pass</entry>
-        <entry>`</entry>
-        <entry>Partner</entry>
-        <entry>console</entry>
-        <entry>'</entry>
-        <entry>)</entry>
-        <entry>debu</entry>
-        <entry>commans</entry>
         <entry>command</entry>
         <entry>commands</entry>
         <entry>''</entry>
@@ -1285,6 +1277,16 @@
         <entry>;</entry>
         <entry>argv</entry>
         <entry>yaml</entry>
+        <entry>(</entry>
+        <entry>rea</entry>
+        <entry>tests</entry>
+        <entry>'</entry>
+        <entry>path</entry>
+        <entry>rr</entry>
+        <entry>file</entry>
+        <entry>`</entry>
+        <entry>forE</entry>
+        <entry>const</entry>
       </history-search>
       <history-cmd>
         <entry>:w</entry>
