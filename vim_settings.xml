@@ -654,6 +654,12 @@
         <mark key="." line="10" column="15" />
         <mark key="^" line="10" column="15" />
       </file>
+      <file name="$USER_HOME$/invite-api/src/models/conference.model.js" timestamp="1489512006337">
+        <mark key="[" line="34" column="7" />
+        <mark key="]" line="34" column="7" />
+        <mark key="^" line="34" column="7" />
+        <mark key="." line="34" column="7" />
+      </file>
       <file name="$USER_HOME$/boringcode/server/core/handler-helpers/crud/check-for-no-results.js" timestamp="1489294656660">
         <mark key="[" line="0" column="3" />
         <mark key="]" line="0" column="6" />
