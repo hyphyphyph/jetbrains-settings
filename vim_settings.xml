@@ -151,6 +151,12 @@
         <mark key="^" line="1" column="22" />
         <mark key="." line="1" column="22" />
       </file>
+      <file name="$USER_HOME$/invite-api/src/templates/buttons.html" timestamp="1489425957818">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="46" column="7" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/boringcode/server/core/errors/not-found-error.js" timestamp="1489294134266">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -179,10 +185,11 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/invite-api/src/modules/core/base-handler.js" timestamp="1489454884456">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/invite-api/src/modules/core/base-handler.js" timestamp="1489460654279">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+        <mark key="^" line="40" column="25" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/user/templates/registration-html-en.html" timestamp="1489198219490">
         <mark key="'" line="0" column="11" />
@@ -306,6 +313,13 @@
         <mark key="." line="13" column="13" />
         <mark key="^" line="13" column="13" />
       </file>
+      <file name="$USER_HOME$/invite-api/src/modules/private-activity/jsonapi/private-activity.jsonapi.js" timestamp="1489460094274">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="0" />
+        <mark key="." line="71" column="0" />
+        <mark key="^" line="70" column="10" />
+      </file>
       <file name="$USER_HOME$/invite-api/src/modules/partner/templates/invited-html-fr.html" timestamp="1489198674826">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="30" />
@@ -331,6 +345,12 @@
         <mark key="]" line="388" column="142" />
         <mark key="." line="388" column="84" />
         <mark key="^" line="388" column="83" />
+      </file>
+      <file name="$USER_HOME$/invite-api/src/models/index.js" timestamp="1489460366495">
+        <mark key="[" line="15" column="15" />
+        <mark key="]" line="15" column="30" />
+        <mark key="." line="15" column="30" />
+        <mark key="^" line="15" column="30" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-resend-text-fr.html" timestamp="1489362340799">
         <mark key="[" line="2" column="14" />
@@ -487,11 +507,12 @@
         <mark key="^" line="7" column="54" />
         <mark key="." line="7" column="54" />
       </file>
-      <file name="$USER_HOME$/invite-api/src/models/private-activity.model.js" timestamp="1489457374035">
-        <mark key="[" line="6" column="5" />
-        <mark key="]" line="6" column="19" />
-        <mark key="^" line="6" column="19" />
-        <mark key="." line="6" column="19" />
+      <file name="$USER_HOME$/invite-api/src/models/private-activity.model.js" timestamp="1489460734647">
+        <mark key="'" line="54" column="30" />
+        <mark key="[" line="29" column="26" />
+        <mark key="]" line="29" column="30" />
+        <mark key="^" line="29" column="30" />
+        <mark key="." line="29" column="30" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-auto-accept-text-fr.html" timestamp="1489362303274">
         <mark key="[" line="8" column="14" />
@@ -499,12 +520,11 @@
         <mark key="^" line="8" column="25" />
         <mark key="." line="8" column="25" />
       </file>
-      <file name="$USER_HOME$/invite-api/src/modules/private-activity/handlers/private-activity-crud.handler.js" timestamp="1489458688675">
-        <mark key="'" line="23" column="12" />
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-        <mark key="^" line="26" column="18" />
+      <file name="$USER_HOME$/invite-api/src/modules/private-activity/handlers/private-activity-crud.handler.js" timestamp="1489460688061">
+        <mark key="'" line="43" column="0" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="25" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-accept-on-behalf-html-en.html" timestamp="1489272136677">
         <mark key="'" line="0" column="0" />
@@ -953,14 +973,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="0" filename="$USER_HOME$/boringcode/server/core/modules/user/handlers/user-crud-handler.js" />
-      <jump line="60" column="28" filename="$USER_HOME$/boringcode/server/core/handlers/base-crud-handler.js" />
-      <jump line="68" column="20" filename="$USER_HOME$/boringcode/server/core/handlers/base-crud-handler.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/boringcode/server/core/modules/user/models/user-model.js" />
-      <jump line="12" column="0" filename="$USER_HOME$/boringcode/server/core/modules/user/dals/user-dal.js" />
-      <jump line="11" column="0" filename="$USER_HOME$/boringcode/server/core/modules/user/dals/user-dal.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/boringcode/server/core/modules/user/dals/user-dal.js" />
-      <jump line="22" column="0" filename="$USER_HOME$/boringcode/server/core/modules/user/handlers/login-handler.js" />
       <jump line="12" column="32" filename="$USER_HOME$/boringcode/server/core/modules/user/handlers/login-handler.js" />
       <jump line="19" column="48" filename="$USER_HOME$/boringcode/server/core/dal/base-dal.js" />
       <jump line="21" column="7" filename="$USER_HOME$/boringcode/server/core/modules/user/handlers/login-handler.js" />
@@ -1053,6 +1065,14 @@
       <jump line="7" column="37" filename="$USER_HOME$/invite-api/src/modules/private-activity/handlers/private-activity-crud.handler.js" />
       <jump line="79" column="2" filename="$USER_HOME$/invite-api/src/modules/pass/handlers/pass-crud.handler.js" />
       <jump line="23" column="12" filename="$USER_HOME$/invite-api/src/modules/private-activity/handlers/private-activity-crud.handler.js" />
+      <jump line="27" column="0" filename="$USER_HOME$/invite-api/src/modules/private-activity/handlers/private-activity-crud.handler.js" />
+      <jump line="3" column="21" filename="$USER_HOME$/invite-api/src/modules/private-activity/jsonapi/private-activity.jsonapi.js" />
+      <jump line="116" column="0" filename="$USER_HOME$/invite-api/src/modules/private-activity/jsonapi/private-activity.jsonapi.js" />
+      <jump line="77" column="4" filename="$USER_HOME$/invite-api/src/modules/private-activity/jsonapi/private-activity.jsonapi.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/invite-api/src/modules/private-activity/jsonapi/private-activity.jsonapi.js" />
+      <jump line="6" column="19" filename="$USER_HOME$/invite-api/src/models/private-activity.model.js" />
+      <jump line="40" column="19" filename="$USER_HOME$/invite-api/src/models/private-activity.model.js" />
+      <jump line="53" column="30" filename="$USER_HOME$/invite-api/src/models/private-activity.model.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1125,64 +1145,59 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgJ3Bhc3Mtb3B0aW9ucyc6IEpvaS5vYmplY3QoewogICAgICAgIGRhdGE6IEpvaS5hcnJheSgpLml0ZW1zKEpvaS5vYmplY3QoewogICAgICAgICAgdHlwZTogSm9pLnN0cmluZygpLnZhbGlkKCdwYXNzLW9wdGlvbnMnKSwKICAgICAgICAgIGlkOiBKb2kuc3RyaW5nKCkudXVpZCgpCiAgICAgICAgfSkpCiAgICAgIH0pCg==</text>
+        <text encoding="base64">ICAgICAgLmNhdGNoKGNvbnNvbGUubG9nKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>conferences</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>conf</text>
+        <text>Partner</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBfVkFMSURBVEVfQVRUUklCVVRFUygpIHsKICAgIHJldHVybiBKb2kub2JqZWN0KHsKICAgICAgJ3RpdGxlLWVuJzogSm9pLnN0cmluZygpLmFsbG93KG51bGwpLAogICAgICAndGl0bGUtZnInOiBKb2kuc3RyaW5nKCkuYWxsb3cobnVsbCksCiAgICAgICdjcmVhdGUta2xpay1hY2NvdW50JzogSm9pLmJvb2xlYW4oKSwKICAgICAgJ2NhdGVnb3J5JzogSm9pLnN0cmluZygpLmFsbG93KG51bGwpCiAgICB9KS5yZXF1aXJlZCgpOwogIH0KCiAgX1ZBTElEQVRFX1JFTEFUSU9OU0hJUFMoKSB7CiAgICByZXR1cm4gSm9pLm9iamVjdCh7CiAgICAgIGNvbmZlcmVuY2U6IEpvaS5vYmplY3QoewogICAgICAgIGRhdGE6IEpvaS5vYmplY3QoewogICAgICAgICAgdHlwZTogSm9pLnN0cmluZygpLnZhbGlkKCdjb25mZXJlbmNlcycpLnJlcXVpcmVkKCksCiAgICAgICAgICBpZDogSm9pLnN0cmluZygpLnV1aWQoKS5yZXF1aXJlZCgpCiAgICAgICAgfSkKICAgICAgfSkucmVxdWlyZWQoKSwKICAgICAgJ3Bhc3Mtb3B0aW9ucyc6IEpvaS5vYmplY3QoewogICAgICAgIGRhdGE6IEpvaS5hcnJheSgpLml0ZW1zKEpvaS5vYmplY3QoewogICAgICAgICAgdHlwZTogSm9pLnN0cmluZygpLnZhbGlkKCdwYXNzLW9wdGlvbnMnKSwKICAgICAgICAgIGlkOiBKb2kuc3RyaW5nKCkudXVpZCgpCiAgICAgICAgfSkpCiAgICAgIH0pCiAgICB9KTsKICB9Cg==</text>
+        <text encoding="base64">ICBjcmVhdGUocmVxdWVzdCwgcmVwbHkpIHsKICAgIGNvbnN0IGRhdGEgPSByZXF1ZXN0LnBheWxvYWQ7CgogICAgdGhpcy5fZGVzZXJpYWxpemUoZGF0YSkKICAgICAgLnRoZW4oKCkgPT4gdGhpcy5NT0RFTC5jcmVhdGUodGhpcy5kZXNlcmlhbGl6ZWREYXRhKSkKICAgICAgLmNhdGNoKGNvbnNvbGUubG9nKQogICAgICAudGhlbihpbnN0YW5jZSA9PiB0aGlzLl9oYW5kbGVSZWxhdGlvbnNoaXBzKGluc3RhbmNlKSkKICAgICAgLnRoZW4oaW5zdGFuY2UgPT4gdGhpcy5fc3luY0RiKGluc3RhbmNlKSkKICAgICAgLnRoZW4oaW5zdGFuY2UgPT4gdGhpcy5fc2VyaWFsaXplKGluc3RhbmNlKSkKICAgICAgLnRoZW4oZGF0YSA9PiByZXBseShkYXRhKSkKICAgICAgLmNhdGNoKGVyciA9PiByZXBseShlcnIuYm9vbSgpKSk7CiAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgJ3Bhc3Mtb3B0aW9ucyc6IEpvaS5vYmplY3QoewogICAgICAgIGRhdGE6IEpvaS5hcnJheSgpLml0ZW1zKEpvaS5vYmplY3QoewogICAgICAgICAgdHlwZTogSm9pLnN0cmluZygpLnZhbGlkKCdwYXNzLW9wdGlvbnMnKSwKICAgICAgICAgIGlkOiBKb2kuc3RyaW5nKCkudXVpZCgpCiAgICAgICAgfSkpCiAgICAgIH0pCg==</text>
+        <text encoding="base64">ICAgICAgLmNhdGNoKGNvbnNvbGUubG9nKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgJ2NhdGVnb3J5JzogSm9pLnN0cmluZygpLmFsbG93KG51bGwpCg==</text>
+        <text encoding="base64">ICAgICAgLnRoZW4oaW5zdGFuY2UgPT4gdGhpcy5faGFuZGxlUmVsYXRpb25zaGlwcyhpbnN0YW5jZSkpCiAgICAgIC50aGVuKGluc3RhbmNlID0+IHRoaXMuX3N5bmNEYihpbnN0YW5jZSkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBkb1ByaXZhdGVBY3Rpdml0eUNydWQocmVxdWVzdCwgcmVwbHkpIHsKICAgIHJlcGx5KCdwcml2YXRlLWFjdGl2aXR5LWNydWQnKTsKICB9Cg==</text>
+        <text encoding="base64">ICAgICAgLmNhdGNoKGNvbnNvbGUubG9nKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgdmFsaWRhdGU6IG5ldyBQcml2YXRlQWN0aXZpdHlDcnVkSGFuZGxlcigpLmdldFNob3dBbGxWYWxpZGF0aW9uKCkK</text>
+        <text encoding="base64">ICAgICAgLmNhdGNoKGNvbnNvbGUubG9nKQo=</text>
       </register>
-      <register name="5" type="4">
-        <text>Create</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgLmNhdGNoKGNvbnNvbGUubG9nKQo=</text>
       </register>
-      <register name="6" type="4">
-        <text>ShowAll</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLmRlc2VyaWFsaXplZERhdGEpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLmNhdGNoKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAgIGluc3RhbmNlTWV0aG9kczogewogICAgICAgIHF1b3RhczogKCkgPT4gW10KICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICdwYXNzLW9wdGlvbnMnOiB7CiAgICAgICAgICAgIHZhbHVlRm9yUmVsYXRpb25zaGlwOiAocmVsYXRpb25zaGlwKSA9PiAoeyBpZDogcmVsYXRpb25zaGlwLmlkIH0pCiAgICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBtb2RlbDogbW9kZWxzLkNvbmZlcmVuY2VJbnZpdGUsCiAgICAgICAgICAgICAgICBhczogJ2NvbmZlcmVuY2VJbnZpdGVzJwogICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgbW9kZWw6IG1vZGVscy5Vc2VyLAogICAgICAgICAgICAgICAgYXM6ICd1c2VycycKICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgcGFzc09wdGlvbnM6IHsKICAgICAgICBpbmNsdWRlZDogdHJ1ZSwKICAgICAgICByZWY6ICdpZCcsCiAgICAgICAgaWdub3JlUmVsYXRpb25zaGlwRGF0YTogZmFsc2UsCiAgICAgICAgcmVsYXRpb25zaGlwTGlua3M6IHsKICAgICAgICAgIHNlbGY6IChwYXNzKSA9PiBgL3Bhc3Nlcy8ke3Bhc3MuaWR9L3JlbGF0aW9uc2hpcHMvcGFzcy1vcHRpb25zYCwKICAgICAgICAgIHJlbGF0ZWQ6IChwYXNzKSA9PiBgL3Bhc3Nlcy8ke3Bhc3MuaWR9L3Bhc3Mtb3B0aW9uc2AsCiAgICAgICAgfSwKICAgICAgICBhdHRyaWJ1dGVzOiBbCiAgICAgICAgICAndGl0bGVFbicsCiAgICAgICAgICAndGl0bGVGcicsCiAgICAgICAgICAnY29uZmlndXJhYmxlJwogICAgICAgIF0KICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>conf</last-search>
+      <last-search>Partner</last-search>
       <last-offset />
-      <last-pattern>conf</last-pattern>
-      <last-replace>AuthTokenDal</last-replace>
-      <last-substitute>UserDal</last-substitute>
+      <last-pattern>Partner</last-pattern>
+      <last-replace>PrivateActivityJsonApi</last-replace>
+      <last-substitute>PassJsonApi</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">PA==</entry>
-        <entry>https</entry>
-        <entry>&quot;</entry>
-        <entry>locale</entry>
-        <entry>require</entry>
         <entry>s</entry>
         <entry>Us</entry>
         <entry>D</entry>
@@ -1198,9 +1213,13 @@
         <entry>M</entry>
         <entry>{</entry>
         <entry>conf</entry>
+        <entry>PassJsonApi</entry>
+        <entry>Pass</entry>
+        <entry>pass</entry>
+        <entry>`</entry>
+        <entry>Partner</entry>
       </history-search>
       <history-cmd>
-        <entry>ew</entry>
         <entry>:w</entry>
         <entry encoding="base64">JzwsJz5zL3Bhc3MvcGFydG5lci9n</entry>
         <entry encoding="base64">JzwsJz5zL3BhcnRuZXIvY29uZmVyZW5jZS9n</entry>
@@ -1219,6 +1238,7 @@
         <entry>25</entry>
         <entry>27</entry>
         <entry>W</entry>
+        <entry encoding="base64">JzwsJz5zL1Bhc3NKc29uQXBpL1ByaXZhdGVBY3Rpdml0eUpzb25BcGkvZw==</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
