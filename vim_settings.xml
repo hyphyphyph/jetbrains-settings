@@ -375,6 +375,13 @@
         <mark key="^" line="22" column="43" />
         <mark key="." line="22" column="43" />
       </file>
+      <file name="$USER_HOME$/boringcode/server/tooling/cli/commands/test/index.js" timestamp="1489469550763">
+        <mark key="'" line="20" column="4" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="20" column="60" />
+        <mark key="." line="21" column="0" />
+      </file>
       <file name="$USER_HOME$/invite-api/src/modules/user/handlers/user-crud.handler.js" timestamp="1489456216468">
         <mark key="'" line="160" column="4" />
         <mark key="[" line="49" column="0" />
@@ -630,6 +637,12 @@
         <mark key="." line="8" column="95" />
         <mark key="^" line="8" column="95" />
       </file>
+      <file name="$USER_HOME$/boringcode/server/tooling/test/main.js" timestamp="1489468832408">
+        <mark key="'" line="5" column="41" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/boringcode/server/core/modules/user/services/auth-token-service.js" timestamp="1489307479077">
         <mark key="'" line="29" column="59" />
         <mark key="[" line="30" column="8" />
@@ -648,6 +661,12 @@
         <mark key="]" line="1" column="13" />
         <mark key="." line="1" column="13" />
         <mark key="^" line="1" column="13" />
+      </file>
+      <file name="$USER_HOME$/boringcode/server/tooling/cli/main.js" timestamp="1489469047956">
+        <mark key="[" line="25" column="31" />
+        <mark key="]" line="25" column="31" />
+        <mark key="." line="25" column="31" />
+        <mark key="^" line="25" column="42" />
       </file>
       <file name="$USER_HOME$/boringcode/server/core/modules/auth/routes.js" timestamp="1489297209793">
         <mark key="[" line="9" column="0" />
@@ -982,20 +1001,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="71" filename="$USER_HOME$/boringcode/server/core/modules/user/handlers/login-handler.js" />
-      <jump line="11" column="1" filename="$USER_HOME$/boringcode/server/core/modules/user/services/auth-token-service.js" />
-      <jump line="7" column="51" filename="$USER_HOME$/boringcode/server/core/modules/user/services/auth-token-service.js" />
-      <jump line="32" column="24" filename="$USER_HOME$/boringcode/server/core/modules/user/handlers/login-handler.js" />
-      <jump line="3" column="6" filename="$USER_HOME$/boringcode/server/core/modules/user/dals/auth-token-dal/updateOne.sql" />
-      <jump line="28" column="73" filename="$USER_HOME$/boringcode/server/core/modules/user/services/auth-token-service.js" />
-      <jump line="29" column="59" filename="$USER_HOME$/boringcode/server/core/modules/user/services/auth-token-service.js" />
-      <jump line="27" column="34" filename="$USER_HOME$/boringcode/server/core/modules/user/handlers/login-handler.js" />
-      <jump line="0" column="38" filename="$USER_HOME$/boringcode/server/migrations/0010-create-auth-tokens/up.sql" />
-      <jump line="2" column="0" filename="$USER_HOME$/boringcode/new-server/.gitattributes" />
-      <jump line="13" column="36" filename="$USER_HOME$/boringcode/new-server/package.json" />
-      <jump line="14" column="18" filename="$USER_HOME$/boringcode/new-server/package.json" />
-      <jump line="18" column="0" filename="$USER_HOME$/boringcode/new-server/package.json" />
-      <jump line="32" column="13" filename="$USER_HOME$/boringcode/new-server/package.json" />
       <jump line="26" column="18" filename="$USER_HOME$/boringcode/new-server/package.json" />
       <jump line="0" column="9" filename="$USER_HOME$/boringcode/new-server/.eslintrc" />
       <jump line="1" column="1" filename="$USER_HOME$/boringcode/new-server/.eslintrc" />
@@ -1082,6 +1087,20 @@
       <jump line="24" column="51" filename="$USER_HOME$/invite-api/src/models/private-activity.model.js" />
       <jump line="11" column="0" filename="$USER_HOME$/invite-api/src/modules/core/base-handler.js" />
       <jump line="10" column="15" filename="$USER_HOME$/invite-api/src/modules/core/base-handler.js" />
+      <jump line="11" column="0" filename="$USER_HOME$/boringcode/server/tooling/test/main.js" />
+      <jump line="4" column="22" filename="$USER_HOME$/boringcode/server/tooling/test/main.js" />
+      <jump line="87" column="0" filename="$USER_HOME$/boringcode/server/tooling/test/main.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/boringcode/server/tooling/test/main.js" />
+      <jump line="7" column="41" filename="$USER_HOME$/boringcode/server/tooling/test/main.js" />
+      <jump line="9" column="17" filename="$USER_HOME$/boringcode/server/tooling/cli/main.js" />
+      <jump line="10" column="0" filename="$USER_HOME$/boringcode/server/tooling/cli/main.js" />
+      <jump line="29" column="0" filename="$USER_HOME$/boringcode/server/tooling/cli/main.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/boringcode/server/tooling/cli/main.js" />
+      <jump line="5" column="30" filename="$USER_HOME$/boringcode/server/tooling/cli/main.js" />
+      <jump line="7" column="17" filename="$USER_HOME$/boringcode/server/tooling/cli/main.js" />
+      <jump line="22" column="36" filename="$USER_HOME$/boringcode/server/tooling/cli/commands/test/index.js" />
+      <jump line="17" column="0" filename="$USER_HOME$/boringcode/server/tooling/cli/commands/test/index.js" />
+      <jump line="20" column="4" filename="$USER_HOME$/boringcode/server/tooling/cli/commands/test/index.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1154,52 +1173,52 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlmIChsb2dvKSB7Cg==</text>
+        <text encoding="base64">ICAgIC8vIGNvbW1hbmRlcgogICAgLy8gICAuY29tbWFuZCgndGVzdCcpCiAgICAvLyAgIC5vcHRpb24oJy0tZGVidWcnLCAnU3RhcnQgd2l0aCBkZWJ1Z2dlci4nKQogICAgLy8gICAub3B0aW9uKCctLXZlcmJvc2UnLCAnU2hvdyBidWlsZCBwcm9ncmVzcy4nKQogICAgLy8gICAucGFyc2UoW251bGwsIG51bGwsICctLWhlbHAnXSkK</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text encoding="base64">IGRlYnVnZ2Vy</text>
       </register>
       <register name="/" type="4">
-        <text>console</text>
+        <text>debu</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlmIChsb2dvICYmIGlzVXJsKGxvZ28pKSB7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNoYWxrLmN5YW4oJy0tZGVidWcnKSwgJ1N0YXJ0IHdpdGggZGVidWdnZXIuJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlmIChsb2dvKSB7Cg==</text>
+        <text encoding="base64">ICAgIC8vIGNvbW1hbmRlcgogICAgLy8gICAuY29tbWFuZCgndGVzdCcpCiAgICAvLyAgIC5vcHRpb24oJy0tZGVidWcnLCAnU3RhcnQgd2l0aCBkZWJ1Z2dlci4nKQogICAgLy8gICAub3B0aW9uKCctLXZlcmJvc2UnLCAnU2hvdyBidWlsZCBwcm9ncmVzcy4nKQogICAgLy8gICAucGFyc2UoW251bGwsIG51bGwsICctLWhlbHAnXSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLmNhdGNoKGNvbnNvbGUubG9nKQo=</text>
+        <text encoding="base64">ICAgIC8vICAgLm9wdGlvbignLS1wYWNrYWdlJywgJ1Nob3cgYnVpbGQgcHJvZ3Jlc3MuJykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLmNhdGNoKGNvbnNvbGUubG9nKQo=</text>
+        <text encoding="base64">ICAgIC8vICAgLm9wdGlvbignLS1wYWNrYWdlJywgJ1Nob3cgYnVpbGQgcHJvZ3Jlc3MuJykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLmNhdGNoKGNvbnNvbGUubG9nKQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHByb2Nlc3MuYXJndi5zbGljZSgwLCAyKS5jb25jYXQoWyctLWhlbHAnXSkpCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLmNhdGNoKGNvbnNvbGUubG9nKQo=</text>
+      <register name="5" type="4">
+        <text>process.argv.slice(0, 2</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLmNhdGNoKGNvbnNvbGUubG9nKQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuYXJndik7Cgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLmNhdGNoKGNvbnNvbGUubG9nKQo=</text>
+        <text encoding="base64">CmNvbnN0ICA9IGFyZ3YuXwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLnRoZW4oaW5zdGFuY2UgPT4gdGhpcy5faGFuZGxlUmVsYXRpb25zaGlwcyhpbnN0YW5jZSkpCiAgICAgIC50aGVuKGluc3RhbmNlID0+IHRoaXMuX3N5bmNEYihpbnN0YW5jZSkpCg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coYXJndik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGNvbmZpZy5nZXQoJ2F3cy5zM1VybCcpLCBsb2dvKTsK</text>
+        <text encoding="base64">CmNvbnNvbGUubG9nKHByb2Nlc3MuYXJndikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>console</last-search>
+      <last-search>debu</last-search>
       <last-offset />
-      <last-pattern>console</last-pattern>
+      <last-pattern>debu</last-pattern>
       <last-replace>PrivateActivityJsonApi</last-replace>
       <last-substitute>PassJsonApi</last-substitute>
       <last-dir>1</last-dir>
@@ -1207,9 +1226,6 @@
     </search>
     <history>
       <history-search>
-        <entry>s</entry>
-        <entry>Us</entry>
-        <entry>D</entry>
         <entry encoding="base64">IA==</entry>
         <entry>create</entry>
         <entry>;</entry>
@@ -1225,8 +1241,11 @@
         <entry>pass</entry>
         <entry>`</entry>
         <entry>Partner</entry>
-        <entry>)</entry>
         <entry>console</entry>
+        <entry>'</entry>
+        <entry>argv</entry>
+        <entry>)</entry>
+        <entry>debu</entry>
       </history-search>
       <history-cmd>
         <entry>:w</entry>
