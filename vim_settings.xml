@@ -14,6 +14,10 @@
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="17" />
       </file>
+      <file name="$USER_HOME$/invite-api/.env.example" timestamp="1489462870622">
+        <mark key="[" line="4" column="11" />
+        <mark key="]" line="4" column="63" />
+      </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-accept-text-fr.html" timestamp="1489362276695">
         <mark key="'" line="4" column="20" />
         <mark key="[" line="2" column="0" />
@@ -185,11 +189,11 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/invite-api/src/modules/core/base-handler.js" timestamp="1489460654279">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
-        <mark key="^" line="40" column="25" />
+      <file name="$USER_HOME$/invite-api/src/modules/core/base-handler.js" timestamp="1489462358780">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="25" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="11" column="23" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/user/templates/registration-html-en.html" timestamp="1489198219490">
         <mark key="'" line="0" column="11" />
@@ -507,12 +511,12 @@
         <mark key="^" line="7" column="54" />
         <mark key="." line="7" column="54" />
       </file>
-      <file name="$USER_HOME$/invite-api/src/models/private-activity.model.js" timestamp="1489460734647">
-        <mark key="'" line="54" column="30" />
-        <mark key="[" line="29" column="26" />
-        <mark key="]" line="29" column="30" />
-        <mark key="^" line="29" column="30" />
-        <mark key="." line="29" column="30" />
+      <file name="$USER_HOME$/invite-api/src/models/private-activity.model.js" timestamp="1489462925118">
+        <mark key="'" line="24" column="51" />
+        <mark key="[" line="24" column="43" />
+        <mark key="]" line="24" column="43" />
+        <mark key="." line="24" column="43" />
+        <mark key="^" line="24" column="43" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-auto-accept-text-fr.html" timestamp="1489362303274">
         <mark key="[" line="8" column="14" />
@@ -520,10 +524,10 @@
         <mark key="^" line="8" column="25" />
         <mark key="." line="8" column="25" />
       </file>
-      <file name="$USER_HOME$/invite-api/src/modules/private-activity/handlers/private-activity-crud.handler.js" timestamp="1489460688061">
-        <mark key="'" line="43" column="0" />
+      <file name="$USER_HOME$/invite-api/src/modules/private-activity/handlers/private-activity-crud.handler.js" timestamp="1489462344395">
+        <mark key="'" line="42" column="0" />
         <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="25" />
+        <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-accept-on-behalf-html-en.html" timestamp="1489272136677">
@@ -793,12 +797,12 @@
         <mark key="[" line="44" column="0" />
         <mark key="]" line="49" column="26" />
       </file>
-      <file name="$USER_HOME$/invite-api/config/default.yml" timestamp="1489443421105">
+      <file name="$USER_HOME$/invite-api/config/default.yml" timestamp="1489462503058">
         <mark key="'" line="8" column="0" />
-        <mark key="[" line="35" column="19" />
-        <mark key="]" line="35" column="18" />
-        <mark key="^" line="35" column="18" />
-        <mark key="." line="35" column="18" />
+        <mark key="[" line="27" column="9" />
+        <mark key="]" line="27" column="7" />
+        <mark key="^" line="27" column="7" />
+        <mark key="." line="27" column="7" />
       </file>
       <file name="$USER_HOME$/boringcode/server/core/modules/auth/dals/auth-token-dal/updateOne.sql" timestamp="1489296858594">
         <mark key="[" line="3" column="16" />
@@ -973,8 +977,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="32" filename="$USER_HOME$/boringcode/server/core/modules/user/handlers/login-handler.js" />
-      <jump line="19" column="48" filename="$USER_HOME$/boringcode/server/core/dal/base-dal.js" />
       <jump line="21" column="7" filename="$USER_HOME$/boringcode/server/core/modules/user/handlers/login-handler.js" />
       <jump line="27" column="23" filename="$USER_HOME$/boringcode/server/core/services/hash-service.js" />
       <jump line="25" column="71" filename="$USER_HOME$/boringcode/server/core/modules/user/handlers/login-handler.js" />
@@ -1073,6 +1075,8 @@
       <jump line="6" column="19" filename="$USER_HOME$/invite-api/src/models/private-activity.model.js" />
       <jump line="40" column="19" filename="$USER_HOME$/invite-api/src/models/private-activity.model.js" />
       <jump line="53" column="30" filename="$USER_HOME$/invite-api/src/models/private-activity.model.js" />
+      <jump line="29" column="0" filename="$USER_HOME$/invite-api/src/models/private-activity.model.js" />
+      <jump line="24" column="51" filename="$USER_HOME$/invite-api/src/models/private-activity.model.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1144,56 +1148,56 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLmNhdGNoKGNvbnNvbGUubG9nKQo=</text>
+      <register name="&quot;" type="4">
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
-        <text>Partner</text>
+        <text>)</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBjcmVhdGUocmVxdWVzdCwgcmVwbHkpIHsKICAgIGNvbnN0IGRhdGEgPSByZXF1ZXN0LnBheWxvYWQ7CgogICAgdGhpcy5fZGVzZXJpYWxpemUoZGF0YSkKICAgICAgLnRoZW4oKCkgPT4gdGhpcy5NT0RFTC5jcmVhdGUodGhpcy5kZXNlcmlhbGl6ZWREYXRhKSkKICAgICAgLmNhdGNoKGNvbnNvbGUubG9nKQogICAgICAudGhlbihpbnN0YW5jZSA9PiB0aGlzLl9oYW5kbGVSZWxhdGlvbnNoaXBzKGluc3RhbmNlKSkKICAgICAgLnRoZW4oaW5zdGFuY2UgPT4gdGhpcy5fc3luY0RiKGluc3RhbmNlKSkKICAgICAgLnRoZW4oaW5zdGFuY2UgPT4gdGhpcy5fc2VyaWFsaXplKGluc3RhbmNlKSkKICAgICAgLnRoZW4oZGF0YSA9PiByZXBseShkYXRhKSkKICAgICAgLmNhdGNoKGVyciA9PiByZXBseShlcnIuYm9vbSgpKSk7CiAgfQo=</text>
+      <register name="0" type="4">
+        <text>https://s3.ca-central-1.amazonaws.com/invite-api-dev/</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgLmNhdGNoKGNvbnNvbGUubG9nKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLnRoZW4oaW5zdGFuY2UgPT4gdGhpcy5faGFuZGxlUmVsYXRpb25zaGlwcyhpbnN0YW5jZSkpCiAgICAgIC50aGVuKGluc3RhbmNlID0+IHRoaXMuX3N5bmNEYihpbnN0YW5jZSkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGxvZ28sIDEyMyk7Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgLmNhdGNoKGNvbnNvbGUubG9nKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLmNhdGNoKGNvbnNvbGUubG9nKQo=</text>
+        <text encoding="base64">ICAgICAgLnRoZW4oaW5zdGFuY2UgPT4gdGhpcy5faGFuZGxlUmVsYXRpb25zaGlwcyhpbnN0YW5jZSkpCiAgICAgIC50aGVuKGluc3RhbmNlID0+IHRoaXMuX3N5bmNEYihpbnN0YW5jZSkpCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgLmNhdGNoKGNvbnNvbGUubG9nKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLmRlc2VyaWFsaXplZERhdGEpOwo=</text>
+        <text encoding="base64">ICAgICAgLmNhdGNoKGNvbnNvbGUubG9nKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLmNhdGNoKCkK</text>
+        <text encoding="base64">ICAgICAgLmNhdGNoKGNvbnNvbGUubG9nKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICdwYXNzLW9wdGlvbnMnOiB7CiAgICAgICAgICAgIHZhbHVlRm9yUmVsYXRpb25zaGlwOiAocmVsYXRpb25zaGlwKSA9PiAoeyBpZDogcmVsYXRpb25zaGlwLmlkIH0pCiAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLmRlc2VyaWFsaXplZERhdGEpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcGFzc09wdGlvbnM6IHsKICAgICAgICBpbmNsdWRlZDogdHJ1ZSwKICAgICAgICByZWY6ICdpZCcsCiAgICAgICAgaWdub3JlUmVsYXRpb25zaGlwRGF0YTogZmFsc2UsCiAgICAgICAgcmVsYXRpb25zaGlwTGlua3M6IHsKICAgICAgICAgIHNlbGY6IChwYXNzKSA9PiBgL3Bhc3Nlcy8ke3Bhc3MuaWR9L3JlbGF0aW9uc2hpcHMvcGFzcy1vcHRpb25zYCwKICAgICAgICAgIHJlbGF0ZWQ6IChwYXNzKSA9PiBgL3Bhc3Nlcy8ke3Bhc3MuaWR9L3Bhc3Mtb3B0aW9uc2AsCiAgICAgICAgfSwKICAgICAgICBhdHRyaWJ1dGVzOiBbCiAgICAgICAgICAndGl0bGVFbicsCiAgICAgICAgICAndGl0bGVGcicsCiAgICAgICAgICAnY29uZmlndXJhYmxlJwogICAgICAgIF0KICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgLmNhdGNoKCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Partner</last-search>
+      <last-search>)</last-search>
       <last-offset />
-      <last-pattern>Partner</last-pattern>
+      <last-pattern>)</last-pattern>
       <last-replace>PrivateActivityJsonApi</last-replace>
       <last-substitute>PassJsonApi</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -1204,7 +1208,6 @@
         <entry encoding="base64">IA==</entry>
         <entry>create</entry>
         <entry>console</entry>
-        <entry>)</entry>
         <entry>;</entry>
         <entry>this</entry>
         <entry>(</entry>
@@ -1218,6 +1221,7 @@
         <entry>pass</entry>
         <entry>`</entry>
         <entry>Partner</entry>
+        <entry>)</entry>
       </history-search>
       <history-cmd>
         <entry>:w</entry>
