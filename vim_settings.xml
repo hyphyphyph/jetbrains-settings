@@ -680,12 +680,12 @@
         <mark key="." line="8" column="95" />
         <mark key="^" line="8" column="95" />
       </file>
-      <file name="$USER_HOME$/boringcode/server/tooling/test/main.js" timestamp="1489474811098">
+      <file name="$USER_HOME$/boringcode/server/tooling/test/main.js" timestamp="1489475103287">
         <mark key="'" line="14" column="19" />
-        <mark key="[" line="15" column="19" />
-        <mark key="]" line="15" column="10" />
-        <mark key="." line="15" column="10" />
-        <mark key="^" line="15" column="10" />
+        <mark key="[" line="16" column="32" />
+        <mark key="]" line="16" column="32" />
+        <mark key="." line="16" column="32" />
+        <mark key="^" line="16" column="32" />
       </file>
       <file name="$USER_HOME$/boringcode/server/core/modules/user/services/auth-token-service.js" timestamp="1489307479077">
         <mark key="'" line="29" column="59" />
