@@ -10,10 +10,6 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="19" column="50" />
       </file>
-      <file name="/a.dummy" timestamp="1489464493180">
-        <mark key="[" line="0" column="0" />
-        <mark key="." line="0" column="17" />
-      </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-accept-text-fr.html" timestamp="1489362276695">
         <mark key="'" line="4" column="20" />
         <mark key="[" line="2" column="0" />
@@ -369,12 +365,12 @@
         <mark key="." line="14" column="64" />
         <mark key="^" line="14" column="64" />
       </file>
-      <file name="$USER_HOME$/invite-api/src/templates/base-email.html" timestamp="1489428594486">
-        <mark key="'" line="388" column="23" />
+      <file name="$USER_HOME$/invite-api/src/templates/base-email.html" timestamp="1489509622835">
+        <mark key="'" line="388" column="84" />
         <mark key="[" line="388" column="84" />
-        <mark key="]" line="388" column="142" />
+        <mark key="]" line="388" column="154" />
         <mark key="." line="388" column="84" />
-        <mark key="^" line="388" column="83" />
+        <mark key="^" line="388" column="84" />
       </file>
       <file name="$USER_HOME$/invite-api/src/models/index.js" timestamp="1489460366495">
         <mark key="[" line="15" column="15" />
@@ -1042,7 +1038,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="5" filename="$USER_HOME$/invite-api/db/migrations/20170313190004-change-locales-to-enum.js" />
       <jump line="34" column="14" filename="$USER_HOME$/invite-api/db/migrations/20170313190004-change-locales-to-enum.js" />
       <jump line="0" column="0" filename="$USER_HOME$/invite-api/db/migrations/20170313190004-change-locales-to-enum.js" />
       <jump line="8" column="0" filename="$USER_HOME$/invite-api/config/default.yml" />
@@ -1142,6 +1137,7 @@
       <jump line="49" column="0" filename="$USER_HOME$/boringcode/server/tooling/test/main.js" />
       <jump line="18" column="0" filename="$USER_HOME$/boringcode/server/tooling/test/main.js" />
       <jump line="42" column="0" filename="$USER_HOME$/boringcode/server/tooling/test/main.js" />
+      <jump line="388" column="84" filename="$USER_HOME$/invite-api/src/templates/base-email.html" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1213,17 +1209,17 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="&quot;" type="4">
+        <text>https://s3.ca-central-1.amazonaws.com/c2-invite-api/c2.png&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>(this.env)</text>
+        <text>https://s3.ca-central-1.amazonaws.com/c2-invite-api/c2.png&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>const</text>
+        <text>&quot;</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coYFN1aXRlOiAke21vZHVsZS5zdWl0ZS5uYW1lfSAtLS0gVGVzdDogJHttb2R1bGUudGVzdH1gKQo=</text>
+      <register name="0" type="4">
+        <text>https://s3.ca-central-1.amazonaws.com/c2-invite-api/c2.png</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAK</text>
@@ -1257,17 +1253,16 @@
       </register>
     </registers>
     <search>
-      <last-search>const</last-search>
+      <last-search>&quot;</last-search>
       <last-offset />
-      <last-pattern>const</last-pattern>
+      <last-pattern>&quot;</last-pattern>
       <last-replace>PrivateActivityJsonApi</last-replace>
       <last-substitute>PassJsonApi</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>command</entry>
         <entry>commands</entry>
         <entry>''</entry>
         <entry>gr</entry>
@@ -1287,6 +1282,7 @@
         <entry>`</entry>
         <entry>forE</entry>
         <entry>const</entry>
+        <entry>&quot;</entry>
       </history-search>
       <history-cmd>
         <entry>:w</entry>
