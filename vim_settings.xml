@@ -736,6 +736,12 @@
         <mark key="^" line="26" column="26" />
         <mark key="." line="26" column="26" />
       </file>
+      <file name="$USER_HOME$/invite-client/app/models/user.js" timestamp="1489536114227">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="9" column="26" />
+      </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-accept-on-behalf-text-en.html" timestamp="1489272277287">
         <mark key="'" line="6" column="20" />
         <mark key="[" line="6" column="0" />
@@ -958,11 +964,11 @@
         <mark key="^" line="21" column="20" />
         <mark key="." line="21" column="20" />
       </file>
-      <file name="$USER_HOME$/invite-api/src/modules/user/jsonapi/user.jsonapi.js" timestamp="1489454797698">
-        <mark key="[" line="37" column="17" />
-        <mark key="]" line="37" column="17" />
-        <mark key="^" line="37" column="17" />
-        <mark key="." line="37" column="17" />
+      <file name="$USER_HOME$/invite-api/src/modules/user/jsonapi/user.jsonapi.js" timestamp="1489536226275">
+        <mark key="[" line="94" column="17" />
+        <mark key="]" line="94" column="17" />
+        <mark key="^" line="94" column="17" />
+        <mark key="." line="94" column="17" />
       </file>
       <file name="$USER_HOME$/boringcode/server/tests/endpoints/users/dummy.yml" timestamp="1489478444928">
         <mark key="[" line="0" column="0" />
@@ -1215,44 +1221,44 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAvLyBUT0RPIHJlbW92ZSB3aGVuIHdlIGltcGxlbWVudCBwZXJtaXNzaW9ucyAtIEtMCiAgaXNBZG1pbjogdHJ1ZSwKCg==</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>string</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
       </register>
-      <register name="0" type="4">
-        <text>https://s3.ca-central-1.amazonaws.com/c2-invite-api/c2.png</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBsb2NhbGU6IERTLmF0dHIoJ3N0cmluZycpLAo=</text>
       </register>
-      <register name="1" type="8">
+      <register name="1" type="2">
+        <text encoding="base64">ICAvLyBUT0RPIHJlbW92ZSB3aGVuIHdlIGltcGxlbWVudCBwZXJtaXNzaW9ucyAtIEtMCiAgaXNBZG1pbjogdHJ1ZSwKCg==</text>
+      </register>
+      <register name="2" type="8">
         <text>=</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">CiAgICAgIGNvbnNvbGUubG9nKGZpbGVuYW1lKTsKCiAgICAgIC8vIGNvbnNvbGUubG9nKGtleSk7CiAgICAgIC8vIGNvbnN0IHBhdGhPYmplY3QgPSBwYXRoLnBhcnNlKGtleSk7CiAgICAgIC8vIGNvbnNvbGUubG9nKHBhdGhPYmplY3QubmFtZSk7CiAgICAgIC8vIHBhdGhPYmplY3QuZGlyID0gZm9sZGVyOwogICAgICAvLyBwYXRoT2JqZWN0LmJhc2UgPSBzbHVnKHBhdGhPYmplY3QubmFtZSkgKyAnLScgKyBEYXRlLm5vdygpICsgcGF0aE9iamVjdC5leHQ7Cg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgCgo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgCiAgICAgIGNvbnNvbGUubG9nKHBhdGgpCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgY29uc29sZS5sb2coc2x1ZygpKQo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocGF0aE9iamVjdCkK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZGVidWdnZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocGF0aE9iamVjdCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
