@@ -114,12 +114,12 @@
         <mark key="^" line="1" column="22" />
         <mark key="." line="1" column="22" />
       </file>
-      <file name="$USER_HOME$/invite-api/src/templates/base-email.html" timestamp="1489509622835">
-        <mark key="'" line="388" column="84" />
-        <mark key="[" line="388" column="84" />
-        <mark key="]" line="388" column="154" />
-        <mark key="." line="388" column="84" />
-        <mark key="^" line="388" column="84" />
+      <file name="$USER_HOME$/invite-api/src/templates/base-email.html" timestamp="1489700542334">
+        <mark key="'" line="396" column="98" />
+        <mark key="[" line="400" column="26" />
+        <mark key="]" line="401" column="38" />
+        <mark key="." line="401" column="38" />
+        <mark key="^" line="401" column="38" />
       </file>
       <file name="$USER_HOME$/boringcode/server/tests/endpoints/users/a.js" timestamp="1489479498531">
         <mark key="[" line="10" column="7" />
@@ -503,7 +503,6 @@
         <mark key="^" line="0" column="60" />
         <mark key="." line="0" column="60" />
       </file>
-      <file name="$USER_HOME$/invite-api/src/modules/user/handlers/user-crud.handler.js" timestamp="1489693642919" />
       <file name="$USER_HOME$/boringcode/server/package.json" timestamp="1489474768881">
         <mark key="'" line="0" column="0" />
       </file>
@@ -1051,7 +1050,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="14" filename="$USER_HOME$/invite-api/db/migrations/20170313190004-change-locales-to-enum.js" />
       <jump line="0" column="0" filename="$USER_HOME$/invite-api/db/migrations/20170313190004-change-locales-to-enum.js" />
       <jump line="8" column="0" filename="$USER_HOME$/invite-api/config/default.yml" />
       <jump line="148" column="43" filename="$USER_HOME$/invite-api/src/modules/user/handlers/user-crud.handler.js" />
@@ -1151,6 +1149,7 @@
       <jump line="18" column="0" filename="$USER_HOME$/boringcode/server/tooling/test/main.js" />
       <jump line="42" column="0" filename="$USER_HOME$/boringcode/server/tooling/test/main.js" />
       <jump line="388" column="84" filename="$USER_HOME$/invite-api/src/templates/base-email.html" />
+      <jump line="395" column="98" filename="$USER_HOME$/invite-api/src/templates/base-email.html" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1222,44 +1221,44 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAvLyBUT0RPIHJlbW92ZSB3aGVuIHdlIGltcGxlbWVudCBwZXJtaXNzaW9ucyAtIEtMCiAgaXNBZG1pbjogdHJ1ZSwKCg==</text>
+      <register name="&quot;" type="4">
+        <text>https://media.e-180.com/CACHE/images/accounts_userprofile/avatar_27226_20151113202511/98982beb2f1a74e7e965a2ff99a7e50f.png</text>
       </register>
       <register name="-" type="4">
-        <text>string</text>
+        <text>https://media.e-180.com/CACHE/images/accounts_userprofile/avatar_27226_20151113202511/98982beb2f1a74e7e965a2ff99a7e50f.png</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBsb2NhbGU6IERTLmF0dHIoJ3N0cmluZycpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8ZGl2IHN0eWxlPSJiYWNrZ3JvdW5kOiAjRkZGOyBoZWlnaHQ6IDMwcHg7IGJvcmRlcjogMCBzb2xpZCAjRkZGOyI+CiAgICAgICAgICAgICAgICAgICAgICA8cCBzdHlsZT0id2lkdGg6IDEwMHB4OyBtYXJnaW46IGF1dG87Ij4KICAgICAgICAgICAgICAgICAgICAgICAgPGltZyBzdHlsZT0iZmxvYXQ6IGxlZnQ7IGhlaWdodDogMTAwcHg7IHdpZHRoOiAxMDBweDsiIHNyYz0iaHR0cHM6Ly9zMy5jYS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9pbnZpdGUtYXBpLXN0YXRpYy1zdGFnaW5nL2MyLnBuZyIgLz4KICAgICAgICAgICAgICAgICAgICAgIDwvcD4KICAgICAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAvLyBUT0RPIHJlbW92ZSB3aGVuIHdlIGltcGxlbWVudCBwZXJtaXNzaW9ucyAtIEtMCiAgaXNBZG1pbjogdHJ1ZSwKCg==</text>
+      <register name="1" type="4">
+        <text>https://media.e-180.com/CACHE/images/accounts_userprofile/avatar_27226_20151113202511/98982beb2f1a74e7e965a2ff99a7e50f.png</text>
       </register>
-      <register name="2" type="8">
-        <text>=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8ZGl2IHN0eWxlPSJoZWlnaHQ6MjcwcHg7IG1hcmdpbjowOyBwYWRkaW5nOjA7IGJhY2tncm91bmQtcmVwZWF0OiBuby1yZXBlYXQ7IGJhY2tncm91bmQtcG9zaXRpb246Y2VudGVyOyBiYWNrZ3JvdW5kLWltYWdlOnVybChodHRwczovL21lZGlhLmUtMTgwLmNvbS9DQUNIRS9pbWFnZXMvZ3JvdXBzX2dyb3VwcGljdHVyZS9waWN0dXJlXzE0N18yMDE2MDQyMTE4MjExMy83ZTE1N2Q2NzIzMTIyNTQxMzllNTFhNjA1MDQyZTg5ZS5qcGVnKSI+CiAgICAgICAgICAgICAgICAgICAgICA8cCBzdHlsZT0iaGVpZ2h0OiAxMDBweDsgbWFyZ2luOjA7Ij48L3A+CiAgICAgICAgICAgICAgICAgICAgICA8cCBzdHlsZT0iaGVpZ2h0OiAxMjBweDsgbWFyZ2luOjA7IGNvbG9yOiNmZmY7IHRleHQtYWxpZ246Y2VudGVyOyBmb250LXNpemU6MjRweDsiPjwvcD4KICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICA8ZGl2IHN0eWxlPSJiYWNrZ3JvdW5kOiAjRkZGOyBoZWlnaHQ6IDMwcHg7IGJvcmRlcjogMCBzb2xpZCAjRkZGOyI+CiAgICAgICAgICAgICAgICAgICAgICA8cCBzdHlsZT0id2lkdGg6IDEwMHB4OyBtYXJnaW46IGF1dG87Ij4KICAgICAgICAgICAgICAgICAgICAgICAgPGltZyBzdHlsZT0iZmxvYXQ6IGxlZnQ7IGhlaWdodDogMTAwcHg7IHdpZHRoOiAxMDBweDsiIHNyYz0iaHR0cHM6Ly9zMy5jYS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9pbnZpdGUtYXBpLXN0YXRpYy1zdGFnaW5nL2MyLnBuZyIgLz4KICAgICAgICAgICAgICAgICAgICAgIDwvcD4KICAgICAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICAgIGNvbnNvbGUubG9nKGZpbGVuYW1lKTsKCiAgICAgIC8vIGNvbnNvbGUubG9nKGtleSk7CiAgICAgIC8vIGNvbnN0IHBhdGhPYmplY3QgPSBwYXRoLnBhcnNlKGtleSk7CiAgICAgIC8vIGNvbnNvbGUubG9nKHBhdGhPYmplY3QubmFtZSk7CiAgICAgIC8vIHBhdGhPYmplY3QuZGlyID0gZm9sZGVyOwogICAgICAvLyBwYXRoT2JqZWN0LmJhc2UgPSBzbHVnKHBhdGhPYmplY3QubmFtZSkgKyAnLScgKyBEYXRlLm5vdygpICsgcGF0aE9iamVjdC5leHQ7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCiAgICAgIGNvbnNvbGUubG9nKHBhdGgpCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coc2x1ZygpKQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAvLyBUT0RPIHJlbW92ZSB3aGVuIHdlIGltcGxlbWVudCBwZXJtaXNzaW9ucyAtIEtMCiAgaXNBZG1pbjogdHJ1ZSwKCg==</text>
+      </register>
+      <register name="5" type="8">
+        <text>=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CiAgICAgIGNvbnNvbGUubG9nKGZpbGVuYW1lKTsKCiAgICAgIC8vIGNvbnNvbGUubG9nKGtleSk7CiAgICAgIC8vIGNvbnN0IHBhdGhPYmplY3QgPSBwYXRoLnBhcnNlKGtleSk7CiAgICAgIC8vIGNvbnNvbGUubG9nKHBhdGhPYmplY3QubmFtZSk7CiAgICAgIC8vIHBhdGhPYmplY3QuZGlyID0gZm9sZGVyOwogICAgICAvLyBwYXRoT2JqZWN0LmJhc2UgPSBzbHVnKHBhdGhPYmplY3QubmFtZSkgKyAnLScgKyBEYXRlLm5vdygpICsgcGF0aE9iamVjdC5leHQ7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgCgo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgCiAgICAgIGNvbnNvbGUubG9nKHBhdGgpCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocGF0aE9iamVjdCkK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
