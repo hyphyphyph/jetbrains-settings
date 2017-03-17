@@ -69,12 +69,12 @@
         <mark key="^" line="0" column="26" />
         <mark key="." line="0" column="28" />
       </file>
-      <file name="$USER_HOME$/invite-api/src/modules/conference/handlers/conference-crud.handler.js" timestamp="1489785674528">
-        <mark key="'" line="116" column="4" />
-        <mark key="[" line="108" column="73" />
-        <mark key="]" line="109" column="5" />
-        <mark key="^" line="109" column="5" />
-        <mark key="." line="109" column="5" />
+      <file name="$USER_HOME$/invite-api/src/modules/conference/handlers/conference-crud.handler.js" timestamp="1489786288911">
+        <mark key="'" line="110" column="5" />
+        <mark key="[" line="113" column="35" />
+        <mark key="]" line="113" column="42" />
+        <mark key="^" line="113" column="42" />
+        <mark key="." line="113" column="42" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/partner/templates/invited-html-en.html" timestamp="1489775164894">
         <mark key="'" line="8" column="11" />
@@ -113,7 +113,7 @@
         <mark key="." line="0" column="12" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1489782585339">
+      <file name="/Dummy.txt" timestamp="1489786328067">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-auto-accept-html-en.html" timestamp="1489776113366">
@@ -226,12 +226,12 @@
       <jump line="107" column="6" filename="$USER_HOME$/invite-api/src/modules/conference/handlers/conference-crud.handler.js" />
       <jump line="108" column="6" filename="$USER_HOME$/invite-api/src/modules/conference/handlers/conference-crud.handler.js" />
       <jump line="109" column="6" filename="$USER_HOME$/invite-api/src/modules/conference/handlers/conference-crud.handler.js" />
-      <jump line="110" column="6" filename="$USER_HOME$/invite-api/src/modules/conference/handlers/conference-crud.handler.js" />
       <jump line="111" column="6" filename="$USER_HOME$/invite-api/src/modules/conference/handlers/conference-crud.handler.js" />
       <jump line="112" column="6" filename="$USER_HOME$/invite-api/src/modules/conference/handlers/conference-crud.handler.js" />
       <jump line="113" column="6" filename="$USER_HOME$/invite-api/src/modules/conference/handlers/conference-crud.handler.js" />
       <jump line="114" column="6" filename="$USER_HOME$/invite-api/src/modules/conference/handlers/conference-crud.handler.js" />
       <jump line="115" column="4" filename="$USER_HOME$/invite-api/src/modules/conference/handlers/conference-crud.handler.js" />
+      <jump line="110" column="5" filename="$USER_HOME$/invite-api/src/modules/conference/handlers/conference-crud.handler.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -280,7 +280,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>'</text>
+        <text>)</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAnZW1haWxJbnZpdGVTZW5kVGVtcGxhdGUnLAogICAgICAgICdlbWFpbEludml0ZVJlc2VuZFRlbXBsYXRlJywKICAgICAgICAnZW1haWxJbnZpdGVBY2NlcHRUZW1wbGF0ZScsCiAgICAgICAgJ2VtYWlsSW52aXRlRGVjbGluZVRlbXBsYXRlJywKICAgICAgICAnZW1haWxJbnZpdGVBY2NlcHRPbkJlaGFsZlRlbXBsYXRlJywKICAgICAgICAnZW1haWxJbnZpdGVDYW5jZWxPbkJlaGFsZlRlbXBsYXRlJywKICAgICAgICAnZW1haWxJbnZpdGVBdXRvQWNjZXB0VGVtcGxhdGUnLAogICAgICAgICdzZW5kRW1haWxGcm9tJywKICAgICAgICAnZW1haWxMb2dvJywKICAgICAgICAnZW1haWxDb3ZlcicsCiAgICAgICAgJ2NvbnRhY3RFbWFpbCcsCiAgICAgICAgJ2NvbnRhY3RQaG9uZScsCiAgICAgICAgJ2NvbnRhY3ROYW1lJywK</text>
@@ -329,9 +329,9 @@
       </register>
     </registers>
     <search>
-      <last-search>'</last-search>
+      <last-search>)</last-search>
       <last-offset />
-      <last-pattern>'</last-pattern>
+      <last-pattern>)</last-pattern>
       <last-replace>PrivateActivityJsonApi</last-replace>
       <last-substitute>PassJsonApi</last-substitute>
       <last-dir>1</last-dir>
@@ -339,7 +339,6 @@
     </search>
     <history>
       <history-search>
-        <entry>tests</entry>
         <entry>path</entry>
         <entry>rr</entry>
         <entry>file</entry>
@@ -359,6 +358,7 @@
         <entry>nam</entry>
         <entry>:</entry>
         <entry>'</entry>
+        <entry>)</entry>
       </history-search>
       <history-cmd>
         <entry>:w</entry>
