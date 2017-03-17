@@ -65,9 +65,6 @@
         <mark key="]" line="49" column="0" />
         <mark key="." line="49" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1489353062270">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-cancel-on-behalf-html-en.html" timestamp="1489776066471">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="12" column="0" />
@@ -89,8 +86,9 @@
         <mark key="." line="0" column="12" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1489790322244">
+      <file name="/Dummy.txt" timestamp="1489792639024">
         <mark key="[" line="0" column="0" />
+        <mark key="." line="0" column="65" />
       </file>
       <file name="$USER_HOME$/invite-api/src/models/private-activity.model.js" timestamp="1489464541441">
         <mark key="[" line="30" column="0" />
@@ -139,9 +137,6 @@
         <mark key="^" line="72" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="/a.txt" timestamp="1489308029430">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/invite-api/src/models/partner.model.js" timestamp="1489791621567">
         <mark key="'" line="46" column="6" />
         <mark key="[" line="48" column="6" />
@@ -162,6 +157,11 @@
         <mark key="]" line="8" column="52" />
         <mark key="." line="17" column="19" />
         <mark key="^" line="17" column="19" />
+      </file>
+      <file name="$USER_HOME$/invite-api/src/modules/signed-upload/handlers/signed-upload.handler.js" timestamp="1489792603006">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="33" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/buffer1" timestamp="1489789982947">
         <mark key="'" line="0" column="0" />
@@ -295,44 +295,44 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>emailLogo</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICdwYXJ0bmVycy9lbWFpbC1sb2dvcycsCg==</text>
       </register>
       <register name="-" type="4">
-        <text>emailLogo</text>
+        <text>conferences</text>
       </register>
       <register name="/" type="4">
         <text>P</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAnZW1haWxMb2dvJywK</text>
+        <text encoding="base64">ICAgICAgICAgICdjb25mZXJlbmNlcy9lbWFpbC1sb2dvcycsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICdwYXJ0bmVycy9lbWFpbC1sb2dvcycsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGFsbG93TnVsbDogdHJ1ZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICdjb25mZXJlbmNlcy9lbWFpbC1sb2dvcycsCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">J3VzZSBzdHJpY3QnOwoKbW9kdWxlLmV4cG9ydHMgPSB7CiAgdXA6IGZ1bmN0aW9uIChxdWVyeUludGVyZmFjZSwgU2VxdWVsaXplKSB7CiAgICAvKgogICAgICBBZGQgYWx0ZXJpbmcgY29tbWFuZHMgaGVyZS4KICAgICAgUmV0dXJuIGEgcHJvbWlzZSB0byBjb3JyZWN0bHkgaGFuZGxlIGFzeW5jaHJvbmljaXR5LgoKICAgICAgRXhhbXBsZToKICAgICAgcmV0dXJuIHF1ZXJ5SW50ZXJmYWNlLmNyZWF0ZVRhYmxlKCd1c2VycycsIHsgaWQ6IFNlcXVlbGl6ZS5JTlRFR0VSIH0pOwogICAgKi8KICB9LAoKICBkb3duOiBmdW5jdGlvbiAocXVlcnlJbnRlcmZhY2UsIFNlcXVlbGl6ZSkgewogICAgLyoKICAgICAgQWRkIHJldmVydGluZyBjb21tYW5kcyBoZXJlLgogICAgICBSZXR1cm4gYSBwcm9taXNlIHRvIGNvcnJlY3RseSBoYW5kbGUgYXN5bmNocm9uaWNpdHkuCgogICAgICBFeGFtcGxlOgogICAgICByZXR1cm4gcXVlcnlJbnRlcmZhY2UuZHJvcFRhYmxlKCd1c2VycycpOwogICAgKi8KICB9Cn07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGFsbG93TnVsbDogdHJ1ZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLmNhdGNoKGNvbnNvbGUubG9nKQo=</text>
-      </register>
-      <register name="6" type="4">
-        <text>Text</text>
-      </register>
-      <register name="7" type="4">
-        <text>Html</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="6" type="2">
+        <text encoding="base64">J3VzZSBzdHJpY3QnOwoKbW9kdWxlLmV4cG9ydHMgPSB7CiAgdXA6IGZ1bmN0aW9uIChxdWVyeUludGVyZmFjZSwgU2VxdWVsaXplKSB7CiAgICAvKgogICAgICBBZGQgYWx0ZXJpbmcgY29tbWFuZHMgaGVyZS4KICAgICAgUmV0dXJuIGEgcHJvbWlzZSB0byBjb3JyZWN0bHkgaGFuZGxlIGFzeW5jaHJvbmljaXR5LgoKICAgICAgRXhhbXBsZToKICAgICAgcmV0dXJuIHF1ZXJ5SW50ZXJmYWNlLmNyZWF0ZVRhYmxlKCd1c2VycycsIHsgaWQ6IFNlcXVlbGl6ZS5JTlRFR0VSIH0pOwogICAgKi8KICB9LAoKICBkb3duOiBmdW5jdGlvbiAocXVlcnlJbnRlcmZhY2UsIFNlcXVlbGl6ZSkgewogICAgLyoKICAgICAgQWRkIHJldmVydGluZyBjb21tYW5kcyBoZXJlLgogICAgICBSZXR1cm4gYSBwcm9taXNlIHRvIGNvcnJlY3RseSBoYW5kbGUgYXN5bmNocm9uaWNpdHkuCgogICAgICBFeGFtcGxlOgogICAgICByZXR1cm4gcXVlcnlJbnRlcmZhY2UuZHJvcFRhYmxlKCd1c2VycycpOwogICAgKi8KICB9Cn07Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgLmNhdGNoKGNvbnNvbGUubG9nKQo=</text>
+      </register>
+      <register name="8" type="4">
+        <text>Text</text>
+      </register>
+      <register name="9" type="4">
+        <text>Html</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
