@@ -158,10 +158,11 @@
         <mark key="." line="17" column="19" />
         <mark key="^" line="17" column="19" />
       </file>
-      <file name="$USER_HOME$/invite-api/src/modules/signed-upload/handlers/signed-upload.handler.js" timestamp="1489792603006">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="33" />
-        <mark key="." line="23" column="0" />
+      <file name="$USER_HOME$/invite-api/src/modules/signed-upload/handlers/signed-upload.handler.js" timestamp="1489792750665">
+        <mark key="[" line="23" column="34" />
+        <mark key="]" line="23" column="34" />
+        <mark key="^" line="23" column="34" />
+        <mark key="." line="23" column="34" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/buffer1" timestamp="1489789982947">
         <mark key="'" line="0" column="0" />
@@ -295,11 +296,11 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICdwYXJ0bmVycy9lbWFpbC1sb2dvcycsCg==</text>
+      <register name="&quot;" type="4">
+        <text>logos</text>
       </register>
       <register name="-" type="4">
-        <text>conferences</text>
+        <text>logos</text>
       </register>
       <register name="/" type="4">
         <text>P</text>
