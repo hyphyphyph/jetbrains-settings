@@ -118,12 +118,12 @@
         <mark key="^" line="23" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/invite-api/config/default.yml" timestamp="1489864043687">
-        <mark key="'" line="17" column="1" />
-        <mark key="[" line="17" column="2" />
-        <mark key="]" line="17" column="1" />
-        <mark key="^" line="17" column="1" />
-        <mark key="." line="17" column="1" />
+      <file name="$USER_HOME$/invite-api/config/default.yml" timestamp="1489873897774">
+        <mark key="'" line="18" column="1" />
+        <mark key="[" line="17" column="7" />
+        <mark key="]" line="17" column="24" />
+        <mark key="^" line="17" column="24" />
+        <mark key="." line="17" column="24" />
       </file>
       <file name="$USER_HOME$/invite-api/src/models/user.model.js" timestamp="1489867252459">
         <mark key="[" line="96" column="8" />
@@ -244,11 +244,12 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/invite-api/src/modules/conference-invite/services/workflow.service.js" timestamp="1489869993872">
+      <file name="$USER_HOME$/invite-api/src/modules/conference-invite/services/workflow.service.js" timestamp="1489873991464">
         <mark key="'" line="232" column="2" />
-        <mark key="[" line="109" column="0" />
-        <mark key="]" line="109" column="0" />
-        <mark key="." line="109" column="0" />
+        <mark key="[" line="361" column="38" />
+        <mark key="]" line="361" column="49" />
+        <mark key="." line="361" column="49" />
+        <mark key="^" line="361" column="49" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/user/templates/registration-html-en.html" timestamp="1489856594788">
         <mark key="'" line="0" column="11" />
@@ -407,11 +408,11 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdERVNUUk9ZIE1BTlknKTsK</text>
+      <register name="&quot;" type="4">
+        <text>mailer</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>mailer</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfdXBkYXRlTWVzc2FnZXNcPg==</text>
