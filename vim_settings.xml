@@ -38,11 +38,6 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/invite-api/src/modules/partner/jsonapi/partner.jsonapi.js" timestamp="1489792828146">
-        <mark key="]" line="26" column="21" />
-        <mark key="^" line="26" column="19" />
-        <mark key="." line="26" column="19" />
-      </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-decline-html-en.html" timestamp="1489776012897">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="12" column="0" />
@@ -81,10 +76,10 @@
       <file name="/JavaScript Console" timestamp="1489353062270">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/invite-api/src/templates/base-admin-email.html" timestamp="1489854436767">
+      <file name="$USER_HOME$/invite-api/src/templates/base-admin-email.html" timestamp="1489858000797">
         <mark key="'" line="410" column="41" />
-        <mark key="[" line="410" column="32" />
-        <mark key="]" line="410" column="35" />
+        <mark key="[" line="406" column="0" />
+        <mark key="]" line="419" column="11" />
         <mark key="." line="410" column="35" />
         <mark key="^" line="410" column="35" />
       </file>
@@ -127,11 +122,11 @@
         <mark key="." line="35" column="33" />
         <mark key="^" line="35" column="33" />
       </file>
-      <file name="$USER_HOME$/invite-api/src/templates/base-email.html" timestamp="1489700542334">
+      <file name="$USER_HOME$/invite-api/src/templates/base-email.html" timestamp="1489858004672">
         <mark key="'" line="396" column="98" />
-        <mark key="[" line="400" column="26" />
-        <mark key="]" line="401" column="38" />
-        <mark key="." line="401" column="38" />
+        <mark key="[" line="410" column="0" />
+        <mark key="]" line="423" column="12" />
+        <mark key="." line="410" column="0" />
         <mark key="^" line="401" column="38" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/user/templates/reset-html-en.html" timestamp="1489856668327">
@@ -140,7 +135,7 @@
         <mark key="^" line="0" column="22" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1489810311472">
+      <file name="/Dummy.txt" timestamp="1489857824589">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="53" />
       </file>
@@ -393,7 +388,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">PHRhYmxlIGNsYXNzPSJyb3ciPgogIDx0Ym9keT4KICA8dHI+CiAgICA8dGQgY2xhc3M9IndyYXBwZXIgb2Zmc2V0LWJ5LXR3byI+CiAgICAgIDx0YWJsZSBjbGFzcz0iZm91ciBjb2x1bW5zIj4KICAgICAgICA8dGJvZHk+CiAgICAgICAgPHRyPgogICAgICAgICAgPHRkPgogICAgICAgICAgICA8dGFibGUgY2xhc3M9ImJ1dHRvbiByYWRpdXMgcHJpbWFyeSI+CiAgICAgICAgICAgICAgPHRyPgogICAgICAgICAgICAgICAgPHRkIHN0eWxlPSJ2ZXJ0aWNhbC1hbGlnbjogbWlkZGxlOyAiPgogICAgICAgICAgICAgICAgICA8YSBocmVmPSJ7e3ZlcmlmaWNhdGlvbkxpbmt9fSI+CiAgICAgICAgICAgICAgICAgICAgVmVyaWZ5IG15IGFjY291bnQKICAgICAgICAgICAgICAgICAgPC9hPgogICAgICAgICAgICAgICAgPC90ZD4KICAgICAgICAgICAgICA8L3RyPgogICAgICAgICAgICA8L3RhYmxlPgoKICAgICAgICAgIDwvdGQ+CiAgICAgICAgICA8dGQgY2xhc3M9ImV4cGFuZGVyIj48L3RkPgogICAgICAgIDwvdHI+CiAgICAgICAgPC90Ym9keT4KICAgICAgPC90YWJsZT4KICAgIDwvdGQ+CiAgPC90cj4KICA8L3Rib2R5Pgo8L3RhYmxlPgo=</text>
+        <text encoding="base64">ICAgICAgICA8cCBjbGFzcz0ibWFpbC1mb290ZXIiPgogICAgICAgICAgeyUgaWYgdGVjaG5pY2FsQ29udGFjdE1lc3NhZ2UgJX0KICAgICAgICAgICAgPHNwYW4+e3sgdGVjaG5pY2FsQ29udGFjdE1lc3NhZ2UgfX08L3NwYW4+PGJyIC8+CiAgICAgICAgICB7JSBlbmRpZiAlfQogICAgICAgICAgeyUgaWYgdGVjaG5pY2FsQ29udGFjdE5hbWUgJX0KICAgICAgICAgICAgPHNwYW4+e3sgdGVjaG5pY2FsQ29udGFjdE5hbWUgfX08L3NwYW4+PGJyIC8+CiAgICAgICAgICB7JSBlbmRpZiAlfQogICAgICAgICAgeyUgaWYgdGVjaG5pY2FsQ29udGFjdEVtYWlsICV9CiAgICAgICAgICAgIDxzcGFuPnt7IHRlY2huaWNhbENvbnRhY3RFbWFpbCB9fTwvc3Bhbj48YnIgLz4KICAgICAgICAgIHslIGVuZGlmICV9CiAgICAgICAgICB7JSBpZiB0ZWNobmljYWxDb250YWN0UGhvbmUgJX0KICAgICAgICAgICAgPHNwYW4+e3sgdGVjaG5pY2FsQ29udGFjdFBob25lIH19PC9zcGFuPgogICAgICAgICAgeyUgZW5kaWYgJX0KICAgICAgICA8L3A+Cg==</text>
       </register>
       <register name="-" type="4">
         <text>Verify my account</text>
@@ -402,7 +397,7 @@
         <text>P</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">PHRhYmxlIGNsYXNzPSJyb3ciPgogIDx0Ym9keT4KICA8dHI+CiAgICA8dGQgY2xhc3M9IndyYXBwZXIgb2Zmc2V0LWJ5LXR3byI+CiAgICAgIDx0YWJsZSBjbGFzcz0iZm91ciBjb2x1bW5zIj4KICAgICAgICA8dGJvZHk+CiAgICAgICAgPHRyPgogICAgICAgICAgPHRkPgogICAgICAgICAgICA8dGFibGUgY2xhc3M9ImJ1dHRvbiByYWRpdXMgcHJpbWFyeSI+CiAgICAgICAgICAgICAgPHRyPgogICAgICAgICAgICAgICAgPHRkIHN0eWxlPSJ2ZXJ0aWNhbC1hbGlnbjogbWlkZGxlOyAiPgogICAgICAgICAgICAgICAgICA8YSBocmVmPSJ7e3Jlc2V0TGlua319Ij4KICAgICAgICAgICAgICAgICAgICBSZXNldCBwYXNzd29yZAogICAgICAgICAgICAgICAgICA8L2E+CiAgICAgICAgICAgICAgICA8L3RkPgogICAgICAgICAgICAgIDwvdHI+CiAgICAgICAgICAgIDwvdGFibGU+CgogICAgICAgICAgPC90ZD4KICAgICAgICAgIDx0ZCBjbGFzcz0iZXhwYW5kZXIiPjwvdGQ+CiAgICAgICAgPC90cj4KICAgICAgICA8L3Rib2R5PgogICAgICA8L3RhYmxlPgogICAgPC90ZD4KICA8L3RyPgogIDwvdGJvZHk+CjwvdGFibGU+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8cCBjbGFzcz0ibWFpbC1mb290ZXIiPgogICAgICAgICAgeyUgaWYgdGVjaG5pY2FsQ29udGFjdE1lc3NhZ2UgJX0KICAgICAgICAgICAgPHNwYW4+e3sgdGVjaG5pY2FsQ29udGFjdE1lc3NhZ2UgfX08L3NwYW4+PGJyIC8+CiAgICAgICAgICB7JSBlbmRpZiAlfQogICAgICAgICAgeyUgaWYgdGVjaG5pY2FsQ29udGFjdE5hbWUgJX0KICAgICAgICAgICAgPHNwYW4+e3sgdGVjaG5pY2FsQ29udGFjdE5hbWUgfX08L3NwYW4+PGJyIC8+CiAgICAgICAgICB7JSBlbmRpZiAlfQogICAgICAgICAgeyUgaWYgdGVjaG5pY2FsQ29udGFjdEVtYWlsICV9CiAgICAgICAgICAgIDxzcGFuPnt7IHRlY2huaWNhbENvbnRhY3RFbWFpbCB9fTwvc3Bhbj48YnIgLz4KICAgICAgICAgIHslIGVuZGlmICV9CiAgICAgICAgICB7JSBpZiB0ZWNobmljYWxDb250YWN0UGhvbmUgJX0KICAgICAgICAgICAgPHNwYW4+e3sgdGVjaG5pY2FsQ29udGFjdFBob25lIH19PC9zcGFuPgogICAgICAgICAgeyUgZW5kaWYgJX0KICAgICAgICA8L3A+Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">PHRhYmxlIGNsYXNzPSJyb3ciPgogIDx0Ym9keT4KICA8dHI+CiAgICA8dGQgY2xhc3M9IndyYXBwZXIgb2Zmc2V0LWJ5LXR3byI+CiAgICAgIDx0YWJsZSBjbGFzcz0iZm91ciBjb2x1bW5zIj4KICAgICAgICA8dGJvZHk+CiAgICAgICAgPHRyPgogICAgICAgICAgPHRkPgogICAgICAgICAgICA8dGFibGUgY2xhc3M9ImJ1dHRvbiByYWRpdXMgcHJpbWFyeSI+CiAgICAgICAgICAgICAgPHRyPgogICAgICAgICAgICAgICAgPHRkIHN0eWxlPSJ2ZXJ0aWNhbC1hbGlnbjogbWlkZGxlOyAiPgogICAgICAgICAgICAgICAgICA8YSBocmVmPSJ7e3ZlcmlmaWNhdGlvbkxpbmt9fSI+CiAgICAgICAgICAgICAgICAgICAgVmVyaWZ5IG15IGFjY291bnQKICAgICAgICAgICAgICAgICAgPC9hPgogICAgICAgICAgICAgICAgPC90ZD4KICAgICAgICAgICAgICA8L3RyPgogICAgICAgICAgICA8L3RhYmxlPgoKICAgICAgICAgIDwvdGQ+CiAgICAgICAgICA8dGQgY2xhc3M9ImV4cGFuZGVyIj48L3RkPgogICAgICAgIDwvdHI+CiAgICAgICAgPC90Ym9keT4KICAgICAgPC90YWJsZT4KICAgIDwvdGQ+CiAgPC90cj4KICA8L3Rib2R5Pgo8L3RhYmxlPgo=</text>
