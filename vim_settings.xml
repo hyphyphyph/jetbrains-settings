@@ -36,10 +36,9 @@
         <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/partner/jsonapi/partner.jsonapi.js" timestamp="1489792828146">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="30" column="21" />
-        <mark key="^" line="30" column="19" />
-        <mark key="." line="30" column="19" />
+        <mark key="]" line="26" column="21" />
+        <mark key="^" line="26" column="19" />
+        <mark key="." line="26" column="19" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-decline-html-en.html" timestamp="1489776012897">
         <mark key="'" line="0" column="0" />
@@ -116,6 +115,13 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="19" column="0" />
       </file>
+      <file name="$USER_HOME$/invite-api/src/modules/conference-invite/services/workflow.service.js" timestamp="1489807976102">
+        <mark key="'" line="157" column="20" />
+        <mark key="[" line="348" column="75" />
+        <mark key="]" line="349" column="61" />
+        <mark key="^" line="349" column="61" />
+        <mark key="." line="349" column="61" />
+      </file>
       <file name="$USER_HOME$/invite-api/src/modules/user/templates/registration-html-en.html" timestamp="1489775040028">
         <mark key="'" line="0" column="11" />
         <mark key="[" line="7" column="0" />
@@ -179,11 +185,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="8" filename="$USER_HOME$/invite-api/src/modules/conference/jsonapi/conference.jsonapi.js" />
-      <jump line="29" column="8" filename="$USER_HOME$/invite-api/src/modules/conference/jsonapi/conference.jsonapi.js" />
-      <jump line="30" column="8" filename="$USER_HOME$/invite-api/src/modules/conference/jsonapi/conference.jsonapi.js" />
-      <jump line="31" column="8" filename="$USER_HOME$/invite-api/src/modules/conference/jsonapi/conference.jsonapi.js" />
-      <jump line="32" column="8" filename="$USER_HOME$/invite-api/src/modules/conference/jsonapi/conference.jsonapi.js" />
       <jump line="33" column="8" filename="$USER_HOME$/invite-api/src/modules/conference/jsonapi/conference.jsonapi.js" />
       <jump line="34" column="8" filename="$USER_HOME$/invite-api/src/modules/conference/jsonapi/conference.jsonapi.js" />
       <jump line="35" column="8" filename="$USER_HOME$/invite-api/src/modules/conference/jsonapi/conference.jsonapi.js" />
@@ -279,6 +280,11 @@
       <jump line="20" column="5" filename="$USER_HOME$/invite-api/db/migrations/20170317225227-create-email-columns-on-partner.js" />
       <jump line="0" column="0" filename="$USER_HOME$/invite-api/db/migrations/20170317225227-create-email-columns-on-partner.js" />
       <jump line="46" column="6" filename="$USER_HOME$/invite-api/src/models/partner.model.js" />
+      <jump line="24" column="40" filename="$USER_HOME$/invite-api/src/modules/conference-invite/services/workflow.service.js" />
+      <jump line="45" column="20" filename="$USER_HOME$/invite-api/src/modules/conference-invite/services/workflow.service.js" />
+      <jump line="71" column="20" filename="$USER_HOME$/invite-api/src/modules/conference-invite/services/workflow.service.js" />
+      <jump line="116" column="20" filename="$USER_HOME$/invite-api/src/modules/conference-invite/services/workflow.service.js" />
+      <jump line="157" column="20" filename="$USER_HOME$/invite-api/src/modules/conference-invite/services/workflow.service.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -303,52 +309,52 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>nlul</text>
+        <text>config.get('mailer.from')</text>
       </register>
       <register name="-" type="4">
-        <text>nlul</text>
+        <text>config.get('mailer.from')</text>
       </register>
       <register name="/" type="4">
-        <text>P</text>
+        <text>,</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAnZW1haWxMb2dvJywKICAgICAgICAnY29udGFjdEVtYWlsJywKICAgICAgICAnY29udGFjdFBob25lJywKICAgICAgICAnY29udGFjdE5hbWUnLAo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgc2lnbmF0dXJlOiBKb2kuc3RyaW5nKCkuYWxsb3cobnVsbCkK</text>
+      <register name="1" type="4">
+        <text>config.get('mailer.from')</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICdwYXJ0bmVycy9lbWFpbC1sb2dvcycsCg==</text>
+        <text encoding="base64">ICAgICAgc2lnbmF0dXJlOiBKb2kuc3RyaW5nKCkuYWxsb3cobnVsbCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICdjb25mZXJlbmNlcy9lbWFpbC1sb2dvcycsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICdwYXJ0bmVycy9lbWFpbC1sb2dvcycsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICdjb25mZXJlbmNlcy9lbWFpbC1sb2dvcycsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGFsbG93TnVsbDogdHJ1ZQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgIGFsbG93TnVsbDogdHJ1ZQo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">J3VzZSBzdHJpY3QnOwoKbW9kdWxlLmV4cG9ydHMgPSB7CiAgdXA6IGZ1bmN0aW9uIChxdWVyeUludGVyZmFjZSwgU2VxdWVsaXplKSB7CiAgICAvKgogICAgICBBZGQgYWx0ZXJpbmcgY29tbWFuZHMgaGVyZS4KICAgICAgUmV0dXJuIGEgcHJvbWlzZSB0byBjb3JyZWN0bHkgaGFuZGxlIGFzeW5jaHJvbmljaXR5LgoKICAgICAgRXhhbXBsZToKICAgICAgcmV0dXJuIHF1ZXJ5SW50ZXJmYWNlLmNyZWF0ZVRhYmxlKCd1c2VycycsIHsgaWQ6IFNlcXVlbGl6ZS5JTlRFR0VSIH0pOwogICAgKi8KICB9LAoKICBkb3duOiBmdW5jdGlvbiAocXVlcnlJbnRlcmZhY2UsIFNlcXVlbGl6ZSkgewogICAgLyoKICAgICAgQWRkIHJldmVydGluZyBjb21tYW5kcyBoZXJlLgogICAgICBSZXR1cm4gYSBwcm9taXNlIHRvIGNvcnJlY3RseSBoYW5kbGUgYXN5bmNocm9uaWNpdHkuCgogICAgICBFeGFtcGxlOgogICAgICByZXR1cm4gcXVlcnlJbnRlcmZhY2UuZHJvcFRhYmxlKCd1c2VycycpOwogICAgKi8KICB9Cn07Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLmNhdGNoKGNvbnNvbGUubG9nKQo=</text>
+        <text encoding="base64">J3VzZSBzdHJpY3QnOwoKbW9kdWxlLmV4cG9ydHMgPSB7CiAgdXA6IGZ1bmN0aW9uIChxdWVyeUludGVyZmFjZSwgU2VxdWVsaXplKSB7CiAgICAvKgogICAgICBBZGQgYWx0ZXJpbmcgY29tbWFuZHMgaGVyZS4KICAgICAgUmV0dXJuIGEgcHJvbWlzZSB0byBjb3JyZWN0bHkgaGFuZGxlIGFzeW5jaHJvbmljaXR5LgoKICAgICAgRXhhbXBsZToKICAgICAgcmV0dXJuIHF1ZXJ5SW50ZXJmYWNlLmNyZWF0ZVRhYmxlKCd1c2VycycsIHsgaWQ6IFNlcXVlbGl6ZS5JTlRFR0VSIH0pOwogICAgKi8KICB9LAoKICBkb3duOiBmdW5jdGlvbiAocXVlcnlJbnRlcmZhY2UsIFNlcXVlbGl6ZSkgewogICAgLyoKICAgICAgQWRkIHJldmVydGluZyBjb21tYW5kcyBoZXJlLgogICAgICBSZXR1cm4gYSBwcm9taXNlIHRvIGNvcnJlY3RseSBoYW5kbGUgYXN5bmNocm9uaWNpdHkuCgogICAgICBFeGFtcGxlOgogICAgICByZXR1cm4gcXVlcnlJbnRlcmZhY2UuZHJvcFRhYmxlKCd1c2VycycpOwogICAgKi8KICB9Cn07Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>Text</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgLmNhdGNoKGNvbnNvbGUubG9nKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>P</last-search>
+      <last-search>,</last-search>
       <last-offset />
-      <last-pattern>P</last-pattern>
+      <last-pattern>,</last-pattern>
       <last-replace>text-fr</last-replace>
       <last-substitute>html-en</last-substitute>
       <last-dir>1</last-dir>
@@ -356,9 +362,6 @@
     </search>
     <history>
       <history-search>
-        <entry>C</entry>
-        <entry>R</entry>
-        <entry>T</entry>
         <entry>(</entry>
         <entry>nam</entry>
         <entry>)</entry>
@@ -376,6 +379,9 @@
         <entry>Text</entry>
         <entry>F</entry>
         <entry>P</entry>
+        <entry>sendEmail</entry>
+        <entry encoding="base64">XDxfc2VuZEVtYWlsXD4=</entry>
+        <entry>,</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2Zyb20gLz0gcmVxdWlyZSgvZw==</entry>
