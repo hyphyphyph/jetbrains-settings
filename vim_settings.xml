@@ -258,13 +258,12 @@
         <mark key="^" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/invite-api/src/modules/conference-invite/services/workflow.service.js" timestamp="1489947985076">
+      <file name="$USER_HOME$/invite-api/src/modules/conference-invite/services/workflow.service.js" timestamp="1489948785174">
         <mark key="'" line="342" column="20" />
         <mark key="x" line="179" column="77" />
-        <mark key="[" line="542" column="29" />
-        <mark key="]" line="542" column="29" />
-        <mark key="." line="542" column="29" />
-        <mark key="^" line="542" column="29" />
+        <mark key="[" line="542" column="0" />
+        <mark key="]" line="542" column="0" />
+        <mark key="." line="542" column="0" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/user/templates/registration-html-en.html" timestamp="1489896563678">
         <mark key="'" line="0" column="0" />
@@ -434,8 +433,8 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>false</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMub3B0aW9ucyk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>false</text>
@@ -447,13 +446,13 @@
         <text encoding="base64">ICAgICAgICAgICAgaWYgKGNvbmZlcmVuY2UuZW1haWxJbnZpdGVTZW5kVGVtcGxhdGVIdG1sRW4pIHsKICAgICAgICAgICAgICBvcHRpb25zLmh0bWxUZW1wbGF0ZSA9IGRhdGEuY29uZmVyZW5jZS5lbWFpbEludml0ZVNlbmRUZW1wbGF0ZUh0bWxFbjsKICAgICAgICAgICAgfQogICAgICAgICAgICBpZiAoY29uZmVyZW5jZS5lbWFpbEludml0ZVNlbmRUZW1wbGF0ZVRleHRFbikgewogICAgICAgICAgICAgIG9wdGlvbnMuaHRtbFRlbXBsYXRlID0gZGF0YS5jb25mZXJlbmNlLmVtYWlsSW52aXRlU2VuZFRlbXBsYXRlVGV4dEVuOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhvcHRpb25zKTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMub3B0aW9ucyk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLmNhdGNoKGNvbnNvbGUubG9nKQo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhvcHRpb25zKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgLmNhdGNoKGNvbnNvbGUubG9nKQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
@@ -462,13 +461,13 @@
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlmIChjb25mZXJlbmNlLmVtYWlsSW52aXRlU2VuZFRlbXBsYXRlSHRtbEVuKSB7CiAgICAgICAgICAgIG9wdGlvbnMuaHRtbFRlbXBsYXRlID0gZGF0YS5jb25mZXJlbmNlLmVtYWlsSW52aXRlU2VuZFRlbXBsYXRlSHRtbEVuOwogICAgICAgICAgfQogICAgICAgICAgaWYgKGNvbmZlcmVuY2UuZW1haWxJbnZpdGVTZW5kVGVtcGxhdGVUZXh0RW4pIHsKICAgICAgICAgICAgb3B0aW9ucy5odG1sVGVtcGxhdGUgPSBkYXRhLmNvbmZlcmVuY2UuZW1haWxJbnZpdGVTZW5kVGVtcGxhdGVUZXh0RW47CiAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGlmIChjb25mZXJlbmNlLmVtYWlsSW52aXRlU2VuZFRlbXBsYXRlSHRtbEVuKSB7CiAgICAgICAgICAgIG9wdGlvbnMuaHRtbFRlbXBsYXRlID0gZGF0YS5jb25mZXJlbmNlLmVtYWlsSW52aXRlU2VuZFRlbXBsYXRlSHRtbEVuOwogICAgICAgICAgfQogICAgICAgICAgaWYgKGNvbmZlcmVuY2UuZW1haWxJbnZpdGVTZW5kVGVtcGxhdGVUZXh0RW4pIHsKICAgICAgICAgICAgb3B0aW9ucy5odG1sVGVtcGxhdGUgPSBkYXRhLmNvbmZlcmVuY2UuZW1haWxJbnZpdGVTZW5kVGVtcGxhdGVUZXh0RW47CiAgICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
