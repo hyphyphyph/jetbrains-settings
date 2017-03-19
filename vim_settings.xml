@@ -9,7 +9,7 @@
         <mark key="^" line="12" column="1" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1489947263138">
+      <file name="/a.dummy" timestamp="1489947866054">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-accept-html-fr.html" timestamp="1489947256961">
@@ -177,7 +177,8 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="16" column="15" />
       </file>
-      <file name="$USER_HOME$/invite-api/src/modules/conference-invite/handlers/workflow.handler.js" timestamp="1489945258828">
+      <file name="$USER_HOME$/invite-api/src/modules/conference-invite/handlers/workflow.handler.js" timestamp="1489947960742">
+        <mark key="'" line="202" column="6" />
         <mark key="[" line="158" column="12" />
         <mark key="]" line="158" column="22" />
         <mark key="." line="158" column="22" />
@@ -239,9 +240,9 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="12" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1489940713956">
+      <file name="/Dummy.txt" timestamp="1489947872411">
         <mark key="[" line="0" column="0" />
-        <mark key="." line="0" column="113" />
+        <mark key="." line="0" column="43" />
       </file>
       <file name="$USER_HOME$/invite-api/db/migrations/20170311221511-add-signature-to-conference.js" timestamp="1489791153047">
         <mark key="'" line="0" column="0" />
@@ -257,13 +258,13 @@
         <mark key="^" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/invite-api/src/modules/conference-invite/services/workflow.service.js" timestamp="1489946499944">
+      <file name="$USER_HOME$/invite-api/src/modules/conference-invite/services/workflow.service.js" timestamp="1489947985076">
         <mark key="'" line="342" column="20" />
         <mark key="x" line="179" column="77" />
-        <mark key="[" line="542" column="30" />
-        <mark key="]" line="542" column="39" />
-        <mark key="." line="542" column="39" />
-        <mark key="^" line="542" column="39" />
+        <mark key="[" line="542" column="29" />
+        <mark key="]" line="542" column="29" />
+        <mark key="." line="542" column="29" />
+        <mark key="^" line="542" column="29" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/user/templates/registration-html-en.html" timestamp="1489896563678">
         <mark key="'" line="0" column="0" />
@@ -310,18 +311,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="70" filename="$USER_HOME$/invite-api/src/modules/conference-invite/services/workflow.service.js" />
-      <jump line="120" column="41" filename="$USER_HOME$/invite-api/src/modules/conference-invite/services/workflow.service.js" />
-      <jump line="125" column="30" filename="$USER_HOME$/invite-api/src/modules/conference-invite/services/workflow.service.js" />
-      <jump line="150" column="32" filename="$USER_HOME$/invite-api/src/modules/conference-invite/handlers/conference-invite-crud.handler.js" />
-      <jump line="67" column="2" filename="$USER_HOME$/invite-api/src/modules/partner/services/assignment.service.js" />
-      <jump line="19" column="18" filename="$USER_HOME$/invite-api/src/modules/user/templates/registration-html-en.html" />
-      <jump line="62" column="59" filename="$USER_HOME$/invite-api/src/modules/conference/services/assignment.service.js" />
-      <jump line="15" column="14" filename="$USER_HOME$/invite-api/src/modules/partner/templates/invited-html-en.html" />
-      <jump line="109" column="56" filename="$USER_HOME$/invite-api/src/modules/user/handlers/registration.handler.js" />
-      <jump line="27" column="43" filename="$USER_HOME$/invite-api/src/modules/user/templates/registration-html-en.html" />
-      <jump line="0" column="0" filename="$USER_HOME$/invite-api/src/modules/user/templates/registration-html-en.html" />
-      <jump line="32" column="10" filename="$USER_HOME$/invite-api/src/modules/user/templates/registration-html-fr.html" />
       <jump line="0" column="0" filename="$USER_HOME$/invite-api/src/modules/user/templates/registration-html-fr.html" />
       <jump line="12" column="1" filename="$USER_HOME$/invite-api/src/modules/user/templates/registration-html-fr.html" />
       <jump line="3" column="0" filename="$USER_HOME$/invite-api/src/modules/user/templates/registration-html-fr.html" />
@@ -407,6 +396,18 @@
       <jump line="330" column="18" filename="$USER_HOME$/invite-api/src/modules/conference-invite/services/workflow.service.js" />
       <jump line="499" column="16" filename="$USER_HOME$/invite-api/src/modules/conference-invite/services/workflow.service.js" />
       <jump line="238" column="0" filename="$USER_HOME$/invite-api/src/modules/conference-invite/services/workflow.service.js" />
+      <jump line="17" column="34" filename="$USER_HOME$/invite-api/src/modules/conference-invite/services/workflow.service.js" />
+      <jump line="527" column="3" filename="$USER_HOME$/invite-api/src/modules/conference-invite/services/workflow.service.js" />
+      <jump line="542" column="21" filename="$USER_HOME$/invite-api/src/modules/conference-invite/services/workflow.service.js" />
+      <jump line="543" column="10" filename="$USER_HOME$/invite-api/src/modules/conference-invite/services/workflow.service.js" />
+      <jump line="544" column="61" filename="$USER_HOME$/invite-api/src/modules/conference-invite/services/workflow.service.js" />
+      <jump line="545" column="48" filename="$USER_HOME$/invite-api/src/modules/conference-invite/services/workflow.service.js" />
+      <jump line="548" column="14" filename="$USER_HOME$/invite-api/src/modules/conference-invite/services/workflow.service.js" />
+      <jump line="11" column="0" filename="$USER_HOME$/invite-api/src/modules/conference-invite/handlers/workflow.handler.js" />
+      <jump line="203" column="6" filename="$USER_HOME$/invite-api/src/modules/conference-invite/handlers/workflow.handler.js" />
+      <jump line="202" column="6" filename="$USER_HOME$/invite-api/src/modules/conference-invite/handlers/workflow.handler.js" />
+      <jump line="104" column="20" filename="$USER_HOME$/invite-api/src/modules/conference-invite/services/workflow.service.js" />
+      <jump line="158" column="20" filename="$USER_HOME$/invite-api/src/modules/conference-invite/services/workflow.service.js" />
       <jump line="239" column="20" filename="$USER_HOME$/invite-api/src/modules/conference-invite/services/workflow.service.js" />
       <jump line="290" column="20" filename="$USER_HOME$/invite-api/src/modules/conference-invite/services/workflow.service.js" />
       <jump line="342" column="20" filename="$USER_HOME$/invite-api/src/modules/conference-invite/services/workflow.service.js" />
@@ -434,10 +435,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>user</text>
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text>user</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfc2VuZEVtYWlsXD4=</text>
@@ -487,8 +488,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Ht</entry>
-        <entry>Fr</entry>
         <entry>S</entry>
         <entry>Html</entry>
         <entry>{</entry>
@@ -506,6 +505,8 @@
         <entry>admin</entry>
         <entry>adminUser</entry>
         <entry>_</entry>
+        <entry>sendMail</entry>
+        <entry>sendEmail</entry>
         <entry encoding="base64">XDxfc2VuZEVtYWlsXD4=</entry>
       </history-search>
       <history-cmd>
