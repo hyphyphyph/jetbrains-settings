@@ -9,10 +9,11 @@
         <mark key="^" line="12" column="1" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/boringcode/server/tests/endpoints/users/b.js" timestamp="1489477821953">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/invite-api/src/modules/quota/jsonapi/quota.jsonapi.js" timestamp="1489939292464">
+        <mark key="[" line="36" column="18" />
+        <mark key="]" line="36" column="29" />
+        <mark key="." line="36" column="29" />
+        <mark key="^" line="36" column="29" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-accept-html-fr.html" timestamp="1489898962574">
         <mark key="'" line="22" column="0" />
@@ -20,6 +21,10 @@
         <mark key="]" line="24" column="3" />
         <mark key="." line="23" column="15" />
         <mark key="^" line="23" column="15" />
+      </file>
+      <file name="$USER_HOME$/invite-api/src/modules/pass-option/jsonapi/pass-option.jsonapi.js" timestamp="1489938265743">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="23" column="22" />
       </file>
       <file name="$USER_HOME$/invite-api/src/templates/base-admin-email.html" timestamp="1489858000797">
         <mark key="'" line="410" column="41" />
@@ -35,11 +40,6 @@
         <mark key="^" line="10" column="22" />
         <mark key="." line="10" column="22" />
       </file>
-      <file name="$USER_HOME$/invite-api/src/modules/user/templates/registration-text-fr.html" timestamp="1489854962949">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="10" column="25" />
-        <mark key="." line="7" column="0" />
-      </file>
       <file name="$USER_HOME$/invite-api/src/modules/user/templates/reset-html-fr.html" timestamp="1489896960115">
         <mark key="'" line="3" column="0" />
         <mark key="[" line="21" column="0" />
@@ -47,23 +47,12 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="20" column="1" />
       </file>
-      <file name="$USER_HOME$/invite-api/src/models/private-activity.model.js" timestamp="1489464541441">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="35" />
-        <mark key="." line="55" column="28" />
-      </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-accept-on-behalf-html-en.html" timestamp="1489886204874">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
         <mark key="^" line="13" column="1" />
-      </file>
-      <file name="$USER_HOME$/invite-api/src/modules/partner/templates/invited-html-en.html" timestamp="1489897882293">
-        <mark key="'" line="15" column="14" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/partner/templates/invited-html-fr.html" timestamp="1489897851738">
         <mark key="[" line="16" column="2" />
@@ -85,11 +74,6 @@
         <mark key="." line="37" column="23" />
         <mark key="^" line="37" column="23" />
       </file>
-      <file name="$USER_HOME$/invite-api/src/modules/quota/services/quota.service.js" timestamp="1489872306529">
-        <mark key="[" line="145" column="0" />
-        <mark key="]" line="145" column="0" />
-        <mark key="." line="145" column="0" />
-      </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-send-html-en.html" timestamp="1489899074453">
         <mark key="[" line="76" column="0" />
         <mark key="]" line="76" column="0" />
@@ -108,12 +92,6 @@
         <mark key="]" line="53" column="79" />
         <mark key="." line="53" column="79" />
         <mark key="^" line="53" column="61" />
-      </file>
-      <file name="$USER_HOME$/invite-api/db/seeders/20170124190834-create-partners.js" timestamp="1489810230680">
-        <mark key="'" line="26" column="0" />
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-send-html-fr.html" timestamp="1489899086905">
         <mark key="[" line="17" column="14" />
@@ -156,16 +134,17 @@
         <mark key="." line="124" column="37" />
         <mark key="^" line="124" column="37" />
       </file>
+      <file name="$USER_HOME$/invite-api/src/modules/quota/handlers/quota-crud.handler.js" timestamp="1489939221830">
+        <mark key="[" line="29" column="22" />
+        <mark key="]" line="33" column="31" />
+        <mark key="." line="33" column="31" />
+        <mark key="^" line="33" column="31" />
+      </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-decline-html-en.html" timestamp="1489899039563">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
         <mark key="^" line="12" column="1" />
-      </file>
-      <file name="$USER_HOME$/boringcode/server/tests/http/users/delete-user.js" timestamp="1489474490386">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/user/handlers/registration.handler.js" timestamp="1489896899753">
         <mark key="'" line="107" column="17" />
@@ -173,12 +152,6 @@
         <mark key="]" line="107" column="48" />
         <mark key="." line="107" column="17" />
         <mark key="^" line="116" column="21" />
-      </file>
-      <file name="$USER_HOME$/invite-api/src/modules/conference/templates/invited-html.html" timestamp="1489895796619">
-        <mark key="'" line="7" column="0" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/core/base-handler.js" timestamp="1489868804436">
         <mark key="'" line="95" column="27" />
@@ -204,6 +177,17 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
         <mark key="^" line="16" column="15" />
+      </file>
+      <file name="$USER_HOME$/invite-api/src/models/conference-invite.model.js" timestamp="1489938558093">
+        <mark key="[" line="135" column="9" />
+        <mark key="]" line="135" column="9" />
+        <mark key="." line="135" column="9" />
+        <mark key="^" line="135" column="9" />
+      </file>
+      <file name="$USER_HOME$/invite-api/src/modules/conference-invite/jsonapi/conference-invite.jsonapi.js" timestamp="1489939471884">
+        <mark key="[" line="124" column="0" />
+        <mark key="]" line="126" column="9" />
+        <mark key="." line="124" column="0" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-cancel-on-behalf-html-en.html" timestamp="1489899029403">
         <mark key="'" line="12" column="40" />
@@ -232,10 +216,11 @@
         <mark key="^" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/invite-api/src/modules/conference-invite/handlers/conference-invite-crud.handler.js" timestamp="1489899534854">
-        <mark key="[" line="91" column="0" />
-        <mark key="]" line="91" column="0" />
-        <mark key="." line="91" column="0" />
+      <file name="$USER_HOME$/invite-api/src/modules/conference-invite/handlers/conference-invite-crud.handler.js" timestamp="1489938979329">
+        <mark key="[" line="146" column="22" />
+        <mark key="]" line="150" column="31" />
+        <mark key="." line="150" column="31" />
+        <mark key="^" line="150" column="31" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-accept-on-behalf-html-fr.html" timestamp="1489898777552">
         <mark key="'" line="12" column="24" />
@@ -250,7 +235,7 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="12" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1489899537775">
+      <file name="/Dummy.txt" timestamp="1489939491693">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="113" />
       </file>
@@ -309,11 +294,6 @@
         <mark key="." line="70" column="94" />
         <mark key="^" line="70" column="94" />
       </file>
-      <file name="$USER_HOME$/invite-api/src/modules/user/handlers/user-crud.handler.js" timestamp="1489868740281">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-      </file>
       <file name="/a.regexp" timestamp="1489899090593">
         <mark key="[" line="0" column="0" />
       </file>
@@ -322,6 +302,13 @@
         <mark key="]" line="80" column="56" />
         <mark key="." line="80" column="56" />
         <mark key="^" line="80" column="56" />
+      </file>
+      <file name="$USER_HOME$/invite-api/src/models/quota.model.js" timestamp="1489938463323">
+        <mark key="[" line="72" column="9" />
+        <mark key="]" line="72" column="9" />
+        <mark key="^" line="72" column="9" />
+        <mark key="." line="72" column="9" />
+        <mark key="o" line="63" column="15" />
       </file>
     </filemarks>
     <jumps>
@@ -449,43 +436,43 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLmNhdGNoKGNvbnNvbGUubG9nKQo=</text>
+        <text encoding="base64">ICAgICAgICBlbHNlIGlmIChhdHRyID09PSAncGFzc09wdGlvbnMnKSB7CiAgICAgICAgICByZXR1cm4gJ3Bhc3Mtb3B0aW9ucyc7CiAgICAgICAgfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>E</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">PHA+CiAge3twYXNzLnRpdGxlRnJ9fQo8L3A+Cg==</text>
+        <text encoding="base64">ICAgICAgICBlbHNlIGlmIChhdHRyID09PSAncGFzc09wdGlvbnMnKSB7CiAgICAgICAgICByZXR1cm4gJ3Bhc3Mtb3B0aW9ucyc7CiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLmNhdGNoKGNvbnNvbGUubG9nKQo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhhdHRyKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CnslIGJsb2NrIHBhcnRuZXIgJX0Ke3twYXJ0bmVyLnNpZ25hdHVyZX19CnslIGVuZGJsb2NrICV9Cgp7JSBibG9jayBjb25mZXJlbmNlICV9Cnt7Y29uZmVyZW5jZS5zaWduYXR1cmV9fQp7JSBlbmRibG9jayAlfQo=</text>
+        <text encoding="base64">ICAgICAgICB0eXBlRm9yQXR0cmlidXRlOiAoYXR0cikgPT4gewogICAgICAgICAgaWYgKGF0dHIgPT09ICdwYXNzT3B0aW9ucycpIHsKICAgICAgICAgICAgcmV0dXJuICdwYXNzLW9wdGlvbnMnOwogICAgICAgICAgfQogICAgICAgICAgZWxzZSB7CiAgICAgICAgICAgIHJldHVybiBhdHRyOwogICAgICAgICAgfQogICAgICAgIH0sCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CnslIGJsb2NrIHBhcnRuZXIgJX0Ke3twYXJ0bmVyLnNpZ25hdHVyZX19CnslIGVuZGJsb2NrICV9Cgp7JSBibG9jayBjb25mZXJlbmNlICV9Cnt7Y29uZmVyZW5jZS5zaWduYXR1cmV9fQp7JSBlbmRibG9jayAlfQo=</text>
+        <text encoding="base64">ICAgICAgICAgIGVsc2UgaWYgKGF0dHIgPT09ICdzZW5kZXInKSB7CiAgICAgICAgICAgIHJldHVybiAndXNlcnMnOwogICAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CnslIGJsb2NrIHBhcnRuZXIgJX0Ke3twYXJ0bmVyLnNpZ25hdHVyZX19CnslIGVuZGJsb2NrICV9Cgp7JSBibG9jayBjb25mZXJlbmNlICV9Cnt7Y29uZmVyZW5jZS5zaWduYXR1cmV9fQp7JSBlbmRibG9jayAlfQo=</text>
+        <text encoding="base64">ICAgICAgICAgIGlmIChhdHRyID09PSAncGFzc0FsbG9jYXRpb24nKSB7CiAgICAgICAgICAgIHJldHVybiAncGFzcy1hbGxvY2F0aW9uJzsKICAgICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW5jbHVkZTogWwogICAgICAgICAgICBdCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">eyUgYmxvY2sgcGFydG5lciAlfQp7e3BhcnRuZXIuc2lnbmF0dXJlfX0KeyUgZW5kYmxvY2sgJX0KCnslIGJsb2NrIGNvbmZlcmVuY2UgJX0Ke3tjb25mZXJlbmNlLnNpZ25hdHVyZX19CnslIGVuZGJsb2NrICV9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBtb2RlbDogbW9kZWxzLlBhc3NPcHRpb24sCiAgICAgICAgICAgICAgICBhczogJ3Bhc3NPcHRpb25zJwogICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CnslIGJsb2NrIHBhcnRuZXIgJX0Ke3twYXJ0bmVyLnNpZ25hdHVyZX19CnslIGVuZGJsb2NrICV9Cgp7JSBibG9jayBjb25mZXJlbmNlICV9Cnt7Y29uZmVyZW5jZS5zaWduYXR1cmV9fQp7JSBlbmRibG9jayAlfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CnslIGJsb2NrIHBhcnRuZXIgJX0Ke3twYXJ0bmVyLnNpZ25hdHVyZX19CnslIGVuZGJsb2NrICV9Cgp7JSBibG9jayBjb25mZXJlbmNlICV9Cnt7Y29uZmVyZW5jZS5zaWduYXR1cmV9fQp7JSBlbmRibG9jayAlfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBtb2RlbDogbW9kZWxzLlBhc3MsCiAgICAgICAgICAgICAgYXM6IAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CnslIGlmIGVtYWlsTWVzc2FnZSAlfQp7e2VtYWlsTWVzc2FnZSB8IHNhZmV9fQp7JSBlbmRpZiAlfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -524,7 +511,6 @@
         <entry>E</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL2Zyb20gLz0gcmVxdWlyZSgvZw==</entry>
         <entry encoding="base64">JzwsJz5zLyc7LycpOy9n</entry>
         <entry encoding="base64">JzwsJz5zL2hicy9odG1sL2c=</entry>
         <entry>39</entry>
@@ -543,6 +529,7 @@
         <entry encoding="base64">JzwsJz5zL2h0bWwvdGV4dC9n</entry>
         <entry encoding="base64">JzwsJz5zLy1lbi8tZnIvZw==</entry>
         <entry encoding="base64">JzwsJz5zL2h0bWwtZW4vdGV4dC1mci9n</entry>
+        <entry>136</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
