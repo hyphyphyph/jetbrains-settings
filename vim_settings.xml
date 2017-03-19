@@ -178,12 +178,6 @@
       <file name="/JavaScript Console" timestamp="1489353062270">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/invite-api/src/modules/conference-invite/jsonapi/conference-invite.jsonapi.js" timestamp="1489889320112">
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="80" column="0" />
-        <mark key="^" line="79" column="8" />
-        <mark key="." line="80" column="0" />
-      </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-cancel-on-behalf-html-en.html" timestamp="1489885931655">
         <mark key="'" line="12" column="14" />
         <mark key="[" line="12" column="30" />
