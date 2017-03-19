@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/a.dummy" timestamp="1489881194613">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/boringcode/server/tests/endpoints/users/b.js" timestamp="1489477821953">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -64,6 +67,9 @@
         <mark key="]" line="115" column="44" />
         <mark key="." line="115" column="44" />
         <mark key="^" line="115" column="44" />
+      </file>
+      <file name="/a.txt" timestamp="1489308029430">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/invite-api/src/models/partner.model.js" timestamp="1489791621567">
         <mark key="'" line="46" column="6" />
@@ -195,6 +201,9 @@
         <mark key="^" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="/JavaScript Console" timestamp="1489353062270">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-cancel-on-behalf-html-en.html" timestamp="1489776066471">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="12" column="0" />
@@ -282,6 +291,9 @@
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
+      </file>
+      <file name="/a.regexp" timestamp="1489881206997">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
