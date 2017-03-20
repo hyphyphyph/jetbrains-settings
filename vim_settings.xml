@@ -15,12 +15,12 @@
         <mark key="^" line="12" column="1" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/invite-api/src/modules/conference-invite/services/middleman.service.js" timestamp="1489981598703">
+      <file name="$USER_HOME$/invite-api/src/modules/conference-invite/services/middleman.service.js" timestamp="1489983605637">
         <mark key="'" line="17" column="10" />
-        <mark key="[" line="45" column="23" />
-        <mark key="]" line="45" column="23" />
-        <mark key="." line="45" column="23" />
-        <mark key="^" line="45" column="23" />
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
+        <mark key="^" line="54" column="45" />
       </file>
       <file name="/a.dummy" timestamp="1489966353008">
         <mark key="[" line="0" column="0" />
@@ -84,11 +84,11 @@
         <mark key="]" line="30" column="35" />
         <mark key="." line="55" column="28" />
       </file>
-      <file name="$USER_HOME$/invite-api/config/custom-environment-variables.yml" timestamp="1489973031641">
-        <mark key="[" line="24" column="36" />
-        <mark key="]" line="24" column="37" />
-        <mark key="^" line="24" column="37" />
-        <mark key="." line="24" column="37" />
+      <file name="$USER_HOME$/invite-api/config/custom-environment-variables.yml" timestamp="1489982595299">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="8" />
+        <mark key="^" line="22" column="8" />
+        <mark key="." line="22" column="8" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-accept-on-behalf-html-en.html" timestamp="1489961795852">
         <mark key="[" line="6" column="19" />
@@ -191,12 +191,12 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/invite-api/config/default.yml" timestamp="1489972990048">
+      <file name="$USER_HOME$/invite-api/config/default.yml" timestamp="1489982589511">
         <mark key="'" line="18" column="1" />
-        <mark key="[" line="51" column="6" />
-        <mark key="]" line="52" column="7" />
-        <mark key="^" line="52" column="7" />
-        <mark key="." line="52" column="7" />
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="8" />
+        <mark key="^" line="50" column="8" />
+        <mark key="." line="50" column="8" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-decline-html-fr-custom.html" timestamp="1489961478555">
         <mark key="[" line="11" column="0" />
@@ -333,13 +333,13 @@
         <mark key="^" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/invite-api/src/modules/conference-invite/handlers/conference-invite-crud.handler.js" timestamp="1489979354015">
+      <file name="$USER_HOME$/invite-api/src/modules/conference-invite/handlers/conference-invite-crud.handler.js" timestamp="1489983625246">
         <mark key="a" line="82" column="11" />
         <mark key="'" line="8" column="21" />
-        <mark key="[" line="92" column="12" />
-        <mark key="]" line="92" column="12" />
-        <mark key="." line="92" column="12" />
-        <mark key="^" line="92" column="12" />
+        <mark key="[" line="89" column="31" />
+        <mark key="]" line="89" column="31" />
+        <mark key="." line="89" column="31" />
+        <mark key="^" line="89" column="31" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-accept-on-behalf-html-fr.html" timestamp="1489961775650">
         <mark key="[" line="6" column="19" />
@@ -595,62 +595,60 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>results</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKEpTT04ucGFyc2UoYm9keSkuYXR0ZW5kaW5nKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>results</text>
+        <text>.statusCode</text>
       </register>
       <register name="/" type="4">
-        <text>models</text>
+        <text>M</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">J3VzZSBzdHJpY3QnOwoKY29uc3QgVEFCTEVfTkFNRSA9ICdDb25mZXJlbmNlcyc7Cgptb2R1bGUuZXhwb3J0cyA9IHsKICB1cDogKHF1ZXJ5SW50ZXJmYWNlLCBTZXF1ZWxpemUpID0+IHsKICAgIHJldHVybiBxdWVyeUludGVyZmFjZS5hZGRDb2x1bW4oVEFCTEVfTkFNRSwgJ3NpZ25hdHVyZScsIHsKICAgICAgdHlwZTogU2VxdWVsaXplLlRFWFQsCiAgICAgIGFsbG93TnVsbDogdHJ1ZQogICAgfSk7CiAgfSwKCiAgZG93bjogKHF1ZXJ5SW50ZXJmYWNlKSA9PiB7CiAgICByZXR1cm4gcXVlcnlJbnRlcmZhY2UucmVtb3ZlQ29sdW1uKFRBQkxFX05BTUUsICdzaWduYXR1cmUnKTsKICB9Cn07Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKEpTT04ucGFyc2UoYm9keSkuYXR0ZW5kaW5nKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGxldCB1cmwgPSBgJHtjb25maWcuZ2V0KCdtaWRkbGVtYW4udXJsJyl9L2FwaS92MS9hdHRlbmRlZXM/YDsKICAgICAgICAgIGlmICh0aGlzLmNvbmZlcmVuY2UubWlkZGxlbWFuTmFtZSkgewogICAgICAgICAgICB1cmwgKz0gYGV2ZW50PSR7dGhpcy5jb25mZXJlbmNlLm1pZGRsZW1hbk5hbWV9JmA7CiAgICAgICAgICB9CiAgICAgICAgICB1cmwgKz0gYGVtYWlsPSR7ZW1haWx9YDsKCiAgICAgICAgICByZXF1ZXN0KHVybCwgKCkgPT4gewoKICAgICAgICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChib2R5KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGJvZHkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codXJsKTsKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgbGV0IHVybCA9IGAke2NvbmZpZy5nZXQoJ21pZGRsZW1hbi51cmwnKX0vYXBpL3YxL2F0dGVuZGVlcz9gOwogICAgICBpZiAodGhpcy5jb25mZXJlbmNlLm1pZGRsZW1hbk5hbWUpIHsKICAgICAgICB1cmwgKz0gYGV2ZW50PSR7dGhpcy5jb25mZXJlbmNlLm1pZGRsZW1hbk5hbWV9JmA7CiAgICAgIH0KICAgICAgdXJsICs9IGBlbWFpbD0ke2VtYWlsfWA7CgogICAgICByZXF1ZXN0KHVybCwgKCkgPT4gewoKICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAogICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnMK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgbW9kZWxzLgo=</text>
+      <register name="7" type="4">
+        <text>TICKET_SOURCE_</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="8" type="4">
+        <text>TICKET_SOURCE_</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCiAgICAgIAo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">TWlkZGxlbWFuOgogIHVybDogVElDS0VUX1NPVVJDRV9NSURETEVNQU5fVVJMCiAgdG9rZW46IA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>models</last-search>
+      <last-search>M</last-search>
       <last-offset />
-      <last-pattern>models</last-pattern>
+      <last-pattern>M</last-pattern>
       <last-replace>AutoAccept</last-replace>
       <last-substitute>Send</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>template</entry>
-        <entry>html</entry>
         <entry>En</entry>
         <entry>E</entry>
         <entry>Fr</entry>
@@ -669,6 +667,8 @@
         <entry>signature</entry>
         <entry>\.</entry>
         <entry>models</entry>
+        <entry>Mi</entry>
+        <entry>M</entry>
       </history-search>
       <history-cmd>
         <entry>25</entry>
