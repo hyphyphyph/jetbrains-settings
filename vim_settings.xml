@@ -91,11 +91,11 @@
         <mark key="]" line="30" column="35" />
         <mark key="." line="55" column="28" />
       </file>
-      <file name="$USER_HOME$/invite-api/.env.example" timestamp="1490026078282">
-        <mark key="[" line="12" column="15" />
-        <mark key="]" line="12" column="15" />
-        <mark key="^" line="12" column="15" />
-        <mark key="." line="12" column="15" />
+      <file name="$USER_HOME$/invite-api/.env.example" timestamp="1490035897966">
+        <mark key="[" line="11" column="14" />
+        <mark key="]" line="11" column="37" />
+        <mark key="^" line="11" column="18" />
+        <mark key="." line="11" column="18" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/services/conflict.service.js" timestamp="1490032682197">
         <mark key="[" line="0" column="0" />
@@ -568,17 +568,17 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbmZpZyBmcm9tICdjb25maWcnOwo=</text>
+      <register name="&quot;" type="4">
+        <text>https://middleman.c2.biz</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IENBU0NBREU=</text>
+        <text>httsp</text>
       </register>
       <register name="/" type="4">
         <text>config</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">J3VzZSBzdHJpY3QnOwoKY29uc3QgVEFCTEVfTkFNRSA9ICdDb25mZXJlbmNlcyc7Cgptb2R1bGUuZXhwb3J0cyA9IHsKICB1cDogKHF1ZXJ5SW50ZXJmYWNlLCBTZXF1ZWxpemUpID0+IHsKICAgIHJldHVybiBxdWVyeUludGVyZmFjZS5hZGRDb2x1bW4oVEFCTEVfTkFNRSwgJ21pZGRsZW1hbkV2ZW50TmFtZScsIHsKICAgICAgdHlwZTogU2VxdWVsaXplLlRFWFQKICAgIH0pOwogIH0sCgogIGRvd246IChxdWVyeUludGVyZmFjZSkgPT4gewogICAgcmV0dXJuIHF1ZXJ5SW50ZXJmYWNlLnJlbW92ZUNvbHVtbihUQUJMRV9OQU1FLCAnbWlkZGxlbWFuRXZlbnROYW1lJyk7CiAgfQp9Owo=</text>
+      <register name="0" type="4">
+        <text>https://middleman.c2.biz</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IGNvbmZpZyBmcm9tICdjb25maWcnOwo=</text>
