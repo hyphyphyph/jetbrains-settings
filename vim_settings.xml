@@ -110,11 +110,11 @@
         <mark key="^" line="6" column="62" />
         <mark key="." line="6" column="62" />
       </file>
-      <file name="$USER_HOME$/invite-api/config/custom-environment-variables.yml" timestamp="1489982595299">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="8" />
-        <mark key="^" line="22" column="8" />
-        <mark key="." line="22" column="8" />
+      <file name="$USER_HOME$/invite-api/config/custom-environment-variables.yml" timestamp="1490045057629">
+        <mark key="[" line="9" column="25" />
+        <mark key="]" line="10" column="18" />
+        <mark key="^" line="10" column="18" />
+        <mark key="." line="10" column="18" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-accept-on-behalf-html-en.html" timestamp="1489961795852">
         <mark key="[" line="6" column="19" />
@@ -195,12 +195,12 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/invite-api/config/default.yml" timestamp="1490031571966">
+      <file name="$USER_HOME$/invite-api/config/default.yml" timestamp="1490044826968">
         <mark key="'" line="18" column="1" />
-        <mark key="[" line="52" column="8" />
-        <mark key="]" line="53" column="29" />
-        <mark key="^" line="53" column="29" />
-        <mark key="." line="53" column="29" />
+        <mark key="[" line="32" column="14" />
+        <mark key="]" line="33" column="11" />
+        <mark key="^" line="33" column="11" />
+        <mark key="." line="33" column="11" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-decline-html-fr-custom.html" timestamp="1489961478555">
         <mark key="[" line="11" column="0" />
@@ -228,11 +228,11 @@
         <mark key="." line="124" column="37" />
         <mark key="^" line="124" column="37" />
       </file>
-      <file name="$USER_HOME$/invite-api/config/sequelize.js" timestamp="1490042267546">
-        <mark key="[" line="32" column="22" />
-        <mark key="]" line="35" column="18" />
-        <mark key="^" line="35" column="18" />
-        <mark key="." line="35" column="18" />
+      <file name="$USER_HOME$/invite-api/config/sequelize.js" timestamp="1490044985178">
+        <mark key="[" line="27" column="15" />
+        <mark key="]" line="27" column="18" />
+        <mark key="^" line="27" column="18" />
+        <mark key="." line="27" column="18" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/quota/handlers/quota-crud.handler.js" timestamp="1489939221830">
         <mark key="[" line="29" column="22" />
@@ -343,7 +343,7 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="12" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1490042269662">
+      <file name="/Dummy.txt" timestamp="1490044286241">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="24" />
       </file>
@@ -445,6 +445,12 @@
         <mark key="]" line="30" column="51" />
         <mark key="^" line="23" column="0" />
         <mark key="." line="24" column="0" />
+      </file>
+      <file name="$USER_HOME$/invite-api/src/db.js" timestamp="1490044989853">
+        <mark key="[" line="31" column="15" />
+        <mark key="]" line="31" column="18" />
+        <mark key="." line="31" column="18" />
+        <mark key="^" line="31" column="18" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/index.js" timestamp="1489965473129">
         <mark key="'" line="35" column="0" />
@@ -574,11 +580,11 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>config.get('database.ssl')</text>
       </register>
       <register name="-" type="4">
-        <text>123</text>
+        <text>config.get('database.ssl')</text>
       </register>
       <register name="/" type="4">
         <text>config</text>
@@ -590,28 +596,40 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygxMjMsIHByb2Nlc3MuZW52LkRBVEFCQVNFX1VSTCk7Cgo=</text>
+        <text encoding="base64">ICBkaWFsZWN0T3B0aW9uczogewogICAgc3NsOiB7CiAgICAgIHJlcXVpcmU6IGNvbmZpZy5nZXQoJ2RhdGFiYXNlLnNzbCcpCiAgICB9CiAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbmZpZyBmcm9tICdjb25maWcnOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIH0pOwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIHJldHVybiBxdWVyeUludGVyZmFjZS5hZGRJbmRleChUQUJMRV9OQU1FLCAnZW1haWwnLCB7CiAgICAvLyAgIGluZGV4TmFtZTogJ0NvbmZlcmVuY2VJbnZpdGVzX2VtYWlsX2tleScsCiAgICAvLyAgIGluZGljZXNUeXBlOiAnVU5JUVVFJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IENBU0NBREU=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICBkaWFsZWN0T3B0aW9uczogewogICAgc3NsOiB7CiAgICAgIHJlcXVpcmU6IGNvbmZpZy5nZXQoJ2RhdGFiYXNlLnNzbCcpCiAgICB9CiAgfSwKCg==</text>
       </register>
-      <register name="7" type="4">
-        <text>TABLE_NAME, 'ConferenceInvites_email_key'</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICBzc2w6ICwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgaW5kZWNlc1R5cGU6ICdVTklRVUUnCg==</text>
+        <text encoding="base64">ICBkaWFsZWN0T3B0aW9uczogewogICAgc3NsOiB7CiAgICAgIHJlcXVpcmU6IGNvbmZpZy5nZXQoJ2RhdGFiYXNlLnNzbCcpCiAgICB9CiAgfQo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdHlwZTogU2VxdWVsaXplLlRFWFQKICAgIH0pOwo=</text>
+      <register name="9" type="4">
+        <text>{
+    database: database,
+    dialect: config.get('database.engine'),
+    host: host,
+    password: password,
+    username: username,
+    ssl: true,
+    dialectOptions: {
+      ssl: {
+        require: config.get('database.ssl')
+      }
+    }
+  }</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
