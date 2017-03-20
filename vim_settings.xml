@@ -9,12 +9,12 @@
         <mark key="^" line="12" column="1" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/invite-api/src/modules/conference-invite/services/middleman.service.js" timestamp="1490026093505">
+      <file name="$USER_HOME$/invite-api/src/modules/conference-invite/services/middleman.service.js" timestamp="1490027819717">
         <mark key="'" line="14" column="0" />
-        <mark key="[" line="52" column="23" />
-        <mark key="]" line="52" column="23" />
-        <mark key="^" line="52" column="24" />
-        <mark key="." line="52" column="23" />
+        <mark key="[" line="44" column="8" />
+        <mark key="]" line="44" column="14" />
+        <mark key="^" line="44" column="14" />
+        <mark key="." line="44" column="14" />
       </file>
       <file name="/a.dummy" timestamp="1489985455182">
         <mark key="[" line="0" column="0" />
@@ -318,7 +318,7 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="12" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1490026395069">
+      <file name="/Dummy.txt" timestamp="1490027887489">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="24" />
       </file>
