@@ -228,6 +228,12 @@
         <mark key="." line="124" column="37" />
         <mark key="^" line="124" column="37" />
       </file>
+      <file name="$USER_HOME$/invite-api/config/sequelize.js" timestamp="1490041419192">
+        <mark key="[" line="24" column="2" />
+        <mark key="]" line="24" column="2" />
+        <mark key="^" line="24" column="2" />
+        <mark key="." line="24" column="2" />
+      </file>
       <file name="$USER_HOME$/invite-api/src/modules/quota/handlers/quota-crud.handler.js" timestamp="1489939221830">
         <mark key="[" line="29" column="22" />
       </file>
@@ -337,7 +343,7 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="12" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1490032698510">
+      <file name="/Dummy.txt" timestamp="1490041422021">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="24" />
       </file>
@@ -568,44 +574,44 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>https://middleman.c2.biz</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>httsp</text>
+        <text>123</text>
       </register>
       <register name="/" type="4">
         <text>config</text>
       </register>
-      <register name="0" type="4">
-        <text>https://middleman.c2.biz</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBbcHJvY2Vzcy5lbnYuTk9ERV9FTlYgfHwgJ2RldmVsb3BtZW50J106IHsKICAgIGRhdGFiYXNlOiBkYXRhYmFzZSwKICAgIGRpYWxlY3Q6IGNvbmZpZy5nZXQoJ2RhdGFiYXNlLmVuZ2luZScpLAogICAgaG9zdDogaG9zdCwKICAgIHBhc3N3b3JkOiBwYXNzd29yZCwKICAgIHVzZXJuYW1lOiB1c2VybmFtZQogIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbmZpZyBmcm9tICdjb25maWcnOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIH0pOwo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygxMjMsIHByb2Nlc3MuZW52LkRBVEFCQVNFX1VSTCk7Cgo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbmZpZyBmcm9tICdjb25maWcnOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIC8vIH0pOwo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgIC8vIHJldHVybiBxdWVyeUludGVyZmFjZS5hZGRJbmRleChUQUJMRV9OQU1FLCAnZW1haWwnLCB7CiAgICAvLyAgIGluZGV4TmFtZTogJ0NvbmZlcmVuY2VJbnZpdGVzX2VtYWlsX2tleScsCiAgICAvLyAgIGluZGljZXNUeXBlOiAnVU5JUVVFJwo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text encoding="base64">IENBU0NBREU=</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>TABLE_NAME, 'ConferenceInvites_email_key'</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgaW5kZWNlc1R5cGU6ICdVTklRVUUnCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdHlwZTogU2VxdWVsaXplLlRFWFQKICAgIH0pOwo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">J3VzZSBzdHJpY3QnOwoKbW9kdWxlLmV4cG9ydHMgPSB7CiAgdXA6IGZ1bmN0aW9uIChxdWVyeUludGVyZmFjZSwgU2VxdWVsaXplKSB7CiAgICAvKgogICAgICBBZGQgYWx0ZXJpbmcgY29tbWFuZHMgaGVyZS4KICAgICAgUmV0dXJuIGEgcHJvbWlzZSB0byBjb3JyZWN0bHkgaGFuZGxlIGFzeW5jaHJvbmljaXR5LgoKICAgICAgRXhhbXBsZToKICAgICAgcmV0dXJuIHF1ZXJ5SW50ZXJmYWNlLmNyZWF0ZVRhYmxlKCd1c2VycycsIHsgaWQ6IFNlcXVlbGl6ZS5JTlRFR0VSIH0pOwogICAgKi8KICB9LAoKICBkb3duOiBmdW5jdGlvbiAocXVlcnlJbnRlcmZhY2UsIFNlcXVlbGl6ZSkgewogICAgLyoKICAgICAgQWRkIHJldmVydGluZyBjb21tYW5kcyBoZXJlLgogICAgICBSZXR1cm4gYSBwcm9taXNlIHRvIGNvcnJlY3RseSBoYW5kbGUgYXN5bmNocm9uaWNpdHkuCgogICAgICBFeGFtcGxlOgogICAgICByZXR1cm4gcXVlcnlJbnRlcmZhY2UuZHJvcFRhYmxlKCd1c2VycycpOwogICAgKi8KICB9Cn07Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLmNhdGNoKGNvbnNvbGUubG9nKQo=</text>
+        <text encoding="base64">ICAgICAgdHlwZTogU2VxdWVsaXplLlRFWFQKICAgIH0pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
