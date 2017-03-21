@@ -102,11 +102,11 @@
         <mark key="^" line="6" column="62" />
         <mark key="." line="6" column="62" />
       </file>
-      <file name="$USER_HOME$/invite-api/config/custom-environment-variables.yml" timestamp="1490045057629">
-        <mark key="[" line="9" column="25" />
-        <mark key="]" line="10" column="18" />
-        <mark key="^" line="10" column="18" />
-        <mark key="." line="10" column="18" />
+      <file name="$USER_HOME$/invite-api/config/custom-environment-variables.yml" timestamp="1490058856614">
+        <mark key="[" line="20" column="19" />
+        <mark key="]" line="20" column="31" />
+        <mark key="^" line="20" column="31" />
+        <mark key="." line="20" column="31" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-accept-on-behalf-html-en.html" timestamp="1489961795852">
         <mark key="[" line="6" column="19" />
@@ -202,12 +202,12 @@
         <mark key="." line="7" column="2" />
         <mark key="^" line="7" column="2" />
       </file>
-      <file name="$USER_HOME$/invite-api/config/default.yml" timestamp="1490044826968">
+      <file name="$USER_HOME$/invite-api/config/default.yml" timestamp="1490058822327">
         <mark key="'" line="18" column="1" />
-        <mark key="[" line="32" column="14" />
-        <mark key="]" line="33" column="11" />
-        <mark key="^" line="33" column="11" />
-        <mark key="." line="33" column="11" />
+        <mark key="[" line="43" column="14" />
+        <mark key="]" line="44" column="17" />
+        <mark key="^" line="44" column="17" />
+        <mark key="." line="44" column="17" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference/jsonapi/conference.jsonapi.js" timestamp="1490021566279">
         <mark key="'" line="23" column="9" />
@@ -362,6 +362,12 @@
       <file name="/Dummy.txt" timestamp="1490044286241">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="24" />
+      </file>
+      <file name="$USER_HOME$/invite-api/src/services/mailer.service.js" timestamp="1490058869131">
+        <mark key="[" line="31" column="35" />
+        <mark key="]" line="31" column="37" />
+        <mark key="." line="31" column="37" />
+        <mark key="^" line="31" column="37" />
       </file>
       <file name="$USER_HOME$/invite-api/db/migrations/20170311221511-add-signature-to-conference.js" timestamp="1489973771933">
         <mark key="'" line="0" column="0" />
@@ -599,11 +605,11 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIHNlbnRBdDogbmV3IERhdGUoKSwK</text>
+      <register name="&quot;" type="4">
+        <text>aws</text>
       </register>
       <register name="-" type="4">
-        <text>config.get('database.ssl')</text>
+        <text>aws</text>
       </register>
       <register name="/" type="4">
         <text>senderId</text>
