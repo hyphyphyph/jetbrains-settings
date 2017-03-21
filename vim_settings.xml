@@ -243,12 +243,12 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/invite-api/config/default.yml" timestamp="1490061648942">
+      <file name="$USER_HOME$/invite-api/config/default.yml" timestamp="1490132623152">
         <mark key="'" line="18" column="1" />
-        <mark key="[" line="49" column="8" />
-        <mark key="]" line="49" column="23" />
-        <mark key="^" line="49" column="23" />
-        <mark key="." line="49" column="23" />
+        <mark key="[" line="11" column="19" />
+        <mark key="]" line="11" column="22" />
+        <mark key="^" line="11" column="22" />
+        <mark key="." line="11" column="22" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-decline-html-fr-custom.html" timestamp="1490109379010">
         <mark key="'" line="0" column="0" />
@@ -409,7 +409,7 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="12" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1490132403851">
+      <file name="/Dummy.txt" timestamp="1490132637428">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/invite-api/src/services/mailer.service.js" timestamp="1490108398159">
@@ -656,53 +656,53 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cob3B0aW9ucy5kYXRhLmludml0ZSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Pour assistance technique:</text>
       </register>
       <register name="-" type="4">
-        <text>consoe</text>
+        <text>Pour assistance technique:</text>
       </register>
       <register name="/" type="4">
-        <text>help</text>
+        <text>&quot;</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBXZSBhcmUgcGxlYXNlZCB0byBpbmZvcm0geW91IHRoYXQgeW91ciByZWdpc3RyYXRpb24gZm9yIHt7Y29uZmVyZW5jZS50aXRsZX19IGlzIG5vdyBjb25maXJtZWQuCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cob3B0aW9ucy5kYXRhLmludml0ZSk7Cg==</text>
+      <register name="1" type="4">
+        <text>Pour assistance technique:</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cob3B0aW9ucy5kYXRhLmludml0ZSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PHA+CiAgQXUgbW9tZW50IGR1IGxhbmNlbWVudCBkZSBsYSBwbGF0ZWZvcm1lIEtsaWssIHZvdXMgcmVjZXZyZXogdW4gbGllbiBwb3VyCiAgPHN0cm9uZz5jb21wbOl0ZXIgdm90cmUgcHJvZmlsPC9zdHJvbmc+LCA8c3Ryb25nPnLpc2VydmVyIHZvcyBwbGFjZXMgZGFucyBsZXMgYWN0aXZpdOlzPC9zdHJvbmc+CiAgZXQgPHN0cm9uZz5wbGFuaWZpZXIgdm9zIHJlbmNvbnRyZXM8L3N0cm9uZz4gYXZlYyBsZXMgcGFydGljaXBhbnRzIGRvbnQgbGVzIGNvbm5haXNzYW5jZXMgZXQgbGVzIGludOly6nRzCiAgc29udCBsZXMgcGx1cyBwZXJ0aW5lbnRzIHBvdXIgdm91cy4KPC9wPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CjxwPgogIE9uY2UgdGhlIEtsaWNrIHBsYXRmb3JtIGdvZXMgbGl2ZSwgeW91IHdpbGwgcmVjZWl2ZSBhIHdlbGNvbWUgZW1haWwgd2l0aCBhCiAgbGluayB0byA8c3Ryb25nPmNyZWF0ZSB5b3VyIHByb2ZpbGU8L3N0cm9uZz4sIDxzdHJvbmc+cmVzZXJ2ZSB5b3VyIHNwb3QgaW4gd29ya3Nob3BzIGFuZCBtYXN0ZXJjbGFzc2VzPC9zdHJvbmc+CiAgYW5kIHN0YXJ0IGJvb2tpbmcgb25lLW9uLW9uZSBsZWFybmluZyBtZWV0aW5ncyCWIDxzdHJvbmc+QnJhaW4gRGF0ZXM8L3N0cm9uZz4gliB3aXRoIG90aGVyCiAge3tjb25mZXJlbmNlLnRpdGxlfX0gcGFydGljaXBhbnRzLgo8L3A+Cg==</text>
+        <text encoding="base64">PHA+CiAgQXUgbW9tZW50IGR1IGxhbmNlbWVudCBkZSBsYSBwbGF0ZWZvcm1lIEtsaWssIHZvdXMgcmVjZXZyZXogdW4gbGllbiBwb3VyCiAgPHN0cm9uZz5jb21wbOl0ZXIgdm90cmUgcHJvZmlsPC9zdHJvbmc+LCA8c3Ryb25nPnLpc2VydmVyIHZvcyBwbGFjZXMgZGFucyBsZXMgYWN0aXZpdOlzPC9zdHJvbmc+CiAgZXQgPHN0cm9uZz5wbGFuaWZpZXIgdm9zIHJlbmNvbnRyZXM8L3N0cm9uZz4gYXZlYyBsZXMgcGFydGljaXBhbnRzIGRvbnQgbGVzIGNvbm5haXNzYW5jZXMgZXQgbGVzIGludOly6nRzCiAgc29udCBsZXMgcGx1cyBwZXJ0aW5lbnRzIHBvdXIgdm91cy4KPC9wPgo=</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">CjxwPgogIE9uY2UgdGhlIEtsaWNrIHBsYXRmb3JtIGdvZXMgbGl2ZSwgeW91IHdpbGwgcmVjZWl2ZSBhIHdlbGNvbWUgZW1haWwgd2l0aCBhCiAgbGluayB0byA8c3Ryb25nPmNyZWF0ZSB5b3VyIHByb2ZpbGU8L3N0cm9uZz4sIDxzdHJvbmc+cmVzZXJ2ZSB5b3VyIHNwb3QgaW4gd29ya3Nob3BzIGFuZCBtYXN0ZXJjbGFzc2VzPC9zdHJvbmc+CiAgYW5kIHN0YXJ0IGJvb2tpbmcgb25lLW9uLW9uZSBsZWFybmluZyBtZWV0aW5ncyCWIDxzdHJvbmc+QnJhaW4gRGF0ZXM8L3N0cm9uZz4gliB3aXRoIG90aGVyCiAge3tjb25mZXJlbmNlLnRpdGxlfX0gcGFydGljaXBhbnRzLgo8L3A+Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgLmNhdGNoKGNvbnNvbGUubG9nKQo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>: !!this.deserializedData.sendEmail</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZyhvcHRpb25zKTsK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZyhvcHRpb25zKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLmNhdGNoKGNvbnNvbGUubG9nKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZyhvcHRpb25zKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>help</last-search>
+      <last-search>&quot;</last-search>
       <last-offset />
-      <last-pattern>help</last-pattern>
+      <last-pattern>&quot;</last-pattern>
       <last-replace>AutoAccept</last-replace>
       <last-substitute>Boom</last-substitute>
       <last-dir>1</last-dir>
@@ -710,7 +710,6 @@
     </search>
     <history>
       <history-search>
-        <entry>au</entry>
         <entry>(</entry>
         <entry>)</entry>
         <entry>{</entry>
@@ -730,6 +729,7 @@
         <entry>sender</entry>
         <entry>sendEmail</entry>
         <entry>help</entry>
+        <entry>&quot;</entry>
       </history-search>
       <history-cmd>
         <entry>27</entry>
