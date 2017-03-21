@@ -51,6 +51,12 @@
         <mark key="^" line="6" column="89" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/invite-api/src/modules/auth/services/token.service.js" timestamp="1490066760912">
+        <mark key="[" line="20" column="13" />
+        <mark key="]" line="20" column="13" />
+        <mark key="^" line="20" column="13" />
+        <mark key="." line="20" column="13" />
+      </file>
       <file name="$USER_HOME$/invite-api/src/templates/base-admin-email.html" timestamp="1489858000797">
         <mark key="'" line="410" column="41" />
         <mark key="[" line="406" column="0" />
@@ -174,12 +180,11 @@
         <mark key="^" line="48" column="16" />
         <mark key="." line="48" column="16" />
       </file>
-      <file name="$USER_HOME$/invite-api/src/modules/user/handlers/me.handler.js" timestamp="1489866494328">
-        <mark key="'" line="57" column="40" />
-        <mark key="[" line="36" column="32" />
-        <mark key="]" line="37" column="23" />
-        <mark key="." line="37" column="23" />
-        <mark key="^" line="37" column="23" />
+      <file name="$USER_HOME$/invite-api/src/modules/user/handlers/me.handler.js" timestamp="1490114326581">
+        <mark key="[" line="56" column="42" />
+        <mark key="]" line="57" column="62" />
+        <mark key="." line="57" column="62" />
+        <mark key="^" line="57" column="62" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/quota/services/quota.service.js" timestamp="1489872306529">
         <mark key="[" line="145" column="0" />
@@ -404,6 +409,12 @@
       <file name="/Dummy.txt" timestamp="1490112243206">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/invite-api/src/services/mailer.service.js" timestamp="1490108398159">
+        <mark key="[" line="60" column="17" />
+        <mark key="]" line="60" column="17" />
+        <mark key="." line="60" column="17" />
+        <mark key="^" line="60" column="17" />
+      </file>
       <file name="$USER_HOME$/invite-api/db/migrations/20170311221511-add-signature-to-conference.js" timestamp="1489973771933">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -521,7 +532,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="10" filename="$USER_HOME$/invite-api/src/modules/conference-invite/handlers/email-templates.handler.js" />
       <jump line="5" column="21" filename="$USER_HOME$/invite-api/src/modules/conference-invite/handlers/email-templates.handler.js" />
       <jump line="1" column="16" filename="$USER_HOME$/invite-api/src/modules/conference-invite/services/ticket-source-middleman.service.js" />
       <jump line="8" column="25" filename="$USER_HOME$/invite-api/src/modules/conference-invite/services/ticket-source-middleman.service.js" />
@@ -621,6 +631,7 @@
       <jump line="426" column="32" filename="$USER_HOME$/invite-api/src/templates/base-email.html" />
       <jump line="430" column="28" filename="$USER_HOME$/invite-api/src/templates/base-email.html" />
       <jump line="0" column="0" filename="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-decline-html-fr-custom.html" />
+      <jump line="57" column="33" filename="$USER_HOME$/invite-api/src/modules/user/handlers/me.handler.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -641,52 +652,52 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLmNhdGNoKGNvbnNvbGUubG9nKQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDEyMyk7Cgo=</text>
       </register>
       <register name="-" type="4">
         <text>votre</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">PA==</text>
+        <text encoding="base64">XDxfaGFuZGxlRW1haWxDaGFuZ2VcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIHNlbmRlcjpvcHRpb25zLmZyb20sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLmNhdGNoKGNvbnNvbGUubG9nKQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDEyMyk7Cgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLmNhdGNoKGNvbnNvbGUubG9nKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PHA+CiAge3twYXNzLnRpdGxlRW59fQo8L3A+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">PC9wPgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">PHA+CiAge3twYXNzLnRpdGxlRnJ9fQo8L3A+Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">PHA+CiAge3twYXNzLnRpdGxlRW59fQo8L3A+Cg==</text>
       </register>
-      <register name="9" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">PC9wPgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">PHA+CiAge3twYXNzLnRpdGxlRnJ9fQo8L3A+Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">PHA+CiAge3twYXNzLnRpdGxlRW59fQo8L3A+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">PA==</last-search>
+      <last-search encoding="base64">XDxfaGFuZGxlRW1haWxDaGFuZ2VcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">PA==</last-pattern>
+      <last-pattern encoding="base64">XDxfaGFuZGxlRW1haWxDaGFuZ2VcPg==</last-pattern>
       <last-replace>AutoAccept</last-replace>
       <last-substitute>Boom</last-substitute>
       <last-dir>1</last-dir>
@@ -694,7 +705,6 @@
     </search>
     <history>
       <history-search>
-        <entry>inc</entry>
         <entry>new</entry>
         <entry encoding="base64">XDxQZXJtaXNzaW9uU2VydmljZVw+</entry>
         <entry>title</entry>
@@ -714,6 +724,7 @@
         <entry>{</entry>
         <entry encoding="base64">Pjw=</entry>
         <entry encoding="base64">PA==</entry>
+        <entry encoding="base64">XDxfaGFuZGxlRW1haWxDaGFuZ2VcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>25</entry>
