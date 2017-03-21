@@ -120,11 +120,17 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/invite-api/db/seeders/20170130221956-create-conference-invites.js" timestamp="1490052934372">
+      <file name="$USER_HOME$/invite-api/db/seeders/20170130221956-create-conference-invites.js" timestamp="1490054374624">
         <mark key="'" line="17" column="0" />
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
+      </file>
+      <file name="$USER_HOME$/invite-api/src/modules/partner/handlers/partner-crud.handler.js" timestamp="1490054744721">
+        <mark key="[" line="33" column="32" />
+        <mark key="]" line="34" column="23" />
+        <mark key="^" line="34" column="23" />
+        <mark key="." line="34" column="23" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/partner/templates/invited-html-fr.html" timestamp="1489897851738">
         <mark key="[" line="16" column="2" />
@@ -296,11 +302,12 @@
         <mark key="." line="158" column="22" />
         <mark key="^" line="158" column="22" />
       </file>
-      <file name="$USER_HOME$/invite-api/src/models/conference-invite.model.js" timestamp="1489938558093">
-        <mark key="[" line="135" column="9" />
-        <mark key="]" line="135" column="9" />
-        <mark key="." line="135" column="9" />
-        <mark key="^" line="135" column="9" />
+      <file name="$USER_HOME$/invite-api/src/models/conference-invite.model.js" timestamp="1490054859346">
+        <mark key="'" line="202" column="6" />
+        <mark key="[" line="60" column="40" />
+        <mark key="]" line="60" column="40" />
+        <mark key="." line="60" column="40" />
+        <mark key="^" line="60" column="40" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/handlers/email-templates.handler.js" timestamp="1489971116497">
         <mark key="'" line="5" column="21" />
@@ -473,12 +480,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="18" filename="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-resend-html-en-custom.html" />
-      <jump line="12" column="0" filename="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-resend-html-en-custom.html" />
-      <jump line="6" column="18" filename="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-resend-html-fr-custom.html" />
-      <jump line="12" column="0" filename="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-resend-html-fr-custom.html" />
-      <jump line="104" column="12" filename="$USER_HOME$/invite-api/src/modules/conference-invite/templates/index.js" />
-      <jump line="33" column="0" filename="$USER_HOME$/invite-api/src/modules/conference-invite/templates/index.js" />
       <jump line="6" column="18" filename="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-decline-html-fr-custom.html" />
       <jump line="6" column="0" filename="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-decline-html-en-custom.html" />
       <jump line="7" column="0" filename="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-decline-html-fr.html" />
@@ -573,6 +574,12 @@
       <jump line="6" column="90" filename="$USER_HOME$/invite-api/db/migrations/20170320174924-remove-unique-email-from-conference-invite.js" />
       <jump line="0" column="20" filename="$USER_HOME$/invite-api/src/modules/conference-invite/services/conflict.service.js" />
       <jump line="17" column="0" filename="$USER_HOME$/invite-api/db/seeders/20170130221956-create-conference-invites.js" />
+      <jump line="59" column="0" filename="$USER_HOME$/invite-api/src/models/conference-invite.model.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/invite-api/src/models/conference-invite.model.js" />
+      <jump line="105" column="27" filename="$USER_HOME$/invite-api/src/models/conference-invite.model.js" />
+      <jump line="193" column="75" filename="$USER_HOME$/invite-api/src/models/conference-invite.model.js" />
+      <jump line="194" column="15" filename="$USER_HOME$/invite-api/src/models/conference-invite.model.js" />
+      <jump line="200" column="6" filename="$USER_HOME$/invite-api/src/models/conference-invite.model.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -599,7 +606,7 @@
         <text>config.get('database.ssl')</text>
       </register>
       <register name="/" type="4">
-        <text>sent</text>
+        <text>senderId</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBbcHJvY2Vzcy5lbnYuTk9ERV9FTlYgfHwgJ2RldmVsb3BtZW50J106IHsKICAgIGRhdGFiYXNlOiBkYXRhYmFzZSwKICAgIGRpYWxlY3Q6IGNvbmZpZy5nZXQoJ2RhdGFiYXNlLmVuZ2luZScpLAogICAgaG9zdDogaG9zdCwKICAgIHBhc3N3b3JkOiBwYXNzd29yZCwKICAgIHVzZXJuYW1lOiB1c2VybmFtZQogIH0K</text>
@@ -611,34 +618,34 @@
         <text encoding="base64">ICAgICAgICAgIHNlbnRBdDogbmV3IERhdGUoKSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHNlbnRBdDogbmV3IERhdGUoKSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBkaWFsZWN0T3B0aW9uczogewogICAgc3NsOiB7CiAgICAgIHJlcXVpcmU6IGNvbmZpZy5nZXQoJ2RhdGFiYXNlLnNzbCcpCiAgICB9CiAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgIHNlbnRBdDogbmV3IERhdGUoKSwK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBkaWFsZWN0T3B0aW9uczogewogICAgc3NsOiB7CiAgICAgIHJlcXVpcmU6IGNvbmZpZy5nZXQoJ2RhdGFiYXNlLnNzbCcpCiAgICB9CiAgfQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBkaWFsZWN0T3B0aW9uczogewogICAgc3NsOiB7CiAgICAgIHJlcXVpcmU6IGNvbmZpZy5nZXQoJ2RhdGFiYXNlLnNzbCcpCiAgICB9CiAgfSwKCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBzc2w6ICwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>sent</last-search>
+      <last-search>senderId</last-search>
       <last-offset />
-      <last-pattern>sent</last-pattern>
+      <last-pattern>senderId</last-pattern>
       <last-replace>AutoAccept</last-replace>
       <last-substitute>Send</last-substitute>
       <last-dir>1</last-dir>
@@ -646,8 +653,6 @@
     </search>
     <history>
       <history-search>
-        <entry>UserError</entry>
-        <entry>{</entry>
         <entry>reject</entry>
         <entry>resolve</entry>
         <entry>d</entry>
@@ -666,6 +671,8 @@
         <entry>config</entry>
         <entry>send</entry>
         <entry>sent</entry>
+        <entry>sentAt</entry>
+        <entry>senderId</entry>
       </history-search>
       <history-cmd>
         <entry>25</entry>
