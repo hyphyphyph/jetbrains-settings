@@ -37,6 +37,34 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/invite-api/src/errors.js" timestamp="1490064713574">
+        <mark key="'" line="101" column="0" />
+        <mark key="[" line="101" column="0" />
+        <mark key="]" line="108" column="38" />
+        <mark key="." line="142" column="74" />
+        <mark key="^" line="142" column="74" />
+      </file>
+      <file name="$USER_HOME$/invite-api/db/migrations/20170320174924-remove-unique-email-from-conference-invite.js" timestamp="1490032640391">
+        <mark key="'" line="6" column="90" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="6" column="89" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/invite-api/src/templates/base-admin-email.html" timestamp="1489858000797">
+        <mark key="'" line="410" column="41" />
+        <mark key="[" line="406" column="0" />
+        <mark key="]" line="419" column="11" />
+        <mark key="." line="410" column="35" />
+        <mark key="^" line="410" column="35" />
+      </file>
+      <file name="$USER_HOME$/invite-api/src/modules/user/templates/registration-text-en.html" timestamp="1489854959007">
+        <mark key="'" line="7" column="22" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="10" column="24" />
+        <mark key="^" line="10" column="22" />
+        <mark key="." line="10" column="22" />
+      </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-send-html-en-custom.html" timestamp="1490109343762">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -52,6 +80,13 @@
         <mark key="]" line="9" column="19" />
         <mark key="^" line="9" column="19" />
         <mark key="." line="9" column="19" />
+      </file>
+      <file name="$USER_HOME$/invite-api/src/modules/user/templates/reset-html-fr.html" timestamp="1489896960115">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+        <mark key="^" line="20" column="1" />
       </file>
       <file name="$USER_HOME$/invite-api/src/models/private-activity.model.js" timestamp="1489464541441">
         <mark key="[" line="30" column="0" />
@@ -70,6 +105,13 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="60" column="8" />
       </file>
+      <file name="$USER_HOME$/invite-api/db/migrations/20170320013604-create-conference-middleman-event-name.js" timestamp="1490032219954">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="14" column="2" />
+        <mark key="^" line="6" column="62" />
+        <mark key="." line="6" column="62" />
+      </file>
       <file name="$USER_HOME$/invite-api/config/custom-environment-variables.yml" timestamp="1490110530201">
         <mark key="[" line="26" column="27" />
         <mark key="]" line="27" column="28" />
@@ -81,6 +123,13 @@
         <mark key="]" line="11" column="4" />
         <mark key="." line="9" column="0" />
         <mark key="^" line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/invite-api/src/services/permission.service.js" timestamp="1490067558070">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="6" column="51" />
+        <mark key="]" line="6" column="51" />
+        <mark key="." line="6" column="51" />
+        <mark key="^" line="6" column="51" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/partner/templates/invited-html-en.html" timestamp="1489897882293">
         <mark key="'" line="15" column="14" />
@@ -111,6 +160,20 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/invite-api/src/models/partner.model.js" timestamp="1489791621567">
+        <mark key="'" line="46" column="6" />
+        <mark key="[" line="48" column="6" />
+        <mark key="]" line="48" column="16" />
+        <mark key="^" line="48" column="16" />
+        <mark key="." line="48" column="16" />
+      </file>
+      <file name="$USER_HOME$/invite-api/src/modules/user/handlers/me.handler.js" timestamp="1489866494328">
+        <mark key="'" line="57" column="40" />
+        <mark key="[" line="36" column="32" />
+        <mark key="]" line="37" column="23" />
+        <mark key="." line="37" column="23" />
+        <mark key="^" line="37" column="23" />
+      </file>
       <file name="$USER_HOME$/invite-api/src/modules/quota/services/quota.service.js" timestamp="1489872306529">
         <mark key="[" line="145" column="0" />
         <mark key="]" line="145" column="0" />
@@ -122,17 +185,32 @@
         <mark key="." line="12" column="64" />
         <mark key="^" line="12" column="64" />
       </file>
+      <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-send-html-en.html" timestamp="1490109341269">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="11" column="4" />
+        <mark key="^" line="8" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-accept-html-en.html" timestamp="1490109519650">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="11" column="4" />
         <mark key="." line="9" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-accept-html-fr-custom.html" timestamp="1490109510283">
+      <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-accept-html-fr-custom.html" timestamp="1490112197077">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+        <mark key="[" line="10" column="69" />
+        <mark key="]" line="10" column="69" />
+        <mark key="." line="10" column="69" />
+        <mark key="^" line="10" column="69" />
+      </file>
+      <file name="$USER_HOME$/invite-api/src/modules/conference/services/assignment.service.js" timestamp="1489897931412">
+        <mark key="'" line="53" column="61" />
+        <mark key="[" line="53" column="79" />
+        <mark key="]" line="53" column="79" />
+        <mark key="." line="53" column="79" />
+        <mark key="^" line="53" column="61" />
       </file>
       <file name="$USER_HOME$/invite-api/db/seeders/20170124190834-create-partners.js" timestamp="1489810230680">
         <mark key="'" line="26" column="0" />
@@ -150,11 +228,32 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/invite-api/config/default.yml" timestamp="1490061648942">
+        <mark key="'" line="18" column="1" />
+        <mark key="[" line="49" column="8" />
+        <mark key="]" line="49" column="23" />
+        <mark key="^" line="49" column="23" />
+        <mark key="." line="49" column="23" />
+      </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-decline-html-fr-custom.html" timestamp="1490109379010">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/invite-api/src/modules/conference/jsonapi/conference.jsonapi.js" timestamp="1490021566279">
+        <mark key="'" line="23" column="9" />
+        <mark key="[" line="23" column="18" />
+        <mark key="]" line="23" column="22" />
+        <mark key="." line="23" column="22" />
+        <mark key="^" line="23" column="22" />
+      </file>
+      <file name="$USER_HOME$/invite-api/src/models/conference.model.js" timestamp="1490031611640">
+        <mark key="'" line="38" column="40" />
+        <mark key="[" line="38" column="43" />
+        <mark key="]" line="38" column="43" />
+        <mark key="." line="38" column="43" />
+        <mark key="^" line="0" column="27" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-send-html-fr-custom.html" timestamp="1490109307593">
         <mark key="[" line="8" column="0" />
@@ -166,6 +265,13 @@
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/invite-api/db/migrations/20170317204023-create-email-columns-on-conference.js" timestamp="1489790246300">
+        <mark key="'" line="124" column="6" />
+        <mark key="[" line="124" column="32" />
+        <mark key="]" line="124" column="37" />
+        <mark key="." line="124" column="37" />
+        <mark key="^" line="124" column="37" />
       </file>
       <file name="$USER_HOME$/invite-api/config/sequelize.js" timestamp="1490044985178">
         <mark key="[" line="27" column="15" />
@@ -189,11 +295,25 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/invite-api/src/modules/user/handlers/registration.handler.js" timestamp="1489896899753">
+        <mark key="'" line="107" column="17" />
+        <mark key="[" line="107" column="17" />
+        <mark key="]" line="107" column="48" />
+        <mark key="." line="107" column="17" />
+        <mark key="^" line="116" column="21" />
+      </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference/templates/invited-html.html" timestamp="1489895796619">
         <mark key="'" line="7" column="0" />
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/invite-api/src/modules/core/base-handler.js" timestamp="1490069279205">
+        <mark key="'" line="44" column="0" />
+        <mark key="[" line="51" column="32" />
+        <mark key="]" line="52" column="23" />
+        <mark key="." line="52" column="23" />
+        <mark key="^" line="52" column="23" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-cancel-on-behalf-html-fr.html" timestamp="1490109431031">
         <mark key="[" line="9" column="0" />
@@ -213,8 +333,29 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/invite-api/src/modules/conference-invite/handlers/workflow.handler.js" timestamp="1489947960742">
+        <mark key="'" line="202" column="6" />
+        <mark key="[" line="158" column="12" />
+        <mark key="]" line="158" column="22" />
+        <mark key="." line="158" column="22" />
+        <mark key="^" line="158" column="22" />
+      </file>
+      <file name="$USER_HOME$/invite-api/src/models/conference-invite.model.js" timestamp="1490075259625">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="60" column="40" />
+        <mark key="]" line="60" column="40" />
+        <mark key="." line="60" column="40" />
+        <mark key="^" line="60" column="40" />
+      </file>
       <file name="/JavaScript Console" timestamp="1490109307388">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/invite-api/src/modules/conference-invite/handlers/email-templates.handler.js" timestamp="1489971116497">
+        <mark key="'" line="5" column="21" />
+        <mark key="[" line="140" column="5" />
+        <mark key="]" line="140" column="5" />
+        <mark key="^" line="140" column="5" />
+        <mark key="." line="140" column="5" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-cancel-on-behalf-html-en.html" timestamp="1490109442477">
         <mark key="[" line="9" column="0" />
@@ -228,11 +369,25 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/invite-api/src/modules/user/templates/registration-html-fr.html" timestamp="1489896822024">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="3" column="70" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/invite-api/src/modules/user/templates/reset-text-en.html" timestamp="1489854969108">
         <mark key="[" line="7" column="13" />
         <mark key="]" line="8" column="0" />
         <mark key="^" line="8" column="0" />
         <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/invite-api/src/modules/conference-invite/handlers/conference-invite-crud.handler.js" timestamp="1490075253055">
+        <mark key="'" line="229" column="42" />
+        <mark key="[" line="282" column="35" />
+        <mark key="]" line="283" column="33" />
+        <mark key="^" line="283" column="33" />
+        <mark key="." line="283" column="33" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-accept-on-behalf-html-fr.html" timestamp="1490109479218">
         <mark key="[" line="9" column="0" />
@@ -246,8 +401,15 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="12" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1490110539033">
+      <file name="/Dummy.txt" timestamp="1490112243206">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/invite-api/db/migrations/20170311221511-add-signature-to-conference.js" timestamp="1489973771933">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="15" column="2" />
+        <mark key="." line="13" column="60" />
+        <mark key="^" line="13" column="60" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-auto-accept-html-en.html" timestamp="1490109464765">
         <mark key="[" line="9" column="0" />
@@ -255,17 +417,45 @@
         <mark key="^" line="8" column="0" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/invite-api/src/modules/conference-invite/routes.js" timestamp="1489971065553">
+        <mark key="'" line="1" column="52" />
+        <mark key="[" line="109" column="12" />
+        <mark key="]" line="109" column="30" />
+        <mark key="." line="109" column="30" />
+        <mark key="^" line="109" column="30" />
+      </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-auto-accept-html-en-custom.html" timestamp="1490109466778">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/invite-api/src/modules/conference-invite/services/workflow.service.js" timestamp="1490106943191">
+        <mark key="'" line="611" column="19" />
+        <mark key="[" line="512" column="55" />
+        <mark key="]" line="512" column="54" />
+        <mark key="." line="512" column="54" />
+        <mark key="^" line="512" column="54" />
+      </file>
+      <file name="$USER_HOME$/invite-api/src/modules/user/templates/registration-html-en.html" timestamp="1489896563678">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="46" column="13" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="16" column="1" />
+      </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-resend-html-en.html" timestamp="1490109367013">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="11" column="4" />
         <mark key="^" line="8" column="0" />
         <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/invite-api/src/modules/user/services/registration.service.js" timestamp="1489896617397">
+        <mark key="'" line="54" column="63" />
+        <mark key="[" line="33" column="87" />
+        <mark key="]" line="33" column="88" />
+        <mark key="^" line="33" column="88" />
+        <mark key="." line="33" column="88" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-auto-accept-html-fr.html" timestamp="1490109453023">
         <mark key="[" line="9" column="0" />
@@ -295,11 +485,25 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/buffer1" timestamp="1489789982947">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="30" column="51" />
+        <mark key="^" line="23" column="0" />
+        <mark key="." line="24" column="0" />
+      </file>
       <file name="$USER_HOME$/invite-api/src/db.js" timestamp="1490044989853">
         <mark key="[" line="31" column="15" />
         <mark key="]" line="31" column="18" />
         <mark key="." line="31" column="18" />
         <mark key="^" line="31" column="18" />
+      </file>
+      <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/index.js" timestamp="1489965473129">
+        <mark key="'" line="35" column="0" />
+        <mark key="[" line="35" column="63" />
+        <mark key="]" line="35" column="63" />
+        <mark key="." line="35" column="63" />
+        <mark key="^" line="35" column="77" />
       </file>
     </filemarks>
     <jumps>
@@ -422,11 +626,11 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>votre</text>
       </register>
       <register name="-" type="4">
-        <text>sender</text>
+        <text>votre</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PA==</text>
