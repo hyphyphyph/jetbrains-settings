@@ -363,14 +363,15 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="12" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1490105865994">
+      <file name="/Dummy.txt" timestamp="1490107706815">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="24" />
       </file>
-      <file name="$USER_HOME$/invite-api/src/services/mailer.service.js" timestamp="1490062381612">
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="." line="57" column="0" />
+      <file name="$USER_HOME$/invite-api/src/services/mailer.service.js" timestamp="1490107703434">
+        <mark key="[" line="61" column="10" />
+        <mark key="]" line="61" column="16" />
+        <mark key="." line="61" column="16" />
+        <mark key="^" line="61" column="16" />
       </file>
       <file name="$USER_HOME$/invite-api/db/migrations/20170311221511-add-signature-to-conference.js" timestamp="1489973771933">
         <mark key="'" line="0" column="0" />
@@ -607,16 +608,16 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>cover</text>
+        <text>sender</text>
       </register>
       <register name="-" type="4">
-        <text>cover</text>
+        <text>sender</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PA==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgeyUgaWYgbG9jYWxlID09PSAnZnInICV9CiAgICAgICAgICAgICAgICAgIDxzdHJvbmc+SGF2aW5nIHRlY2huaWNhbCBpc3N1ZXM/PC9zdHJvbmc+PGJyIC8+CiAgICAgICAgICAgICAgICAgIHslIGVsc2UgJX0KICAgICAgICAgICAgICAgICAgPHN0cm9uZz5IYXZpbmcgdGVjaG5pY2FsIGlzc3Vlcz88L3N0cm9uZz48YnIgLz4KICAgICAgICAgICAgICAgICAgeyUgZW5kaWYgJX0K</text>
+        <text encoding="base64">ICAgICAgICAgIHNlbmRlcjpvcHRpb25zLmZyb20sCg==</text>
       </register>
       <register name="1" type="4">
         <text>Having technical issues?</text>
