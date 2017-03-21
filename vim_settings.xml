@@ -243,12 +243,12 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/invite-api/config/default.yml" timestamp="1490132623152">
+      <file name="$USER_HOME$/invite-api/config/default.yml" timestamp="1490132887756">
         <mark key="'" line="18" column="1" />
         <mark key="[" line="11" column="19" />
-        <mark key="]" line="11" column="22" />
-        <mark key="^" line="11" column="22" />
-        <mark key="." line="11" column="22" />
+        <mark key="]" line="11" column="23" />
+        <mark key="^" line="11" column="23" />
+        <mark key="." line="11" column="23" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-decline-html-fr-custom.html" timestamp="1490109379010">
         <mark key="'" line="0" column="0" />
@@ -409,7 +409,7 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="12" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1490132637428">
+      <file name="/Dummy.txt" timestamp="1490132889961">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/invite-api/src/services/mailer.service.js" timestamp="1490108398159">
@@ -657,10 +657,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>Pour assistance technique:</text>
+        <text>une</text>
       </register>
       <register name="-" type="4">
-        <text>Pour assistance technique:</text>
+        <text>une</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
