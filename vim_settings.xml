@@ -363,15 +363,11 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="12" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1490108121922">
-        <mark key="[" line="0" column="0" />
-        <mark key="." line="0" column="24" />
-      </file>
-      <file name="$USER_HOME$/invite-api/src/services/mailer.service.js" timestamp="1490107703434">
-        <mark key="[" line="61" column="10" />
-        <mark key="]" line="61" column="16" />
-        <mark key="." line="61" column="16" />
-        <mark key="^" line="61" column="16" />
+      <file name="$USER_HOME$/invite-api/src/services/mailer.service.js" timestamp="1490108398159">
+        <mark key="[" line="60" column="17" />
+        <mark key="]" line="60" column="17" />
+        <mark key="." line="60" column="17" />
+        <mark key="^" line="60" column="17" />
       </file>
       <file name="$USER_HOME$/invite-api/db/migrations/20170311221511-add-signature-to-conference.js" timestamp="1489973771933">
         <mark key="'" line="0" column="0" />
