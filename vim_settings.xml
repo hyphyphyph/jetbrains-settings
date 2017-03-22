@@ -351,7 +351,6 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/invite-api/src/modules/conference-invite/handlers/workflow.handler.js" timestamp="1490130181226" />
       <file name="$USER_HOME$/invite-api/src/models/conference-invite.model.js" timestamp="1490117313402">
         <mark key="'" line="163" column="15" />
       </file>
@@ -409,7 +408,7 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="12" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1490133130262">
+      <file name="/Dummy.txt" timestamp="1490195330499">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/invite-api/src/services/mailer.service.js" timestamp="1490108398159">
