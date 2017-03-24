@@ -56,11 +56,11 @@
         <mark key="^" line="9" column="19" />
         <mark key="." line="9" column="19" />
       </file>
-      <file name="$USER_HOME$/invite-api/src/modules/pass/handlers/pass-crud.handler.js" timestamp="1490393625399">
-        <mark key="[" line="48" column="28" />
-        <mark key="]" line="49" column="3" />
-        <mark key="^" line="49" column="3" />
-        <mark key="." line="49" column="3" />
+      <file name="$USER_HOME$/invite-api/src/modules/pass/handlers/pass-crud.handler.js" timestamp="1490394668066">
+        <mark key="[" line="48" column="38" />
+        <mark key="]" line="48" column="38" />
+        <mark key="^" line="48" column="38" />
+        <mark key="." line="48" column="38" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/user/templates/reset-html-fr.html" timestamp="1489896960115">
         <mark key="'" line="3" column="0" />
@@ -739,11 +739,11 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>conference</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>conference</text>
       </register>
       <register name="/" type="4">
         <text>{</text>
