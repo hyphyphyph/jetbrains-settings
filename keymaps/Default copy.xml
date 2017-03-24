@@ -21,6 +21,9 @@
   <action id="ActivateRunToolWindow">
     <keyboard-shortcut first-keystroke="ctrl w" second-keystroke="r" />
   </action>
+  <action id="ActivateStructureToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl w" second-keystroke="s" />
+  </action>
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="ctrl w" second-keystroke="c" />
   </action>
