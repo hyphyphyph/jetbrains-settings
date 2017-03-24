@@ -203,6 +203,9 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/invite-api/src/models/conference-invite.model.js" timestamp="1490321798217">
+        <mark key="'" line="176" column="21" />
+      </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-cancel-on-behalf-html-en.html" timestamp="1490109442477">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="11" column="4" />
@@ -593,13 +596,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="67" column="2" filename="$USER_HOME$/invite-api/src/modules/partner/handlers/partner-crud.handler.js" />
-      <jump line="64" column="9" filename="$USER_HOME$/invite-api/src/modules/partner/handlers/partner-crud.handler.js" />
-      <jump line="18" column="26" filename="$USER_HOME$/invite-api/src/modules/user/handlers/user-crud.handler.js" />
-      <jump line="71" column="83" filename="$USER_HOME$/invite-api/src/modules/user/handlers/user-crud.handler.js" />
-      <jump line="129" column="82" filename="$USER_HOME$/invite-api/src/modules/user/handlers/user-crud.handler.js" />
-      <jump line="137" column="36" filename="$USER_HOME$/invite-api/src/modules/user/handlers/user-crud.handler.js" />
-      <jump line="9" column="9" filename="$USER_HOME$/invite-api/src/modules/user/handlers/user-crud.handler.js" />
       <jump line="224" column="4" filename="$USER_HOME$/invite-api/src/modules/conference-invite/handlers/conference-invite-crud.handler.js" />
       <jump line="230" column="12" filename="$USER_HOME$/invite-api/src/modules/conference-invite/handlers/conference-invite-crud.handler.js" />
       <jump line="250" column="33" filename="$USER_HOME$/invite-api/src/modules/conference-invite/handlers/conference-invite-crud.handler.js" />
@@ -693,6 +689,13 @@
       <jump line="0" column="0" filename="$USER_HOME$/invite-api/src/modules/conference-invite/handlers/workflow.handler.js" />
       <jump line="615" column="41" filename="$USER_HOME$/invite-api/src/modules/conference-invite/services/workflow.service.js" />
       <jump line="416" column="9" filename="$USER_HOME$/invite-api/src/modules/conference-invite/services/workflow.service.js" />
+      <jump line="204" column="0" filename="$USER_HOME$/invite-api/src/models/conference-invite.model.js" />
+      <jump line="205" column="25" filename="$USER_HOME$/invite-api/src/models/conference-invite.model.js" />
+      <jump line="206" column="8" filename="$USER_HOME$/invite-api/src/models/conference-invite.model.js" />
+      <jump line="207" column="27" filename="$USER_HOME$/invite-api/src/models/conference-invite.model.js" />
+      <jump line="103" column="19" filename="$USER_HOME$/invite-api/src/models/conference-invite.model.js" />
+      <jump line="104" column="27" filename="$USER_HOME$/invite-api/src/models/conference-invite.model.js" />
+      <jump line="176" column="21" filename="$USER_HOME$/invite-api/src/models/conference-invite.model.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -719,7 +722,7 @@
         <text>acceptée</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfc2VuZFBhcnRuZXJFbWFpbFw+</text>
+        <text>sender</text>
       </register>
       <register name="0" type="4">
         <text>acceptée</text>
@@ -756,9 +759,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfc2VuZFBhcnRuZXJFbWFpbFw+</last-search>
+      <last-search>sender</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfc2VuZFBhcnRuZXJFbWFpbFw+</last-pattern>
+      <last-pattern>sender</last-pattern>
       <last-replace>AutoAccept</last-replace>
       <last-substitute>Boom</last-substitute>
       <last-dir>1</last-dir>
@@ -766,8 +769,6 @@
     </search>
     <history>
       <history-search>
-        <entry>T</entry>
-        <entry>--</entry>
         <entry>A</entry>
         <entry>E</entry>
         <entry>En</entry>
@@ -786,6 +787,8 @@
         <entry>decline(</entry>
         <entry>decline</entry>
         <entry encoding="base64">XDxfc2VuZFBhcnRuZXJFbWFpbFw+</entry>
+        <entry>sneder</entry>
+        <entry>sender</entry>
       </history-search>
       <history-cmd>
         <entry>27</entry>
