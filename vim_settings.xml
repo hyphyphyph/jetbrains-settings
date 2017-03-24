@@ -185,6 +185,13 @@
         <mark key="^" line="17" column="18" />
         <mark key="." line="17" column="18" />
       </file>
+      <file name="$USER_HOME$/invite-api/src/modules/quota/handlers/quota-crud.handler.js" timestamp="1490398621509">
+        <mark key="'" line="64" column="5" />
+        <mark key="[" line="69" column="14" />
+        <mark key="]" line="69" column="45" />
+        <mark key="." line="69" column="45" />
+        <mark key="^" line="69" column="45" />
+      </file>
       <file name="$USER_HOME$/invite-api/config/production.yml" timestamp="1490060708288">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -408,7 +415,6 @@
         <mark key="." line="106" column="53" />
         <mark key="^" line="106" column="53" />
       </file>
-      <file name="$USER_HOME$/invite-api/src/modules/index.js" timestamp="1490384531738" />
       <file name="$USER_HOME$/invite-api/src/modules/partner/templates/invited-html-en.html" timestamp="1489897882293">
         <mark key="'" line="15" column="14" />
         <mark key="[" line="14" column="0" />
@@ -620,7 +626,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="26" filename="$USER_HOME$/invite-api/src/services/permission.service.js" />
       <jump line="22" column="35" filename="$USER_HOME$/invite-api/src/services/permission.service.js" />
       <jump line="26" column="12" filename="$USER_HOME$/invite-api/src/services/permission.service.js" />
       <jump line="27" column="13" filename="$USER_HOME$/invite-api/src/services/permission.service.js" />
@@ -720,6 +725,7 @@
       <jump line="49" column="0" filename="$USER_HOME$/invite-api/src/modules/partner/handlers/partner-crud.handler.js" />
       <jump line="0" column="0" filename="$USER_HOME$/invite-api/src/models/partner.model.js" />
       <jump line="87" column="6" filename="$USER_HOME$/invite-api/src/modules/partner/handlers/partner-crud.handler.js" />
+      <jump line="64" column="5" filename="$USER_HOME$/invite-api/src/modules/quota/handlers/quota-crud.handler.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -740,52 +746,53 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>updateById</text>
+        <text>PartnerAnd</text>
       </register>
       <register name="-" type="4">
-        <text>updateById</text>
+        <text>PartnerAnd</text>
       </register>
       <register name="/" type="4">
-        <text>{</text>
+        <text>C</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbnN0IGNvbmZlcmVuY2VJZCA9IHJlcXVlc3QucGFyYW1zLmlkOwogICAgdGhpcy5fZ2V0Q29uZmVyZW5jZShjb25mZXJlbmNlSWQpCiAgICAgIC50aGVuKGNvbmZlcmVuY2UgPT4KICAgICAgICBuZXcgUGVybWlzc2lvblNlcnZpY2UocmVxdWVzdC5hdXRoLmFydGlmYWN0cy51c2VyKQogICAgICAgICAgLmNhbkNvbmZlcmVuY2VBZG1pbihjb25mZXJlbmNlKQogICAgICApCiAgICAgIC50aGVuKCgpID0+IHN1cGVyLnVwZGF0ZUJ5SWQocmVxdWVzdCwgcmVwbHkpKQogICAgICAuY2F0Y2goZXJyID0+IHJlcGx5KGVyci5ib29tKCkpKTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>PartnerAnd</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIAoK</text>
+      <register name="2" type="8">
+        <text>conference
+conference</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGNvbmZlcmVuY2VJZGRkCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRoaXMuTU9ERUwKICAgICAgLmZpbmRPbmUoeyB3aGVyZTogeyBpZCB9IH0pCiAgICAgIC50aGVuKGRhdGEgPT4gdGhpcy5fY2hlY2tOb3RGb3VuZChkYXRhKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLnRoZW4ocGFydG5lciA9PiBwYXJ0bmVyLmRlc3Ryb3koKSkKICAgICAgLnRoZW4ocGFydG5lciA9PiB7CiAgICAgICAgY29uc3QgZmlsZXMgPSBbCiAgICAgICAgICBwYXJ0bmVyLmxvZ28sCiAgICAgICAgICBwYXJ0bmVyLmVtYWlsTG9nbwogICAgICAgIF07CiAgICAgICAgcmV0dXJuIG5ldyBTM1NlcnZpY2UoKS5kZWxldGUoZmlsZXMpLnRoZW4oKCkgPT4gcGFydG5lcik7CiAgICAgIH0pCiAgICAgIC50aGVuKCgpID0+IHJlcGx5KHsKICAgICAgICBkYXRhOiB7CiAgICAgICAgICB0eXBlOiBuZXcgdGhpcy5TRVJJQUxJWkVSKCkuVFlQRSwKICAgICAgICAgIGlkOiBpZAogICAgICAgIH0KICAgICAgfSkpCiAgICAgIC5jYXRjaChlcnIgPT4gcmVwbHkoZXJyLmJvb20oKSkpOwo=</text>
+        <text encoding="base64">ICAgIAoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLnRoZW4oKCkgPT4gc3VwZXIuZGUpCiAgICAgIC5jYXRjaChlcnIgPT4gcmVwbHkoZXJyLmJvb20oKSkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIC50aGVuKCgpID0+IHBhcnRuZXIpCg==</text>
+        <text encoding="base64">ICAgIHRoaXMuTU9ERUwKICAgICAgLmZpbmRPbmUoeyB3aGVyZTogeyBpZCB9IH0pCiAgICAgIC50aGVuKGRhdGEgPT4gdGhpcy5fY2hlY2tOb3RGb3VuZChkYXRhKSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgLnRoZW4ocGFydG5lciA9PiBwYXJ0bmVyLmRlc3Ryb3koKSkKICAgICAgLnRoZW4ocGFydG5lciA9PiB7CiAgICAgICAgY29uc3QgZmlsZXMgPSBbCiAgICAgICAgICBwYXJ0bmVyLmxvZ28sCiAgICAgICAgICBwYXJ0bmVyLmVtYWlsTG9nbwogICAgICAgIF07CiAgICAgICAgcmV0dXJuIG5ldyBTM1NlcnZpY2UoKS5kZWxldGUoZmlsZXMpLnRoZW4oKCkgPT4gcGFydG5lcik7CiAgICAgIH0pCiAgICAgIC50aGVuKCgpID0+IHJlcGx5KHsKICAgICAgICBkYXRhOiB7CiAgICAgICAgICB0eXBlOiBuZXcgdGhpcy5TRVJJQUxJWkVSKCkuVFlQRSwKICAgICAgICAgIGlkOiBpZAogICAgICAgIH0KICAgICAgfSkpCiAgICAgIC5jYXRjaChlcnIgPT4gcmVwbHkoZXJyLmJvb20oKSkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGlkID0gcmVxdWVzdC5wYXJhbXMuaWQ7Cgo=</text>
+        <text encoding="base64">ICAgICAgLnRoZW4oKCkgPT4gc3VwZXIuZGUpCiAgICAgIC5jYXRjaChlcnIgPT4gcmVwbHkoZXJyLmJvb20oKSkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>{</last-search>
+      <last-search>C</last-search>
       <last-offset />
-      <last-pattern>{</last-pattern>
+      <last-pattern>C</last-pattern>
       <last-replace>AutoAccept</last-replace>
       <last-substitute>Boom</last-substitute>
       <last-dir>1</last-dir>
@@ -793,7 +800,6 @@
     </search>
     <history>
       <history-search>
-        <entry>decline</entry>
         <entry encoding="base64">XDxfc2VuZFBhcnRuZXJFbWFpbFw+</entry>
         <entry>sneder</entry>
         <entry encoding="base64">c2VuZGVyID0g</entry>
@@ -813,6 +819,7 @@
         <entry>P</entry>
         <entry>findById</entry>
         <entry>{</entry>
+        <entry>C</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
