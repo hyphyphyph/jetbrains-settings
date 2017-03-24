@@ -253,10 +253,11 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/invite-api/src/modules/conference-invite/services/workflow.service.js" timestamp="1490385039261">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/invite-api/src/modules/conference-invite/services/workflow.service.js" timestamp="1490386216870">
+        <mark key="'" line="9" column="1" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/user/templates/registration-html-en.html" timestamp="1489896563678">
         <mark key="'" line="0" column="0" />
@@ -515,9 +516,6 @@
         <mark key="]" line="174" column="0" />
         <mark key="." line="174" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1490109307388">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/handlers/email-templates.handler.js" timestamp="1489971116497">
         <mark key="'" line="5" column="21" />
         <mark key="[" line="140" column="5" />
@@ -549,9 +547,6 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
         <mark key="^" line="12" column="1" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1490328556897">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-auto-accept-html-en.html" timestamp="1490109464765">
         <mark key="[" line="9" column="0" />
@@ -613,7 +608,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="42" filename="$USER_HOME$/invite-api/src/modules/conference-invite/handlers/workflow.handler.js" />
       <jump line="62" column="12" filename="$USER_HOME$/invite-api/src/modules/conference-invite/handlers/workflow.handler.js" />
       <jump line="85" column="13" filename="$USER_HOME$/invite-api/src/modules/conference-invite/handlers/workflow.handler.js" />
       <jump line="119" column="13" filename="$USER_HOME$/invite-api/src/modules/conference-invite/handlers/workflow.handler.js" />
@@ -713,6 +707,7 @@
       <jump line="80" column="12" filename="$USER_HOME$/invite-api/src/models/conference.model.js" />
       <jump line="18" column="0" filename="/conference-invite.model.js" />
       <jump line="186" column="49" filename="/conference-invite.model.js" />
+      <jump line="9" column="1" filename="$USER_HOME$/invite-api/src/modules/conference-invite/services/workflow.service.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -733,52 +728,52 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHsgVU5TRU5ULCBTRU5ULCBSRVNFTlQsIEFDQ0VQVEVELCBERUNMSU5FRCwgQ0FOQ0VMTEVEIH0gZnJvbSAnLi4vd29ya2Zsb3ctc3RhdGVzJzsK</text>
+        <text encoding="base64">aW1wb3J0IHsgCn0gZnJvbSAnQC9lcnJvcnMnOwo=</text>
       </register>
       <register name="-" type="4">
         <text>options</text>
       </register>
       <register name="/" type="4">
-        <text>UNSENT</text>
+        <text>}</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBlbHNlIGlmIChhdHRyID09PSAncGFzc09wdGlvbnMnKSB7CiAgICAgICAgICByZXR1cm4gJ3Bhc3Mtb3B0aW9ucyc7CiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgVU5TRU5ULCBTRU5ULCBSRVNFTlQsIEFDQ0VQVEVELCBERUNMSU5FRCwgQ0FOQ0VMTEVEIH0gZnJvbSAnLi4vd29ya2Zsb3ctc3RhdGVzJzsK</text>
+        <text encoding="base64">aW1wb3J0IHsgCn0gZnJvbSAnQC9lcnJvcnMnOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICBXb3JrZmxvd09wZXJhdGlvbkVycm9yCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBUZW1wbGF0ZUVycm9yLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIENvbmZlcmVuY2VJbnZpdGUuYmVsb25nc1RvTWFueSgKICAgICAgICAgICAgbW9kZWxzLlRpbWVSYW5nZSwKICAgICAgICAgICAgewogICAgICAgICAgICAgIHRocm91Z2g6ICdUaW1lUmFuZ2VDb25mZXJlbmNlSW52aXRlJywKICAgICAgICAgICAgICBhczogJ3RpbWVSYW5nZXMnLAogICAgICAgICAgICAgIGZvcmVpZ25LZXk6ICdjb25mZXJlbmNlSW52aXRlSWQnCiAgICAgICAgICAgIH0KICAgICAgICAgICk7Cg==</text>
+        <text encoding="base64">ICBOb3RGb3VuZEVycm9yLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLmNhdGNoKGNvbnNvbGUubG9nKQo=</text>
+        <text encoding="base64">ICBUZW1wbGF0ZUVycm9yLCAKICBOb3RGb3VuZEVycm9yLCAKICBXb3JrZmxvd09wZXJhdGlvbkVycm9yIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLmNhdGNoKGNvbnNvbGUubG9nKQo=</text>
+        <text encoding="base64">aW1wb3J0IHsgVU5TRU5ULCBTRU5ULCBSRVNFTlQsIEFDQ0VQVEVELCBERUNMSU5FRCwgQ0FOQ0VMTEVEIH0gZnJvbSAnLi4vd29ya2Zsb3ctc3RhdGVzJzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLmNhdGNoKGNvbnNvbGUubG9nKQo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHN1cGVyLmNyZWF0ZShyZXF1ZXN0LCByZXBseSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLmNhdGNoKGNvbnNvbGUubG9nKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIENvbmZlcmVuY2VJbnZpdGUuYmVsb25nc1RvTWFueSgKICAgICAgICAgICAgbW9kZWxzLlRpbWVSYW5nZSwKICAgICAgICAgICAgewogICAgICAgICAgICAgIHRocm91Z2g6ICdUaW1lUmFuZ2VDb25mZXJlbmNlSW52aXRlJywKICAgICAgICAgICAgICBhczogJ3RpbWVSYW5nZXMnLAogICAgICAgICAgICAgIGZvcmVpZ25LZXk6ICdjb25mZXJlbmNlSW52aXRlSWQnCiAgICAgICAgICAgIH0KICAgICAgICAgICk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>UNSENT</last-search>
+      <last-search>}</last-search>
       <last-offset />
-      <last-pattern>UNSENT</last-pattern>
+      <last-pattern>}</last-pattern>
       <last-replace>AutoAccept</last-replace>
       <last-substitute>Boom</last-substitute>
       <last-dir>1</last-dir>
@@ -786,7 +781,6 @@
     </search>
     <history>
       <history-search>
-        <entry>acc</entry>
         <entry>this</entry>
         <entry>title</entry>
         <entry>option</entry>
@@ -806,6 +800,7 @@
         <entry>logo</entry>
         <entry>console</entry>
         <entry>UNSENT</entry>
+        <entry>}</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
