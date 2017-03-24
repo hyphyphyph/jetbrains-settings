@@ -454,13 +454,7 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/invite-api/src/models/conference.model.js" timestamp="1490327760117">
-        <mark key="'" line="80" column="12" />
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="80" column="0" />
-        <mark key="." line="80" column="0" />
-        <mark key="^" line="80" column="57" />
-      </file>
+      <file name="$USER_HOME$/invite-api/src/models/conference.model.js" timestamp="1490327760117" />
       <file name="$USER_HOME$/invite-api/config/sequelize.js" timestamp="1490044985178">
         <mark key="[" line="27" column="15" />
         <mark key="]" line="27" column="18" />
