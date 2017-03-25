@@ -185,12 +185,12 @@
         <mark key="^" line="17" column="18" />
         <mark key="." line="17" column="18" />
       </file>
-      <file name="$USER_HOME$/invite-api/src/modules/quota/handlers/quota-crud.handler.js" timestamp="1490399890406">
-        <mark key="'" line="115" column="68" />
-        <mark key="[" line="115" column="71" />
-        <mark key="]" line="115" column="80" />
-        <mark key="." line="115" column="80" />
-        <mark key="^" line="115" column="80" />
+      <file name="$USER_HOME$/invite-api/src/modules/quota/handlers/quota-crud.handler.js" timestamp="1490400675467">
+        <mark key="'" line="133" column="37" />
+        <mark key="[" line="195" column="38" />
+        <mark key="]" line="195" column="38" />
+        <mark key="." line="195" column="38" />
+        <mark key="^" line="195" column="38" />
       </file>
       <file name="$USER_HOME$/invite-api/config/production.yml" timestamp="1490060708288">
         <mark key="[" line="0" column="0" />
@@ -322,6 +322,12 @@
         <mark key="]" line="31" column="18" />
         <mark key="." line="31" column="18" />
         <mark key="^" line="31" column="18" />
+      </file>
+      <file name="$USER_HOME$/invite-api/src/models/quota.model.js" timestamp="1490400544170">
+        <mark key="'" line="74" column="8" />
+        <mark key="[" line="25" column="33" />
+        <mark key="]" line="25" column="33" />
+        <mark key="." line="25" column="33" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-partner-accept-html-en.html" timestamp="1490296225713">
         <mark key="'" line="0" column="0" />
@@ -626,9 +632,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="13" filename="$USER_HOME$/invite-api/src/services/permission.service.js" />
-      <jump line="28" column="12" filename="$USER_HOME$/invite-api/src/services/permission.service.js" />
-      <jump line="29" column="17" filename="$USER_HOME$/invite-api/src/services/permission.service.js" />
       <jump line="41" column="26" filename="$USER_HOME$/invite-api/src/services/permission.service.js" />
       <jump line="39" column="13" filename="$USER_HOME$/invite-api/src/services/permission.service.js" />
       <jump line="72" column="29" filename="$USER_HOME$/invite-api/src/services/permission.service.js" />
@@ -726,6 +729,9 @@
       <jump line="64" column="5" filename="$USER_HOME$/invite-api/src/modules/quota/handlers/quota-crud.handler.js" />
       <jump line="87" column="39" filename="$USER_HOME$/invite-api/src/modules/quota/handlers/quota-crud.handler.js" />
       <jump line="115" column="68" filename="$USER_HOME$/invite-api/src/modules/quota/handlers/quota-crud.handler.js" />
+      <jump line="25" column="26" filename="$USER_HOME$/invite-api/src/models/quota.model.js" />
+      <jump line="131" column="37" filename="$USER_HOME$/invite-api/src/modules/quota/handlers/quota-crud.handler.js" />
+      <jump line="74" column="8" filename="$USER_HOME$/invite-api/src/models/quota.model.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -746,61 +752,59 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>partnerId</text>
+        <text>partner</text>
       </register>
       <register name="-" type="4">
-        <text>partnerId</text>
+        <text>partner</text>
       </register>
       <register name="/" type="4">
-        <text>new</text>
+        <text>partnerId</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgLnRoZW4oKCkgPT4gdGhpcy5fZ2V0Q29uZmVyZW5jZUZyb21QYXJ0bmVyKHRoaXMuZGVzZXJpYWxpemVkRGF0YS5wYXJ0bmVySWQpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCiAgICAgIAogICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHRoaXMucGFydG5lciA9IHF1b3RhLnBhcnRuZXI7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLy8gSGFuZGxlIEFkZGl0aW9uYWwgCg==</text>
+        <text encoding="base64">ICAgICAgICAgdGhpcy5jb25mZXJlbmNlID0gcGFydG5lci5jb25mZXJlbmNlOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHBhcnRuZXJJZCA9IHJlcXVlc3QucGF5bG9hZC5kYXRhLnBhcnRuZXIuZGF0YS5pZDsK</text>
+        <text encoding="base64">ICAgICAgLl9nZXRQYXJ0bmVyKCkK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHBhcnRuZXJJZCA9IHJlcXVlc3QucGF5bG9hZC5kYXRhLnBhcnRuZXIuZGF0YS5pZDsK</text>
+      <register name="5" type="4">
+        <text>ConferenceFrom</text>
       </register>
       <register name="6" type="4">
-        <text>PartnerAnd</text>
+        <text>ConferenceFrom</text>
       </register>
-      <register name="7" type="8">
-        <text>conference
-conference</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgdGhpcy5jb25mZXJlbmNlID0gcGFydG5lci5jb25mZXJlbmNlOwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGNvbmZlcmVuY2VJZGRkCg==</text>
+      <register name="8" type="4">
+        <text>ConferenceFrom</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAuY2F0Y2goKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>new</last-search>
+      <last-search>partnerId</last-search>
       <last-offset />
-      <last-pattern>new</last-pattern>
+      <last-pattern>partnerId</last-pattern>
       <last-replace>AutoAccept</last-replace>
       <last-substitute>Boom</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>sneder</entry>
         <entry encoding="base64">c2VuZGVyID0g</entry>
         <entry>sender</entry>
         <entry>)</entry>
@@ -815,11 +819,12 @@ conference</text>
         <entry>Con</entry>
         <entry>A</entry>
         <entry>=</entry>
-        <entry>P</entry>
-        <entry>findById</entry>
         <entry>{</entry>
-        <entry>C</entry>
         <entry>new</entry>
+        <entry>findById</entry>
+        <entry>C</entry>
+        <entry>P</entry>
+        <entry>partnerId</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
