@@ -296,10 +296,6 @@
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/partner/services/assignment.service.js" timestamp="1490411399926">
         <mark key="'" line="43" column="0" />
-        <mark key="[" line="113" column="31" />
-        <mark key="]" line="113" column="43" />
-        <mark key="." line="113" column="43" />
-        <mark key="^" line="113" column="43" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/user/handlers/user-crud.handler.js" timestamp="1490409658855">
         <mark key="[" line="37" column="0" />
