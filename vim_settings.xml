@@ -417,11 +417,11 @@
         <mark key="^" line="6" column="62" />
         <mark key="." line="6" column="62" />
       </file>
-      <file name="$USER_HOME$/invite-api/src/services/permission.service.js" timestamp="1490556587125">
+      <file name="$USER_HOME$/invite-api/src/services/permission.service.js" timestamp="1490558144397">
         <mark key="'" line="125" column="29" />
-        <mark key="[" line="103" column="24" />
-        <mark key="]" line="103" column="28" />
-        <mark key="." line="103" column="28" />
+        <mark key="[" line="103" column="0" />
+        <mark key="]" line="103" column="0" />
+        <mark key="." line="103" column="0" />
         <mark key="^" line="103" column="28" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/partner/templates/invited-html-en.html" timestamp="1489897882293">
@@ -584,7 +584,7 @@
         <mark key="." line="87" column="33" />
         <mark key="^" line="87" column="33" />
       </file>
-      <file name="/Dummy.txt" timestamp="1490410403175">
+      <file name="/Dummy.txt" timestamp="1490558140744">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-auto-accept-html-en.html" timestamp="1490109464765">
@@ -773,7 +773,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLnRoZW4oKCkgPT4gY29uc29sZS5sb2codGhpcy5kZXNlcmlhbGl6ZWREYXRhKSkK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh1c2VyLCAxMjMpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>_</text>
@@ -785,31 +785,31 @@
         <text encoding="base64">ICAgICAgLy8gUGVybWlzc2lvbnMKICAgICAgLnRoZW4oaW52aXRlID0+IHRoaXMuX2dldFBhcnRuZXIoaW52aXRlLnBhcnRuZXJJZCkpCiAgICAgIC50aGVuKHBhcnRuZXIgPT4KICAgICAgICBuZXcgUGVybWlzc2lvblNlcnZpY2UocmVxdWVzdC5hdXRoLmFydGlmYWN0cy51c2VyKQogICAgICAgICAgLmNhblBhcnRuZXJBZG1pbihwYXJ0bmVyKQogICAgICApCiAgICAgIC50aGVuKCgpID0+IHRoaXMuaW52aXRlKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLnRoZW4oKCkgPT4gY29uc29sZS5sb2codGhpcy5kZXNlcmlhbGl6ZWREYXRhKSkK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh1c2VyLCAxMjMpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlcXVlc3QucGF5bG9hZCk7Cgo=</text>
+        <text encoding="base64">ICAgICAgLnRoZW4oKCkgPT4gY29uc29sZS5sb2codGhpcy5kZXNlcmlhbGl6ZWREYXRhKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlcXVlc3QucGF5bG9hZCk7Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuZGVzZXJpYWxpemVkRGF0YS51c2Vycyk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLmNhdGNoKGNvbnNvbGUubG9nKQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuZGVzZXJpYWxpemVkRGF0YS51c2Vycyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC5jYQo=</text>
+        <text encoding="base64">ICAgICAgLmNhdGNoKGNvbnNvbGUubG9nKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLmNhdGNoKGVycik7Cg==</text>
+        <text encoding="base64">ICAgIC5jYQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgLmNhdGNoKGVycik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
