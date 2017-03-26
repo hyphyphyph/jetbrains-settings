@@ -187,12 +187,12 @@
         <mark key="^" line="17" column="18" />
         <mark key="." line="17" column="18" />
       </file>
-      <file name="$USER_HOME$/invite-api/src/modules/quota/handlers/quota-crud.handler.js" timestamp="1490408766025">
-        <mark key="'" line="115" column="40" />
-        <mark key="[" line="149" column="14" />
-        <mark key="]" line="149" column="27" />
-        <mark key="." line="149" column="27" />
-        <mark key="^" line="149" column="27" />
+      <file name="$USER_HOME$/invite-api/src/modules/quota/handlers/quota-crud.handler.js" timestamp="1490561256423">
+        <mark key="'" line="114" column="19" />
+        <mark key="[" line="7" column="9" />
+        <mark key="]" line="7" column="24" />
+        <mark key="." line="7" column="24" />
+        <mark key="^" line="7" column="24" />
       </file>
       <file name="$USER_HOME$/invite-api/config/production.yml" timestamp="1490060708288">
         <mark key="[" line="0" column="0" />
@@ -653,7 +653,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-partner-accept-text-en.html" />
       <jump line="5" column="0" filename="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-partner-decline-text-en.html" />
       <jump line="607" column="89" filename="$USER_HOME$/invite-api/src/modules/conference-invite/services/workflow.service.js" />
       <jump line="617" column="6" filename="$USER_HOME$/invite-api/src/modules/conference-invite/services/workflow.service.js" />
@@ -753,6 +752,7 @@
       <jump line="67" column="2" filename="$USER_HOME$/invite-api/src/modules/partner/services/assignment.service.js" />
       <jump line="43" column="0" filename="$USER_HOME$/invite-api/src/modules/partner/services/assignment.service.js" />
       <jump line="157" column="2" filename="$USER_HOME$/invite-api/src/modules/core/base-handler.js" />
+      <jump line="114" column="19" filename="$USER_HOME$/invite-api/src/modules/quota/handlers/quota-crud.handler.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -773,7 +773,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh1c2VyLCAxMjMpOwo=</text>
+        <text encoding="base64">ICAgICAgLmNhdGNoKGVyciA9PiB7IHRocm93IGVycjsgfSkK</text>
       </register>
       <register name="-" type="4">
         <text>_</text>
@@ -785,31 +785,31 @@
         <text encoding="base64">ICAgICAgLy8gUGVybWlzc2lvbnMKICAgICAgLnRoZW4oaW52aXRlID0+IHRoaXMuX2dldFBhcnRuZXIoaW52aXRlLnBhcnRuZXJJZCkpCiAgICAgIC50aGVuKHBhcnRuZXIgPT4KICAgICAgICBuZXcgUGVybWlzc2lvblNlcnZpY2UocmVxdWVzdC5hdXRoLmFydGlmYWN0cy51c2VyKQogICAgICAgICAgLmNhblBhcnRuZXJBZG1pbihwYXJ0bmVyKQogICAgICApCiAgICAgIC50aGVuKCgpID0+IHRoaXMuaW52aXRlKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh1c2VyLCAxMjMpOwo=</text>
+        <text encoding="base64">ICAgICAgLmNhdGNoKGVyciA9PiB7IHRocm93IGVycjsgfSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLnRoZW4oKCkgPT4gY29uc29sZS5sb2codGhpcy5kZXNlcmlhbGl6ZWREYXRhKSkK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh1c2VyLCAxMjMpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlcXVlc3QucGF5bG9hZCk7Cgo=</text>
+        <text encoding="base64">ICAgICAgLnRoZW4oKCkgPT4gY29uc29sZS5sb2codGhpcy5kZXNlcmlhbGl6ZWREYXRhKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlcXVlc3QucGF5bG9hZCk7Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuZGVzZXJpYWxpemVkRGF0YS51c2Vycyk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLmNhdGNoKGNvbnNvbGUubG9nKQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuZGVzZXJpYWxpemVkRGF0YS51c2Vycyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC5jYQo=</text>
+        <text encoding="base64">ICAgICAgLmNhdGNoKGNvbnNvbGUubG9nKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLmNhdGNoKGVycik7Cg==</text>
+        <text encoding="base64">ICAgIC5jYQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
