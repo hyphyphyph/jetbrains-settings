@@ -720,7 +720,7 @@
         <text>3</text>
       </register>
       <register name="/" type="4">
-        <text>sender</text>
+        <text>debugger</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">eyUgaWYgZW1haWxNZXNzYWdlICV9CjxkaXYgc3R5bGU9ImJhY2tncm91bmQ6ICNmZmY7IG1hcmdpbjogMCAyMHB4OyBwYWRkaW5nOiAxMHB4OyI+CiAge3tlbWFpbE1lc3NhZ2UgfCBzYWZlfX0KPC9kaXY+CnslIGVuZGlmICV9Cg==</text>
@@ -757,9 +757,9 @@
       </register>
     </registers>
     <search>
-      <last-search>sender</last-search>
+      <last-search>debugger</last-search>
       <last-offset />
-      <last-pattern>sender</last-pattern>
+      <last-pattern>debugger</last-pattern>
       <last-replace>AutoAccept</last-replace>
       <last-substitute>Boom</last-substitute>
       <last-dir>1</last-dir>
@@ -785,8 +785,8 @@
         <entry encoding="base64">XDxfaW5qZWN0VGVtcGxhdGVWYXJpYWJsZXNcPg==</entry>
         <entry>debug</entry>
         <entry>debugg</entry>
-        <entry>debugger</entry>
         <entry>sender</entry>
+        <entry>debugger</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0h0bWxFbi9UZXh0RW4vZw==</entry>
