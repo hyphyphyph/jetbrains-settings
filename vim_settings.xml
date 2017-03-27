@@ -202,7 +202,7 @@
         <mark key="^" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/invite-api/src/modules/conference-invite/handlers/conference-invite-crud.handler.js" timestamp="1490585641554">
+      <file name="$USER_HOME$/invite-api/src/modules/conference-invite/handlers/conference-invite-crud.handler.js" timestamp="1490588292807">
         <mark key="'" line="272" column="17" />
         <mark key="[" line="89" column="12" />
         <mark key="]" line="89" column="13" />
@@ -728,7 +728,7 @@
         <text encoding="base64">ICBfZ2V0Q29uZmVyZW5jZShjb25mZXJlbmNlSWQpIHsKICAgIGlmICh0aGlzLmNvbmZlcmVuY2UpIHsKICAgICAgcmV0dXJuIFByb21pc2UucmVzb2x2ZSh0aGlzLmNvbmZlcmVuY2UpOwogICAgfQogICAgZWxzZSB7CiAgICAgIHJldHVybiBtb2RlbHMuQ29uZmVyZW5jZQogICAgICAgIC5maW5kQnlJZChjb25mZXJlbmNlSWQpCiAgICAgICAgLnRoZW4oY29uZmVyZW5jZSA9PiB0aGlzLl9jaGVja05vdEZvdW5kKGNvbmZlcmVuY2UpKQogICAgICAgIC50aGVuKGNvbmZlcmVuY2UgPT4gewogICAgICAgICAgdGhpcy5jb25mZXJlbmNlID0gY29uZmVyZW5jZTsKICAgICAgICAgIHJldHVybiBjb25mZXJlbmNlOwogICAgICAgIH0pOwogICAgfQogIH0K</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>90</text>
       </register>
     </registers>
     <search>
@@ -764,7 +764,6 @@
         <entry>isAdmin</entry>
       </history-search>
       <history-cmd>
-        <entry>W</entry>
         <entry encoding="base64">JzwsJz5zL1Bhc3NKc29uQXBpL1ByaXZhdGVBY3Rpdml0eUpzb25BcGkvZw==</entry>
         <entry encoding="base64">JzwsJz5zL0h0bWwvVGV4dC9n</entry>
         <entry encoding="base64">JzwsJz5zL0h0bWxFbi9UZXh0RW4vZw==</entry>
@@ -784,6 +783,7 @@
         <entry>271</entry>
         <entry>94</entry>
         <entry>w</entry>
+        <entry>90</entry>
       </history-cmd>
       <history-expr />
       <history-input />
