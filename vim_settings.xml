@@ -32,7 +32,6 @@
         <mark key="^" line="6" column="89" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/invite-api/src/models/time-range.model.js" timestamp="1490541083322" />
       <file name="$USER_HOME$/invite-api/src/modules/auth/services/token.service.js" timestamp="1490066760912">
         <mark key="[" line="20" column="13" />
         <mark key="]" line="20" column="13" />
@@ -308,7 +307,6 @@
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/invite-api/src/modules/partner/handlers/partner-user.handler.js" timestamp="1490567647484" />
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-cancel-on-behalf-html-fr-custom.html" timestamp="1490109433785">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="7" column="0" />
@@ -584,7 +582,7 @@
         <mark key="." line="87" column="33" />
         <mark key="^" line="87" column="33" />
       </file>
-      <file name="/Dummy.txt" timestamp="1490558140744">
+      <file name="/Dummy.txt" timestamp="1490580399382">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-auto-accept-html-en.html" timestamp="1490109464765">
