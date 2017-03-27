@@ -243,11 +243,12 @@
         <mark key="." line="13" column="60" />
         <mark key="^" line="13" column="60" />
       </file>
-      <file name="$USER_HOME$/invite-api/src/modules/conference-invite/services/workflow.service.js" timestamp="1490622136075">
-        <mark key="'" line="590" column="35" />
-        <mark key="[" line="632" column="0" />
-        <mark key="]" line="632" column="0" />
-        <mark key="." line="632" column="0" />
+      <file name="$USER_HOME$/invite-api/src/modules/conference-invite/services/workflow.service.js" timestamp="1490643216003">
+        <mark key="'" line="592" column="35" />
+        <mark key="[" line="300" column="41" />
+        <mark key="]" line="302" column="12" />
+        <mark key="." line="302" column="12" />
+        <mark key="^" line="302" column="12" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/user/templates/registration-html-en.html" timestamp="1489896563678">
         <mark key="'" line="0" column="0" />
@@ -788,7 +789,6 @@
         <entry>\.row</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL0h0bWwvVGV4dC9n</entry>
         <entry encoding="base64">JzwsJz5zL0h0bWxFbi9UZXh0RW4vZw==</entry>
         <entry encoding="base64">JzwsJz5zL0h0bWxFbi9IdG1sRnIvZw==</entry>
         <entry encoding="base64">JzwsJz5zL0h0bWxFbi9UZXh0RnIvZw==</entry>
@@ -807,6 +807,7 @@
         <entry>94</entry>
         <entry>90</entry>
         <entry>587</entry>
+        <entry>ew</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
