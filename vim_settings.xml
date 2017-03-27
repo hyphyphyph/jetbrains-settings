@@ -493,12 +493,12 @@
         <mark key="^" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/invite-api/src/modules/conference-invite/handlers/workflow.handler.js" timestamp="1490585729362">
-        <mark key="'" line="252" column="57" />
-        <mark key="[" line="147" column="12" />
-        <mark key="]" line="147" column="17" />
-        <mark key="." line="147" column="17" />
-        <mark key="^" line="147" column="17" />
+      <file name="$USER_HOME$/invite-api/src/modules/conference-invite/handlers/workflow.handler.js" timestamp="1490633335761">
+        <mark key="'" line="253" column="57" />
+        <mark key="[" line="158" column="52" />
+        <mark key="]" line="159" column="18" />
+        <mark key="." line="159" column="18" />
+        <mark key="^" line="159" column="18" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/handlers/email-templates.handler.js" timestamp="1489971116497">
         <mark key="'" line="5" column="21" />
