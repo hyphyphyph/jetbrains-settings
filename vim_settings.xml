@@ -74,6 +74,12 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-partner-decline-text-fr.html" timestamp="1490622280000">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="21" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/invite-api/db/seeders/20170130221956-create-conference-invites.js" timestamp="1490054374624">
         <mark key="'" line="17" column="0" />
         <mark key="[" line="31" column="0" />
@@ -202,12 +208,9 @@
         <mark key="^" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/invite-api/src/modules/conference-invite/handlers/conference-invite-crud.handler.js" timestamp="1490588292807">
-        <mark key="'" line="272" column="17" />
-        <mark key="[" line="89" column="12" />
-        <mark key="]" line="89" column="13" />
-        <mark key="." line="89" column="13" />
-        <mark key="^" line="89" column="13" />
+      <file name="$USER_HOME$/invite-api/src/modules/conference-invite/handlers/conference-invite-crud.handler.js" timestamp="1490621835470">
+        <mark key="[" line="79" column="28" />
+        <mark key="." line="79" column="35" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/user/jsonapi/user.jsonapi.js" timestamp="1490553290086">
         <mark key="[" line="42" column="25" />
@@ -215,7 +218,8 @@
         <mark key="^" line="42" column="25" />
         <mark key="." line="42" column="25" />
       </file>
-      <file name="$USER_HOME$/invite-api/src/services/mailer.service.js" timestamp="1490108398159">
+      <file name="$USER_HOME$/invite-api/src/services/mailer.service.js" timestamp="1490622134416">
+        <mark key="'" line="58" column="21" />
         <mark key="[" line="60" column="17" />
         <mark key="]" line="60" column="17" />
         <mark key="." line="60" column="17" />
@@ -234,11 +238,11 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/invite-api/src/modules/conference-invite/services/workflow.service.js" timestamp="1490386216870">
-        <mark key="'" line="9" column="1" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/invite-api/src/modules/conference-invite/services/workflow.service.js" timestamp="1490622136075">
+        <mark key="'" line="590" column="35" />
+        <mark key="[" line="632" column="0" />
+        <mark key="]" line="632" column="0" />
+        <mark key="." line="632" column="0" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/user/templates/registration-html-en.html" timestamp="1489896563678">
         <mark key="'" line="0" column="0" />
@@ -325,11 +329,11 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-partner-accept-text-fr.html" timestamp="1490296249782">
+      <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-partner-accept-text-fr.html" timestamp="1490622267367">
         <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
+        <mark key="]" line="5" column="21" />
         <mark key="." line="5" column="0" />
-        <mark key="^" line="0" column="6" />
+        <mark key="^" line="5" column="0" />
       </file>
       <file name="$USER_HOME$/invite-api/src/errors.js" timestamp="1490064713574">
         <mark key="'" line="101" column="0" />
@@ -434,10 +438,10 @@
         <mark key="." line="17" column="18" />
         <mark key="^" line="17" column="18" />
       </file>
-      <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-partner-decline-html-fr.html" timestamp="1490296271769">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="95" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-partner-decline-html-fr.html" timestamp="1490622254492">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="20" column="6" />
+        <mark key="." line="16" column="0" />
         <mark key="^" line="12" column="1" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-decline-html-en.html" timestamp="1490109417341">
@@ -510,7 +514,7 @@
         <mark key="." line="87" column="33" />
         <mark key="^" line="87" column="33" />
       </file>
-      <file name="/Dummy.txt" timestamp="1490587987906">
+      <file name="/Dummy.txt" timestamp="1490621906631">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-auto-accept-html-en.html" timestamp="1490109464765">
@@ -554,11 +558,12 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-partner-accept-html-fr.html" timestamp="1490296241304">
+      <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-partner-accept-html-fr.html" timestamp="1490622246036">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="95" />
-        <mark key="." line="16" column="0" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="20" column="5" />
+        <mark key="." line="16" column="43" />
+        <mark key="^" line="16" column="43" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/buffer1" timestamp="1489789982947">
         <mark key="'" line="0" column="0" />
@@ -569,10 +574,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="4" filename="$USER_HOME$/invite-api/src/modules/user/handlers/user-crud.handler.js" />
-      <jump line="37" column="6" filename="$USER_HOME$/invite-api/src/modules/conference/handlers/conference-crud.handler.js" />
-      <jump line="5" column="7" filename="$USER_HOME$/invite-api/src/modules/conference/handlers/conference-crud.handler.js" />
-      <jump line="32" column="38" filename="$USER_HOME$/invite-api/src/models/conference.model.js" />
       <jump line="86" column="30" filename="$USER_HOME$/invite-api/src/models/conference.model.js" />
       <jump line="87" column="38" filename="$USER_HOME$/invite-api/src/models/conference.model.js" />
       <jump line="96" column="19" filename="$USER_HOME$/invite-api/src/models/conference.model.js" />
@@ -589,7 +590,6 @@
       <jump line="80" column="12" filename="$USER_HOME$/invite-api/src/models/conference.model.js" />
       <jump line="18" column="0" filename="/conference-invite.model.js" />
       <jump line="186" column="49" filename="/conference-invite.model.js" />
-      <jump line="9" column="1" filename="$USER_HOME$/invite-api/src/modules/conference-invite/services/workflow.service.js" />
       <jump line="15" column="3" filename="$USER_HOME$/invite-api/src/modules/partner/handlers/partner-crud.handler.js" />
       <jump line="46" column="25" filename="$USER_HOME$/invite-api/src/modules/partner/handlers/partner-crud.handler.js" />
       <jump line="62" column="38" filename="$USER_HOME$/invite-api/src/modules/partner/handlers/partner-crud.handler.js" />
@@ -669,6 +669,11 @@
       <jump line="45" column="14" filename="$USER_HOME$/invite-api/src/modules/user/handlers/user-crud.handler.js" />
       <jump line="129" column="14" filename="$USER_HOME$/invite-api/src/modules/user/handlers/user-crud.handler.js" />
       <jump line="179" column="30" filename="$USER_HOME$/invite-api/src/modules/user/handlers/user-crud.handler.js" />
+      <jump line="9" column="0" filename="$USER_HOME$/invite-api/src/modules/conference-invite/services/workflow.service.js" />
+      <jump line="590" column="35" filename="$USER_HOME$/invite-api/src/modules/conference-invite/services/workflow.service.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/invite-api/src/services/mailer.service.js" />
+      <jump line="62" column="21" filename="$USER_HOME$/invite-api/src/services/mailer.service.js" />
+      <jump line="58" column="21" filename="$USER_HOME$/invite-api/src/services/mailer.service.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -688,53 +693,53 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>isAdmin</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">e3sgZmVlZGJhY2tNZXNzYWdlIHwgc2FmZSB9fQo=</text>
       </register>
       <register name="-" type="4">
-        <text>isAdmin</text>
+        <text>!== false) {</text>
       </register>
       <register name="/" type="4">
-        <text>isAdmin</text>
+        <text>sendMail</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpcy5fZ2V0T3B0aW9uc0Zyb21QYXlsb2FkKHJlcXVlc3QpLnRoZW4oCiAgICAgICAgICBvcHRpb25zID0+IG5ldyBXb3JrZmxvd1NlcnZpY2Uob3B0aW9ucykucmVzZW5kKGludml0ZSkKICAgICAgICApOwo=</text>
+        <text encoding="base64">PGRpdiBzdHlsZT0iYmFja2dyb3VuZDogI2ZmZjsgcGFkZGluZzogMTBweDsiPgogIDxwPk1lc3NhZ2UgZGUgbCdpbnZpdOkgOjwvcD4KCiAge3sgZmVlZGJhY2tNZXNzYWdlIHwgc2FmZSB9fQo8L2Rpdj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAvKioKICAgKiBFeGNsdXNpdmVseSBhIGZ1bGwtYmxvd24gYWRtaW4uCiAgICoKICAgKiBAcmV0dXJucyB7UHJvbWlzZX0KICAgKi8K</text>
+        <text encoding="base64">e3sgZmVlZGJhY2tNZXNzYWdlIHwgc2FmZSB9fQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLnRoZW4oaW52aXRlID0+IHRoaXMuX2dldFBhcnRuZXIoaW52aXRlLnBhcnRuZXJJZCkpCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLnRoZW4oaW52aXRlID0+IHRoaXMuX2dldFBhcnRuZXIoaW52aXRlLnBhcnRuZXJJZCkpCg==</text>
+        <text encoding="base64">PHA+TWVzc2FnZSBkZSBsJ2ludml06SA6PC9wPgoKe3sgZmVlZGJhY2tNZXNzYWdlIHwgc2FmZSB9fQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLnRoZW4oaW52aXRlID0+IHRoaXMuX2dldFBhcnRuZXIoaW52aXRlLnBhcnRuZXJJZCkpCg==</text>
+        <text encoding="base64">ICAgIHRoaXMub3B0aW9ucy5zZW5kRW1haWwgPSB0cnVlOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLnRoZW4oKCkgPT4gdGhpcy5fZ2V0UGFydG5lcih0aGlzLmRlc2VyaWFsaXplZERhdGEucGFydG5lci5pZCkpCg==</text>
+        <text encoding="base64">ICAgIHV1Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgKQo=</text>
+        <text encoding="base64">ICAgIGlmICh0aGlzLm9wdGlvbnMuc2VuZEVtYWlsICE9PSBmYWxzZSkgewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG1vZGVscy5Db25mZXJlbmNlCiAgICAgIC5maW5kQnlJZChpZCkKICAgICAgLnRoZW4oY29uZmVyZW5jZSA9Pgo=</text>
+        <text encoding="base64">ICAgIH0KICAgIGVsc2UgewogICAgICByZXR1cm4gbmV3IFByb21pc2UocmVzb2x2ZSA9PiByZXNvbHZlKG9wdGlvbnMuZGF0YSkpOwogICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGludml0ZSA9IG9wdGlvbnMuZGF0YS5pbnZpdGU7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBfZ2V0Q29uZmVyZW5jZShjb25mZXJlbmNlSWQpIHsKICAgIGlmICh0aGlzLmNvbmZlcmVuY2UpIHsKICAgICAgcmV0dXJuIFByb21pc2UucmVzb2x2ZSh0aGlzLmNvbmZlcmVuY2UpOwogICAgfQogICAgZWxzZSB7CiAgICAgIHJldHVybiBtb2RlbHMuQ29uZmVyZW5jZQogICAgICAgIC5maW5kQnlJZChjb25mZXJlbmNlSWQpCiAgICAgICAgLnRoZW4oY29uZmVyZW5jZSA9PiB0aGlzLl9jaGVja05vdEZvdW5kKGNvbmZlcmVuY2UpKQogICAgICAgIC50aGVuKGNvbmZlcmVuY2UgPT4gewogICAgICAgICAgdGhpcy5jb25mZXJlbmNlID0gY29uZmVyZW5jZTsKICAgICAgICAgIHJldHVybiBjb25mZXJlbmNlOwogICAgICAgIH0pOwogICAgfQogIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>90</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>isAdmin</last-search>
+      <last-search>sendMail</last-search>
       <last-offset />
-      <last-pattern>isAdmin</last-pattern>
+      <last-pattern>sendMail</last-pattern>
       <last-replace>AutoAccept</last-replace>
       <last-substitute>Boom</last-substitute>
       <last-dir>1</last-dir>
@@ -742,10 +747,6 @@
     </search>
     <history>
       <history-search>
-        <entry>()</entry>
-        <entry>title</entry>
-        <entry>inviteEmails</entry>
-        <entry>update</entry>
         <entry>create</entry>
         <entry encoding="base64">XDxfc2VuZFVzZXJOb3RpZmljYXRpb25FbWFpbFw+</entry>
         <entry>setConferenceByid</entry>
@@ -762,9 +763,12 @@
         <entry>{</entry>
         <entry>\.</entry>
         <entry>isAdmin</entry>
+        <entry>merge-clone</entry>
+        <entry>\.invite</entry>
+        <entry>sendEmail</entry>
+        <entry>sendMail</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL1Bhc3NKc29uQXBpL1ByaXZhdGVBY3Rpdml0eUpzb25BcGkvZw==</entry>
         <entry encoding="base64">JzwsJz5zL0h0bWwvVGV4dC9n</entry>
         <entry encoding="base64">JzwsJz5zL0h0bWxFbi9UZXh0RW4vZw==</entry>
         <entry encoding="base64">JzwsJz5zL0h0bWxFbi9IdG1sRnIvZw==</entry>
@@ -782,8 +786,9 @@
         <entry>we</entry>
         <entry>271</entry>
         <entry>94</entry>
-        <entry>w</entry>
         <entry>90</entry>
+        <entry>587</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
