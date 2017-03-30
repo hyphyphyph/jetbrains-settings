@@ -437,6 +437,10 @@
         <mark key="^" line="9" column="4" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/invite-api/db/migrations/20170123233148-create-conference-user.js" timestamp="1490885963407">
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="65" column="100" />
+      </file>
       <file name="$USER_HOME$/invite-api/config/sequelize.js" timestamp="1490044985178">
         <mark key="[" line="27" column="15" />
         <mark key="]" line="27" column="18" />
@@ -710,7 +714,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLy8gVE9ETwogICAgICAvLyBpZiAoIW9wdGlvbnMuZGF0YS5zZW5kaW5nVXNlcikgewogICAgICAvLyAgIG9wdGlvbnMuZGF0YS5zZW5kaW5nVXNlciA9IG9wdGlvbnMuZGF0YS5pbnZpdGUuc2VuZGVyOwogICAgICAvLyB9Cg==</text>
+        <text encoding="base64">ICAgIC50aGVuKCgpID0+IHF1ZXJ5SW50ZXJmYWNlLnNlcXVlbGl6ZQogICAgICAucXVlcnkoJ0FMVEVSIFRBQkxFIHB1YmxpYy4iQ29uZmVyZW5jZVVzZXIiIEFMVEVSIENPTFVNTiBpZCBTRVQgREVGQVVMVCB1dWlkX2dlbmVyYXRlX3Y0KCk7JykpOwo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
