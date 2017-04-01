@@ -111,6 +111,13 @@
         <mark key="." line="7" column="9" />
         <mark key="^" line="7" column="9" />
       </file>
+      <file name="$USER_HOME$/~working0/c2/invite-api/src/models/ticket-purchase.model.js" timestamp="1491072359874">
+        <mark key="'" line="45" column="23" />
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="0" />
+        <mark key="." line="66" column="0" />
+        <mark key="^" line="65" column="14" />
+      </file>
       <file name="$USER_HOME$/invite-api/src/modules/user/handlers/me.handler.js" timestamp="1490114326581">
         <mark key="[" line="56" column="42" />
         <mark key="]" line="57" column="62" />
@@ -617,9 +624,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="122" column="7" filename="$USER_HOME$/invite-api/src/modules/pass/handlers/pass-crud.handler.js" />
-      <jump line="40" column="5" filename="$USER_HOME$/invite-api/src/modules/pass/handlers/pass-crud.handler.js" />
-      <jump line="48" column="23" filename="$USER_HOME$/invite-api/src/modules/pass/handlers/pass-crud.handler.js" />
       <jump line="5" column="63" filename="$USER_HOME$/invite-api/src/modules/pass/handlers/pass-crud.handler.js" />
       <jump line="192" column="38" filename="$USER_HOME$/invite-api/src/modules/quota/handlers/quota-crud.handler.js" />
       <jump line="115" column="40" filename="$USER_HOME$/invite-api/src/modules/quota/handlers/quota-crud.handler.js" />
@@ -717,6 +721,9 @@
       <jump line="0" column="0" filename="$USER_HOME$/invite-api/package.json" />
       <jump line="35" column="4" filename="$USER_HOME$/~working0-c2/invite-api/src/server.js" />
       <jump line="10" column="45" filename="$USER_HOME$/~working0-c2/invite-api/src/server.js" />
+      <jump line="19" column="31" filename="$USER_HOME$/~working0/c2/invite-api/src/models/ticket-purchase.model.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/~working0/c2/invite-api/src/models/ticket-purchase.model.js" />
+      <jump line="45" column="23" filename="$USER_HOME$/~working0/c2/invite-api/src/models/ticket-purchase.model.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -736,53 +743,53 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>requireHttps</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBtb2RlbDogbW9kZWxzLkNvbmZlcmVuY2UsCiAgICAgICAgICAgICAgICBhczogJ2NvbmZlcmVuY2VzJwogICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgbW9kZWw6IG1vZGVscy5QYXJ0bmVyLAogICAgICAgICAgICAgICAgYXM6ICdwYXJ0bmVycycKICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>requireHttps</text>
+        <text>roles</text>
       </register>
       <register name="/" type="4">
-        <text>is-</text>
+        <text>config</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBkZWxldGVCeUlkKHJlcXVlc3QsIHJlcGx5KSB7CiAgICBjb25zdCBjb25mZXJlbmNlSWQgPSByZXF1ZXN0LnBhcmFtcy5pZDsKICAgIHRoaXMuX2dldENvbmZlcmVuY2UoY29uZmVyZW5jZUlkKQogICAgICAudGhlbihjb25mZXJlbmNlID0+CiAgICAgICAgbmV3IFBlcm1pc3Npb25TZXJ2aWNlKHJlcXVlc3QuYXV0aC5hcnRpZmFjdHMudXNlcikKICAgICAgICAgIC5jYW5Db25mZXJlbmNlQWRtaW4oY29uZmVyZW5jZSkKICAgICAgKQogICAgICAudGhlbigoKSA9PiBzdXBlci5kZWxldGVCeUlkKHJlcXVlc3QsIHJlcGx5KSkKICAgICAgLmNhdGNoKGVyciA9PiByZXBseShlcnIuYm9vbSgpKSk7CiAgfQoKICBfZ2V0Q29uZmVyZW5jZShjb25mZXJlbmNlSWQpIHsKICAgIGlmICh0aGlzLmNvbmZlcmVuY2UpIHsKICAgICAgcmV0dXJuIFByb21pc2UucmVzb2x2ZSh0aGlzLmNvbmZlcmVuY2UpOwogICAgfQogICAgZWxzZSB7CiAgICAgIHJldHVybiBtb2RlbHMuQ29uZmVyZW5jZQogICAgICAgIC5maW5kQnlJZChjb25mZXJlbmNlSWQpCiAgICAgICAgLnRoZW4oY29uZmVyZW5jZSA9PiB0aGlzLl9jaGVja05vdEZvdW5kKGNvbmZlcmVuY2UpKQogICAgICAgIC50aGVuKGNvbmZlcmVuY2UgPT4gewogICAgICAgICAgdGhpcy5jb25mZXJlbmNlID0gY29uZmVyZW5jZTsKICAgICAgICAgIHJldHVybiBjb25mZXJlbmNlOwogICAgICAgIH0pOwogICAgfQogIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHt9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBtb2RlbDogbW9kZWxzLkNvbmZlcmVuY2UsCiAgICAgICAgICAgICAgICBhczogJ2NvbmZlcmVuY2VzJwogICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgbW9kZWw6IG1vZGVscy5QYXJ0bmVyLAogICAgICAgICAgICAgICAgYXM6ICdwYXJ0bmVycycKICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFtdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJpcy11cmwiOiAiXjEuMi4yIiwK</text>
+        <text encoding="base64">ICAgICAgICAgIFVzZXIuYmVsb25nc1RvTWFueSgKICAgICAgICAgICAgbW9kZWxzLlBhcnRuZXIsCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICB0aHJvdWdoOiAnUGFydG5lclVzZXInLAogICAgICAgICAgICAgIGFzOiAncGFydG5lcnMnLAogICAgICAgICAgICAgIGZvcmVpZ25LZXk6ICd1c2VySWQnCiAgICAgICAgICAgIH0KICAgICAgICAgICk7CgogICAgICAgICAgVXNlci5iZWxvbmdzVG9NYW55KAogICAgICAgICAgICBtb2RlbHMuUm9sZSwKICAgICAgICAgICAgewogICAgICAgICAgICAgIHRocm91Z2g6ICdVc2VyUm9sZScsCiAgICAgICAgICAgICAgYXM6ICdyb2xlcycsCiAgICAgICAgICAgICAgZm9yZWlnbktleTogJ3VzZXJJZCcKICAgICAgICAgICAgfQogICAgICAgICAgKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGlzVXJsIGZyb20gJ2lzLXVybCc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB0aHJvdWdoOiBtb2RlbHMuQ29uZmVyZW5jZVVzZXIsCg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICYmIGlzVXJsKGVtYWlsQ292ZXI=</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICYmIGlzVXJsKGVtYWlsTG9nbw==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgZ2V0dGVyTWV0aG9kczogewogICAgICAgIGlzQWRtaW46IGZ1bmN0aW9uICgpIHsKICAgICAgICAgIGlmICh0aGlzLnJvbGVzKSB7CiAgICAgICAgICAgIHJldHVybiAhIXRoaXMucm9sZXMuZmlsdGVyKGkgPT4gaS5uYW1lID09PSAnYWRtaW4nKS5sZW5ndGg7CiAgICAgICAgICB9CiAgICAgICAgICByZXR1cm4gbnVsbDsKICAgICAgICB9CiAgICAgIH0sCg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICYmIGlzVXJsKGxvZ28=</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGVsc2UgewogICAgICAgICAgICB0aHJvdyBuZXcKICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgcGFzc3dvcmQ6IHsgdHlwZTogRGF0YVR5cGVzLlRFWFQgfSwKICAgICAgZmlyc3ROYW1lOiB7IHR5cGU6IERhdGFUeXBlcy5URVhUIH0sCiAgICAgIGxhc3ROYW1lOiB7IHR5cGU6IERhdGFUeXBlcy5URVhUIH0sCiAgICAgIGVtYWlsOiB7CiAgICAgICAgdHlwZTogRGF0YVR5cGVzLlRFWFQsCiAgICAgICAgc2V0KGVtYWlsKSB7CiAgICAgICAgICBpZiAoZW1haWwpIHsKICAgICAgICAgICAgdGhpcy5zZXREYXRhVmFsdWUoJ2VtYWlsJywgZW1haWwudHJpbSgpKTsKICAgICAgICAgIH0KICAgICAgICB9CiAgICAgIH0sCgogICAgICBuZXdBY2NvdW50VG9rZW46IHsKICAgICAgICB0eXBlOiBEYXRhVHlwZXMuVVVJRCwKICAgICAgICBhbGxvd051bGw6IHRydWUsCiAgICAgICAgZGVmYXVsdFZhbGlkOiBEYXRhVHlwZXMuVVVJRFY0CiAgICAgIH0sCgogICAgICByZXNldFBhc3N3b3JkVG9rZW46IHsKICAgICAgICB0eXBlOiBEYXRhVHlwZXMuVVVJRCwKICAgICAgICBhbGxvd051bGw6IHRydWUKICAgICAgfSwKCiAgICAgIHJlc2V0UGFzc3dvcmRTZW50QXQ6IHsgdHlwZTogRGF0YVR5cGVzLkRBVEUgfSwKCiAgICAgIGxvY2FsZTogewogICAgICAgIHR5cGU6IERhdGFUeXBlcy5FTlVNKAogICAgICAgICAgJ2VuJywKICAgICAgICAgICdmcicKICAgICAgICApCiAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IFBlcm1pc3Npb25TZXJ2aWNlIGZyb20gJ0Avc2VydmljZXMvcGVybWlzc2lvbi5zZXJ2aWNlJzsK</text>
+        <text encoding="base64">ICAgICAgYXZhdGFyOiB7CiAgICAgICAgdHlwZTogRGF0YVR5cGVzLlRFWFQsCiAgICAgICAgZ2V0KCkgewogICAgICAgICAgY29uc3QgYXZhdGFyID0gdGhpcy5nZXREYXRhVmFsdWUoJ2F2YXRhcicpOwogICAgICAgICAgaWYgKGF2YXRhcikgewogICAgICAgICAgICByZXR1cm4gdXJsLnJlc29sdmUoY29uZmlnLmdldCgnYXdzLnMzVXJsJyksIGF2YXRhcik7CiAgICAgICAgICB9CiAgICAgICAgICByZXR1cm4gYXZhdGFyOwogICAgICAgIH0sCiAgICAgICAgc2V0KGF2YXRhcikgewogICAgICAgICAgaWYgKGF2YXRhcikgewogICAgICAgICAgICBjb25zdCB1cmxPYmplY3QgPSB1cmwucGFyc2UoYXZhdGFyKTsKICAgICAgICAgICAgdGhpcy5zZXREYXRhVmFsdWUoJ2F2YXRhcicsIHVybE9iamVjdC5wYXRoKTsKICAgICAgICAgIH0KICAgICAgICB9CiAgICAgIH0sCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>is-</last-search>
+      <last-search>config</last-search>
       <last-offset />
-      <last-pattern>is-</last-pattern>
+      <last-pattern>config</last-pattern>
       <last-replace>AutoAccept</last-replace>
       <last-substitute>Boom</last-substitute>
       <last-dir>1</last-dir>
@@ -790,7 +797,6 @@
     </search>
     <history>
       <history-search>
-        <entry>isAdmin</entry>
         <entry>merge-clone</entry>
         <entry>\.invite</entry>
         <entry>sendEmail</entry>
@@ -810,6 +816,7 @@
         <entry encoding="base64">IA==</entry>
         <entry>)</entry>
         <entry>is-</entry>
+        <entry>config</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0h0bWxFbi9IdG1sRnIvZw==</entry>
