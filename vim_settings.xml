@@ -455,12 +455,12 @@
         <mark key="^" line="67" column="57" />
         <mark key="." line="67" column="57" />
       </file>
-      <file name="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/routes.js" timestamp="1491169949825">
-        <mark key="'" line="37" column="13" />
-        <mark key="[" line="37" column="49" />
-        <mark key="]" line="37" column="48" />
-        <mark key="^" line="37" column="48" />
-        <mark key="." line="37" column="48" />
+      <file name="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/routes.js" timestamp="1491172109170">
+        <mark key="'" line="92" column="45" />
+        <mark key="[" line="102" column="90" />
+        <mark key="]" line="102" column="90" />
+        <mark key="^" line="102" column="90" />
+        <mark key="." line="102" column="90" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-partner-unknown-action-html-en.html" timestamp="1490294471163">
         <mark key="[" line="15" column="24" />
@@ -587,7 +587,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="23" filename="$USER_HOME$/invite-api/src/services/permission.service.js" />
       <jump line="68" column="32" filename="$USER_HOME$/invite-api/src/services/permission.service.js" />
       <jump line="87" column="29" filename="$USER_HOME$/invite-api/src/services/permission.service.js" />
       <jump line="88" column="5" filename="$USER_HOME$/invite-api/src/services/permission.service.js" />
@@ -687,6 +686,7 @@
       <jump line="2" column="0" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/handlers/split.handler.js" />
       <jump line="69" column="68" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/routes.js" />
       <jump line="37" column="13" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/routes.js" />
+      <jump line="92" column="45" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/routes.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -707,39 +707,42 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>Update</text>
+        <text>createPurchasedTicketInvite</text>
       </register>
       <register name="-" type="4">
-        <text>Update</text>
+        <text>CrudHandler</text>
       </register>
       <register name="/" type="4">
-        <text>T</text>
+        <text>C</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgdmFsaWRhdGlvbjogbmV3IE1pZGRsZW1hbkludGVyZmFjZUhhbmRsZXIuZ2V0VXBkYXRlVGlja2V0UHVyY2hhc2VWYWxpZGF0aW9uKCkK</text>
+      <register name="0" type="4">
+        <text>createPurchasedTicketInvite</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgLy8gVE9ETzogQXV0aAo=</text>
+      </register>
+      <register name="2" type="4">
         <text>Update</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">aW1wb3J0IEpvaSBmcm9tICdqb2knOwo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIHJlcGx5KCdzcGxpdCcpOwo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>request, reply</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CiAgICAgICAgICByZWxhdGlvbnNoaXBzOgo=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>Joi.object({
             conference: Joi.object({
               data: Joi.object({
@@ -749,20 +752,17 @@
             })
           })</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZW1haWw6IEpvaS5zdHJpbmcoKS5lbWFpbCgpLnJlcXVpcmVkKCkKICAgICAgICAgIH0pLAo=</text>
-      </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>T</last-search>
+      <last-search>C</last-search>
       <last-offset />
-      <last-pattern>T</last-pattern>
+      <last-pattern>C</last-pattern>
       <last-replace>AutoAccept</last-replace>
       <last-substitute>Boom</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -784,9 +784,9 @@
         <entry>B</entry>
         <entry>I</entry>
         <entry>)</entry>
-        <entry>C</entry>
         <entry>U</entry>
         <entry>T</entry>
+        <entry>C</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0h0bWxFbi9IdG1sRnIvZw==</entry>
