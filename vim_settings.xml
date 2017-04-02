@@ -348,12 +348,11 @@
         <mark key="." line="62" column="0" />
         <mark key="^" line="196" column="2" />
       </file>
-      <file name="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/handlers/ticket-purchase-crud.handler.js" timestamp="1491164538702">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="53" column="33" />
-        <mark key="]" line="53" column="42" />
-        <mark key="." line="53" column="42" />
-        <mark key="^" line="53" column="42" />
+      <file name="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/handlers/ticket-purchase-crud.handler.js" timestamp="1491167847816">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+        <mark key="^" line="55" column="6" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference/templates/invited-html-fr.html" timestamp="1489897975726">
         <mark key="[" line="13" column="0" />
@@ -675,8 +674,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="158" column="20" filename="$USER_HOME$/invite-api/src/modules/conference-invite/handlers/workflow.handler.js" />
-      <jump line="256" column="57" filename="$USER_HOME$/invite-api/src/modules/conference-invite/handlers/workflow.handler.js" />
       <jump line="50" column="0" filename="$USER_HOME$/invite-api/src/services/permission.service.js" />
       <jump line="92" column="0" filename="$USER_HOME$/invite-api/src/services/permission.service.js" />
       <jump line="33" column="10" filename="$USER_HOME$/invite-api/src/services/permission.service.js" />
@@ -775,6 +772,8 @@
       <jump line="102" column="87" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/routes.js" />
       <jump line="22" column="30" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/handlers/middleman-interface.handler.js" />
       <jump line="24" column="46" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/handlers/middleman-interface.handler.js" />
+      <jump line="27" column="51" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/handlers/ticket-purchase-crud.handler.js" />
+      <jump line="29" column="25" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/handlers/ticket-purchase-crud.handler.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -794,53 +793,60 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>_VALIDATE_ATTRIBUTES</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CiAgICAgICAgICByZWxhdGlvbnNoaXBzOgo=</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>ATTRIBUTES</text>
       </register>
       <register name="/" type="4">
-        <text>'</text>
+        <text>{</text>
       </register>
       <register name="0" type="4">
         <text>_VALIDATE_ATTRIBUTES</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">CiAgICAgICAgICByZWxhdGlvbnNoaXBzOgo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>Joi.object({
+            conference: Joi.object({
+              data: Joi.object({
+                type: Joi.string().valid('conferences').required(),
+                id: Joi.string().uuid().required()
+              })
+            })
+          })</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZW1haWw6IEpvaS5zdHJpbmcoKS5lbWFpbCgpLnJlcXVpcmVkKCkKICAgICAgICAgIH0pLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJlcGx5KCdDUkVBVEUnKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="5" type="4">
-        <text>middleman-interface</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="8">
-        <text encoding="base64">ICAKICAKICAKICA=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHJlcGx5KCdDUkVBVEUnKTsK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      <register name="8" type="4">
+        <text>middleman-interface</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwYXlsb2FkOiB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>'</last-search>
+      <last-search>{</last-search>
       <last-offset />
-      <last-pattern>'</last-pattern>
+      <last-pattern>{</last-pattern>
       <last-replace>AutoAccept</last-replace>
       <last-substitute>Boom</last-substitute>
       <last-dir>1</last-dir>
@@ -848,7 +854,6 @@
     </search>
     <history>
       <history-search>
-        <entry>debugg</entry>
         <entry>debugger</entry>
         <entry>sendingUser</entry>
         <entry>sender</entry>
@@ -859,7 +864,6 @@
         <entry>)</entry>
         <entry>is-</entry>
         <entry>config</entry>
-        <entry>{</entry>
         <entry>u</entry>
         <entry>B</entry>
         <entry>H</entry>
@@ -868,6 +872,8 @@
         <entry>new</entry>
         <entry>,</entry>
         <entry>'</entry>
+        <entry>A</entry>
+        <entry>{</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0h0bWxFbi9IdG1sRnIvZw==</entry>
