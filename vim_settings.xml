@@ -517,12 +517,12 @@
         <mark key="^" line="67" column="57" />
         <mark key="." line="67" column="57" />
       </file>
-      <file name="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/routes.js" timestamp="1491088361620">
-        <mark key="'" line="26" column="66" />
-        <mark key="[" line="27" column="60" />
-        <mark key="]" line="27" column="74" />
-        <mark key="." line="27" column="74" />
-        <mark key="^" line="27" column="74" />
+      <file name="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/routes.js" timestamp="1491150204162">
+        <mark key="'" line="1" column="80" />
+        <mark key="[" line="1" column="65" />
+        <mark key="]" line="1" column="65" />
+        <mark key="." line="1" column="65" />
+        <mark key="^" line="1" column="80" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-partner-unknown-action-html-en.html" timestamp="1490294471163">
         <mark key="[" line="15" column="24" />
@@ -664,8 +664,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="100" column="27" filename="$USER_HOME$/invite-api/src/modules/conference-invite/handlers/workflow.handler.js" />
-      <jump line="150" column="27" filename="$USER_HOME$/invite-api/src/modules/conference-invite/handlers/workflow.handler.js" />
       <jump line="18" column="2" filename="$USER_HOME$/invite-api/src/modules/conference-invite/handlers/workflow.handler.js" />
       <jump line="46" column="27" filename="$USER_HOME$/invite-api/src/modules/conference-invite/handlers/workflow.handler.js" />
       <jump line="99" column="27" filename="$USER_HOME$/invite-api/src/modules/conference-invite/handlers/workflow.handler.js" />
@@ -764,6 +762,8 @@
       <jump line="7" column="3" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/handlers/middleman-interface.handler.js" />
       <jump line="17" column="86" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/routes.js" />
       <jump line="26" column="66" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/routes.js" />
+      <jump line="36" column="33" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/routes.js" />
+      <jump line="1" column="80" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/routes.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -783,53 +783,53 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IFVwZGF0ZVRpY2tldFB1cmNoYXNlSGFuZGxlciBmcm9tICcuL2hhbmRsZXJzL3VwZGF0ZS10aWNrZXQtcHVyY2hhc2UuaGFuZGxlcic7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>Handler</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>new</text>
+        <text>s-</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IEJhc2VIYW5kbGVyIGZyb20gJ0AvbW9kdWxlcy9jb3JlL2Jhc2UtaGFuZGxlcic7CgpleHBvcnQgZGVmYXVsdCBjbGFzcyBleHRlbmRzIEJhc2VIYW5kbGVyIHsKICBzaG93QnlJZChyZXF1ZXN0LCByZXBseSkgewogICAgc3VwZXIuc2hvd0J5SWQocmVxdWVzdCwgcmVwbHkpOwogIH0KCiAgY3JlYXRlKHJlcXVlc3QsIHJlcGx5KSB7CiAgICBzdXBlci5jcmVhdGUocmVxdWVzdCwgcmVwbHkpOwogIH0KCiAgdXBkYXRlQnlJZChyZXF1ZXN0LCByZXBseSkgewogICAgc3VwZXIuY3JlYXRlKHJlcXVlc3QsIHJlcGx5KTsKICB9CgogIGRlbGV0ZUJ5SWQocmVxdWVzdCwgcmVwbHkpIHsKICAgIHN1cGVyLmRlbGV0ZUJ5SWQocmVxdWVzdCwgcmVwbHkpOwogIH0KfQo=</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IFRpY2tldFB1cmNoYXNlc0NydWRIYW5kbGVyIGZyb20gJy4vaGFuZGxlcnMvdGlja2V0LXB1cmNoYXNlcy1jcnVkLmhhbmRsZXInOwo=</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">aW1wb3J0IFVwZGF0ZVRpY2tldFB1cmNoYXNlSGFuZGxlciBmcm9tICcuL2hhbmRsZXJzL3VwZGF0ZS10aWNrZXQtcHVyY2hhc2UuaGFuZGxlcic7Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>UpdateTicketPurchase</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IEJhc2VIYW5kbGVyIGZyb20gJy4uLy4uL2NvcmUvYmFzZS1oYW5kbGVyJzsKCmV4cG9ydCBkZWZhdWx0IGNsYXNzIGV4dGVuZHMgQmFzZUhhbmRsZXIgewogIGRvVGlja2V0UHVyY2hhc2VDcnVkKHJlcXVlc3QsIHJlcGx5KSB7CiAgICByZXBseSgndGlja2V0LXB1cmNoYXNlLWNydWQnKTsKICB9Cn0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IEJhc2VIYW5kbGVyIGZyb20gJy4uLy4uL2NvcmUvYmFzZS1oYW5kbGVyJzsKCmV4cG9ydCBkZWZhdWx0IGNsYXNzIGV4dGVuZHMgQmFzZUhhbmRsZXIgewogIGRvUHVyY2hhc2VkVGlja2V0SW52aXRlQ3J1ZChyZXF1ZXN0LCByZXBseSkgewogICAgcmVwbHkoJ3B1cmNoYXNlZC10aWNrZXQtaW52aXRlLWNydWQnKTsKICB9Cn0K</text>
+        <text encoding="base64">aW1wb3J0IEJhc2VIYW5kbGVyIGZyb20gJy4uLy4uL2NvcmUvYmFzZS1oYW5kbGVyJzsKCmV4cG9ydCBkZWZhdWx0IGNsYXNzIGV4dGVuZHMgQmFzZUhhbmRsZXIgewogIGRvVGlja2V0UHVyY2hhc2VDcnVkKHJlcXVlc3QsIHJlcGx5KSB7CiAgICByZXBseSgndGlja2V0LXB1cmNoYXNlLWNydWQnKTsKICB9Cn0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBkb1B1cmNoYXNlZFRpY2tldChyZXF1ZXN0LCByZXBseSkgewogICAgcmVwbHkoJ3B1cmNoYXNlZC10aWNrZXQnKTsKICB9Cg==</text>
+        <text encoding="base64">aW1wb3J0IEJhc2VIYW5kbGVyIGZyb20gJy4uLy4uL2NvcmUvYmFzZS1oYW5kbGVyJzsKCmV4cG9ydCBkZWZhdWx0IGNsYXNzIGV4dGVuZHMgQmFzZUhhbmRsZXIgewogIGRvUHVyY2hhc2VkVGlja2V0SW52aXRlQ3J1ZChyZXF1ZXN0LCByZXBseSkgewogICAgcmVwbHkoJ3B1cmNoYXNlZC10aWNrZXQtaW52aXRlLWNydWQnKTsKICB9Cn0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhbGxvd051bGw6IGZhbHNlCg==</text>
+        <text encoding="base64">ICBkb1B1cmNoYXNlZFRpY2tldChyZXF1ZXN0LCByZXBseSkgewogICAgcmVwbHkoJ3B1cmNoYXNlZC10aWNrZXQnKTsKICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBhbGxvd051bGw6IGZhbHNlCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>new</last-search>
+      <last-search>s-</last-search>
       <last-offset />
-      <last-pattern>new</last-pattern>
+      <last-pattern>s-</last-pattern>
       <last-replace>AutoAccept</last-replace>
       <last-substitute>Boom</last-substitute>
       <last-dir>-1</last-dir>
@@ -837,8 +837,6 @@
     </search>
     <history>
       <history-search>
-        <entry>They</entry>
-        <entry>\.row</entry>
         <entry encoding="base64">XDxfaW5qZWN0VGVtcGxhdGVWYXJpYWJsZXNcPg==</entry>
         <entry>debug</entry>
         <entry>debugg</entry>
@@ -857,6 +855,8 @@
         <entry>B</entry>
         <entry>H</entry>
         <entry>new</entry>
+        <entry>sC</entry>
+        <entry>s-</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0h0bWxFbi9IdG1sRnIvZw==</entry>
