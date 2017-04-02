@@ -172,6 +172,10 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/~working0/c2/invite-api/src/modules/core/base-handler.js" timestamp="1491164462440">
+        <mark key="[" line="176" column="2" />
+        <mark key="]" line="176" column="21" />
+      </file>
       <file name="$USER_HOME$/invite-api/db/migrations/20170317204023-create-email-columns-on-conference.js" timestamp="1489790246300">
         <mark key="'" line="124" column="6" />
         <mark key="[" line="124" column="32" />
@@ -231,12 +235,12 @@
         <mark key="." line="150" column="26" />
         <mark key="^" line="150" column="26" />
       </file>
-      <file name="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/handlers/middleman-interface.handler.js" timestamp="1491162510148">
-        <mark key="'" line="27" column="46" />
-        <mark key="[" line="12" column="8" />
-        <mark key="]" line="12" column="8" />
-        <mark key="^" line="34" column="33" />
-        <mark key="." line="12" column="8" />
+      <file name="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/handlers/middleman-interface.handler.js" timestamp="1491164085545">
+        <mark key="'" line="34" column="46" />
+        <mark key="[" line="49" column="25" />
+        <mark key="]" line="49" column="30" />
+        <mark key="." line="49" column="30" />
+        <mark key="^" line="49" column="30" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-cancel-on-behalf-html-en.html" timestamp="1490109442477">
         <mark key="[" line="9" column="0" />
@@ -344,11 +348,12 @@
         <mark key="." line="62" column="0" />
         <mark key="^" line="196" column="2" />
       </file>
-      <file name="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/handlers/ticket-purchase-crud.handler.js" timestamp="1491086642459">
+      <file name="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/handlers/ticket-purchase-crud.handler.js" timestamp="1491164538702">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+        <mark key="[" line="53" column="33" />
+        <mark key="]" line="53" column="42" />
+        <mark key="." line="53" column="42" />
+        <mark key="^" line="53" column="42" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference/templates/invited-html-fr.html" timestamp="1489897975726">
         <mark key="[" line="13" column="0" />
@@ -789,53 +794,53 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="8">
-        <text encoding="base64">ICAKICAKICAKICA=</text>
+      <register name="&quot;" type="4">
+        <text>_VALIDATE_ATTRIBUTES</text>
       </register>
       <register name="-" type="4">
-        <text>.valid(externalSourceTypes)</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>,</text>
+        <text>'</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgcGF5bG9hZDogewogICAgICAgIGV4dGVybmFsU291cmNlVHlwZTogSm9pLnN0cmluZygpLAogICAgICAgIGV4dGVybmFsU291cmNlSWQ6IEpvaS5hbnkoKSwKICAgICAgICBjb25mZXJlbmNlSWQ6IEpvaS5zdHJpbmcoKS51dWlkKCksCiAgICAgICAgZW1haWw6IEpvaS5zdHJpbmcoKS5lbWFpbCgpCiAgICAgIH0K</text>
+      <register name="0" type="4">
+        <text>_VALIDATE_ATTRIBUTES</text>
       </register>
-      <register name="1" type="8">
-        <text encoding="base64">ICAKICAKICAKICA=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwYXlsb2FkOiB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJlcGx5KCdDUkVBVEUnKTsK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhOiBKb2kub2JqZWN0KHsKICAgICAgICAgIHR5cGU6ICIiCiAgICAgICAgfSkK</text>
+      <register name="5" type="4">
+        <text>middleman-interface</text>
       </register>
-      <register name="6" type="4">
-        <text>.valid(externalSourceTypes)</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="7" type="4">
-        <text>.valid(externalSourceTypes)</text>
+      <register name="7" type="8">
+        <text encoding="base64">ICAKICAKICAKICA=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGV4dGVybmFsU291cmNlVHlwZXMgZnJvbSAnLi4vZXh0ZXJuYWwtc291cmNlLXR5cGVzJzsK</text>
+        <text encoding="base64">ICAgICAgICBwYXlsb2FkOiB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>,</last-search>
+      <last-search>'</last-search>
       <last-offset />
-      <last-pattern>,</last-pattern>
+      <last-pattern>'</last-pattern>
       <last-replace>AutoAccept</last-replace>
       <last-substitute>Boom</last-substitute>
       <last-dir>1</last-dir>
@@ -843,7 +848,6 @@
     </search>
     <history>
       <history-search>
-        <entry>debug</entry>
         <entry>debugg</entry>
         <entry>debugger</entry>
         <entry>sendingUser</entry>
@@ -863,6 +867,7 @@
         <entry>s-</entry>
         <entry>new</entry>
         <entry>,</entry>
+        <entry>'</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0h0bWxFbi9IdG1sRnIvZw==</entry>
