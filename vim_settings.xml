@@ -517,12 +517,12 @@
         <mark key="^" line="67" column="57" />
         <mark key="." line="67" column="57" />
       </file>
-      <file name="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/routes.js" timestamp="1491150204162">
-        <mark key="'" line="1" column="80" />
-        <mark key="[" line="1" column="65" />
-        <mark key="]" line="1" column="65" />
-        <mark key="." line="1" column="65" />
-        <mark key="^" line="1" column="80" />
+      <file name="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/routes.js" timestamp="1491151736289">
+        <mark key="'" line="102" column="87" />
+        <mark key="[" line="103" column="81" />
+        <mark key="]" line="103" column="95" />
+        <mark key="." line="103" column="95" />
+        <mark key="^" line="103" column="95" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-partner-unknown-action-html-en.html" timestamp="1490294471163">
         <mark key="[" line="15" column="24" />
@@ -664,12 +664,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="2" filename="$USER_HOME$/invite-api/src/modules/conference-invite/handlers/workflow.handler.js" />
-      <jump line="46" column="27" filename="$USER_HOME$/invite-api/src/modules/conference-invite/handlers/workflow.handler.js" />
-      <jump line="99" column="27" filename="$USER_HOME$/invite-api/src/modules/conference-invite/handlers/workflow.handler.js" />
-      <jump line="149" column="27" filename="$USER_HOME$/invite-api/src/modules/conference-invite/handlers/workflow.handler.js" />
-      <jump line="19" column="0" filename="$USER_HOME$/invite-api/src/modules/conference-invite/handlers/workflow.handler.js" />
-      <jump line="54" column="20" filename="$USER_HOME$/invite-api/src/modules/conference-invite/handlers/workflow.handler.js" />
       <jump line="55" column="23" filename="$USER_HOME$/invite-api/src/modules/conference-invite/handlers/workflow.handler.js" />
       <jump line="108" column="20" filename="$USER_HOME$/invite-api/src/modules/conference-invite/handlers/workflow.handler.js" />
       <jump line="158" column="20" filename="$USER_HOME$/invite-api/src/modules/conference-invite/handlers/workflow.handler.js" />
@@ -764,6 +758,12 @@
       <jump line="26" column="66" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/routes.js" />
       <jump line="36" column="33" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/routes.js" />
       <jump line="1" column="80" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/routes.js" />
+      <jump line="47" column="70" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/routes.js" />
+      <jump line="56" column="70" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/routes.js" />
+      <jump line="65" column="57" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/routes.js" />
+      <jump line="84" column="80" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/routes.js" />
+      <jump line="93" column="84" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/routes.js" />
+      <jump line="102" column="87" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/routes.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -790,7 +790,7 @@
         <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>s-</text>
+        <text>new</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IEJhc2VIYW5kbGVyIGZyb20gJ0AvbW9kdWxlcy9jb3JlL2Jhc2UtaGFuZGxlcic7CgpleHBvcnQgZGVmYXVsdCBjbGFzcyBleHRlbmRzIEJhc2VIYW5kbGVyIHsKICBzaG93QnlJZChyZXF1ZXN0LCByZXBseSkgewogICAgc3VwZXIuc2hvd0J5SWQocmVxdWVzdCwgcmVwbHkpOwogIH0KCiAgY3JlYXRlKHJlcXVlc3QsIHJlcGx5KSB7CiAgICBzdXBlci5jcmVhdGUocmVxdWVzdCwgcmVwbHkpOwogIH0KCiAgdXBkYXRlQnlJZChyZXF1ZXN0LCByZXBseSkgewogICAgc3VwZXIuY3JlYXRlKHJlcXVlc3QsIHJlcGx5KTsKICB9CgogIGRlbGV0ZUJ5SWQocmVxdWVzdCwgcmVwbHkpIHsKICAgIHN1cGVyLmRlbGV0ZUJ5SWQocmVxdWVzdCwgcmVwbHkpOwogIH0KfQo=</text>
@@ -827,9 +827,9 @@
       </register>
     </registers>
     <search>
-      <last-search>s-</last-search>
+      <last-search>new</last-search>
       <last-offset />
-      <last-pattern>s-</last-pattern>
+      <last-pattern>new</last-pattern>
       <last-replace>AutoAccept</last-replace>
       <last-substitute>Boom</last-substitute>
       <last-dir>-1</last-dir>
@@ -854,9 +854,9 @@
         <entry>u</entry>
         <entry>B</entry>
         <entry>H</entry>
-        <entry>new</entry>
         <entry>sC</entry>
         <entry>s-</entry>
+        <entry>new</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0h0bWxFbi9IdG1sRnIvZw==</entry>
