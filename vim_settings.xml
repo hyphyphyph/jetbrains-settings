@@ -654,12 +654,11 @@
         <mark key="." line="109" column="30" />
         <mark key="^" line="109" column="30" />
       </file>
-      <file name="$USER_HOME$/~working0/c2/invite-api/src/modules/conference-invite/handlers/workflow.handler.js" timestamp="1491240722022">
-        <mark key="'" line="161" column="0" />
-        <mark key="[" line="64" column="32" />
-        <mark key="]" line="65" column="23" />
-        <mark key="." line="65" column="23" />
-        <mark key="^" line="65" column="23" />
+      <file name="$USER_HOME$/~working0/c2/invite-api/src/modules/conference-invite/handlers/workflow.handler.js" timestamp="1491241329391">
+        <mark key="'" line="160" column="0" />
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
       </file>
       <file name="$USER_HOME$/~working0/c2/invite-api/src/models/conference-invite.model.js" timestamp="1491240682019">
         <mark key="[" line="166" column="35" />
@@ -849,25 +848,25 @@
         <text encoding="base64">ICAgICAgLmNhdGNoKGNvbnNvbGUubG9nKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRoaXMuX2dldENvbmZlcmVuY2UoaWQpCg==</text>
+        <text encoding="base64">ICAgICAgLmNhdGNoKGNvbnNvbGUubG9nKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLnRoZW4oKCkgPT4gewogICAgICAgIGRlYnVnZ2VyOwogICAgICB9KQo=</text>
+        <text encoding="base64">ICAgIHRoaXMuX2dldENvbmZlcmVuY2UoaWQpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLmNhdGNoKCgpID0+IHsKICAgICAgICBkZWJ1Z2dlcjsKICAgICAgfSkK</text>
+        <text encoding="base64">ICAgICAgLnRoZW4oKCkgPT4gewogICAgICAgIGRlYnVnZ2VyOwogICAgICB9KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZGVidWdnZXIoKQo=</text>
+        <text encoding="base64">ICAgICAgLmNhdGNoKCgpID0+IHsKICAgICAgICBkZWJ1Z2dlcjsKICAgICAgfSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
+        <text encoding="base64">ICAgICAgZGVidWdnZXIoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLmNhdGNoKCkK</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAogICAgdGhpcy5fZ2V0Q29uZmVyZW5jZShjb25mZXJlbmNlSWQpCg==</text>
+        <text encoding="base64">ICAgICAgLmNhdGNoKCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
