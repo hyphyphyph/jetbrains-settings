@@ -654,6 +654,19 @@
         <mark key="." line="109" column="30" />
         <mark key="^" line="109" column="30" />
       </file>
+      <file name="$USER_HOME$/~working0/c2/invite-api/src/modules/conference-invite/handlers/workflow.handler.js" timestamp="1491240722022">
+        <mark key="'" line="161" column="0" />
+        <mark key="[" line="64" column="32" />
+        <mark key="]" line="65" column="23" />
+        <mark key="." line="65" column="23" />
+        <mark key="^" line="65" column="23" />
+      </file>
+      <file name="$USER_HOME$/~working0/c2/invite-api/src/models/conference-invite.model.js" timestamp="1491240682019">
+        <mark key="[" line="166" column="35" />
+        <mark key="]" line="166" column="35" />
+        <mark key="^" line="166" column="35" />
+        <mark key="." line="166" column="35" />
+      </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-resend-html-en.html" timestamp="1490639249881">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="17" column="10" />
@@ -698,9 +711,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="522" column="12" filename="$USER_HOME$/invite-api/src/modules/conference-invite/services/workflow.service.js" />
-      <jump line="500" column="0" filename="$USER_HOME$/invite-api/src/modules/conference-invite/services/workflow.service.js" />
-      <jump line="490" column="32" filename="$USER_HOME$/invite-api/src/modules/conference-invite/services/workflow.service.js" />
       <jump line="502" column="21" filename="$USER_HOME$/invite-api/src/modules/conference-invite/services/workflow.service.js" />
       <jump line="485" column="12" filename="$USER_HOME$/invite-api/src/modules/conference-invite/services/workflow.service.js" />
       <jump line="293" column="27" filename="$USER_HOME$/invite-api/src/modules/conference-invite/services/workflow.service.js" />
@@ -798,6 +808,9 @@
       <jump line="8" column="17" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/services/invite.service.js" />
       <jump line="20" column="0" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/pass/handlers/pass-crud.handler.js" />
       <jump line="104" column="26" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/pass/handlers/pass-crud.handler.js" />
+      <jump line="31" column="2" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/conference-invite/handlers/workflow.handler.js" />
+      <jump line="139" column="45" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/conference-invite/handlers/workflow.handler.js" />
+      <jump line="160" column="0" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/conference-invite/handlers/workflow.handler.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -824,7 +837,7 @@
         <text>then</text>
       </register>
       <register name="/" type="4">
-        <text>delete</text>
+        <text>handleResend</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgLnRoZW4oKCkgPT4gewogICAgICAgIGRlYnVnZ2VyOwogICAgICB9KQo=</text>
@@ -833,37 +846,37 @@
         <text encoding="base64">ICAgICAgLmNhdGNoKGNvbnNvbGUubG9nKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRoaXMuX2dldENvbmZlcmVuY2UoaWQpCg==</text>
+        <text encoding="base64">ICAgICAgLmNhdGNoKGNvbnNvbGUubG9nKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLnRoZW4oKCkgPT4gewogICAgICAgIGRlYnVnZ2VyOwogICAgICB9KQo=</text>
+        <text encoding="base64">ICAgIHRoaXMuX2dldENvbmZlcmVuY2UoaWQpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLmNhdGNoKCgpID0+IHsKICAgICAgICBkZWJ1Z2dlcjsKICAgICAgfSkK</text>
+        <text encoding="base64">ICAgICAgLnRoZW4oKCkgPT4gewogICAgICAgIGRlYnVnZ2VyOwogICAgICB9KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZGVidWdnZXIoKQo=</text>
+        <text encoding="base64">ICAgICAgLmNhdGNoKCgpID0+IHsKICAgICAgICBkZWJ1Z2dlcjsKICAgICAgfSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
+        <text encoding="base64">ICAgICAgZGVidWdnZXIoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLmNhdGNoKCkK</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAogICAgdGhpcy5fZ2V0Q29uZmVyZW5jZShjb25mZXJlbmNlSWQpCg==</text>
+        <text encoding="base64">ICAgICAgLmNhdGNoKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLnRoZW4oY29uZmVyZW5jZSA9PgogICAgICAgIG5ldyBQZXJtaXNzaW9uU2VydmljZShyZXF1ZXN0LmF1dGguYXJ0aWZhY3RzLnVzZXIpCiAgICAgICAgICAuY2FuQ29uZmVyZW5jZUFkbWluKGNvbmZlcmVuY2UpCiAgICAgICkKICAgICAgLnRoZW4oKCkgPT4gc3VwZXIuZGVsZXRlQnlJZChyZXF1ZXN0LCByZXBseSkpCiAgICAgIC5jYXRjaChlcnIgPT4gcmVwbHkoZXJyLmJvb20oKSkpOwo=</text>
+        <text encoding="base64">ICAgIAogICAgdGhpcy5fZ2V0Q29uZmVyZW5jZShjb25mZXJlbmNlSWQpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>delete</last-search>
+      <last-search>handleResend</last-search>
       <last-offset />
-      <last-pattern>delete</last-pattern>
+      <last-pattern>handleResend</last-pattern>
       <last-replace>AutoAccept</last-replace>
       <last-substitute>Boom</last-substitute>
       <last-dir>1</last-dir>
@@ -871,10 +884,6 @@
     </search>
     <history>
       <history-search>
-        <entry>new</entry>
-        <entry>'</entry>
-        <entry>I</entry>
-        <entry>)</entry>
         <entry>C</entry>
         <entry>up</entry>
         <entry>A</entry>
@@ -891,6 +900,10 @@
         <entry>B</entry>
         <entry>V</entry>
         <entry>delete</entry>
+        <entry>handleCancel</entry>
+        <entry>allocation</entry>
+        <entry>cons</entry>
+        <entry>handleResend</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0h0bWxFbi9UZXh0RnIvZw==</entry>
