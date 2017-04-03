@@ -50,12 +50,11 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/services/middleman-interface.service.js" timestamp="1491251365769">
-        <mark key="'" line="29" column="60" />
-        <mark key="[" line="41" column="59" />
-        <mark key="]" line="41" column="59" />
-        <mark key="^" line="41" column="75" />
-        <mark key="." line="41" column="59" />
+      <file name="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/services/middleman-interface.service.js" timestamp="1491256335592">
+        <mark key="[" line="66" column="7" />
+        <mark key="]" line="67" column="3" />
+        <mark key="." line="67" column="3" />
+        <mark key="^" line="67" column="3" />
       </file>
       <file name="$USER_HOME$/invite-api/src/index.js" timestamp="1490626385257">
         <mark key="[" line="10" column="0" />
@@ -249,12 +248,12 @@
         <mark key="." line="150" column="26" />
         <mark key="^" line="150" column="26" />
       </file>
-      <file name="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/handlers/middleman-interface.handler.js" timestamp="1491251371876">
-        <mark key="'" line="73" column="70" />
-        <mark key="[" line="75" column="25" />
-        <mark key="]" line="75" column="23" />
-        <mark key="." line="75" column="23" />
-        <mark key="^" line="75" column="23" />
+      <file name="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/handlers/middleman-interface.handler.js" timestamp="1491256132844">
+        <mark key="'" line="50" column="2" />
+        <mark key="[" line="83" column="39" />
+        <mark key="]" line="83" column="38" />
+        <mark key="." line="83" column="38" />
+        <mark key="^" line="83" column="38" />
       </file>
       <file name="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/services/emal.service.js" timestamp="1491178516268">
         <mark key="[" line="2" column="0" />
@@ -551,12 +550,12 @@
         <mark key="^" line="67" column="57" />
         <mark key="." line="67" column="57" />
       </file>
-      <file name="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/routes.js" timestamp="1491177563574">
+      <file name="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/routes.js" timestamp="1491256143127">
         <mark key="'" line="125" column="87" />
-        <mark key="[" line="36" column="60" />
-        <mark key="]" line="36" column="63" />
-        <mark key="^" line="36" column="63" />
-        <mark key="." line="36" column="63" />
+        <mark key="[" line="30" column="16" />
+        <mark key="]" line="30" column="15" />
+        <mark key="^" line="30" column="15" />
+        <mark key="." line="30" column="15" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-partner-unknown-action-html-en.html" timestamp="1490294471163">
         <mark key="[" line="15" column="24" />
@@ -644,7 +643,7 @@
         <mark key="." line="87" column="33" />
         <mark key="^" line="87" column="33" />
       </file>
-      <file name="/Dummy.txt" timestamp="1491249653331">
+      <file name="/Dummy.txt" timestamp="1491256210115">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="20" />
       </file>
@@ -712,10 +711,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="130" column="25" filename="$USER_HOME$/invite-api/src/modules/conference-invite/services/workflow.service.js" />
-      <jump line="192" column="25" filename="$USER_HOME$/invite-api/src/modules/conference-invite/services/workflow.service.js" />
-      <jump line="254" column="25" filename="$USER_HOME$/invite-api/src/modules/conference-invite/services/workflow.service.js" />
-      <jump line="310" column="25" filename="$USER_HOME$/invite-api/src/modules/conference-invite/services/workflow.service.js" />
       <jump line="369" column="25" filename="$USER_HOME$/invite-api/src/modules/conference-invite/services/workflow.service.js" />
       <jump line="513" column="2" filename="$USER_HOME$/invite-api/src/modules/conference-invite/services/workflow.service.js" />
       <jump line="514" column="0" filename="$USER_HOME$/invite-api/src/modules/conference-invite/services/workflow.service.js" />
@@ -812,6 +807,10 @@
       <jump line="35" column="25" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/handlers/middleman-interface.handler.js" />
       <jump line="70" column="70" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/handlers/middleman-interface.handler.js" />
       <jump line="29" column="60" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/services/middleman-interface.service.js" />
+      <jump line="50" column="2" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/handlers/middleman-interface.handler.js" />
+      <jump line="34" column="48" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/services/middleman-interface.service.js" />
+      <jump line="72" column="27" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/services/middleman-interface.service.js" />
+      <jump line="35" column="0" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/services/middleman-interface.service.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -831,53 +830,53 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXF1ZXN0LnBheWxvYWQK</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>, purchaseInfo</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>T</text>
+        <text>{</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICB1cGRhdGVUaWNrZXRQdXJjaGFzZShleHRlcm5hbFNvdXJjZVR5cGUsIGV4dGVybmFsU291cmNlSWQsIHB1cmNoYXNlSW5mbykgewogICAgdGhpcwogICAgICAuX2dldENvbmZlcmVuY2UocHVyY2hhc2VJbmZvLm1pZGRsZW1hbkV2ZW50TmFtZSkKICAgICAgLnRoZW4oY29uZmVyZW5jZSA9PiBtb2RlbHMuVGlja2V0UHVyY2hhc2UuY3JlYXRlKHsKICAgICAgICBleHRlcm5hbFNvdXJjZVR5cGU6IHB1cmNoYXNlSW5mby5leHRlcm5hbFNvdXJjZVR5cGUsCiAgICAgICAgZXh0ZXJuYWxTb3VyY2VJZDogcHVyY2hhc2VJbmZvLmV4dGVybmFsU291cmNlSWQsCgogICAgICAgIGNvbmZlcmVuY2VJZDogY29uZmVyZW5jZS5pZCwKICAgICAgICBlbWFpbDogcHVyY2hhc2VJbmZvLmVtYWlsCiAgICAgIH0pKTsKICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXF1ZXN0LnBheWxvYWQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>update</text>
+      <register name="2" type="2">
+        <text encoding="base64">CiAgICAgIC8vIENyZWF0ZSBQdXJjaGFzZWRUaWNrZXRzCg==</text>
       </register>
-      <register name="3" type="4">
-        <text>update</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgLy8gVE9ETzogTm90IHJlYWxseSBzdXJlIHdoYXQgdG8gcmV0dXJuIGhlcmUuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLnRoZW4oKCkgPT4gcmVwbHkoJ0RFTEVURScpKQogICAgICAuY2F0Y2goZXJyID0+IHJlcGx5KGVyci5ib29tKCkpKTsK</text>
+        <text encoding="base64">ICAgICAgfSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGV4dGVybmFsU291cmNlSWQgPSByZXF1ZXN0LnBhcmFtcy5leHRlcm5hbFNvdXJjZUlkOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>externa</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBsZXQgcHJvbWlzZXMgPSB0aGlzLnRpY2tldFB1cmNoYXNlLmluZm8udGlja2V0cy5tYXAodGlja2V0SW5mbyA9PiB7CiAgICAgICAgICByZXR1cm4gbW9kZWxzLlB1cmNoYXNlZFRpY2tldC5jcmVhdGUoewogICAgICAgICAgICB0aWNrZXRQdXJjaGFzZUlkOiB0aWNrZXRQdXJjaGFzZS5pZCwKICAgICAgICAgICAgaW5mbzogdGlja2V0SW5mbwogICAgICAgICAgfSk7CiAgICAgICAgfSk7CiAgICAgICAgcmV0dXJuIFByb21pc2UuYWxsKHByb21pc2VzKTsK</text>
       </register>
       <register name="7" type="4">
-        <text>create</text>
+        <text>From</text>
       </register>
       <register name="8" type="4">
-        <text>create</text>
+        <text>From</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLnRoZW4oKCkgPT4gcmVwbHkoJ1VQREFURScpKQo=</text>
+      <register name="9" type="4">
+        <text>Purchased</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>T</last-search>
+      <last-search>{</last-search>
       <last-offset />
-      <last-pattern>T</last-pattern>
+      <last-pattern>{</last-pattern>
       <last-replace>AutoAccept</last-replace>
       <last-substitute>Boom</last-substitute>
       <last-dir>1</last-dir>
@@ -885,11 +884,6 @@
     </search>
     <history>
       <history-search>
-        <entry>U</entry>
-        <entry>B</entry>
-        <entry>V</entry>
-        <entry>delete</entry>
-        <entry>handleCancel</entry>
         <entry>allocation</entry>
         <entry>cons</entry>
         <entry>handleResend</entry>
@@ -903,8 +897,13 @@
         <entry>p</entry>
         <entry>Type</entry>
         <entry>update</entry>
-        <entry>{</entry>
+        <entry>Pr</entry>
         <entry>T</entry>
+        <entry>PO</entry>
+        <entry>From</entry>
+        <entry>OP</entry>
+        <entry>P</entry>
+        <entry>{</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0h0bWxFbi9UZXh0RnIvZw==</entry>
