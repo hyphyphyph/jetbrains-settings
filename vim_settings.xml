@@ -248,12 +248,12 @@
         <mark key="." line="150" column="26" />
         <mark key="^" line="150" column="26" />
       </file>
-      <file name="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/handlers/middleman-interface.handler.js" timestamp="1491256132844">
+      <file name="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/handlers/middleman-interface.handler.js" timestamp="1491339529113">
         <mark key="'" line="50" column="2" />
-        <mark key="[" line="83" column="39" />
-        <mark key="]" line="83" column="38" />
-        <mark key="." line="83" column="38" />
-        <mark key="^" line="83" column="38" />
+        <mark key="[" line="10" column="7" />
+        <mark key="]" line="10" column="18" />
+        <mark key="." line="10" column="18" />
+        <mark key="^" line="10" column="18" />
       </file>
       <file name="$USER_HOME$/~working0/c2/invite-api/src/modules/conference-invite/handlers/conference-invite-crud.handler.js" timestamp="1491337942647">
         <mark key="'" line="38" column="24" />
@@ -420,6 +420,13 @@
         <mark key="]" line="108" column="38" />
         <mark key="." line="142" column="74" />
         <mark key="^" line="142" column="74" />
+      </file>
+      <file name="$USER_HOME$/~working0/c2/invite-api/src/services/permission.service.js" timestamp="1491339565448">
+        <mark key="'" line="54" column="2" />
+        <mark key="[" line="122" column="18" />
+        <mark key="]" line="123" column="39" />
+        <mark key="^" line="123" column="39" />
+        <mark key="." line="123" column="39" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/user/templates/registration-text-en.html" timestamp="1489854959007">
         <mark key="'" line="7" column="22" />
@@ -671,7 +678,7 @@
         <mark key="." line="87" column="33" />
         <mark key="^" line="87" column="33" />
       </file>
-      <file name="/Dummy.txt" timestamp="1491323293934">
+      <file name="/Dummy.txt" timestamp="1491339041179">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="20" />
       </file>
@@ -743,8 +750,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/invite-api/src/models/conference-invite.model.js" />
-      <jump line="103" column="19" filename="$USER_HOME$/invite-api/src/models/conference-invite.model.js" />
       <jump line="104" column="27" filename="$USER_HOME$/invite-api/src/models/conference-invite.model.js" />
       <jump line="176" column="21" filename="$USER_HOME$/invite-api/src/models/conference-invite.model.js" />
       <jump line="192" column="75" filename="$USER_HOME$/invite-api/src/models/conference-invite.model.js" />
@@ -843,6 +848,8 @@
       <jump line="32" column="38" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/conference-invite/handlers/conference-invite-crud.handler.js" />
       <jump line="37" column="24" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/conference-invite/handlers/conference-invite-crud.handler.js" />
       <jump line="222" column="8" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/conference-invite/jsonapi/conference-invite.jsonapi.js" />
+      <jump line="123" column="3" filename="$USER_HOME$/~working0/c2/invite-api/src/services/permission.service.js" />
+      <jump line="54" column="2" filename="$USER_HOME$/~working0/c2/invite-api/src/services/permission.service.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -862,14 +869,14 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlIGlmIChhdHRyID09PSAnY29uZmVyZW5jZScpIHsKICAgICAgICAgIHJldHVybiAnY29uZmVyZW5jZXMnOwogICAgICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text>canAdmin</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>canAdmin</text>
       </register>
       <register name="/" type="4">
-        <text>{</text>
+        <text>canAdmin</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgY29uZmVyZW5jZTogewogICAgICAgIGluY2x1ZGU6IGZhbHNlLAogICAgICAgIHJlZjogJ2lkJywKICAgICAgICBpZ25vcmVSZWxhdGlvbnNoaXBEYXRhOiB0cnVlLAogICAgICAgIHJlbGF0aW9uc2hpcExpbmtzOiB7CiAgICAgICAgICBzZWxmOiAocGFzc09wdGlvbikgPT4gYC9jb25mZXJlbmNlcy8ke3Bhc3NPcHRpb24uY29uZmVyZW5jZUlkfWAsCiAgICAgICAgICByZWxhdGVkOiAocGFzc09wdGlvbikgPT4gYC9jb25mZXJlbmNlcy8ke3Bhc3NPcHRpb24uY29uZmVyZW5jZUlkfWAKICAgICAgICB9CiAgICAgIH0K</text>
@@ -906,9 +913,9 @@
       </register>
     </registers>
     <search>
-      <last-search>{</last-search>
+      <last-search>canAdmin</last-search>
       <last-offset />
-      <last-pattern>{</last-pattern>
+      <last-pattern>canAdmin</last-pattern>
       <last-replace>AutoAccept</last-replace>
       <last-substitute>Boom</last-substitute>
       <last-dir>1</last-dir>
@@ -916,7 +923,6 @@
     </search>
     <history>
       <history-search>
-        <entry>find</entry>
         <entry>I</entry>
         <entry>S</entry>
         <entry>t</entry>
@@ -936,6 +942,7 @@
         <entry>,</entry>
         <entry>de</entry>
         <entry>{</entry>
+        <entry>canAdmin</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0h0bWxFbi9UZXh0RnIvZw==</entry>
