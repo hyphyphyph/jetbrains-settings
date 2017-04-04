@@ -514,11 +514,10 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/~working0/c2/invite-client/app/answer-invite/route.js" timestamp="1491333353472">
-        <mark key="[" line="33" column="8" />
-        <mark key="]" line="34" column="14" />
-        <mark key="^" line="34" column="14" />
-        <mark key="." line="34" column="14" />
+      <file name="$USER_HOME$/~working0/c2/invite-client/app/answer-invite/route.js" timestamp="1491334444701">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="70" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-partner-accept-text-en.html" timestamp="1490649312669">
         <mark key="[" line="3" column="0" />
@@ -836,8 +835,8 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBjb25mZXJlbmNlOiB0aGlzLnN0b3JlLnBlZWtBbGwoJ2NvbmZlcmVuY2UnKS5nZXQoJ2ZpcnN0T2JqZWN0JykK</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
@@ -849,31 +848,31 @@
         <text encoding="base64">ICB1cGRhdGVUaWNrZXRQdXJjaGFzZShleHRlcm5hbFNvdXJjZVR5cGUsIGV4dGVybmFsU291cmNlSWQsIHB1cmNoYXNlSW5mbykgewogICAgdGhpcwogICAgICAuX2dldENvbmZlcmVuY2UocHVyY2hhc2VJbmZvLm1pZGRsZW1hbkV2ZW50TmFtZSkKICAgICAgLnRoZW4oY29uZmVyZW5jZSA9PiBtb2RlbHMuVGlja2V0UHVyY2hhc2UuY3JlYXRlKHsKICAgICAgICBleHRlcm5hbFNvdXJjZVR5cGU6IHB1cmNoYXNlSW5mby5leHRlcm5hbFNvdXJjZVR5cGUsCiAgICAgICAgZXh0ZXJuYWxTb3VyY2VJZDogcHVyY2hhc2VJbmZvLmV4dGVybmFsU291cmNlSWQsCgogICAgICAgIGNvbmZlcmVuY2VJZDogY29uZmVyZW5jZS5pZCwKICAgICAgICBlbWFpbDogcHVyY2hhc2VJbmZvLmVtYWlsCiAgICAgIH0pKTsKICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZGVidWdnZXI7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAgIC8vIENyZWF0ZSBQdXJjaGFzZWRUaWNrZXRzCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLy8gVE9ETzogTm90IHJlYWxseSBzdXJlIHdoYXQgdG8gcmV0dXJuIGhlcmUuCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgfSkK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgcHJvbWlzZXMgPSB0aGlzLnRpY2tldFB1cmNoYXNlLmluZm8udGlja2V0cy5tYXAodGlja2V0SW5mbyA9PiB7CiAgICAgICAgICByZXR1cm4gbW9kZWxzLlB1cmNoYXNlZFRpY2tldC5jcmVhdGUoewogICAgICAgICAgICB0aWNrZXRQdXJjaGFzZUlkOiB0aWNrZXRQdXJjaGFzZS5pZCwKICAgICAgICAgICAgaW5mbzogdGlja2V0SW5mbwogICAgICAgICAgfSk7CiAgICAgICAgfSk7CiAgICAgICAgcmV0dXJuIFByb21pc2UuYWxsKHByb21pc2VzKTsK</text>
+      <register name="3" type="2">
+        <text encoding="base64">CiAgICAgIC8vIENyZWF0ZSBQdXJjaGFzZWRUaWNrZXRzCg==</text>
       </register>
-      <register name="7" type="4">
-        <text>From</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgLy8gVE9ETzogTm90IHJlYWxseSBzdXJlIHdoYXQgdG8gcmV0dXJuIGhlcmUuCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgfSkK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBsZXQgcHJvbWlzZXMgPSB0aGlzLnRpY2tldFB1cmNoYXNlLmluZm8udGlja2V0cy5tYXAodGlja2V0SW5mbyA9PiB7CiAgICAgICAgICByZXR1cm4gbW9kZWxzLlB1cmNoYXNlZFRpY2tldC5jcmVhdGUoewogICAgICAgICAgICB0aWNrZXRQdXJjaGFzZUlkOiB0aWNrZXRQdXJjaGFzZS5pZCwKICAgICAgICAgICAgaW5mbzogdGlja2V0SW5mbwogICAgICAgICAgfSk7CiAgICAgICAgfSk7CiAgICAgICAgcmV0dXJuIFByb21pc2UuYWxsKHByb21pc2VzKTsK</text>
       </register>
       <register name="8" type="4">
         <text>From</text>
       </register>
       <register name="9" type="4">
-        <text>Purchased</text>
+        <text>From</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
