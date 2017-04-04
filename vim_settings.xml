@@ -248,9 +248,9 @@
         <mark key="." line="150" column="26" />
         <mark key="^" line="150" column="26" />
       </file>
-      <file name="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/handlers/middleman-interface.handler.js" timestamp="1491339529113">
+      <file name="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/handlers/middleman-interface.handler.js" timestamp="1491341354312">
         <mark key="'" line="50" column="2" />
-        <mark key="[" line="10" column="7" />
+        <mark key="[" line="10" column="10" />
         <mark key="]" line="10" column="18" />
         <mark key="." line="10" column="18" />
         <mark key="^" line="10" column="18" />
@@ -421,12 +421,12 @@
         <mark key="." line="142" column="74" />
         <mark key="^" line="142" column="74" />
       </file>
-      <file name="$USER_HOME$/~working0/c2/invite-api/src/services/permission.service.js" timestamp="1491339565448">
+      <file name="$USER_HOME$/~working0/c2/invite-api/src/services/permission.service.js" timestamp="1491341361542">
         <mark key="'" line="54" column="2" />
-        <mark key="[" line="122" column="18" />
-        <mark key="]" line="123" column="39" />
-        <mark key="^" line="123" column="39" />
-        <mark key="." line="123" column="39" />
+        <mark key="[" line="122" column="16" />
+        <mark key="]" line="123" column="15" />
+        <mark key="^" line="123" column="15" />
+        <mark key="." line="123" column="15" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/user/templates/registration-text-en.html" timestamp="1489854959007">
         <mark key="'" line="7" column="22" />
@@ -870,10 +870,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>canAdmin</text>
+        <text>Admin</text>
       </register>
       <register name="-" type="4">
-        <text>canAdmin</text>
+        <text>Admin</text>
       </register>
       <register name="/" type="4">
         <text>canAdmin</text>
