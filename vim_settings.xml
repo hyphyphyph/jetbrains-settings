@@ -86,11 +86,11 @@
         <mark key="." line="7" column="9" />
         <mark key="^" line="7" column="9" />
       </file>
-      <file name="$USER_HOME$/~working0/c2/invite-client/static.json" timestamp="1491360090013">
-        <mark key="[" line="1" column="13" />
-        <mark key="]" line="1" column="13" />
-        <mark key="^" line="1" column="13" />
-        <mark key="." line="1" column="13" />
+      <file name="$USER_HOME$/~working0/c2/invite-client/static.json" timestamp="1491361329270">
+        <mark key="[" line="1" column="14" />
+        <mark key="]" line="1" column="19" />
+        <mark key="^" line="1" column="19" />
+        <mark key="." line="1" column="19" />
       </file>
       <file name="$USER_HOME$/~working0/c2/invite-api/src/models/ticket-purchase.model.js" timestamp="1491353308372">
         <mark key="'" line="54" column="23" />
@@ -611,7 +611,7 @@
         <mark key="." line="87" column="33" />
         <mark key="^" line="87" column="33" />
       </file>
-      <file name="/Dummy.txt" timestamp="1491360113990">
+      <file name="/Dummy.txt" timestamp="1491361351924">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="20" />
       </file>
