@@ -427,11 +427,11 @@
         <mark key="^" line="88" column="25" />
         <mark key="." line="88" column="25" />
       </file>
-      <file name="$USER_HOME$/~working0/c2/invite-api/src/server.js" timestamp="1491359428857">
-        <mark key="[" line="48" column="27" />
-        <mark key="]" line="48" column="34" />
-        <mark key="." line="48" column="34" />
-        <mark key="^" line="48" column="34" />
+      <file name="$USER_HOME$/~working0/c2/invite-api/src/server.js" timestamp="1491364745471">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
+        <mark key="^" line="50" column="51" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/partner/templates/invited-html-fr.html" timestamp="1489897851738">
         <mark key="[" line="16" column="2" />
@@ -611,7 +611,7 @@
         <mark key="." line="87" column="33" />
         <mark key="^" line="87" column="33" />
       </file>
-      <file name="/Dummy.txt" timestamp="1491361351924">
+      <file name="/Dummy.txt" timestamp="1491364747488">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="20" />
       </file>
@@ -671,8 +671,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="102" column="87" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/routes.js" />
-      <jump line="22" column="30" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/handlers/middleman-interface.handler.js" />
       <jump line="24" column="46" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/handlers/middleman-interface.handler.js" />
       <jump line="27" column="51" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/handlers/ticket-purchase-crud.handler.js" />
       <jump line="29" column="25" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/handlers/ticket-purchase-crud.handler.js" />
@@ -771,6 +769,8 @@
       <jump line="6" column="17" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/services/split.service.js" />
       <jump line="13" column="24" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/services/split.service.js" />
       <jump line="61" column="64" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/services/split.service.js" />
+      <jump line="48" column="12" filename="$USER_HOME$/~working0/c2/invite-api/src/server.js" />
+      <jump line="49" column="32" filename="$USER_HOME$/~working0/c2/invite-api/src/server.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -791,52 +791,52 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBzZXJ2ZXIuZXh0KCdvblJlcXVlc3QnLCAocmVxdWVzdCwgbmV4dCkgPT4gewogICAgY29uc29sZS5sb2cocmVxdWVzdCk7CiAgfSk7Cgo=</text>
+        <text encoding="base64">ICAgICAgICAvLyByZXBseShyZXF1ZXN0LmhlYWRlcnNbJ3gtZm9yd2FyZGVkLXByb3RvJ10pOwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>next</text>
       </register>
       <register name="/" type="4">
-        <text>)</text>
+        <text>]</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ZXhwb3J0IGZ1bmN0aW9uIFVzZXJFcnJvcihtZXNzYWdlT3JEYXRhKSB7CiAgdGhpcy5uYW1lID0gJ1VTRVInOwogIHRoaXMubWVzc2FnZSA9IChtZXNzYWdlT3JEYXRhICYmIG1lc3NhZ2VPckRhdGEubWVzc2FnZSkgfHwgbWVzc2FnZU9yRGF0YSB8fCAgJyc7CiAgdGhpcy5zdGFjayA9IG1lc3NhZ2VPckRhdGEgJiYgbWVzc2FnZU9yRGF0YS5zdGFjayB8fCBuZXcgRXJyb3IoKS5zdGFjazsKICAhaXNSdW5uaW5nSW5UZXN0ICYmIGxvZ2dlci5sb2coJ2Vycm9yJywgbXNnKHRoaXMpKTsKICB0aGlzLmJvb20gPSAoKSA9PiBCb29tLmNvbmZsaWN0KG1zZyh0aGlzKSk7Cn0KVXNlckVycm9yLnByb3RvdHlwZSA9IEVycm9yLnByb3RvdHlwZTsK</text>
+      <register name="0" type="4">
+        <text>request.headers['x-forwarded-proto']</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBzZXJ2ZXIuZXh0KCdvblJlcXVlc3QnLCAocmVxdWVzdCwgbmV4dCkgPT4gewogICAgY29uc29sZS5sb2cocmVxdWVzdCk7CiAgfSk7Cgo=</text>
+        <text encoding="base64">ICAgICAgICAvLyByZXBseShyZXF1ZXN0LmhlYWRlcnNbJ3gtZm9yd2FyZGVkLXByb3RvJ10pOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLgo=</text>
+        <text encoding="base64">ICAgICAgICAgIHJlcGx5KEJvb20uZm9yYmlkZGVuKCkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIHJlcGx5KEJvb20uZm9yYmlkZGVuKCkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBlbHNlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRhdGUK</text>
+        <text encoding="base64">aW1wb3J0IEJvb20gZnJvbSAnYm9vbSc7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJldHVybiAK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBzZXJ2ZXIuZXh0KCdvblJlcXVlc3QnLCAocmVxdWVzdCwgbmV4dCkgPT4gewogICAgY29uc29sZS5sb2cocmVxdWVzdCk7CiAgfSk7Cgo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9KQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>)</last-search>
+      <last-search>]</last-search>
       <last-offset />
-      <last-pattern>)</last-pattern>
+      <last-pattern>]</last-pattern>
       <last-replace>AutoAccept</last-replace>
       <last-substitute>Boom</last-substitute>
       <last-dir>1</last-dir>
@@ -844,7 +844,6 @@
     </search>
     <history>
       <history-search>
-        <entry>C</entry>
         <entry encoding="base64">XDxQdXJjaGFzZWRUaWNrZXRDcnVkSGFuZGxlclw+</entry>
         <entry>I</entry>
         <entry>Id</entry>
@@ -864,6 +863,7 @@
         <entry>this</entry>
         <entry>con</entry>
         <entry>)</entry>
+        <entry>]</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0h0bWxFbi9UZXh0RnIvZw==</entry>
