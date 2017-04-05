@@ -502,12 +502,12 @@
         <mark key="^" line="16" column="1" />
         <mark key="." line="16" column="2" />
       </file>
-      <file name="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/handlers/purchased-ticket-invite-crud.handler.js" timestamp="1491175199275">
-        <mark key="'" line="80" column="0" />
-        <mark key="[" line="36" column="10" />
-        <mark key="]" line="36" column="19" />
-        <mark key="." line="36" column="19" />
-        <mark key="^" line="36" column="19" />
+      <file name="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/handlers/purchased-ticket-invite-crud.handler.js" timestamp="1491350000910">
+        <mark key="'" line="57" column="23" />
+        <mark key="[" line="61" column="34" />
+        <mark key="]" line="61" column="38" />
+        <mark key="." line="61" column="38" />
+        <mark key="^" line="61" column="38" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-resend-html-en-custom.html" timestamp="1490109370078">
         <mark key="[" line="8" column="0" />
@@ -587,12 +587,12 @@
         <mark key="^" line="67" column="57" />
         <mark key="." line="67" column="57" />
       </file>
-      <file name="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/routes.js" timestamp="1491348553634">
+      <file name="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/routes.js" timestamp="1491349959448">
         <mark key="'" line="69" column="23" />
-        <mark key="[" line="80" column="67" />
-        <mark key="]" line="80" column="67" />
-        <mark key="^" line="80" column="67" />
-        <mark key="." line="80" column="67" />
+        <mark key="[" line="125" column="102" />
+        <mark key="]" line="125" column="149" />
+        <mark key="^" line="125" column="103" />
+        <mark key="." line="125" column="102" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-partner-unknown-action-html-en.html" timestamp="1490294471163">
         <mark key="[" line="15" column="24" />
@@ -752,9 +752,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="524" column="27" filename="$USER_HOME$/invite-api/src/modules/conference-invite/services/workflow.service.js" />
-      <jump line="525" column="24" filename="$USER_HOME$/invite-api/src/modules/conference-invite/services/workflow.service.js" />
-      <jump line="591" column="19" filename="$USER_HOME$/invite-api/src/modules/conference-invite/services/workflow.service.js" />
       <jump line="371" column="0" filename="$USER_HOME$/invite-api/src/modules/conference-invite/services/workflow.service.js" />
       <jump line="463" column="67" filename="$USER_HOME$/invite-api/src/modules/conference-invite/services/workflow.service.js" />
       <jump line="4" column="14" filename="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-partner-accept-text-en.html" />
@@ -808,7 +805,6 @@
       <jump line="17" column="2" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/handlers/purchased-ticket-crud.handler.js" />
       <jump line="10" column="7" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/handlers/purchased-ticket-invite-crud.handler.js" />
       <jump line="0" column="22" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/handlers/purchased-ticket-invite-crud.handler.js" />
-      <jump line="39" column="57" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/handlers/purchased-ticket-invite-crud.handler.js" />
       <jump line="54" column="0" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/handlers/purchased-ticket-invite-crud.handler.js" />
       <jump line="19" column="2" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/handlers/ticket-purchase-crud.handler.js" />
       <jump line="38" column="16" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/handlers/ticket-purchase-crud.handler.js" />
@@ -852,6 +848,10 @@
       <jump line="7" column="25" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/handlers/purchased-ticket-crud.handler.js" />
       <jump line="69" column="12" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/routes.js" />
       <jump line="70" column="23" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/routes.js" />
+      <jump line="61" column="2" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/handlers/purchased-ticket-invite-crud.handler.js" />
+      <jump line="35" column="32" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/handlers/purchased-ticket-invite-crud.handler.js" />
+      <jump line="39" column="2" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/handlers/purchased-ticket-invite-crud.handler.js" />
+      <jump line="57" column="23" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/handlers/purchased-ticket-invite-crud.handler.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -872,16 +872,16 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>getShowPurchasedTicketByIdValidation</text>
+        <text>d</text>
       </register>
       <register name="-" type="4">
-        <text>getShowPurchasedTicketByIdValidation</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxQdXJjaGFzZWRUaWNrZXRDcnVkSGFuZGxlclw+</text>
+        <text>Id</text>
       </register>
-      <register name="0" type="4">
-        <text>getShowPurchasedTickedByIdValidation</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICB1cGRhdGVQdXJjaGFzZWRUaWNrZXRJbnZpdGVCeUlkKHJlcXVlc3QsIHJlcGx5KSB7CiAgICBzdXBlci51cGRhdGVCeUlkKHJlcXVlc3QsIHJlcGx5KTsKICB9CgogIGdldFVwZGF0ZVB1cmNoYXNlZFRpY2tldEludml0ZUJ5SWRWYWxpZGF0aW9uKCkgewogICAgcmV0dXJuIHsKICAgICAgcGFyYW1zOiB7CiAgICAgICAgaWQ6IEpvaS5zdHJpbmcoKS51dWlkKCkKICAgICAgfSwKCiAgICAgIHBheWxvYWQ6IHsKICAgICAgICBkYXRhOiBKb2kub2JqZWN0KHsKICAgICAgICAgIHR5cGU6IEpvaS5zdHJpbmcoKS52YWxpZCgncHVyY2hhc2VkLXRpY2tldC1pbnZpdGUnKS5yZXF1aXJlZCgpLAogICAgICAgICAgaWQ6IEpvaS5zdHJpbmcoKS51dWlkKCkucmVxdWlyZWQoKSwKCiAgICAgICAgICBhdHRyaWJ1dGVzOiB0aGlzLl9WQUxJREFURV9BVFRSSUJVVEVTKCksCiAgICAgICAgICByZWxhdGlvbnNoaXBzOiB0aGlzLl9WQUxJREFURV9SRUxBVElPTlNISVBTKCkKICAgICAgICB9KQogICAgICB9CiAgICB9OwogIH0K</text>
       </register>
       <register name="1" type="4">
         <text>get</text>
@@ -915,9 +915,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxQdXJjaGFzZWRUaWNrZXRDcnVkSGFuZGxlclw+</last-search>
+      <last-search>Id</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxQdXJjaGFzZWRUaWNrZXRDcnVkSGFuZGxlclw+</last-pattern>
+      <last-pattern>Id</last-pattern>
       <last-replace>AutoAccept</last-replace>
       <last-substitute>Boom</last-substitute>
       <last-dir>1</last-dir>
@@ -925,8 +925,6 @@
     </search>
     <history>
       <history-search>
-        <entry>t</entry>
-        <entry>\.</entry>
         <entry>crea</entry>
         <entry>p</entry>
         <entry>Type</entry>
@@ -941,10 +939,12 @@
         <entry>)</entry>
         <entry>,</entry>
         <entry>de</entry>
-        <entry>{</entry>
         <entry>canAdmin</entry>
         <entry>C</entry>
         <entry encoding="base64">XDxQdXJjaGFzZWRUaWNrZXRDcnVkSGFuZGxlclw+</entry>
+        <entry>{</entry>
+        <entry>I</entry>
+        <entry>Id</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0h0bWxFbi9UZXh0RnIvZw==</entry>
