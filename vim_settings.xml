@@ -209,12 +209,11 @@
         <mark key="." line="32" column="48" />
         <mark key="^" line="34" column="6" />
       </file>
-      <file name="$USER_HOME$/~working0/c2/invite-api/src/modules/conference-invite/handlers/conference-invite-crud.handler.js" timestamp="1491337942647">
+      <file name="$USER_HOME$/~working0/c2/invite-api/src/modules/conference-invite/handlers/conference-invite-crud.handler.js" timestamp="1491410322672">
         <mark key="'" line="38" column="24" />
-        <mark key="[" line="56" column="8" />
-        <mark key="]" line="56" column="72" />
-        <mark key="." line="56" column="72" />
-        <mark key="^" line="56" column="72" />
+        <mark key="[" line="116" column="0" />
+        <mark key="]" line="116" column="0" />
+        <mark key="." line="116" column="0" />
       </file>
       <file name="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/services/emal.service.js" timestamp="1491178516268">
         <mark key="[" line="2" column="0" />
@@ -477,6 +476,12 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="32" />
       </file>
+      <file name="$USER_HOME$/~working0/c2/invite-client/app/answer-invite/route.js" timestamp="1491409350527">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="41" column="8" />
+        <mark key="." line="40" column="44" />
+        <mark key="^" line="40" column="44" />
+      </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-send-html-fr.html" timestamp="1490639217578">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="1" />
@@ -611,7 +616,7 @@
         <mark key="." line="87" column="33" />
         <mark key="^" line="87" column="33" />
       </file>
-      <file name="/Dummy.txt" timestamp="1491364747488">
+      <file name="/Dummy.txt" timestamp="1491410470403">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="20" />
       </file>
@@ -791,10 +796,10 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyByZXBseShyZXF1ZXN0LmhlYWRlcnNbJ3gtZm9yd2FyZGVkLXByb3RvJ10pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>next</text>
+        <text>this.store.peekAll('conference').get('firstObject')</text>
       </register>
       <register name="/" type="4">
         <text>]</text>
@@ -803,31 +808,31 @@
         <text>request.headers['x-forwarded-proto']</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyByZXBseShyZXF1ZXN0LmhlYWRlcnNbJ3gtZm9yd2FyZGVkLXByb3RvJ10pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJlcGx5KEJvb20uZm9yYmlkZGVuKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgLmNhdGNoKGNvbnNvbGUubG9nKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJlcGx5KEJvb20uZm9yYmlkZGVuKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBwYXJ0bmVyCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlCg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QgY29uZmVyZW5jZSA9IHRoaXMuc3RvcmUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IEJvb20gZnJvbSAnYm9vbSc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyByZXBseShyZXF1ZXN0LmhlYWRlcnNbJ3gtZm9yd2FyZGVkLXByb3RvJ10pOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgIHJlcGx5KEJvb20uZm9yYmlkZGVuKCkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBzZXJ2ZXIuZXh0KCdvblJlcXVlc3QnLCAocmVxdWVzdCwgbmV4dCkgPT4gewogICAgY29uc29sZS5sb2cocmVxdWVzdCk7CiAgfSk7Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgIHJlcGx5KEJvb20uZm9yYmlkZGVuKCkpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLgo=</text>
+        <text encoding="base64">ICAgICAgICBlbHNlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IEJvb20gZnJvbSAnYm9vbSc7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
