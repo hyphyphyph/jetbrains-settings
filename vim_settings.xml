@@ -374,6 +374,9 @@
         <mark key="^" line="52" column="16" />
         <mark key="." line="52" column="16" />
       </file>
+      <file name="$USER_HOME$/~working0/c2/invite-api/src/modules/conference-invite/routes.js" timestamp="1491433185535">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/invite-api/.env.example" timestamp="1490035897966">
         <mark key="[" line="11" column="14" />
         <mark key="]" line="11" column="37" />
@@ -429,12 +432,12 @@
         <mark key="^" line="16" column="1" />
         <mark key="." line="16" column="2" />
       </file>
-      <file name="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/handlers/purchased-ticket-invite-crud.handler.js" timestamp="1491432247177">
-        <mark key="'" line="71" column="23" />
-        <mark key="[" line="13" column="31" />
-        <mark key="]" line="13" column="32" />
-        <mark key="." line="13" column="32" />
-        <mark key="^" line="13" column="31" />
+      <file name="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/handlers/purchased-ticket-invite-crud.handler.js" timestamp="1491433520082">
+        <mark key="'" line="88" column="52" />
+        <mark key="[" line="32" column="15" />
+        <mark key="]" line="32" column="19" />
+        <mark key="." line="32" column="19" />
+        <mark key="^" line="32" column="19" />
       </file>
       <file name="$USER_HOME$/~working0/c2/invite-api/src/modules/conference-invite/jsonapi/conference-invite.jsonapi.js" timestamp="1491339004400">
         <mark key="'" line="228" column="8" />
@@ -603,9 +606,9 @@
         <mark key="." line="87" column="33" />
         <mark key="^" line="87" column="33" />
       </file>
-      <file name="/Dummy.txt" timestamp="1491410470403">
+      <file name="/Dummy.txt" timestamp="1491433868983">
         <mark key="[" line="0" column="0" />
-        <mark key="." line="0" column="20" />
+        <mark key="." line="0" column="19" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-auto-accept-html-en.html" timestamp="1490109464765">
         <mark key="[" line="9" column="0" />
@@ -659,17 +662,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="22" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/handlers/purchased-ticket-crud.handler.js" />
-      <jump line="54" column="21" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/handlers/purchased-ticket-crud.handler.js" />
-      <jump line="46" column="30" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/handlers/purchased-ticket-crud.handler.js" />
-      <jump line="17" column="2" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/handlers/purchased-ticket-crud.handler.js" />
-      <jump line="10" column="7" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/handlers/purchased-ticket-invite-crud.handler.js" />
-      <jump line="0" column="22" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/handlers/purchased-ticket-invite-crud.handler.js" />
-      <jump line="54" column="0" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/handlers/purchased-ticket-invite-crud.handler.js" />
-      <jump line="19" column="2" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/handlers/ticket-purchase-crud.handler.js" />
-      <jump line="38" column="16" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/handlers/ticket-purchase-crud.handler.js" />
-      <jump line="0" column="23" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/handlers/ticket-purchase-crud.handler.js" />
-      <jump line="21" column="10" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/handlers/ticket-purchase-crud.handler.js" />
       <jump line="5" column="6" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/services/invite.service.js" />
       <jump line="0" column="41" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/services/invite.service.js" />
       <jump line="8" column="17" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/services/invite.service.js" />
@@ -759,6 +751,17 @@
       <jump line="10" column="11" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/handlers/ticket-purchase-crud.handler.js" />
       <jump line="27" column="5" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/handlers/purchased-ticket-crud.handler.js" />
       <jump line="28" column="67" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/handlers/purchased-ticket-crud.handler.js" />
+      <jump line="90" column="0" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/handlers/purchased-ticket-invite-crud.handler.js" />
+      <jump line="6" column="0" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/handlers/purchased-ticket-invite-crud.handler.js" />
+      <jump line="28" column="39" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/handlers/purchased-ticket-invite-crud.handler.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/conference-invite/routes.js" />
+      <jump line="111" column="2" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/handlers/purchased-ticket-invite-crud.handler.js" />
+      <jump line="51" column="0" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/handlers/purchased-ticket-invite-crud.handler.js" />
+      <jump line="115" column="58" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/handlers/purchased-ticket-invite-crud.handler.js" />
+      <jump line="141" column="52" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/handlers/purchased-ticket-invite-crud.handler.js" />
+      <jump line="163" column="55" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/handlers/purchased-ticket-invite-crud.handler.js" />
+      <jump line="77" column="52" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/handlers/purchased-ticket-invite-crud.handler.js" />
+      <jump line="100" column="52" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/handlers/purchased-ticket-invite-crud.handler.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -778,65 +781,74 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>true</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgd2hlcmU6IHsgaWQgfSwK</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text encoding="base64">ICAgZmluZCA9IG1vZGVscy4=</text>
       </register>
       <register name="/" type="4">
-        <text>new</text>
+        <text>-invite</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRoaXMuX2NhbkFkbWluID0gdHJ1ZTsK</text>
+        <text encoding="base64">ICAgIGNvbnN0IGlkID0gcmVxdWVzdC5wYXJhbXMuaWQ7CgogICAgdGhpcy5fZ2V0UHVyY2hhc2VkVGlja2V0SW52aXRlKGlkKQogICAgICAudGhlbigoKSA9PiB0aGlzLl9jaGVja05vdEZvdW5kKHRoaXMudGlja2V0UHVyY2hhc2UpKQogICAgICAudGhlbigoKSA9PiB0aGlzLl9zZXJpYWxpemUodGhpcy50aWNrZXRQdXJjaGFzZSkpCiAgICAgIC50aGVuKGRhdGEgPT4gcmVwbHkoZGF0YSkpCiAgICAgIC5jYXRjaChlcnIgPT4gcmVwbHkoZXJyLmJvb20oKSkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgd2hlcmU6IHsgaWQgfSwK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIG1vZGVscy5UaWNrZXRQdXJjaGFzZQogICAgICAuZmluZE9uZSh7CiAgICAgICAgd2hlcmU6IHsgaWQgfSwKICAgICAgICBpbmNsdWRlOiBbCiAgICAgICAgICB7CiAgICAgICAgICAgIG1vZGVsOiBtb2RlbHMuVXNlciwKICAgICAgICAgICAgYXM6ICd1c2VycycKICAgICAgICAgIH0KICAgICAgICBdCiAgICAgIH0pCiAgICAgIC50aGVuKHRpY2tldFB1cmNoYXNlID0+IHsKICAgICAgICB0aGlzLnRpY2tldFB1cmNoYXNlID0gdGlja2V0UHVyY2hhc2U7CiAgICAgIH0pCg==</text>
+      <register name="2" type="4">
+        <text>{
+        where: { id },
+        include: [
+          {
+            model: models.PurchasedTicket,
+            as: 'purchasedTicket',
+            include: [
+              {
+                model: models.TicketPurchase,
+                as: 'ticketPurchase'
+              }
+            ]
+          }
+        ]
+      }</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLnRoZW4oKCkgPT4KICAgICAgICBuZXcgUGVybWlzc2lvblNlcnZpY2UocmVxdWVzdC5hdXRoLmFydGlmYWN0cy51c2VyKQogICAgICAgICAgLmNhbkFkbWluUHVyY2hhc2VkVGlja2V0KHRoaXMucHVyY2hhc2VkVGlja2V0KQogICAgICApCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRoaXMuCg==</text>
+        <text encoding="base64">ICBfZ2V0UHVyY2hhc2VkVGlja2V0SW52aXRlQnlUb2tlbih0b2tlbikgewogICAgcmV0dXJuIG1vZGVscy5QdXJjaGFzZWRUaWNrZXRJbnZpdGUKICAgICAgLmZpbmRPbmUoewogICAgICAgIHdoZXJlOiB7IHRva2VuIH0sCiAgICAgICAgaW5jbHVkZTogWwogICAgICAgICAgewogICAgICAgICAgICBtb2RlbDogbW9kZWxzLlB1cmNoYXNlZFRpY2tldCwKICAgICAgICAgICAgYXM6ICdwdXJjaGFzZWRUaWNrZXQnLAogICAgICAgICAgICBpbmNsdWRlOiBbCiAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgbW9kZWw6IG1vZGVscy5UaWNrZXRQdXJjaGFzZSwKICAgICAgICAgICAgICAgIGFzOiAndGlja2V0UHVyY2hhc2UnCiAgICAgICAgICAgICAgfQogICAgICAgICAgICBdCiAgICAgICAgICB9CiAgICAgICAgXQogICAgICB9KQogICAgICAudGhlbihwdXJjaGFzZWRUaWNrZXRJbnZpdGUgPT4gewogICAgICAgIHRoaXMucHVyY2hhc2VkVGlja2V0SW52aXRlID0gcHVyY2hhc2VkVGlja2V0SW52aXRlOwogICAgICB9KTsKICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIG1vZGVscy5QdXJjaGFzZWRUaWNrZXQKICAgICAgLmZpbmRPbmUoewogICAgICAgIHdoZXJlOiB7IGlkIH0sCiAgICAgICAgaW5jbHVkZTogWwogICAgICAgICAgewogICAgICAgICAgICBtb2RlbDogbW9kZWxzLlRpY2tlclB1cmNoYXNlLAogICAgICAgICAgICBhczogJ3RpY2tldFB1cmNoYXNlJywKICAgICAgICAgICAgaW5jbHVkZTogWwogICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIG1vZGVsOiBtb2RlbHMuVXNlciwKICAgICAgICAgICAgICAgIGFzOiAndXNlcnMnCiAgICAgICAgICAgICAgfQogICAgICAgICAgICBdCiAgICAgICAgICB9CiAgICAgICAgXQogICAgICB9KQogICAgICAudGhlbihwdXJjaGFzZWRUaWNrZXQgPT4gewogICAgICAgIHRoaXMucHVyY2hhc2VkVGlja2V0ID0gcHVyY2hhc2VkVGlja2V0OwogICAgICB9KQo=</text>
+      <register name="6" type="4">
+        <text>update</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
+        <text encoding="base64">ICAgIHN1cGVyLnVwZGF0ZUJ5SWQocmVxdWVzdCwgcmVwbHkpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IFBlcm1pc3Npb25TZXJ2aWNlCg==</text>
+        <text encoding="base64">ICAgIHN1cGVyLnVwZGF0ZUJ5SWQocmVxdWVzdCwgcmVwbHkpOwo=</text>
       </register>
-      <register name="9" type="8">
-        <text>ticketPurchase
-ticketPurchase</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHN1cGVyLmNyZWF0ZShyZXF1ZXN0LCByZXBseSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>new</last-search>
+      <last-search>-invite</last-search>
       <last-offset />
-      <last-pattern>new</last-pattern>
+      <last-pattern>-invite</last-pattern>
       <last-replace>AutoAccept</last-replace>
       <last-substitute>Boom</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>ticket-purchase</entry>
-        <entry>ca</entry>
-        <entry>,</entry>
-        <entry>\.</entry>
         <entry>Conflicty</entry>
         <entry>Conflict</entry>
         <entry>conflict</entry>
@@ -848,11 +860,15 @@ ticketPurchase</text>
         <entry>update(</entry>
         <entry>er</entry>
         <entry>)</entry>
-        <entry>{</entry>
         <entry>tr</entry>
         <entry>r</entry>
         <entry>Ticker</entry>
         <entry>new</entry>
+        <entry>{</entry>
+        <entry>P</entry>
+        <entry>token</entry>
+        <entry>invite</entry>
+        <entry>-invite</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2h0bWwvdGV4dC9n</entry>
