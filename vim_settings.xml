@@ -521,12 +521,11 @@
         <mark key="^" line="16" column="1" />
         <mark key="." line="16" column="2" />
       </file>
-      <file name="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/handlers/purchased-ticket-invite-crud.handler.js" timestamp="1491506913689">
+      <file name="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/handlers/purchased-ticket-invite-crud.handler.js" timestamp="1491508108779">
         <mark key="'" line="88" column="65" />
-        <mark key="[" line="114" column="6" />
-        <mark key="]" line="115" column="22" />
-        <mark key="." line="115" column="22" />
-        <mark key="^" line="115" column="22" />
+        <mark key="[" line="221" column="23" />
+        <mark key="]" line="223" column="0" />
+        <mark key="." line="223" column="0" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-resend-html-en-custom.html" timestamp="1490109370078">
         <mark key="[" line="8" column="0" />
@@ -946,8 +945,8 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>purchasedTicket</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgZGF0YTogSm9pLm9iamVjdCh7CiAgICAgICAgCiAgICAgIH0pCg==</text>
       </register>
       <register name="-" type="4">
         <text>purchasedTicket</text>
@@ -959,31 +958,31 @@
         <text>checkConferenceForAttendanceByEmail</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgZGF0YTogSm9pLm9iamVjdCh7CiAgICAgICAgCiAgICAgIH0pCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCiAgICAgIGRhdGVzOiB7CiAgICAgICAgCiAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgIHJlbGF0aW9uc2hpcHM6IHRoaXMuX1ZBTElEQVRFX1JFTEFUSU9OU0hJUFMoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBIb3cgdG8gZGVhbAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCiAgICAgIGRhdGVzOiB7CiAgICAgICAgCiAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAKICAK</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBIb3cgdG8gZGVhbAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG5ldyBNaWRkbGVtYW5TZXJ2aWNlKCkKICAgICAgLmNoZWNrRXZlbnRGb3JFbWFpbCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJlcGx5KCdOb3QgSW1wbGVtZW50ZWQnKTsK</text>
+        <text encoding="base64">ICAKICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAvLyBUT0RPOiBOb3QgaW1wbGVtZW50ZWQK</text>
+        <text encoding="base64">ICAgIG5ldyBNaWRkbGVtYW5TZXJ2aWNlKCkKICAgICAgLmNoZWNrRXZlbnRGb3JFbWFpbCgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJlcGx5KCdOb3QgSW1wbGVtZW50ZWQnKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
