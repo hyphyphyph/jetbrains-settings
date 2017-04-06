@@ -510,12 +510,12 @@
         <mark key="^" line="16" column="1" />
         <mark key="." line="16" column="2" />
       </file>
-      <file name="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/handlers/purchased-ticket-invite-crud.handler.js" timestamp="1491433520082">
-        <mark key="'" line="88" column="52" />
-        <mark key="[" line="32" column="15" />
-        <mark key="]" line="32" column="19" />
-        <mark key="." line="32" column="19" />
-        <mark key="^" line="32" column="19" />
+      <file name="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/handlers/purchased-ticket-invite-crud.handler.js" timestamp="1491497512644">
+        <mark key="'" line="89" column="52" />
+        <mark key="[" line="59" column="29" />
+        <mark key="]" line="59" column="28" />
+        <mark key="." line="59" column="28" />
+        <mark key="^" line="59" column="28" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-resend-html-en-custom.html" timestamp="1490109370078">
         <mark key="[" line="8" column="0" />
@@ -924,7 +924,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJlcGx5KCdOb3QgSW1wbGVtZW50ZWQnKTsK</text>
       </register>
       <register name="-" type="4">
         <text>TicketPurchases</text>
@@ -936,31 +936,31 @@
         <text encoding="base64">ICAgICAgdHlwZTogU2VxdWVsaXplLlRFWFQsCiAgICAgIGRlZmF1bHRWYWx1ZTogJ2VuJywKICAgICAgYWxsb3dOdWxsOiBmYWxzZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJlcGx5KCdOb3QgSW1wbGVtZW50ZWQnKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAvLyBUT0RPOiBOb3QgaW1wbGVtZW50ZWQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpc1NwbGl0UGFyZW50OiB7CiAgICAgICAgICB0eXBlOiBTZXF1ZWxpemUuQk9PTEVBTiwKICAgICAgICAgIGFsbG93TnVsbDogZmFsc2UsCiAgICAgICAgICBkZWZhdWx0VmFsdWU6IGZhbHNlCiAgICAgICAgfSwKCiAgICAgICAgc3BsaXRQYXJlbnRJZDogewogICAgICAgICAgdHlwZTogU2VxdWVsaXplLlVVSUQsCiAgICAgICAgICBhbGxvd051bGw6IHRydWUsCgogICAgICAgICAgcmVmZXJlbmNlczogewogICAgICAgICAgICBtb2RlbDogJ1B1cmNoYXNlZFRpY2tldHMnLAogICAgICAgICAgICBrZXk6ICdpZCcKICAgICAgICAgIH0sCiAgICAgICAgICBvblVwZGF0ZTogJ0NBU0NBREUnLAogICAgICAgICAgb25EZWxldGU6ICdDQVNDQURFJwogICAgICAgIH0sCgogICAgICAgIGluZm86IHsKICAgICAgICAgIHR5cGU6IFNlcXVlbGl6ZS5KU09OQiwKICAgICAgICAgIGRlZmF1bHRWYWx1ZToge30KICAgICAgICB9LAo=</text>
-      </register>
-      <register name="4" type="4">
-        <text>ticketPurchase</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">J3VzZSBzdHJpY3QnOwoKbW9kdWxlLmV4cG9ydHMgPSB7CiAgdXA6IGZ1bmN0aW9uIChxdWVyeUludGVyZmFjZSwgU2VxdWVsaXplKSB7CiAgICAvKgogICAgICBBZGQgYWx0ZXJpbmcgY29tbWFuZHMgaGVyZS4KICAgICAgUmV0dXJuIGEgcHJvbWlzZSB0byBjb3JyZWN0bHkgaGFuZGxlIGFzeW5jaHJvbmljaXR5LgoKICAgICAgRXhhbXBsZToKICAgICAgcmV0dXJuIHF1ZXJ5SW50ZXJmYWNlLmNyZWF0ZVRhYmxlKCd1c2VycycsIHsgaWQ6IFNlcXVlbGl6ZS5JTlRFR0VSIH0pOwogICAgKi8KICB9LAoKICBkb3duOiBmdW5jdGlvbiAocXVlcnlJbnRlcmZhY2UsIFNlcXVlbGl6ZSkgewogICAgLyoKICAgICAgQWRkIHJldmVydGluZyBjb21tYW5kcyBoZXJlLgogICAgICBSZXR1cm4gYSBwcm9taXNlIHRvIGNvcnJlY3RseSBoYW5kbGUgYXN5bmNocm9uaWNpdHkuCgogICAgICBFeGFtcGxlOgogICAgICByZXR1cm4gcXVlcnlJbnRlcmZhY2UuZHJvcFRhYmxlKCd1c2VycycpOwogICAgKi8KICB9Cn07Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZ2V0dGVyTWV0aG9kczogewogICAgICAgIGlzQWRtaW46IGZ1bmN0aW9uICgpIHsKICAgICAgICAgIGlmICh0aGlzLnJvbGVzKSB7CiAgICAgICAgICAgIHJldHVybiAhIXRoaXMucm9sZXMuZmlsdGVyKGkgPT4gaS5uYW1lID09PSAnYWRtaW4nKS5sZW5ndGg7CiAgICAgICAgICB9CiAgICAgICAgICByZXR1cm4gbnVsbDsKICAgICAgICB9CiAgICAgIH0sCgo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBtb2RlbDogbW9kZWxzLkNvbmZlcmVuY2UsCiAgICAgICAgICAgICAgICBhczogJ2NvbmZlcmVuY2VzJwogICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgbW9kZWw6IG1vZGVscy5QYXJ0bmVyLAogICAgICAgICAgICAgICAgYXM6ICdwYXJ0bmVycycKICAgICAgICAgICAgICB9Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBpc1NwbGl0UGFyZW50OiB7CiAgICAgICAgICB0eXBlOiBTZXF1ZWxpemUuQk9PTEVBTiwKICAgICAgICAgIGFsbG93TnVsbDogZmFsc2UsCiAgICAgICAgICBkZWZhdWx0VmFsdWU6IGZhbHNlCiAgICAgICAgfSwKCiAgICAgICAgc3BsaXRQYXJlbnRJZDogewogICAgICAgICAgdHlwZTogU2VxdWVsaXplLlVVSUQsCiAgICAgICAgICBhbGxvd051bGw6IHRydWUsCgogICAgICAgICAgcmVmZXJlbmNlczogewogICAgICAgICAgICBtb2RlbDogJ1B1cmNoYXNlZFRpY2tldHMnLAogICAgICAgICAgICBrZXk6ICdpZCcKICAgICAgICAgIH0sCiAgICAgICAgICBvblVwZGF0ZTogJ0NBU0NBREUnLAogICAgICAgICAgb25EZWxldGU6ICdDQVNDQURFJwogICAgICAgIH0sCgogICAgICAgIGluZm86IHsKICAgICAgICAgIHR5cGU6IFNlcXVlbGl6ZS5KU09OQiwKICAgICAgICAgIGRlZmF1bHRWYWx1ZToge30KICAgICAgICB9LAo=</text>
+      </register>
+      <register name="6" type="4">
+        <text>ticketPurchase</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">J3VzZSBzdHJpY3QnOwoKbW9kdWxlLmV4cG9ydHMgPSB7CiAgdXA6IGZ1bmN0aW9uIChxdWVyeUludGVyZmFjZSwgU2VxdWVsaXplKSB7CiAgICAvKgogICAgICBBZGQgYWx0ZXJpbmcgY29tbWFuZHMgaGVyZS4KICAgICAgUmV0dXJuIGEgcHJvbWlzZSB0byBjb3JyZWN0bHkgaGFuZGxlIGFzeW5jaHJvbmljaXR5LgoKICAgICAgRXhhbXBsZToKICAgICAgcmV0dXJuIHF1ZXJ5SW50ZXJmYWNlLmNyZWF0ZVRhYmxlKCd1c2VycycsIHsgaWQ6IFNlcXVlbGl6ZS5JTlRFR0VSIH0pOwogICAgKi8KICB9LAoKICBkb3duOiBmdW5jdGlvbiAocXVlcnlJbnRlcmZhY2UsIFNlcXVlbGl6ZSkgewogICAgLyoKICAgICAgQWRkIHJldmVydGluZyBjb21tYW5kcyBoZXJlLgogICAgICBSZXR1cm4gYSBwcm9taXNlIHRvIGNvcnJlY3RseSBoYW5kbGUgYXN5bmNocm9uaWNpdHkuCgogICAgICBFeGFtcGxlOgogICAgICByZXR1cm4gcXVlcnlJbnRlcmZhY2UuZHJvcFRhYmxlKCd1c2VycycpOwogICAgKi8KICB9Cn07Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgZ2V0dGVyTWV0aG9kczogewogICAgICAgIGlzQWRtaW46IGZ1bmN0aW9uICgpIHsKICAgICAgICAgIGlmICh0aGlzLnJvbGVzKSB7CiAgICAgICAgICAgIHJldHVybiAhIXRoaXMucm9sZXMuZmlsdGVyKGkgPT4gaS5uYW1lID09PSAnYWRtaW4nKS5sZW5ndGg7CiAgICAgICAgICB9CiAgICAgICAgICByZXR1cm4gbnVsbDsKICAgICAgICB9CiAgICAgIH0sCgo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIFVzZXIuYmVsb25nc1RvTWFueSgKICAgICAgICAgICAgbW9kZWxzLlBhcnRuZXIsCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICB0aHJvdWdoOiAnUGFydG5lclVzZXInLAogICAgICAgICAgICAgIGFzOiAncGFydG5lcnMnLAogICAgICAgICAgICAgIGZvcmVpZ25LZXk6ICd1c2VySWQnCiAgICAgICAgICAgIH0KICAgICAgICAgICk7CgogICAgICAgICAgVXNlci5iZWxvbmdzVG9NYW55KAogICAgICAgICAgICBtb2RlbHMuUm9sZSwKICAgICAgICAgICAgewogICAgICAgICAgICAgIHRocm91Z2g6ICdVc2VyUm9sZScsCiAgICAgICAgICAgICAgYXM6ICdyb2xlcycsCiAgICAgICAgICAgICAgZm9yZWlnbktleTogJ3VzZXJJZCcKICAgICAgICAgICAgfQogICAgICAgICAgKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBtb2RlbDogbW9kZWxzLkNvbmZlcmVuY2UsCiAgICAgICAgICAgICAgICBhczogJ2NvbmZlcmVuY2VzJwogICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgbW9kZWw6IG1vZGVscy5QYXJ0bmVyLAogICAgICAgICAgICAgICAgYXM6ICdwYXJ0bmVycycKICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
