@@ -457,12 +457,12 @@
         <mark key="^" line="16" column="1" />
         <mark key="." line="16" column="2" />
       </file>
-      <file name="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/handlers/purchased-ticket-invite-crud.handler.js" timestamp="1491516448303">
-        <mark key="'" line="197" column="7" />
-        <mark key="[" line="64" column="32" />
-        <mark key="]" line="68" column="30" />
-        <mark key="." line="68" column="30" />
-        <mark key="^" line="68" column="30" />
+      <file name="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/handlers/purchased-ticket-invite-crud.handler.js" timestamp="1491517222354">
+        <mark key="'" line="199" column="7" />
+        <mark key="[" line="108" column="9" />
+        <mark key="]" line="108" column="25" />
+        <mark key="." line="108" column="25" />
+        <mark key="^" line="108" column="25" />
       </file>
       <file name="$USER_HOME$/~working0/c2/invite-api/src/modules/conference-invite/jsonapi/conference-invite.jsonapi.js" timestamp="1491339004400">
         <mark key="'" line="228" column="8" />
@@ -660,7 +660,7 @@
         <mark key="." line="87" column="33" />
         <mark key="^" line="87" column="33" />
       </file>
-      <file name="/Dummy.txt" timestamp="1491511122791">
+      <file name="/Dummy.txt" timestamp="1491517195343">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="19" />
       </file>
@@ -860,11 +860,11 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLnRoZW4oKCkgPT4gdGhpcy5fZ2V0Q29uZmVyZW5jZShpbnZpdGUucHVyY2hhc2VkVGlja2V0LnRpY2tldFB1cmNoYXNlLmNvbmZlcmVuY2UuaWQpKQogICAgICAudGhlbigoKSA9PiB0aGlzLl9nZXRQdXJjaGFzZWRUaWNrZXQoaW52aXRlLnB1cmNoYXNlZFRpY2tldC5pZCkpCgo=</text>
+      <register name="&quot;" type="4">
+        <text>Check for conflicts</text>
       </register>
       <register name="-" type="4">
-        <text>conference</text>
+        <text>Check for conflicts</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfZ2V0UHVyY2hhc2VkVGlja2V0SW52aXRlXD4=</text>
