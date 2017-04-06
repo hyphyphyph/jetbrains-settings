@@ -208,11 +208,11 @@
         <mark key="^" line="17" column="18" />
         <mark key="." line="17" column="18" />
       </file>
-      <file name="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/services/conflict.service.js" timestamp="1491505738804">
-        <mark key="[" line="2" column="28" />
-        <mark key="]" line="2" column="28" />
-        <mark key="." line="2" column="28" />
-        <mark key="^" line="2" column="28" />
+      <file name="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/services/conflict.service.js" timestamp="1491506630857">
+        <mark key="[" line="1" column="55" />
+        <mark key="]" line="1" column="61" />
+        <mark key="." line="1" column="61" />
+        <mark key="^" line="1" column="61" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/quota/handlers/quota-crud.handler.js" timestamp="1490561256423">
         <mark key="'" line="114" column="19" />
@@ -521,12 +521,12 @@
         <mark key="^" line="16" column="1" />
         <mark key="." line="16" column="2" />
       </file>
-      <file name="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/handlers/purchased-ticket-invite-crud.handler.js" timestamp="1491505676362">
-        <mark key="'" line="87" column="65" />
-        <mark key="[" line="6" column="58" />
-        <mark key="]" line="6" column="58" />
-        <mark key="." line="6" column="58" />
-        <mark key="^" line="6" column="58" />
+      <file name="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/handlers/purchased-ticket-invite-crud.handler.js" timestamp="1491506913689">
+        <mark key="'" line="88" column="65" />
+        <mark key="[" line="114" column="6" />
+        <mark key="]" line="115" column="22" />
+        <mark key="." line="115" column="22" />
+        <mark key="^" line="115" column="22" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-resend-html-en-custom.html" timestamp="1490109370078">
         <mark key="[" line="8" column="0" />
@@ -946,17 +946,17 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="&quot;" type="4">
+        <text>purchasedTicket</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>purchasedTicket</text>
       </register>
       <register name="/" type="4">
         <text>new</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBfZ2V0Q29uZmVyZW5jZShpZCkgewogICAgcmV0dXJuIG1vZGVscy5Db25mZXJlbmNlCiAgICAgIC5maW5kT25lKHsKICAgICAgICB3aGVyZTogeyBpZCB9CiAgICAgIH0pCiAgICAgIC50aGVuKGNvbmZlcmVuY2UgPT4gewogICAgICAgIHRoaXMuY29uZmVyZW5jZSA9IGNvbmZlcmVuY2U7CiAgICAgIH0pOwogIH0K</text>
+      <register name="0" type="4">
+        <text>checkConferenceForAttendanceByEmail</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAK</text>
