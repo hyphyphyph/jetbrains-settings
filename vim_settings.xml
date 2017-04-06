@@ -457,12 +457,12 @@
         <mark key="^" line="16" column="1" />
         <mark key="." line="16" column="2" />
       </file>
-      <file name="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/handlers/purchased-ticket-invite-crud.handler.js" timestamp="1491512061807">
-        <mark key="'" line="64" column="9" />
-        <mark key="[" line="221" column="0" />
-        <mark key="]" line="221" column="66" />
-        <mark key="." line="221" column="0" />
-        <mark key="^" line="179" column="63" />
+      <file name="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/handlers/purchased-ticket-invite-crud.handler.js" timestamp="1491516448303">
+        <mark key="'" line="197" column="7" />
+        <mark key="[" line="64" column="32" />
+        <mark key="]" line="68" column="30" />
+        <mark key="." line="68" column="30" />
+        <mark key="^" line="68" column="30" />
       </file>
       <file name="$USER_HOME$/~working0/c2/invite-api/src/modules/conference-invite/jsonapi/conference-invite.jsonapi.js" timestamp="1491339004400">
         <mark key="'" line="228" column="8" />
@@ -741,8 +741,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="0" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/services/middleman-interface.service.js" />
-      <jump line="26" column="11" filename="$USER_HOME$/~working0/c2/invite-client/app/models/conference-invite.js" />
       <jump line="38" column="45" filename="$USER_HOME$/~working0/c2/invite-client/app/answer-invite/route.js" />
       <jump line="27" column="12" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/conference-invite/handlers/conference-invite-crud.handler.js" />
       <jump line="32" column="38" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/conference-invite/handlers/conference-invite-crud.handler.js" />
@@ -834,13 +832,15 @@
       <jump line="177" column="42" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/handlers/purchased-ticket-invite-crud.handler.js" />
       <jump line="178" column="7" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/handlers/purchased-ticket-invite-crud.handler.js" />
       <jump line="202" column="9" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/handlers/purchased-ticket-invite-crud.handler.js" />
-      <jump line="9" column="2" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/handlers/purchased-ticket-invite-crud.handler.js" />
       <jump line="64" column="9" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/handlers/purchased-ticket-invite-crud.handler.js" />
       <jump line="40" column="0" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/routes.js" />
       <jump line="53" column="13" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/routes.js" />
       <jump line="108" column="13" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/routes.js" />
       <jump line="119" column="13" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/routes.js" />
       <jump line="20" column="19" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/routes.js" />
+      <jump line="9" column="2" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/handlers/purchased-ticket-invite-crud.handler.js" />
+      <jump line="70" column="9" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/handlers/purchased-ticket-invite-crud.handler.js" />
+      <jump line="186" column="7" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/handlers/purchased-ticket-invite-crud.handler.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -861,52 +861,52 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLnRoZW4oKCkgPT4gdGhpcy5fY2hlY2tOb3RGb3VuZCh0aGlzLnB1cmNoYXNlZFRpY2tldEludml0ZSkpCg==</text>
+        <text encoding="base64">ICAgICAgLnRoZW4oKCkgPT4gdGhpcy5fZ2V0Q29uZmVyZW5jZShpbnZpdGUucHVyY2hhc2VkVGlja2V0LnRpY2tldFB1cmNoYXNlLmNvbmZlcmVuY2UuaWQpKQogICAgICAudGhlbigoKSA9PiB0aGlzLl9nZXRQdXJjaGFzZWRUaWNrZXQoaW52aXRlLnB1cmNoYXNlZFRpY2tldC5pZCkpCgo=</text>
       </register>
       <register name="-" type="4">
-        <text>updatePurchasedTicketInviteByToken</text>
+        <text>conference</text>
       </register>
       <register name="/" type="4">
-        <text>PATCH</text>
+        <text encoding="base64">XDxfZ2V0UHVyY2hhc2VkVGlja2V0SW52aXRlXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgLnRoZW4oKCkgPT4gdGhpcy5fY2hlY2tOb3RGb3VuZCh0aGlzLnB1cmNoYXNlZFRpY2tldEludml0ZSkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAvLyBUT0RPOiBOb3QgaW1wbGVtZW50ZWQK</text>
+        <text encoding="base64">ICAgICAgLnRoZW4oKCkgPT4gdGhpcy5fZ2V0Q29uZmVyZW5jZShpbnZpdGUucHVyY2hhc2VkVGlja2V0LnRpY2tldFB1cmNoYXNlLmNvbmZlcmVuY2UuaWQpKQogICAgICAudGhlbigoKSA9PiB0aGlzLl9nZXRQdXJjaGFzZWRUaWNrZXQoaW52aXRlLnB1cmNoYXNlZFRpY2tldC5pZCkpCgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJlcGx5KCdOb3QgSW1wbGVtZW50ZWQnKTsK</text>
+        <text encoding="base64">ICAgIC8vIFRPRE86IFRoaXMgaXMgdGhlIGluY29ycmVjdCBwbGFjZSB0byBnZXQgY29uZmVyZW5jZSBpZCBmcm9tLgo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAvLyBUT0RPOiBOb3QgaW1wbGVtZW50ZWQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHRoaXMuX2Rlc2VyaWFsaXplKHJlcXVlc3QucGF5bG9hZCkKICAgIC8vIFRPRE86IFRoaXMgaXMgdGhlIGluY29ycmVjdCBwbGFjZSB0byBnZXQgY29uZmVyZW5jZSBpZCBmcm9tLgogICAgICAudGhlbigoKSA9PiB0aGlzLl9nZXRDb25mZXJlbmNlKHRoaXMuZGVzZXJpYWxpemVkRGF0YS5jb25mZXJlbmNlLmlkKSkKICAgICAgLnRoZW4oKCkgPT4gdGhpcy5fZ2V0UHVyY2hhc2VkVGlja2V0KHRoaXMuZGVzZXJpYWxpemVkRGF0YS5wdXJjaGFzZWRUaWNrZXQuaWQpKQogICAgICAudGhlbigoKSA9PiBuZXcgTWlkZGxlbWFuU2VydmljZSgpLmNoZWNrRXZlbnRGb3JBdHRlbmRhbmNlKAogICAgICAgIHRoaXMuY29uZmVyZW5jZS5taWRkbGVtYW5FdmVudE5hbWUsCiAgICAgICAgdGhpcy5kZXNlcmlhbGl6ZWREYXRhLmVtYWlsCiAgICAgICAgLy8gVE9ETzogQWRkIHRoaXMuLi4KICAgICAgICAvLyB0aGlzLnB1cmNoYXNlZFRpY2tldC5kYXRlcwogICAgICApKQogICAgICAudGhlbigoKSA9PiBuZXcgQ29uZmxpY3RTZXJ2aWNlKCkuY2hlY2tDb25mZXJlbmNlRm9yQXR0ZW5kYW5jZUJ5RW1haWwoCiAgICAgICAgdGhpcy5jb25mZXJlbmNlLAogICAgICAgIHRoaXMuZGVzZXJpYWxpemVkRGF0YS5lbWFpbCwKICAgICAgICAvLyBUT0RPOiBBZGQgdGhpcy4uLgogICAgICAgIC8vIHRoaXMucHVyY2hhc2VkVGlja2V0LmRhdGVzCiAgICAgICkpCgogICAgICAvLyBDcmVhdGUgdGhlIGludml0ZS4gIEZpcnN0LCBsZXQncyBjbGVhbiB1cCB0aGUgZGF0YSBhIGxpdHRsZSwgbWFraW5nIGl0CiAgICAgIC8vIGNsZWFuZXIgdG8gc2V0IHRoZSByZWxhdGlvbnNoaXAuCiAgICAgIC50aGVuKCgpID0+IHsKICAgICAgICBjb25zdCBkYXRhID0gSlNPTi5wYXJzZShKU09OLnN0cmluZ2lmeSh0aGlzLmRlc2VyaWFsaXplZERhdGEpKTsKICAgICAgICBkYXRhLnB1cmNoYXNlZFRpY2tldElkID0gZGF0YS5wdXJjaGFzZWRUaWNrZXQuaWQ7CiAgICAgICAgZGVsZXRlIGRhdGEucHVyY2hhc2VkVGlja2V0OwogICAgICAgIHJldHVybiBkYXRhOwogICAgICB9KQogICAgICAudGhlbigoKSA9PiBtb2RlbHMuUHVyY2hhc2VkVGlja2V0SW52aXRlLmNyZWF0ZShkYXRhKSkKICAgICAgLnRoZW4ocHVyY2hhc2VkVGlja2V0SW52aXRlID0+IHsKICAgICAgICB0aGlzLnB1cmNoYXNlZFRpY2tldEludml0ZSA9IHB1cmNoYXNlZFRpY2tldEludml0ZTsKICAgICAgfSkKCiAgICAgIC8vIFNlbmQgdGhlIGVtYWlsCiAgICAgIC50aGVuKCgpID0+IG5ldyBFbWFpbFNlcnZpY2UodGhpcy5wdXJjaGFzZWRUaWNrZXRJbnZpdGUpLnNlbmQoKSkKCiAgICAgIC50aGVuKCgpID0+IHRoaXMuX3NlcmlhbGl6ZSh0aGlzLnB1cmNoYXNlZFRpY2tldEludml0ZSkpCiAgICAgIC50aGVuKGRhdGEgPT4gcmVwbHkoZGF0YSkpCiAgICAgIC5jYXRjaChlcnIgPT4gcmVwbHkoZXJyLmJvb20oKSkpOwo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgIHJlcGx5KCdOb3QgSW1wbGVtZW50ZWQnKTsK</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAvLyBUT0RPOiBOb3QgaW1wbGVtZW50ZWQK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJlbGF0aW9uc2hpcHM6IHRoaXMuX1ZBTElEQVRFX1JFTEFUSU9OU0hJUFMoKQo=</text>
+        <text encoding="base64">ICAgIHRoaXMuX2Rlc2VyaWFsaXplKHJlcXVlc3QucGF5bG9hZCkKICAgIC8vIFRPRE86IFRoaXMgaXMgdGhlIGluY29ycmVjdCBwbGFjZSB0byBnZXQgY29uZmVyZW5jZSBpZCBmcm9tLgogICAgICAudGhlbigoKSA9PiB0aGlzLl9nZXRDb25mZXJlbmNlKHRoaXMuZGVzZXJpYWxpemVkRGF0YS5jb25mZXJlbmNlLmlkKSkKICAgICAgLnRoZW4oKCkgPT4gdGhpcy5fZ2V0UHVyY2hhc2VkVGlja2V0KHRoaXMuZGVzZXJpYWxpemVkRGF0YS5wdXJjaGFzZWRUaWNrZXQuaWQpKQogICAgICAudGhlbigoKSA9PiBuZXcgTWlkZGxlbWFuU2VydmljZSgpLmNoZWNrRXZlbnRGb3JBdHRlbmRhbmNlKAogICAgICAgIHRoaXMuY29uZmVyZW5jZS5taWRkbGVtYW5FdmVudE5hbWUsCiAgICAgICAgdGhpcy5kZXNlcmlhbGl6ZWREYXRhLmVtYWlsCiAgICAgICAgLy8gVE9ETzogQWRkIHRoaXMuLi4KICAgICAgICAvLyB0aGlzLnB1cmNoYXNlZFRpY2tldC5kYXRlcwogICAgICApKQogICAgICAudGhlbigoKSA9PiBuZXcgQ29uZmxpY3RTZXJ2aWNlKCkuY2hlY2tDb25mZXJlbmNlRm9yQXR0ZW5kYW5jZUJ5RW1haWwoCiAgICAgICAgdGhpcy5jb25mZXJlbmNlLAogICAgICAgIHRoaXMuZGVzZXJpYWxpemVkRGF0YS5lbWFpbCwKICAgICAgICAvLyBUT0RPOiBBZGQgdGhpcy4uLgogICAgICAgIC8vIHRoaXMucHVyY2hhc2VkVGlja2V0LmRhdGVzCiAgICAgICkpCgogICAgICAvLyBDcmVhdGUgdGhlIGludml0ZS4gIEZpcnN0LCBsZXQncyBjbGVhbiB1cCB0aGUgZGF0YSBhIGxpdHRsZSwgbWFraW5nIGl0CiAgICAgIC8vIGNsZWFuZXIgdG8gc2V0IHRoZSByZWxhdGlvbnNoaXAuCiAgICAgIC50aGVuKCgpID0+IHsKICAgICAgICBjb25zdCBkYXRhID0gSlNPTi5wYXJzZShKU09OLnN0cmluZ2lmeSh0aGlzLmRlc2VyaWFsaXplZERhdGEpKTsKICAgICAgICBkYXRhLnB1cmNoYXNlZFRpY2tldElkID0gZGF0YS5wdXJjaGFzZWRUaWNrZXQuaWQ7CiAgICAgICAgZGVsZXRlIGRhdGEucHVyY2hhc2VkVGlja2V0OwogICAgICAgIHJldHVybiBkYXRhOwogICAgICB9KQogICAgICAudGhlbigoKSA9PiBtb2RlbHMuUHVyY2hhc2VkVGlja2V0SW52aXRlLmNyZWF0ZShkYXRhKSkKICAgICAgLnRoZW4ocHVyY2hhc2VkVGlja2V0SW52aXRlID0+IHsKICAgICAgICB0aGlzLnB1cmNoYXNlZFRpY2tldEludml0ZSA9IHB1cmNoYXNlZFRpY2tldEludml0ZTsKICAgICAgfSkKCiAgICAgIC8vIFNlbmQgdGhlIGVtYWlsCiAgICAgIC50aGVuKCgpID0+IG5ldyBFbWFpbFNlcnZpY2UodGhpcy5wdXJjaGFzZWRUaWNrZXRJbnZpdGUpLnNlbmQoKSkKCiAgICAgIC50aGVuKCgpID0+IHRoaXMuX3NlcmlhbGl6ZSh0aGlzLnB1cmNoYXNlZFRpY2tldEludml0ZSkpCiAgICAgIC50aGVuKGRhdGEgPT4gcmVwbHkoZGF0YSkpCiAgICAgIC5jYXRjaChlcnIgPT4gcmVwbHkoZXJyLmJvb20oKSkpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBuZXcgTWFpbGVyU2VydmljZSh7CiAgICAgIC8vIFRPRE86IEZpbGwgYWxsIHRoaXMgb3V0LgogICAgfSkuc2VuZCh7CiAgICAgIGludml0ZTogdGhpcy5pbnZpdGUKICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgIHJlcGx5KCdOb3QgSW1wbGVtZW50ZWQnKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBuZXcgTWFpbGVyU2VydmljZSh7CiAgICAgIC8vIFRPRE86IEZpbGwgYWxsIHRoaXMgb3V0LgogICAgfSkuc2VuZCh7CiAgICAgIGludml0ZTogdGhpcy5pbnZpdGUKICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIHJlbGF0aW9uc2hpcHM6IHRoaXMuX1ZBTElEQVRFX1JFTEFUSU9OU0hJUFMoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>PATCH</last-search>
+      <last-search encoding="base64">XDxfZ2V0UHVyY2hhc2VkVGlja2V0SW52aXRlXD4=</last-search>
       <last-offset />
-      <last-pattern>PATCH</last-pattern>
+      <last-pattern encoding="base64">XDxfZ2V0UHVyY2hhc2VkVGlja2V0SW52aXRlXD4=</last-pattern>
       <last-replace>AutoAccept</last-replace>
       <last-substitute>Boom</last-substitute>
       <last-dir>1</last-dir>
@@ -932,8 +932,8 @@
         <entry>new</entry>
         <entry>id</entry>
         <entry>\.</entry>
-        <entry encoding="base64">XDxfZ2V0UHVyY2hhc2VkVGlja2V0SW52aXRlXD4=</entry>
         <entry>PATCH</entry>
+        <entry encoding="base64">XDxfZ2V0UHVyY2hhc2VkVGlja2V0SW52aXRlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2h0bWwvdGV4dC9n</entry>
