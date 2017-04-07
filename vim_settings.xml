@@ -219,10 +219,10 @@
         <mark key="." line="150" column="26" />
         <mark key="^" line="150" column="26" />
       </file>
-      <file name="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/handlers/middleman-interface.handler.js" timestamp="1491355213799">
+      <file name="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/handlers/middleman-interface.handler.js" timestamp="1491578502841">
         <mark key="'" line="32" column="0" />
-        <mark key="[" line="32" column="48" />
-        <mark key="]" line="32" column="48" />
+        <mark key="[" line="27" column="8" />
+        <mark key="]" line="27" column="25" />
         <mark key="." line="32" column="48" />
         <mark key="^" line="34" column="6" />
       </file>
@@ -862,7 +862,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>(</text>
+        <text>externalSourceType</text>
       </register>
       <register name="-" type="4">
         <text>(</text>
@@ -870,8 +870,8 @@
       <register name="/" type="4">
         <text>_update</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgLnRoZW4oKCkgPT4gewogICAgICAgIHJldHVybiB7CiAgICAgICAgICBlbWFpbDogdGhpcy5kZXNlcmlhbGl6ZWREYXRhLmVtYWlsLAogICAgICAgICAgZmlyc3ROYW1lOiB0aGlzLmRlc2VyaWFsaXplZERhdGEuZmlyc3ROYW1lLAogICAgICAgICAgbGFzdE5hbWU6IHRoaXMuZGVzZXJpYWxpemVkRGF0YS5sYXN0TmFtZSwKICAgICAgICAgIHRpdGxlOiB0aGlzLmRlc2VyaWFsaXplZERhdGEudGl0bGUsCiAgICAgICAgICBjb21wYW55OiB0aGlzLmRlc2VyaWFsaXplZERhdGEuY29tcGFueSwKICAgICAgICAgIHBob3RvOiB0aGlzLmRlc2VyaWFsaXplZERhdGEucGhvdG8sCiAgICAgICAgICBsb2NhbGU6IHRoaXMuZGVzZXJpYWxpemVkRGF0YS5sb2NhbGUKICAgICAgICB9OwogICAgICB9KQo=</text>
+      <register name="0" type="4">
+        <text>externalSourceType</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgLy8gQ3JlYXRlIHRoZSBpbnZpdGUuICBGaXJzdCwgbGV0J3MgY2xlYW4gdXAgdGhlIGRhdGEgYSBsaXR0bGUsIG1ha2luZyBpdAogICAgICAvLyBjbGVhbmVyIHRvIHNldCB0aGUgcmVsYXRpb25zaGlwLgogICAgICAudGhlbigoKSA9PiB7CiAgICAgICAgY29uc3QgZGF0YSA9IEpTT04ucGFyc2UoSlNPTi5zdHJpbmdpZnkodGhpcy5kZXNlcmlhbGl6ZWREYXRhKSk7CiAgICAgICAgZGF0YS5wdXJjaGFzZWRUaWNrZXRJZCA9IGRhdGEucHVyY2hhc2VkVGlja2V0LmlkOwogICAgICAgIGRlbGV0ZSBkYXRhLnB1cmNoYXNlZFRpY2tldDsKICAgICAgICByZXR1cm4gZGF0YTsKICAgICAgfSkK</text>
