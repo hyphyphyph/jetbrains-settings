@@ -714,10 +714,6 @@
         <mark key="." line="87" column="33" />
         <mark key="^" line="87" column="33" />
       </file>
-      <file name="/Dummy.txt" timestamp="1491605258451">
-        <mark key="[" line="0" column="0" />
-        <mark key="." line="0" column="19" />
-      </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-auto-accept-html-en.html" timestamp="1490109464765">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="11" column="4" />
@@ -802,12 +798,12 @@
         <mark key="^" line="1" column="24" />
         <mark key="." line="1" column="24" />
       </file>
-      <file name="$USER_HOME$/~working0/c2/invite-api/src/index.js" timestamp="1491604270694">
-        <mark key="'" line="16" column="21" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="24" column="7" />
+      <file name="$USER_HOME$/~working0/c2/invite-api/src/index.js" timestamp="1491606034239">
+        <mark key="'" line="24" column="21" />
+        <mark key="[" line="24" column="15" />
+        <mark key="]" line="24" column="15" />
+        <mark key="." line="24" column="15" />
+        <mark key="^" line="24" column="15" />
       </file>
       <file name="$USER_HOME$/~working0/c2/invite-api/src/models/user.model.js" timestamp="1491597916395">
         <mark key="'" line="2" column="7" />
@@ -937,17 +933,17 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG5ldyAod2luc3Rvbi50cmFuc3BvcnRzLkxvZ2dseSkoewogICAgfSkK</text>
+      <register name="&quot;" type="4">
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>,</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0nKTsK</text>
+        <text encoding="base64">cHJvY2Vzcy5vbigndW5jYXVnaHRFeGNlcHRpb24nLCAoZXJyKSA9PiB7CiAgbG9nZ2VyLmVycm9yKGVycik7Cn0pOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIG5ldyAod2luc3Rvbi50cmFuc3BvcnRzLkxvZ2dseSkoewogICAgfSkK</text>
