@@ -183,12 +183,12 @@
         <mark key="." line="34" column="40" />
         <mark key="^" line="34" column="40" />
       </file>
-      <file name="$USER_HOME$/~working0/c2/invite-api/src/models/purchased-ticket.model.js" timestamp="1491849590345">
+      <file name="$USER_HOME$/~working0/c2/invite-api/src/models/purchased-ticket.model.js" timestamp="1491855187904">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="47" column="19" />
-        <mark key="]" line="47" column="30" />
-        <mark key="^" line="47" column="30" />
-        <mark key="." line="47" column="30" />
+        <mark key="[" line="15" column="19" />
+        <mark key="]" line="15" column="22" />
+        <mark key="^" line="15" column="22" />
+        <mark key="." line="15" column="22" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/user/handlers/registration.handler.js" timestamp="1490117155589">
         <mark key="'" line="107" column="17" />
@@ -210,12 +210,12 @@
         <mark key="." line="150" column="26" />
         <mark key="^" line="150" column="26" />
       </file>
-      <file name="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/handlers/middleman-interface.handler.js" timestamp="1491832263763">
+      <file name="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/handlers/middleman-interface.handler.js" timestamp="1491855658461">
         <mark key="'" line="30" column="0" />
-        <mark key="[" line="16" column="59" />
-        <mark key="]" line="16" column="59" />
-        <mark key="." line="16" column="59" />
-        <mark key="^" line="16" column="29" />
+        <mark key="[" line="33" column="23" />
+        <mark key="]" line="33" column="23" />
+        <mark key="." line="33" column="23" />
+        <mark key="^" line="33" column="23" />
       </file>
       <file name="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/services/emal.service.js" timestamp="1491510490894">
         <mark key="'" line="22" column="0" />
@@ -589,12 +589,12 @@
         <mark key="^" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/services/split.service.js" timestamp="1491843937474">
-        <mark key="'" line="90" column="22" />
-        <mark key="[" line="90" column="36" />
-        <mark key="]" line="90" column="36" />
-        <mark key="." line="90" column="36" />
-        <mark key="^" line="84" column="33" />
+      <file name="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/services/split.service.js" timestamp="1491855380689">
+        <mark key="'" line="98" column="22" />
+        <mark key="[" line="82" column="71" />
+        <mark key="]" line="83" column="8" />
+        <mark key="." line="83" column="8" />
+        <mark key="^" line="83" column="8" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/handlers/email-templates.handler.js" timestamp="1489971116497">
         <mark key="'" line="5" column="21" />
@@ -642,7 +642,7 @@
         <mark key="." line="87" column="33" />
         <mark key="^" line="87" column="33" />
       </file>
-      <file name="/Dummy.txt" timestamp="1491850502589">
+      <file name="/Dummy.txt" timestamp="1491855599682">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-auto-accept-html-en.html" timestamp="1490109464765">
@@ -733,12 +733,12 @@
         <mark key="." line="46" column="19" />
         <mark key="^" line="46" column="19" />
       </file>
-      <file name="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/jsonapi/purchased-ticket.jsonapi.js" timestamp="1491849351435">
+      <file name="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/jsonapi/purchased-ticket.jsonapi.js" timestamp="1491855155808">
         <mark key="'" line="27" column="8" />
-        <mark key="[" line="50" column="48" />
-        <mark key="]" line="50" column="55" />
-        <mark key="." line="50" column="55" />
-        <mark key="^" line="50" column="55" />
+        <mark key="[" line="61" column="32" />
+        <mark key="]" line="61" column="36" />
+        <mark key="." line="61" column="36" />
+        <mark key="^" line="61" column="36" />
       </file>
     </filemarks>
     <jumps>
@@ -861,61 +861,44 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>allowUnknow</text>
       </register>
       <register name="-" type="4">
-        <text>_getPurchasedTicketsByTicketPurchaseId</text>
+        <text>allowUnknow</text>
       </register>
       <register name="/" type="4">
         <text>JSON</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHF1ZXJ5ID0gewogICAgICBpbmNsdWRlOiBbCiAgICAgICAgewogICAgICAgICAgbW9kZWw6IG1vZGVscy5UaWNrZXRQdXJjaGFzZSwKICAgICAgICAgIGFzOiAndGlja2V0UHVyY2hhc2UnCiAgICAgICAgICAvLyBpbmNsdWRlOiBbCiAgICAgICAgICAvLyAgIHsKICAgICAgICAgIC8vICAgICBtb2RlbDogbW9kZWxzLlVzZXIsCiAgICAgICAgICAvLyAgICAgYXM6ICd1c2VycycKICAgICAgICAgIC8vICAgfQogICAgICAgICAgLy8gXQogICAgICAgIH0sCiAgICAgICAgewogICAgICAgICAgbW9kZWw6IG1vZGVscy5QdXJjaGFzZWRUaWNrZXQsCiAgICAgICAgICBhczogJ3NwbGl0VGlja2V0cycKICAgICAgICB9CiAgICAgIF0KICAgIH07Cg==</text>
+        <text encoding="base64">ICAgICAgICAnaXNTcGxpdFBhcmVudCcsCiAgICAgICAgJ2luZm8nLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLnRoZW4oZGF0ZXMgPT4gewogICAgICAgIGlmIChkYXRlcy5sZW5ndGggPD0gMSkgewogICAgICAgICAgdGhyb3cgbmV3IEVycm9yKCk7CiAgICAgICAgfQogICAgICAgIHJldHVybiBkYXRlczsKICAgICAgfSkKCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdBQk5DTFNBREtKRlNMREtKRicpOwo=</text>
+        <text encoding="base64">ICAgICAgLy8gSWYgdGhlIGNvbmZlcmVuY2UgaXMgMSBvciBmZXdlciAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoZGF0ZXMpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3QgQkFTRV9RVUVSWSA9IDsK</text>
+        <text encoding="base64">ICAgICAgICAgIHRpY2tldFB1cmNoYXNlSWQ6IHRoaXMudGlja2V0LnRpY2tldFB1cmNoYXNlLmlkLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICBhdHRyaWJ1dGVzOiBbCiAgICAgICAgICAnJwogICAgICAgIF0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHF1ZXJ5ID0gSlNPTi5wYXJzZShKU09OLnN0cmluZ2lmeShCQVNFX1FVRVJZKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICBhdHRyaWJ1dGVzOiBbCiAgICAgICAgICAnJwogICAgICAgIF0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHF1ZXJ5ID0gSlNPTi5wYXJzZShKU09OLnN0cmluZ2lmeShCQVNFX1FVRVJZKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>{
-  include: [
-    {
-      model: models.TicketPurchase,
-      as: 'ticketPurchase'
-      // include: [
-      //   {
-      //     model: models.User,
-      //     as: 'users'
-      //   }
-      // ]
-    },
-    {
-      model: models.PurchasedTicket,
-      as: 'splitTickets'
-    }
-  ]
-}</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdBQk5DTFNBREtKRlNMREtKRicpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgX2dldFB1cmNoYXNlZFRpY2tldHNCeVRpY2tldFB1cmNoYXNlSWQoaWRzLCB0aWNrZXRQdXJjaGFzZUlkKSAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
