@@ -248,12 +248,12 @@
         <mark key="." line="150" column="26" />
         <mark key="^" line="150" column="26" />
       </file>
-      <file name="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/handlers/middleman-interface.handler.js" timestamp="1491578502841">
-        <mark key="'" line="32" column="0" />
-        <mark key="[" line="27" column="8" />
-        <mark key="]" line="27" column="25" />
-        <mark key="." line="32" column="48" />
-        <mark key="^" line="34" column="6" />
+      <file name="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/handlers/middleman-interface.handler.js" timestamp="1491832263763">
+        <mark key="'" line="30" column="0" />
+        <mark key="[" line="16" column="59" />
+        <mark key="]" line="16" column="59" />
+        <mark key="." line="16" column="59" />
+        <mark key="^" line="16" column="29" />
       </file>
       <file name="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/services/emal.service.js" timestamp="1491510490894">
         <mark key="'" line="22" column="0" />
@@ -349,12 +349,12 @@
         <mark key="^" line="40" column="20" />
         <mark key="." line="40" column="20" />
       </file>
-      <file name="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/handlers/split.handler.js" timestamp="1491428334754">
+      <file name="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/handlers/split.handler.js" timestamp="1491832157826">
         <mark key="'" line="29" column="6" />
-        <mark key="[" line="23" column="8" />
-        <mark key="]" line="23" column="7" />
-        <mark key="." line="23" column="7" />
-        <mark key="^" line="23" column="7" />
+        <mark key="[" line="4" column="52" />
+        <mark key="]" line="4" column="59" />
+        <mark key="." line="4" column="59" />
+        <mark key="^" line="4" column="59" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-partner-decline-html-en.html" timestamp="1490641626388">
         <mark key="[" line="19" column="0" />
@@ -934,10 +934,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>,</text>
@@ -946,31 +946,31 @@
         <text encoding="base64">cHJvY2Vzcy5vbigndW5jYXVnaHRFeGNlcHRpb24nLCAoZXJyKSA9PiB7CiAgbG9nZ2VyLmVycm9yKGVycik7Cn0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG5ldyAod2luc3Rvbi50cmFuc3BvcnRzLkxvZ2dseSkoewogICAgfSkK</text>
+        <text encoding="base64">ICAgICAgICBpZDogdGlja2V0UHVyY2hhc2UuaWQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIG5ldyAod2luc3Rvbi50cmFuc3BvcnRzLkxvZ2dseSkoewogICAgfSkK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgbGV2ZWw6ICdlcnJvcicsCiAgICAgIHRva2VuOiBjb25maWcuZ2V0KCdsb2dnZXIubG9nZ2x5LnRva2VuJyksCiAgICAgIHN1YmRvbWFpbjogY29uZmlnLmdldCgnbG9nZ2VyLmxvZ2dseS5zdWJkb21haW4nKSwKICAgICAgdGFnczogY29uZmlnLmdldCgnbG9nZ2VyLmxvZ2dseS50YWdzJyksCiAgICAgIGpzb246dHJ1ZQo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>['c2invite']</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgCiAgICAgIHRva2VuOiAiZDdiNDZhYTYtODE5NS00MzJmLWIyYjMtNWRmMWJjNDNkN2ZkIiwK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIHRhZ3M6CiAgICAgIC0gCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">aW1wb3J0IHBhdGggZnJvbSAncGF0aCc7Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICJ3aW5zdG9uLWxvZ2dseSI6ICJeMS4zLjEiLAo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJwb29wIjogIl4yLjAuMiIsCg==</text>
+        <text encoding="base64">ICAgICJ3aW5zdG9uLWxvZ2dseSI6ICJeMS4zLjEiLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
