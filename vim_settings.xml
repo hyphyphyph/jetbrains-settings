@@ -85,11 +85,11 @@
         <mark key="^" line="1" column="19" />
         <mark key="." line="1" column="19" />
       </file>
-      <file name="$USER_HOME$/~working0/c2/invite-api/src/models/ticket-purchase.model.js" timestamp="1491930975184">
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="67" column="0" />
-        <mark key="^" line="66" column="8" />
-        <mark key="." line="67" column="0" />
+      <file name="$USER_HOME$/~working0/c2/invite-api/src/models/ticket-purchase.model.js" timestamp="1491934607688">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="66" column="11" />
+        <mark key="^" line="59" column="38" />
+        <mark key="." line="59" column="38" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/user/handlers/me.handler.js" timestamp="1490114326581">
         <mark key="[" line="56" column="42" />
@@ -255,10 +255,10 @@
         <mark key="^" line="42" column="25" />
         <mark key="." line="42" column="25" />
       </file>
-      <file name="$USER_HOME$/~working0/c2/invite-api/src/models/conference.model.js" timestamp="1491597899182">
+      <file name="$USER_HOME$/~working0/c2/invite-api/src/models/conference.model.js" timestamp="1491934536086">
         <mark key="'" line="2" column="7" />
-        <mark key="[" line="191" column="0" />
-        <mark key="]" line="191" column="0" />
+        <mark key="[" line="128" column="0" />
+        <mark key="]" line="130" column="39" />
         <mark key="." line="191" column="0" />
         <mark key="^" line="191" column="66" />
       </file>
@@ -731,12 +731,12 @@
         <mark key="." line="24" column="15" />
         <mark key="^" line="24" column="15" />
       </file>
-      <file name="$USER_HOME$/~working0/c2/invite-api/src/models/user.model.js" timestamp="1491597916395">
+      <file name="$USER_HOME$/~working0/c2/invite-api/src/models/user.model.js" timestamp="1491934630996">
         <mark key="'" line="2" column="7" />
-        <mark key="[" line="46" column="18" />
-        <mark key="]" line="46" column="19" />
-        <mark key="." line="46" column="19" />
-        <mark key="^" line="46" column="19" />
+        <mark key="[" line="107" column="27" />
+        <mark key="]" line="107" column="32" />
+        <mark key="." line="107" column="32" />
+        <mark key="^" line="107" column="32" />
       </file>
       <file name="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/jsonapi/purchased-ticket.jsonapi.js" timestamp="1491855155808">
         <mark key="'" line="27" column="8" />
@@ -867,16 +867,16 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>ConferenceUser</text>
+        <text>ticketPurchaseId</text>
       </register>
       <register name="-" type="4">
-        <text>ConferenceUser</text>
+        <text>ticketPurchaseId</text>
       </register>
       <register name="/" type="4">
         <text>reply</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">J3VzZSBzdHJpY3QnOwoKY29uc3QgVEFCTEVfTkFNRSA9ICdDb25mZXJlbmNlVXNlcic7Cgptb2R1bGUuZXhwb3J0cyA9IHsKICB1cDogKHF1ZXJ5SW50ZXJmYWNlLCBTZXF1ZWxpemUpID0+IHsKICAgIHJldHVybiBxdWVyeUludGVyZmFjZS5jcmVhdGVUYWJsZSgKICAgICAgVEFCTEVfTkFNRSwKICAgICAgewoKICAgICAgICBpZDogewogICAgICAgICAgcHJpbWFyeUtleTogdHJ1ZSwKICAgICAgICAgIGFsbG93TnVsbDogZmFsc2UsCiAgICAgICAgICB0eXBlOiBTZXF1ZWxpemUuVVVJRAogICAgICAgIH0sCgogICAgICAgIHVzZXJJZDogewogICAgICAgICAgdHlwZTogU2VxdWVsaXplLlVVSUQsCiAgICAgICAgICByZWZlcmVuY2VzOiB7CiAgICAgICAgICAgIG1vZGVsOiAnVXNlcnMnLAogICAgICAgICAgICBrZXk6ICdpZCcKICAgICAgICAgIH0sCiAgICAgICAgICBvblVwZGF0ZTogJ0NBU0NBREUnLAogICAgICAgICAgb25EZWxldGU6ICdDQVNDQURFJwogICAgICAgIH0sCgogICAgICAgIGNvbmZlcmVuY2VJZDogewogICAgICAgICAgdHlwZTogU2VxdWVsaXplLlVVSUQsCiAgICAgICAgICByZWZlcmVuY2VzOiB7CiAgICAgICAgICAgIG1vZGVsOiAnQ29uZmVyZW5jZXMnLAogICAgICAgICAgICBrZXk6ICdpZCcKICAgICAgICAgIH0sCiAgICAgICAgICBvblVwZGF0ZTogJ0NBU0NBREUnLAogICAgICAgICAgb25EZWxldGU6ICdDQVNDQURFJwogICAgICAgIH0sCgogICAgICAgIHJvbGU6IHsKICAgICAgICAgIHR5cGU6IFNlcXVlbGl6ZS5URVhUCiAgICAgICAgfSwKCiAgICAgICAgY3JlYXRlZEF0OiB7CiAgICAgICAgICBhbGxvd051bGw6IHRydWUsCiAgICAgICAgICB0eXBlOiBTZXF1ZWxpemUuREFURQogICAgICAgIH0sCgogICAgICAgIHVwZGF0ZWRBdDogewogICAgICAgICAgYWxsb3dOdWxsOiB0cnVlLAogICAgICAgICAgdHlwZTogU2VxdWVsaXplLkRBVEUKICAgICAgICB9CgogICAgICB9CiAgICApCiAgICAudGhlbigoKSA9PiB7CiAgICAgIHJldHVybiBxdWVyeUludGVyZmFjZS5hZGRJbmRleCgKICAgICAgICBUQUJMRV9OQU1FLAogICAgICAgIFsKICAgICAgICAgICd1c2VySWQnLAogICAgICAgICAgJ2NvbmZlcmVuY2VJZCcKICAgICAgICBdLAogICAgICAgIHsKICAgICAgICAgIGluZGljZXNUeXBlOiAnVU5JUVVFJwogICAgICAgIH0KICAgICAgKTsKICAgIH0pCiAgICAudGhlbigoKSA9PiBxdWVyeUludGVyZmFjZS5zZXF1ZWxpemUKICAgICAgLnF1ZXJ5KCdBTFRFUiBUQUJMRSBwdWJsaWMuIkNvbmZlcmVuY2VVc2VyIiBBTFRFUiBDT0xVTU4gaWQgU0VUIERFRkFVTFQgdXVpZF9nZW5lcmF0ZV92NCgpOycpKTsKICB9LAoKICBkb3duOiAocXVlcnlJbnRlcmZhY2UpID0+IHsKICAgIHJldHVybiBxdWVyeUludGVyZmFjZS5kcm9wVGFibGUoVEFCTEVfTkFNRSwgeyBjYXNjYWRlOiB0cnVlIH0pOwogIH0KfTsK</text>
+        <text encoding="base64">ICAgICAgICAgIFRpY2tldFB1cmNoYXNlLmJlbG9uZ3NUb01hbnkoCiAgICAgICAgICAgIG1vZGVscy5Vc2VyLAogICAgICAgICAgICB7CiAgICAgICAgICAgICAgdGhyb3VnaDogJ1RpY2tldFB1cmNoYXNlVXNlcicsCiAgICAgICAgICAgICAgYXM6ICd1c2VycycsCiAgICAgICAgICAgICAgZm9yZWlnbktleTogJ3RpY2tldFB1cmNoYXNlSWQnCiAgICAgICAgICAgIH0KICAgICAgICAgICk7Cg==</text>
       </register>
       <register name="1" type="4">
         <text>conference</text>
