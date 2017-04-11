@@ -642,8 +642,9 @@
         <mark key="." line="87" column="33" />
         <mark key="^" line="87" column="33" />
       </file>
-      <file name="/Dummy.txt" timestamp="1491855599682">
+      <file name="/Dummy.txt" timestamp="1491856220106">
         <mark key="[" line="0" column="0" />
+        <mark key="." line="0" column="12" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-auto-accept-html-en.html" timestamp="1490109464765">
         <mark key="[" line="9" column="0" />
