@@ -647,7 +647,7 @@
         <mark key="." line="87" column="33" />
         <mark key="^" line="87" column="33" />
       </file>
-      <file name="/Dummy.txt" timestamp="1491932666573">
+      <file name="/Dummy.txt" timestamp="1491933942375">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-auto-accept-html-en.html" timestamp="1490109464765">
@@ -873,7 +873,7 @@
         <text>ConferenceUser</text>
       </register>
       <register name="/" type="4">
-        <text>I</text>
+        <text>reply</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">J3VzZSBzdHJpY3QnOwoKY29uc3QgVEFCTEVfTkFNRSA9ICdDb25mZXJlbmNlVXNlcic7Cgptb2R1bGUuZXhwb3J0cyA9IHsKICB1cDogKHF1ZXJ5SW50ZXJmYWNlLCBTZXF1ZWxpemUpID0+IHsKICAgIHJldHVybiBxdWVyeUludGVyZmFjZS5jcmVhdGVUYWJsZSgKICAgICAgVEFCTEVfTkFNRSwKICAgICAgewoKICAgICAgICBpZDogewogICAgICAgICAgcHJpbWFyeUtleTogdHJ1ZSwKICAgICAgICAgIGFsbG93TnVsbDogZmFsc2UsCiAgICAgICAgICB0eXBlOiBTZXF1ZWxpemUuVVVJRAogICAgICAgIH0sCgogICAgICAgIHVzZXJJZDogewogICAgICAgICAgdHlwZTogU2VxdWVsaXplLlVVSUQsCiAgICAgICAgICByZWZlcmVuY2VzOiB7CiAgICAgICAgICAgIG1vZGVsOiAnVXNlcnMnLAogICAgICAgICAgICBrZXk6ICdpZCcKICAgICAgICAgIH0sCiAgICAgICAgICBvblVwZGF0ZTogJ0NBU0NBREUnLAogICAgICAgICAgb25EZWxldGU6ICdDQVNDQURFJwogICAgICAgIH0sCgogICAgICAgIGNvbmZlcmVuY2VJZDogewogICAgICAgICAgdHlwZTogU2VxdWVsaXplLlVVSUQsCiAgICAgICAgICByZWZlcmVuY2VzOiB7CiAgICAgICAgICAgIG1vZGVsOiAnQ29uZmVyZW5jZXMnLAogICAgICAgICAgICBrZXk6ICdpZCcKICAgICAgICAgIH0sCiAgICAgICAgICBvblVwZGF0ZTogJ0NBU0NBREUnLAogICAgICAgICAgb25EZWxldGU6ICdDQVNDQURFJwogICAgICAgIH0sCgogICAgICAgIHJvbGU6IHsKICAgICAgICAgIHR5cGU6IFNlcXVlbGl6ZS5URVhUCiAgICAgICAgfSwKCiAgICAgICAgY3JlYXRlZEF0OiB7CiAgICAgICAgICBhbGxvd051bGw6IHRydWUsCiAgICAgICAgICB0eXBlOiBTZXF1ZWxpemUuREFURQogICAgICAgIH0sCgogICAgICAgIHVwZGF0ZWRBdDogewogICAgICAgICAgYWxsb3dOdWxsOiB0cnVlLAogICAgICAgICAgdHlwZTogU2VxdWVsaXplLkRBVEUKICAgICAgICB9CgogICAgICB9CiAgICApCiAgICAudGhlbigoKSA9PiB7CiAgICAgIHJldHVybiBxdWVyeUludGVyZmFjZS5hZGRJbmRleCgKICAgICAgICBUQUJMRV9OQU1FLAogICAgICAgIFsKICAgICAgICAgICd1c2VySWQnLAogICAgICAgICAgJ2NvbmZlcmVuY2VJZCcKICAgICAgICBdLAogICAgICAgIHsKICAgICAgICAgIGluZGljZXNUeXBlOiAnVU5JUVVFJwogICAgICAgIH0KICAgICAgKTsKICAgIH0pCiAgICAudGhlbigoKSA9PiBxdWVyeUludGVyZmFjZS5zZXF1ZWxpemUKICAgICAgLnF1ZXJ5KCdBTFRFUiBUQUJMRSBwdWJsaWMuIkNvbmZlcmVuY2VVc2VyIiBBTFRFUiBDT0xVTU4gaWQgU0VUIERFRkFVTFQgdXVpZF9nZW5lcmF0ZV92NCgpOycpKTsKICB9LAoKICBkb3duOiAocXVlcnlJbnRlcmZhY2UpID0+IHsKICAgIHJldHVybiBxdWVyeUludGVyZmFjZS5kcm9wVGFibGUoVEFCTEVfTkFNRSwgeyBjYXNjYWRlOiB0cnVlIH0pOwogIH0KfTsK</text>
@@ -910,9 +910,9 @@
       </register>
     </registers>
     <search>
-      <last-search>I</last-search>
+      <last-search>reply</last-search>
       <last-offset />
-      <last-pattern>I</last-pattern>
+      <last-pattern>reply</last-pattern>
       <last-replace>AutoAccept</last-replace>
       <last-substitute>Boom</last-substitute>
       <last-dir>1</last-dir>
@@ -920,7 +920,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Ticker</entry>
         <entry>split</entry>
         <entry encoding="base64">IHx8IA==</entry>
         <entry>)</entry>
@@ -940,6 +939,7 @@
         <entry>find</entry>
         <entry>U</entry>
         <entry>I</entry>
+        <entry>reply</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1Jlc2VuZC9BY2NlcHRPbkJlaGFsZi9n</entry>
