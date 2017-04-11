@@ -9,6 +9,12 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/~working0/c2/invite-api/src/models/conference-date.model.js" timestamp="1491939004493">
+        <mark key="[" line="65" column="19" />
+        <mark key="]" line="65" column="34" />
+        <mark key="." line="65" column="34" />
+        <mark key="^" line="65" column="34" />
+      </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-partner-unknown-action-text-en.html" timestamp="1490294443324">
         <mark key="[" line="4" column="24" />
         <mark key="]" line="5" column="16" />
@@ -35,12 +41,10 @@
         <mark key="." line="410" column="35" />
         <mark key="^" line="410" column="35" />
       </file>
-      <file name="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/services/middleman-interface.service.js" timestamp="1491936837000">
-        <mark key="'" line="33" column="0" />
-        <mark key="[" line="73" column="61" />
-        <mark key="]" line="73" column="61" />
-        <mark key="." line="73" column="61" />
-        <mark key="^" line="73" column="61" />
+      <file name="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/services/middleman-interface.service.js" timestamp="1491939577419">
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="0" />
+        <mark key="." line="80" column="0" />
       </file>
       <file name="$USER_HOME$/invite-api/db/seeders/20170118171719-create-conferences.js" timestamp="1490021283537">
         <mark key="[" line="9" column="15" />
@@ -66,6 +70,12 @@
         <mark key="]" line="27" column="28" />
         <mark key="^" line="27" column="28" />
         <mark key="." line="27" column="28" />
+      </file>
+      <file name="$USER_HOME$/~working0/c2/invite-api/db/migrations/20170411192035-create-purchased-ticket-conference-date.js" timestamp="1491939104216">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="29" />
+        <mark key="." line="29" column="0" />
+        <mark key="^" line="18" column="28" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-accept-on-behalf-html-en.html" timestamp="1490109489513">
         <mark key="[" line="9" column="0" />
@@ -197,12 +207,12 @@
         <mark key="." line="60" column="53" />
         <mark key="^" line="60" column="53" />
       </file>
-      <file name="$USER_HOME$/~working0/c2/invite-api/src/models/purchased-ticket.model.js" timestamp="1491930990073">
+      <file name="$USER_HOME$/~working0/c2/invite-api/src/models/purchased-ticket.model.js" timestamp="1491939036264">
         <mark key="'" line="15" column="22" />
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="^" line="59" column="8" />
-        <mark key="." line="60" column="0" />
+        <mark key="[" line="64" column="19" />
+        <mark key="]" line="64" column="33" />
+        <mark key="^" line="64" column="33" />
+        <mark key="." line="64" column="33" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/user/handlers/registration.handler.js" timestamp="1490117155589">
         <mark key="'" line="107" column="17" />
@@ -285,6 +295,13 @@
         <mark key="]" line="15" column="2" />
         <mark key="." line="13" column="60" />
         <mark key="^" line="13" column="60" />
+      </file>
+      <file name="$USER_HOME$/~working0/c2/invite-api/db/migrations/20170411174534-create-purchased-ticket-user.js" timestamp="1491938441072">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="66" column="2" />
+        <mark key="." line="52" column="27" />
+        <mark key="^" line="52" column="27" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/user/templates/registration-html-en.html" timestamp="1489896563678">
         <mark key="'" line="0" column="0" />
@@ -574,12 +591,12 @@
         <mark key="." line="74" column="0" />
         <mark key="^" line="73" column="8" />
       </file>
-      <file name="$USER_HOME$/~working0/c2/invite-api/src/modules/conference-date/services/conference-date.service.js" timestamp="1491936477036">
-        <mark key="'" line="8" column="32" />
-        <mark key="[" line="4" column="33" />
-        <mark key="]" line="4" column="75" />
-        <mark key="^" line="4" column="75" />
-        <mark key="." line="4" column="75" />
+      <file name="$USER_HOME$/~working0/c2/invite-api/src/modules/conference-date/services/conference-date.service.js" timestamp="1491939573353">
+        <mark key="'" line="16" column="28" />
+        <mark key="[" line="21" column="23" />
+        <mark key="]" line="21" column="23" />
+        <mark key="." line="21" column="23" />
+        <mark key="^" line="21" column="23" />
       </file>
       <file name="$USER_HOME$/~working0/c2/invite-api/config/default.yml" timestamp="1491604774166">
         <mark key="[" line="26" column="14" />
@@ -754,15 +771,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="17" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/conference/jsonapi/conference.jsonapi.js" />
-      <jump line="2" column="0" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/core/base-handler.js" />
-      <jump line="14" column="25" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/core/base-handler.js" />
-      <jump line="30" column="25" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/core/base-handler.js" />
-      <jump line="51" column="29" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/core/base-handler.js" />
-      <jump line="86" column="29" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/core/base-handler.js" />
-      <jump line="178" column="14" filename="$USER_HOME$/~working0/c2/invite-api/src/models/conference.model.js" />
-      <jump line="94" column="10" filename="$USER_HOME$/~working0/c2/invite-api/src/models/conference.model.js" />
-      <jump line="113" column="10" filename="$USER_HOME$/~working0/c2/invite-api/src/models/conference.model.js" />
       <jump line="107" column="8" filename="$USER_HOME$/~working0/c2/invite-api/src/models/partner.model.js" />
       <jump line="0" column="0" filename="$USER_HOME$/~working0/c2/invite-api/src/models/partner.model.js" />
       <jump line="191" column="48" filename="$USER_HOME$/~working0/c2/invite-api/src/models/conference.model.js" />
@@ -854,6 +862,15 @@
       <jump line="4" column="32" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/conference-date/services/conference-date.service.js" />
       <jump line="35" column="6" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/services/middleman-interface.service.js" />
       <jump line="33" column="0" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/services/middleman-interface.service.js" />
+      <jump line="73" column="61" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/services/middleman-interface.service.js" />
+      <jump line="2" column="95" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/services/middleman-interface.service.js" />
+      <jump line="11" column="28" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/conference-date/services/conference-date.service.js" />
+      <jump line="81" column="34" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/services/middleman-interface.service.js" />
+      <jump line="26" column="27" filename="$USER_HOME$/~working0/c2/invite-api/db/migrations/20170411174534-create-purchased-ticket-user.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/~working0/c2/invite-api/db/migrations/20170411174534-create-purchased-ticket-user.js" />
+      <jump line="23" column="0" filename="$USER_HOME$/~working0/c2/invite-api/db/migrations/20170411192035-create-purchased-ticket-conference-date.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/~working0/c2/invite-api/db/migrations/20170411192035-create-purchased-ticket-conference-date.js" />
+      <jump line="80" column="38" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/services/middleman-interface.service.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -874,52 +891,52 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHRoaXMuY29uZmVyZW5jZSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>.then</text>
+        <text>conferenceId</text>
       </register>
       <register name="/" type="4">
-        <text>{}</text>
+        <text>console</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIFRpY2tldFB1cmNoYXNlLmJlbG9uZ3NUb01hbnkoCiAgICAgICAgICAgIG1vZGVscy5Vc2VyLAogICAgICAgICAgICB7CiAgICAgICAgICAgICAgdGhyb3VnaDogJ1RpY2tldFB1cmNoYXNlVXNlcicsCiAgICAgICAgICAgICAgYXM6ICd1c2VycycsCiAgICAgICAgICAgICAgZm9yZWlnbktleTogJ3RpY2tldFB1cmNoYXNlSWQnCiAgICAgICAgICAgIH0KICAgICAgICAgICk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWxsb3dOdWxsOiBmYWxzZSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHRoaXMuY29uZmVyZW5jZSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgKHRpY2tldFB1cmNoYXNlID0+IHsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuY29uZmVyZW5jZS5pZCk7Cgo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLnRoZW4odGlja2V0UHVyY2hhc2UgPT4gewogICAgICAgIG5ldyBDb25mZXJlbmNlRGF0ZVNlcnZpY2UoKS5nZXRDb25mZXJlbmNlRGF0ZXNCeURhdGVzKCkKICAgICAgKQo=</text>
+      <register name="3" type="4">
+        <text>ConferenceInvite</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLnRoZW4odGlja2V0UHVyY2hhc2UgPT4gewogICAgICAgIG5ldyBDb25mZXJlbmNlRGF0ZVNlcnZpY2UoKS5nZXRDb25mZXJlbmNlRGF0ZXNCeURhdGVzKCkKICAgICAgfSkK</text>
+        <text encoding="base64">ICAgICAgICAgIG8K</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLnRoZW4odGlja2V0UHVyY2hhc2UpCg==</text>
+      <register name="5" type="4">
+        <text>ticketPurchase</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxldCBwcm9taXNlcyA9IGRhdGVzLm1hcCgpOwo=</text>
+        <text encoding="base64">J3VzZSBzdHJpY3QnOwoKbW9kdWxlLmV4cG9ydHMgPSB7CiAgdXA6IGZ1bmN0aW9uIChxdWVyeUludGVyZmFjZSwgU2VxdWVsaXplKSB7CiAgICAvKgogICAgICBBZGQgYWx0ZXJpbmcgY29tbWFuZHMgaGVyZS4KICAgICAgUmV0dXJuIGEgcHJvbWlzZSB0byBjb3JyZWN0bHkgaGFuZGxlIGFzeW5jaHJvbmljaXR5LgoKICAgICAgRXhhbXBsZToKICAgICAgcmV0dXJuIHF1ZXJ5SW50ZXJmYWNlLmNyZWF0ZVRhYmxlKCd1c2VycycsIHsgaWQ6IFNlcXVlbGl6ZS5JTlRFR0VSIH0pOwogICAgKi8KICB9LAoKICBkb3duOiBmdW5jdGlvbiAocXVlcnlJbnRlcmZhY2UsIFNlcXVlbGl6ZSkgewogICAgLyoKICAgICAgQWRkIHJldmVydGluZyBjb21tYW5kcyBoZXJlLgogICAgICBSZXR1cm4gYSBwcm9taXNlIHRvIGNvcnJlY3RseSBoYW5kbGUgYXN5bmNocm9uaWNpdHkuCgogICAgICBFeGFtcGxlOgogICAgICByZXR1cm4gcXVlcnlJbnRlcmZhY2UuZHJvcFRhYmxlKCd1c2VycycpOwogICAgKi8KICB9Cn07Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGRhdGVzLgo=</text>
+      <register name="7" type="4">
+        <text>ticketPurchase</text>
       </register>
       <register name="8" type="4">
-        <text>conference</text>
+        <text>TicketPurchase</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">IC0gMjQgKiA2MCAqIDYwICogMTAwMA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>{}</last-search>
+      <last-search>console</last-search>
       <last-offset />
-      <last-pattern>{}</last-pattern>
+      <last-pattern>console</last-pattern>
       <last-replace>AutoAccept</last-replace>
       <last-substitute>Boom</last-substitute>
       <last-dir>1</last-dir>
@@ -927,12 +944,6 @@
     </search>
     <history>
       <history-search>
-        <entry>for</entry>
-        <entry>\.</entry>
-        <entry>;</entry>
-        <entry>{</entry>
-        <entry>P</entry>
-        <entry>show</entry>
         <entry encoding="base64">IA==</entry>
         <entry>tickeds</entry>
         <entry>Tickeds</entry>
@@ -940,13 +951,19 @@
         <entry>Nmae</entry>
         <entry>photo</entry>
         <entry>find</entry>
-        <entry>U</entry>
-        <entry>I</entry>
         <entry>reply</entry>
         <entry>Date</entry>
         <entry encoding="base64">XDxfaGFuZGxlRGF0ZXNcPg==</entry>
         <entry>()</entry>
         <entry>{}</entry>
+        <entry encoding="base64">IC0g</entry>
+        <entry>)</entry>
+        <entry>:</entry>
+        <entry>Fr</entry>
+        <entry>U</entry>
+        <entry>I</entry>
+        <entry>C</entry>
+        <entry>console</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1Jlc2VuZC9BY2NlcHRPbkJlaGFsZi9n</entry>
