@@ -433,12 +433,6 @@
         <mark key="^" line="88" column="25" />
         <mark key="." line="88" column="25" />
       </file>
-      <file name="$USER_HOME$/~working0/c2/invite-api/src/server.js" timestamp="1491604639942">
-        <mark key="'" line="10" column="23" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
       <file name="$USER_HOME$/invite-api/src/modules/partner/templates/invited-html-fr.html" timestamp="1489897851738">
         <mark key="[" line="16" column="2" />
         <mark key="]" line="16" column="33" />
@@ -490,11 +484,12 @@
         <mark key="^" line="9" column="4" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/~working0/c2/invite-api/db/migrations/20170406161149-create-purchased-ticket-invite.js" timestamp="1491495287656">
-        <mark key="[" line="61" column="9" />
-        <mark key="]" line="61" column="9" />
-        <mark key="." line="61" column="9" />
-        <mark key="^" line="61" column="9" />
+      <file name="$USER_HOME$/~working0/c2/invite-api/db/migrations/20170406161149-create-purchased-ticket-invite.js" timestamp="1491930486899">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="33" column="15" />
+        <mark key="]" line="33" column="15" />
+        <mark key="." line="33" column="15" />
+        <mark key="^" line="33" column="15" />
       </file>
       <file name="$USER_HOME$/~working0/c2/invite-api/src/modules/conference-date/jsonapi/conference-date.jsonapi.js" timestamp="1491837989811">
         <mark key="'" line="0" column="0" />
@@ -533,12 +528,6 @@
         <mark key="]" line="67" column="2" />
         <mark key="^" line="39" column="35" />
         <mark key="." line="39" column="35" />
-      </file>
-      <file name="$USER_HOME$/~working0/c2/invite-api/src/modules/conference/jsonapi/conference.jsonapi.js" timestamp="1491591446531">
-        <mark key="'" line="69" column="17" />
-        <mark key="[" line="163" column="0" />
-        <mark key="]" line="163" column="0" />
-        <mark key="." line="163" column="0" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-partner-unknown-action-html-en.html" timestamp="1490294471163">
         <mark key="[" line="15" column="24" />
@@ -642,10 +631,6 @@
         <mark key="." line="87" column="33" />
         <mark key="^" line="87" column="33" />
       </file>
-      <file name="/Dummy.txt" timestamp="1491922347700">
-        <mark key="[" line="0" column="0" />
-        <mark key="." line="0" column="12" />
-      </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-auto-accept-html-en.html" timestamp="1490109464765">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="11" column="4" />
@@ -743,7 +728,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="110" column="10" filename="$USER_HOME$/~working0/c2/invite-api/src/models/conference.model.js" />
       <jump line="46" column="19" filename="$USER_HOME$/~working0/c2/invite-api/src/models/user.model.js" />
       <jump line="0" column="0" filename="$USER_HOME$/~working0/c2/invite-api/src/models/user.model.js" />
       <jump line="165" column="10" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/conference/jsonapi/conference.jsonapi.js" />
@@ -843,6 +827,7 @@
       <jump line="49" column="37" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/handlers/purchased-ticket-crud.handler.js" />
       <jump line="151" column="4" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/handlers/purchased-ticket-crud.handler.js" />
       <jump line="91" column="41" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/routes.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/~working0/c2/invite-api/db/migrations/20170406161149-create-purchased-ticket-invite.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -863,13 +848,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>allowUnknow</text>
+        <text>m</text>
       </register>
       <register name="-" type="4">
-        <text>allowUnknow</text>
+        <text>m</text>
       </register>
       <register name="/" type="4">
-        <text>JSON</text>
+        <text>Nmae</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAnaXNTcGxpdFBhcmVudCcsCiAgICAgICAgJ2luZm8nLAo=</text>
@@ -906,9 +891,9 @@
       </register>
     </registers>
     <search>
-      <last-search>JSON</last-search>
+      <last-search>Nmae</last-search>
       <last-offset />
-      <last-pattern>JSON</last-pattern>
+      <last-pattern>Nmae</last-pattern>
       <last-replace>AutoAccept</last-replace>
       <last-substitute>Boom</last-substitute>
       <last-dir>1</last-dir>
@@ -916,7 +901,6 @@
     </search>
     <history>
       <history-search>
-        <entry>:</entry>
         <entry>J</entry>
         <entry>\/</entry>
         <entry>`</entry>
@@ -936,6 +920,7 @@
         <entry>tickeds</entry>
         <entry>Tickeds</entry>
         <entry>JSON</entry>
+        <entry>Nmae</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLy1lbi8tZnIvZw==</entry>
