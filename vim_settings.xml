@@ -41,10 +41,10 @@
         <mark key="." line="410" column="35" />
         <mark key="^" line="410" column="35" />
       </file>
-      <file name="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/services/middleman-interface.service.js" timestamp="1491939577419">
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="80" column="0" />
-        <mark key="." line="80" column="0" />
+      <file name="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/services/middleman-interface.service.js" timestamp="1491942870272">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
       </file>
       <file name="$USER_HOME$/invite-api/db/seeders/20170118171719-create-conferences.js" timestamp="1490021283537">
         <mark key="[" line="9" column="15" />
@@ -234,11 +234,10 @@
         <mark key="." line="150" column="26" />
         <mark key="^" line="150" column="26" />
       </file>
-      <file name="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/handlers/middleman-interface.handler.js" timestamp="1491855658461">
-        <mark key="'" line="30" column="0" />
-        <mark key="[" line="33" column="23" />
-        <mark key="]" line="33" column="23" />
-        <mark key="." line="33" column="23" />
+      <file name="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/handlers/middleman-interface.handler.js" timestamp="1491942791473">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
         <mark key="^" line="33" column="23" />
       </file>
       <file name="$USER_HOME$/~working0/c2/invite-api/src/modules/conference-invite/handlers/conference-invite-crud.handler.js" timestamp="1491935622159">
@@ -349,7 +348,6 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="18" column="3" />
       </file>
-      <file name="/purchased-ticket-invite-crud.handler.js" timestamp="1491932570524" />
       <file name="$USER_HOME$/invite-api/src/db.js" timestamp="1490044989853">
         <mark key="[" line="31" column="15" />
         <mark key="]" line="31" column="18" />
@@ -363,11 +361,11 @@
         <mark key="." line="62" column="0" />
         <mark key="^" line="196" column="2" />
       </file>
-      <file name="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/handlers/ticket-purchase-crud.handler.js" timestamp="1491840043738">
+      <file name="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/handlers/ticket-purchase-crud.handler.js" timestamp="1491942845561">
         <mark key="'" line="39" column="23" />
-        <mark key="[" line="26" column="36" />
-        <mark key="]" line="27" column="26" />
-        <mark key="." line="27" column="26" />
+        <mark key="[" line="89" column="0" />
+        <mark key="]" line="89" column="0" />
+        <mark key="." line="89" column="0" />
         <mark key="^" line="27" column="26" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference/templates/invited-html-fr.html" timestamp="1489897975726">
@@ -417,12 +415,12 @@
         <mark key="^" line="10" column="22" />
         <mark key="." line="10" column="22" />
       </file>
-      <file name="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/handlers/purchased-ticket-crud.handler.js" timestamp="1491941435666">
-        <mark key="'" line="122" column="4" />
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="71" column="53" />
-        <mark key="." line="71" column="50" />
-        <mark key="^" line="71" column="50" />
+      <file name="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/handlers/purchased-ticket-crud.handler.js" timestamp="1491942803443">
+        <mark key="'" line="110" column="4" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+        <mark key="^" line="59" column="50" />
       </file>
       <file name="$USER_HOME$/~working0/c2/invite-api/db/migrations/20170123233148-create-conference-user.js" timestamp="1491932735453">
         <mark key="'" line="0" column="0" />
@@ -475,11 +473,11 @@
         <mark key="^" line="16" column="1" />
         <mark key="." line="16" column="2" />
       </file>
-      <file name="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/handlers/purchased-ticket-invite-crud.handler.js" timestamp="1491941437190">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="54" />
+      <file name="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/handlers/purchased-ticket-invite-crud.handler.js" timestamp="1491942825228">
+        <mark key="[" line="263" column="0" />
+        <mark key="]" line="263" column="0" />
         <mark key="^" line="126" column="49" />
-        <mark key="." line="37" column="0" />
+        <mark key="." line="263" column="0" />
       </file>
       <file name="$USER_HOME$/~working0/c2/invite-api/src/modules/conference-invite/jsonapi/conference-invite.jsonapi.js" timestamp="1491339004400">
         <mark key="'" line="228" column="8" />
@@ -552,12 +550,12 @@
         <mark key="^" line="107" column="24" />
         <mark key="." line="107" column="24" />
       </file>
-      <file name="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/routes.js" timestamp="1491850097524">
-        <mark key="'" line="91" column="41" />
-        <mark key="[" line="92" column="70" />
-        <mark key="]" line="92" column="71" />
-        <mark key="^" line="92" column="84" />
-        <mark key="." line="92" column="71" />
+      <file name="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/routes.js" timestamp="1491942773784">
+        <mark key="'" line="69" column="41" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="70" column="84" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/~working0/c2/invite-api/db/migrations/20170405004847-create-purchased-ticket.js" timestamp="1491495116162">
         <mark key="'" line="0" column="0" />
@@ -623,11 +621,11 @@
         <mark key="^" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/services/split.service.js" timestamp="1491941749437">
+      <file name="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/services/split.service.js" timestamp="1491942878288">
         <mark key="'" line="108" column="31" />
-        <mark key="[" line="108" column="31" />
-        <mark key="]" line="108" column="31" />
-        <mark key="." line="108" column="31" />
+        <mark key="[" line="44" column="40" />
+        <mark key="]" line="44" column="41" />
+        <mark key="." line="44" column="41" />
         <mark key="^" line="108" column="41" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/handlers/email-templates.handler.js" timestamp="1489971116497">
@@ -675,9 +673,6 @@
         <mark key="]" line="87" column="33" />
         <mark key="." line="87" column="33" />
         <mark key="^" line="87" column="33" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1491941842101">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-auto-accept-html-en.html" timestamp="1490109464765">
         <mark key="[" line="9" column="0" />
@@ -771,7 +766,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="108" column="30" filename="$USER_HOME$/~working0/c2/invite-api/src/models/conference.model.js" />
       <jump line="109" column="44" filename="$USER_HOME$/~working0/c2/invite-api/src/models/conference.model.js" />
       <jump line="2" column="7" filename="$USER_HOME$/~working0/c2/invite-api/src/models/conference.model.js" />
       <jump line="34" column="10" filename="$USER_HOME$/~working0/c2/invite-api/src/models/partner.model.js" />
@@ -871,6 +865,7 @@
       <jump line="108" column="31" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/services/split.service.js" />
       <jump line="191" column="25" filename="$USER_HOME$/~working0/c2/invite-api/src/errors.js" />
       <jump line="194" column="37" filename="$USER_HOME$/~working0/c2/invite-api/src/errors.js" />
+      <jump line="57" column="5" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/handlers/middleman-interface.handler.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -890,53 +885,53 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>, conflicts</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAvLyB1cGRhdGVUaWNrZXRQdXJjaGFzZShleHRlcm5hbFNvdXJjZVR5cGUsIGV4dGVybmFsU291cmNlSWQsIHB1cmNoYXNlSW5mbykgewogIC8vICAgdGhpcwogIC8vICAgICAuX2dldENvbmZlcmVuY2UocHVyY2hhc2VJbmZvLm1pZGRsZW1hbkV2ZW50TmFtZSkKICAvLyAgICAgLnRoZW4oY29uZmVyZW5jZSA9PiBtb2RlbHMuVGlja2V0UHVyY2hhc2UuY3JlYXRlKHsKICAvLyAgICAgICBleHRlcm5hbFNvdXJjZVR5cGU6IHB1cmNoYXNlSW5mby5leHRlcm5hbFNvdXJjZVR5cGUsCiAgLy8gICAgICAgZXh0ZXJuYWxTb3VyY2VJZDogcHVyY2hhc2VJbmZvLmV4dGVybmFsU291cmNlSWQsCiAgLy8KICAvLyAgICAgICBjb25mZXJlbmNlSWQ6IGNvbmZlcmVuY2UuaWQsCiAgLy8gICAgICAgZW1haWw6IHB1cmNoYXNlSW5mby5lbWFpbAogIC8vICAgICB9KSk7CiAgLy8gfQoKICAvLyBkZWxldGVUaWNrZXRQdXJjaGFzZShleHRlcm5hbFNvdXJjZVR5cGUsIGV4dGVybmFsU291cmNlSWQpIHsKICAvLyAgIHRoaXMKICAvLyAgICAgLl9nZXRDb25mZXJlbmNlKHB1cmNoYXNlSW5mby5taWRkbGVtYW5FdmVudE5hbWUpCiAgLy8gICAgIC50aGVuKGNvbmZlcmVuY2UgPT4gbW9kZWxzLlRpY2tldFB1cmNoYXNlLmNyZWF0ZSh7CiAgLy8gICAgICAgZXh0ZXJuYWxTb3VyY2VUeXBlOiBwdXJjaGFzZUluZm8uZXh0ZXJuYWxTb3VyY2VUeXBlLAogIC8vICAgICAgIGV4dGVybmFsU291cmNlSWQ6IHB1cmNoYXNlSW5mby5leHRlcm5hbFNvdXJjZUlkLAogIC8vCiAgLy8gICAgICAgY29uZmVyZW5jZUlkOiBjb25mZXJlbmNlLmlkLAogIC8vICAgICAgIGVtYWlsOiBwdXJjaGFzZUluZm8uZW1haWwKICAvLyAgICAgfSkpOwogIC8vIH0KCg==</text>
       </register>
       <register name="-" type="4">
         <text>, conflicts</text>
       </register>
       <register name="/" type="4">
-        <text>)</text>
+        <text>{</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBpZiAoCiAgICBtZXNzYWdlT3JEYXRhID09PSBJbnZpdGVFcnJvci5EVVBMSUNBVEUgfHwKICAgIG1lc3NhZ2VPckRhdGEgPT09IEludml0ZUVycm9yLkRVUExJQ0FURV9WSUFfTUlERExFTUFOIHx8CiAgICBtZXNzYWdlT3JEYXRhID09PSBJbnZpdGVFcnJvci5EVVBMSUNBVEVfREFURQogICkgewogICAgdGhpcy5ib29tID0gKCkgPT4gQm9vbS5jb25mbGljdCh0aGlzLm1lc3NhZ2UsIGNvbmZsaWN0cyk7CiAgfQogIGVsc2UgewogICAgdGhpcy5ib29tID0gKCkgPT4gQm9vbS5iYWRSZXF1ZXN0KHRoaXMubWVzc2FnZSwgY29uZmxpY3RzKTsKICB9Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>, conflicts</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAvLyB1cGRhdGVUaWNrZXRQdXJjaGFzZShleHRlcm5hbFNvdXJjZVR5cGUsIGV4dGVybmFsU291cmNlSWQsIHB1cmNoYXNlSW5mbykgewogIC8vICAgdGhpcwogIC8vICAgICAuX2dldENvbmZlcmVuY2UocHVyY2hhc2VJbmZvLm1pZGRsZW1hbkV2ZW50TmFtZSkKICAvLyAgICAgLnRoZW4oY29uZmVyZW5jZSA9PiBtb2RlbHMuVGlja2V0UHVyY2hhc2UuY3JlYXRlKHsKICAvLyAgICAgICBleHRlcm5hbFNvdXJjZVR5cGU6IHB1cmNoYXNlSW5mby5leHRlcm5hbFNvdXJjZVR5cGUsCiAgLy8gICAgICAgZXh0ZXJuYWxTb3VyY2VJZDogcHVyY2hhc2VJbmZvLmV4dGVybmFsU291cmNlSWQsCiAgLy8KICAvLyAgICAgICBjb25mZXJlbmNlSWQ6IGNvbmZlcmVuY2UuaWQsCiAgLy8gICAgICAgZW1haWw6IHB1cmNoYXNlSW5mby5lbWFpbAogIC8vICAgICB9KSk7CiAgLy8gfQoKICAvLyBkZWxldGVUaWNrZXRQdXJjaGFzZShleHRlcm5hbFNvdXJjZVR5cGUsIGV4dGVybmFsU291cmNlSWQpIHsKICAvLyAgIHRoaXMKICAvLyAgICAgLl9nZXRDb25mZXJlbmNlKHB1cmNoYXNlSW5mby5taWRkbGVtYW5FdmVudE5hbWUpCiAgLy8gICAgIC50aGVuKGNvbmZlcmVuY2UgPT4gbW9kZWxzLlRpY2tldFB1cmNoYXNlLmNyZWF0ZSh7CiAgLy8gICAgICAgZXh0ZXJuYWxTb3VyY2VUeXBlOiBwdXJjaGFzZUluZm8uZXh0ZXJuYWxTb3VyY2VUeXBlLAogIC8vICAgICAgIGV4dGVybmFsU291cmNlSWQ6IHB1cmNoYXNlSW5mby5leHRlcm5hbFNvdXJjZUlkLAogIC8vCiAgLy8gICAgICAgY29uZmVyZW5jZUlkOiBjb25mZXJlbmNlLmlkLAogIC8vICAgICAgIGVtYWlsOiBwdXJjaGFzZUluZm8uZW1haWwKICAvLyAgICAgfSkpOwogIC8vIH0KCg==</text>
       </register>
-      <register name="2" type="4">
-        <text>, conflicts</text>
+      <register name="2" type="2">
+        <text encoding="base64">CiAgLy8gVE9ETzogTWF5YmUgcmVtb3ZlCiAgLy8gZGVsZXRlVGlja2V0UHVyY2hhc2VCeUlkKHJlcXVlc3QsIHJlcGx5KSB7CiAgLy8gICByZXBseShCb29tLm5vdEltcGxlbWVudGVkKCkpOwogIC8vIH0KCiAgLy8gVE9ETzogTWF5YmUgcmVtb3ZlCiAgLy8gZ2V0RGVsZXRlVGlja2V0UHVyY2hhc2VCeUlkVmFsaWRhdGlvbigpIHsKICAvLyAgIHJldHVybiB7CiAgLy8gICAgIHBhcmFtczogewogIC8vICAgICAgIGlkOiBKb2kuc3RyaW5nKCkudXVpZCgpCiAgLy8gICAgIH0sCiAgLy8KICAvLyAgICAgcGF5bG9hZDogewogIC8vICAgICAgIGRhdGE6IEpvaS5vYmplY3QoewogIC8vICAgICAgICAgdHlwZTogSm9pLnN0cmluZygpLnZhbGlkKCd0aWNrZXQtcHVyY2hhc2VzJykucmVxdWlyZWQoKSwKICAvLyAgICAgICAgIGlkOiBKb2kuc3RyaW5nKCkudXVpZCgpLnJlcXVpcmVkKCkKICAvLyAgICAgICB9KQogIC8vICAgICB9CiAgLy8gICB9OwogIC8vIH0K</text>
       </register>
-      <register name="3" type="4">
-        <text>this.message, conflicts</text>
+      <register name="3" type="2">
+        <text encoding="base64">CiAgLy8gVE9ETzogTWF5YmUgcmVtb3ZlLiAgRG9uJ3Qgc2VlIGEgdXNlLWNhc2UgYmVjYXVzZSBvZiBtaWRkbGVtYW4KICAvLyBjcmVhdGVUaWNrZXRQdXJjaGFzZShyZXF1ZXN0LCByZXBseSkgewogIC8vICAgcmVwbHkoQm9vbS5ub3RJbXBsZW1lbnRlZCgpKTsKICAvLyB9CgogIC8vIFRPRE86IE1heWJlIHJlbW92ZS4gIERvbid0IHNlZSBhIHVzZS1jYXNlIGJlY2F1c2Ugb2YgbWlkZGxlbWFuCiAgLy8gZ2V0Q3JlYXRlVGlja2V0UHVyY2hhc2VWYWxpZGF0aW9uKCkgewogIC8vICAgcmV0dXJuIHsKICAvLyAgICAgcGF5bG9hZDogewogIC8vICAgICAgIGRhdGE6IEpvaS5vYmplY3QoewogIC8vICAgICAgICAgdHlwZTogSm9pLnN0cmluZygpLnZhbGlkKCd0aWNrZXQtcHVyY2hhc2VzJykucmVxdWlyZWQoKSwKICAvLyAgICAgICAgIGlkOiBKb2kuc3RyaW5nKCkudXVpZCgpLmFsbG93KG51bGwpLAogIC8vCiAgLy8gICAgICAgICBhdHRyaWJ1dGVzOiB0aGlzLl9WQUxJREFURV9BVFRSSUJVVEVTKCksCiAgLy8gICAgICAgICByZWxhdGlvbnNoaXBzOiB0aGlzLl9WQUxJREFURV9SRUxBVElPTlNISVBTKCkKICAvLyAgICAgICB9KQogIC8vICAgICB9CiAgLy8gICB9OwogIC8vIH0K</text>
       </register>
-      <register name="4" type="4">
-        <text>Already split</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAvLyBUT0RPOiBNYXliZSByZW1vdmUuLi4KICAvLyBkZWxldGVQdXJjaGFzZWRUaWNrZXRJbnZpdGVCeUlkKHJlcXVlc3QsIHJlcGx5KSB7CiAgLy8gICBzdXBlci5kZWxldGVCeUlkKHJlcXVlc3QsIHJlcGx5KTsKICAvLyB9CiAgLy8KICAvLyBnZXREZWxldGVQdXJjaGFzZWRUaWNrZXRJbnZpdGVCeUlkVmFsaWRhdGlvbigpIHsKICAvLyAgIHJldHVybiB7CiAgLy8gICAgIHBhcmFtczogewogIC8vICAgICAgIGlkOiBKb2kuc3RyaW5nKCkudXVpZCgpCiAgLy8gICAgIH0sCiAgLy8KICAvLyAgICAgcGF5bG9hZDogewogIC8vICAgICAgIGRhdGE6IEpvaS5vYmplY3QoewogIC8vICAgICAgICAgdHlwZTogSm9pLnN0cmluZygpLnZhbGlkKCdwdXJjaGFzZWQtdGlja2V0LWludml0ZXMnKS5yZXF1aXJlZCgpLAogIC8vICAgICAgICAgaWQ6IEpvaS5zdHJpbmcoKS51dWlkKCkucmVxdWlyZWQoKQogIC8vICAgICAgIH0pCiAgLy8gICAgIH0KICAvLyAgIH07CiAgLy8gfQoK</text>
       </register>
-      <register name="5" type="4">
-        <text>Error.prototype</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgIC8vIGluY2x1ZGU6IFsKICAgICAgICAgIC8vICAgewogICAgICAgICAgLy8gICAgIG1vZGVsOiBtb2RlbHMuVXNlciwKICAgICAgICAgIC8vICAgICBhczogJ3VzZXJzJwogICAgICAgICAgLy8gICB9CiAgICAgICAgICAvLyBdCg==</text>
       </register>
-      <register name="6" type="4">
-        <text>Date</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgIC8vIGluY2x1ZGU6IFsKICAgICAgICAgIC8vICAgewogICAgICAgICAgLy8gICAgIG1vZGVsOiBtb2RlbHMuVXNlciwKICAgICAgICAgIC8vICAgICBhczogJ3VzZXJzJwogICAgICAgICAgLy8gICB9CiAgICAgICAgICAvLyBdCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdGhyb3cgbmV3IEVycm9yKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">SW52aXRlRXJyb3IuRFVQTElDQVRFID0gJ0R1cGxpY2F0ZSBlbWFpbCc7Ckludml0ZUVycm9yLkRVUExJQ0FURV9WSUFfTUlERExFTUFOID0gJ0R1cGxpY2F0ZSBlbWFpbCB2aWEgZXh0ZXJuYWwgc2VydmljZSc7Ckludml0ZUVycm9yLkRVUExJQ0FURV9EQVRFID0gJ0R1cGxpY2F0ZSBkYXRlJzsKSW52aXRlRXJyb3IuREFURVNfUkVRVUlSRUQgPSAnRGF0ZSByZXF1aXJlZCc7Ckludml0ZUVycm9yLkVYUElSRUQgPSAnRXhwaXJlZCc7Ckludml0ZUVycm9yLkFMUkVBRFlfQU5TV0VSRUQgPSAnQWxyZWFkeSBhbnN3ZXJlZCc7Cg==</text>
+        <text encoding="base64">ICAvLyB1cGRhdGVUaWNrZXRQdXJjaGFzZShyZXF1ZXN0LCByZXBseSkgewogIC8vICAgY29uc3QgZXh0ZXJuYWxTb3VyY2VUeXBlID0gcmVxdWVzdC5wYXJhbXMuZXh0ZXJuYWxTb3VyY2VUeXBlOwogIC8vICAgY29uc3QgZXh0ZXJuYWxTb3VyY2VJZCA9IHJlcXVlc3QucGFyYW1zLmV4dGVybmFsU291cmNlSWQ7CiAgLy8KICAvLyAgIG5ldyBQZXJtaXNzaW9uU2VydmljZShyZXF1ZXN0LmF1dGguYXJ0aWZhY3RzLnVzZXIpCiAgLy8gICAgIC5jYW5BZG1pbigpCiAgLy8gICAgIC50aGVuKCgpID0+IG5ldyBNaWRkbGVtYW5JbnRlcmZhY2VTZXJ2aWNlKCkudXBkYXRlVGlja2V0UHVyY2hhc2UoCiAgLy8gICAgICAgZXh0ZXJuYWxTb3VyY2VUeXBlLAogIC8vICAgICAgIGV4dGVybmFsU291cmNlSWQsCiAgLy8gICAgICAgcmVxdWVzdC5wYXlsb2FkCiAgLy8gICAgICkpCiAgLy8gICAgIC50aGVuKHRpY2tldFB1cmNoYXNlID0+IHJlcGx5KHsKICAvLyAgICAgICBpZDogdGlja2V0UHVyY2hhc2UuaWQKICAvLyAgICAgfSkpCiAgLy8gICAgIC5jYXRjaChlcnIgPT4gcmVwbHkoZXJyLmJvb20oKSkpOwogIC8vIH0KICAvLwogIC8vIGdldFVwZGF0ZVRpY2tldFB1cmNoYXNlVmFsaWRhdGlvbigpIHsKICAvLyAgIHJldHVybiB7CiAgLy8gICAgIHBhcmFtczogewogIC8vICAgICAgIGV4dGVybmFsU291cmNlVHlwZTogSm9pLnN0cmluZygpLAogIC8vICAgICAgIGV4dGVybmFsU291cmNlSWQ6IEpvaS5hbnkoKQogIC8vICAgICB9LAogIC8vICAgICBwYXlsb2FkOiB7CiAgLy8gICAgICAgLy8gQXMgdGhpcyBpcyBhbiBpbnRlcmZhY2UgdG8gYW4gZXh0ZXJuYWwgc2VydmljZSwgSSBkb24ndCB3YW50IHRvCiAgLy8gICAgICAgLy8gZW5mb3JjZSBKc29uQXBpLiAgSXQncyB0b28gdmVyYm9zZS4KICAvLyAgICAgICBleHRlcm5hbFNvdXJjZVR5cGU6IEpvaS5zdHJpbmcoKSwKICAvLyAgICAgICBleHRlcm5hbFNvdXJjZUlkOiBKb2kuYW55KCksCiAgLy8gICAgICAgY29uZmVyZW5jZUlkOiBKb2kuc3RyaW5nKCkudXVpZCgpLAogIC8vICAgICAgIGVtYWlsOiBKb2kuc3RyaW5nKCkuZW1haWwoKQogIC8vICAgICB9CiAgLy8gICB9OwogIC8vIH0KCiAgLy8gZGVsZXRlVGlja2V0UHVyY2hhc2UocmVxdWVzdCwgcmVwbHkpIHsKICAvLyAgIGNvbnN0IGV4dGVybmFsU291cmNlVHlwZSA9IHJlcXVlc3QucGFyYW1zLmV4dGVybmFsU291cmNlVHlwZTsKICAvLyAgIGNvbnN0IGV4dGVybmFsU291cmNlSWQgPSByZXF1ZXN0LnBhcmFtcy5leHRlcm5hbFNvdXJjZUlkOwogIC8vCiAgLy8gICBuZXcgUGVybWlzc2lvblNlcnZpY2UocmVxdWVzdC5hdXRoLmFydGlmYWN0cy51c2VyKQogIC8vICAgICAuY2FuQWRtaW4oKQogIC8vICAgICAudGhlbigoKSA9PiBuZXcgTWlkZGxlbWFuSW50ZXJmYWNlU2VydmljZSgpLmRlbGV0ZVRpY2tldFB1cmNoYXNlKAogIC8vICAgICAgIGV4dGVybmFsU291cmNlVHlwZSwKICAvLyAgICAgICBleHRlcm5hbFNvdXJjZUlkCiAgLy8gICAgICkpCiAgLy8gICAgIC50aGVuKHRpY2tldFB1cmNoYXNlID0+IHJlcGx5KHsKICAvLyAgICAgICBpZDogdGlja2V0UHVyY2hhc2UuaWQKICAvLyAgICAgfSkpCiAgLy8gICAgIC5jYXRjaChlcnIgPT4gcmVwbHkoZXJyLmJvb20oKSkpOwogIC8vIH0KCiAgLy8gZ2V0RGVsZXRlVGlja2V0UHVyY2hhc2VWYWxpZGF0aW9uKCkgewogIC8vICAgcmV0dXJuIHsKICAvLyAgICAgcGFyYW1zOiB7CiAgLy8gICAgICAgZXh0ZXJuYWxTb3VyY2VUeXBlOiBKb2kuc3RyaW5nKCksCiAgLy8gICAgICAgZXh0ZXJuYWxTb3VyY2VJZDogSm9pLmFueSgpCiAgLy8gICAgIH0KICAvLyAgIH07CiAgLy8gfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAvLyBUT0RPOiBCZXR0ZXIgQm9vbQo=</text>
+        <text encoding="base64">ICAvLyAvLyBzZXJ2ZXIucm91dGUoewogIC8vIC8vICAgbWV0aG9kOiAnUEFUQ0gnLAogIC8vIC8vICAgcGF0aDogJy9taWRkbGVtYW4vdGlja2V0LXB1cmNoYXNlL3tleHRlcm5hbFNvdXJjZVR5cGV9L3tleHRlcm5hbFNvdXJjZUlkfScsCiAgLy8gLy8gICBjb25maWc6IHsKICAvLyAvLyAgICAgLy8gVE9ETzogQXV0aAogIC8vIC8vICAgICBoYW5kbGVyOiAocmVxdWVzdCwgcmVwbHkpID0+CiAgLy8gLy8gICAgICAgbmV3IE1pZGRsZW1hbkludGVyZmFjZUhhbmRsZXIoKS51cGRhdGVUaWNrZXRQdXJjaGFzZShyZXF1ZXN0LCByZXBseSksCiAgLy8gLy8gICAgIHZhbGlkYXRlOiBuZXcgTWlkZGxlbWFuSW50ZXJmYWNlSGFuZGxlci5nZXRVcGRhdGVUaWNrZXRQdXJjaGFzZVZhbGlkYXRpb24oKQogIC8vIC8vICAgfQogIC8vIC8vIH0pOwogIC8vCiAgLy8gLy8gc2VydmVyLnJvdXRlKHsKICAvLyAvLyAgIG1ldGhvZDogJ0RFTEVURScsCiAgLy8gLy8gICBwYXRoOiAnL21pZGRsZW1hbi90aWNrZXQtcHVyY2hhc2Uve2V4dGVybmFsU291cmNlVHlwZX0ve2V4dGVybmFsU291cmNlSWR9JywKICAvLyAvLyAgIGNvbmZpZzogewogIC8vIC8vICAgICAvLyBUT0RPOiBBdXRoCiAgLy8gLy8gICAgIGhhbmRsZXI6IChyZXF1ZXN0LCByZXBseSkgPT4KICAvLyAvLyAgICAgICBuZXcgTWlkZGxlbWFuSW50ZXJmYWNlSGFuZGxlcigpLmRlbGV0ZVRpY2tldFB1cmNoYXNlKHJlcXVlc3QsIHJlcGx5KSwKICAvLyAvLyAgICAgdmFsaWRhdGU6IG5ldyBNaWRkbGVtYW5JbnRlcmZhY2VIYW5kbGVyLmdldERlbGV0ZVRpY2tldFB1cmNoYXNlVmFsaWRhdGlvbigpCiAgLy8gLy8gICB9CiAgLy8gLy8gfSk7Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>)</last-search>
+      <last-search>{</last-search>
       <last-offset />
-      <last-pattern>)</last-pattern>
+      <last-pattern>{</last-pattern>
       <last-replace>AutoAccept</last-replace>
       <last-substitute>Boom</last-substitute>
       <last-dir>1</last-dir>
@@ -944,7 +939,6 @@
     </search>
     <history>
       <history-search>
-        <entry>()</entry>
         <entry>{}</entry>
         <entry encoding="base64">IC0g</entry>
         <entry>:</entry>
@@ -964,6 +958,7 @@
         <entry>SPL</entry>
         <entry>,</entry>
         <entry>)</entry>
+        <entry>{</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1Jlc2VuZC9BY2NlcHRPbkJlaGFsZi9n</entry>
