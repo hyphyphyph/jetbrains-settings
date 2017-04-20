@@ -383,11 +383,11 @@
         <mark key="." line="13" column="60" />
         <mark key="^" line="13" column="60" />
       </file>
-      <file name="$USER_HOME$/RealieApp/android/app/src/main/AndroidManifest.xml" timestamp="1492712936358">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="3" />
-        <mark key="^" line="11" column="3" />
-        <mark key="." line="11" column="3" />
+      <file name="$USER_HOME$/RealieApp/android/app/src/main/AndroidManifest.xml" timestamp="1492716036019">
+        <mark key="[" line="8" column="54" />
+        <mark key="]" line="8" column="59" />
+        <mark key="^" line="8" column="59" />
+        <mark key="." line="8" column="59" />
       </file>
       <file name="$USER_HOME$/~working0/c2/invite-api/db/migrations/20170411174534-create-purchased-ticket-user.js" timestamp="1491938441072">
         <mark key="'" line="0" column="0" />
@@ -635,11 +635,11 @@
         <mark key="." line="25" column="8" />
         <mark key="^" line="25" column="8" />
       </file>
-      <file name="$USER_HOME$/RealieApp/package.json" timestamp="1492710721718">
+      <file name="$USER_HOME$/RealieApp/package.json" timestamp="1492716353546">
         <mark key="'" line="11" column="0" />
-        <mark key="[" line="11" column="29" />
-        <mark key="]" line="11" column="88" />
-        <mark key="." line="11" column="29" />
+        <mark key="[" line="11" column="35" />
+        <mark key="]" line="11" column="36" />
+        <mark key="." line="11" column="36" />
         <mark key="^" line="11" column="28" />
       </file>
       <file name="$USER_HOME$/invite-api/src/services/permission.service.js" timestamp="1490587804093">
@@ -686,11 +686,12 @@
         <mark key="." line="203" column="0" />
         <mark key="^" line="265" column="21" />
       </file>
-      <file name="$USER_HOME$/RealieApp/src/App.js" timestamp="1492711036599">
-        <mark key="[" line="3" column="34" />
-        <mark key="]" line="3" column="37" />
-        <mark key="^" line="3" column="37" />
-        <mark key="." line="3" column="37" />
+      <file name="$USER_HOME$/RealieApp/src/App.js" timestamp="1492716168689">
+        <mark key="'" line="6" column="38" />
+        <mark key="[" line="17" column="15" />
+        <mark key="]" line="18" column="4" />
+        <mark key="^" line="18" column="4" />
+        <mark key="." line="18" column="4" />
       </file>
       <file name="$USER_HOME$/RealieApp/index.ios.js" timestamp="1492710073989">
         <mark key="[" line="0" column="0" />
@@ -794,6 +795,12 @@
         <mark key="]" line="16" column="31" />
         <mark key="." line="16" column="31" />
         <mark key="^" line="16" column="31" />
+      </file>
+      <file name="$USER_HOME$/RealieApp/node_modules/react-native/Libraries/Core/InitializeCore.js" timestamp="1492715600680">
+        <mark key="'" line="12" column="18" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-partner-decline-html-fr.html" timestamp="1490641617858">
         <mark key="[" line="19" column="0" />
@@ -1027,16 +1034,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="138" column="19" filename="$USER_HOME$/~working0/c2/invite-api/tests/integration/modules/conference/handlers/test-conference-crud.handler.js" />
-      <jump line="145" column="22" filename="$USER_HOME$/~working0/c2/invite-api/tests/integration/modules/conference/handlers/test-conference-crud.handler.js" />
-      <jump line="178" column="19" filename="$USER_HOME$/~working0/c2/invite-api/tests/integration/modules/conference/handlers/test-conference-crud.handler.js" />
-      <jump line="74" column="0" filename="$USER_HOME$/~working0/c2/invite-api/tests/integration/modules/conference/handlers/test-conference-crud.handler.js" />
-      <jump line="32" column="5" filename="$USER_HOME$/~working0/c2/invite-api/tests/integration/modules/partner/handlers/test-partner-crud.handler.js" />
-      <jump line="75" column="5" filename="$USER_HOME$/~working0/c2/invite-api/tests/integration/modules/partner/handlers/test-partner-crud.handler.js" />
-      <jump line="85" column="5" filename="$USER_HOME$/~working0/c2/invite-api/tests/integration/modules/partner/handlers/test-partner-crud.handler.js" />
-      <jump line="92" column="12" filename="$USER_HOME$/~working0/c2/invite-api/tests/integration/modules/partner/handlers/test-partner-crud.handler.js" />
-      <jump line="62" column="16" filename="$USER_HOME$/~working0/c2/invite-api/tests/integration/modules/partner/handlers/test-partner-crud.handler.js" />
-      <jump line="95" column="19" filename="$USER_HOME$/~working0/c2/invite-api/tests/integration/modules/partner/handlers/test-partner-crud.handler.js" />
       <jump line="97" column="16" filename="$USER_HOME$/~working0/c2/invite-api/tests/integration/modules/partner/handlers/test-partner-crud.handler.js" />
       <jump line="54" column="12" filename="$USER_HOME$/~working0/c2/invite-api/tests/integration/modules/pass/handlers/test-pass-crud.handler.js" />
       <jump line="55" column="26" filename="$USER_HOME$/~working0/c2/invite-api/tests/integration/modules/pass/handlers/test-pass-crud.handler.js" />
@@ -1127,6 +1124,16 @@
       <jump line="20" column="31" filename="$USER_HOME$/RealieApp/src/screens/Capture.js" />
       <jump line="2" column="6" filename="$USER_HOME$/RealieApp/src/screens/Capture.js" />
       <jump line="0" column="0" filename="$USER_HOME$/RealieApp/android/app/build.gradle" />
+      <jump line="8" column="21" filename="$USER_HOME$/RealieApp/node_modules/react-native/Libraries/Core/InitializeCore.js" />
+      <jump line="122" column="8" filename="$USER_HOME$/RealieApp/node_modules/react-native/Libraries/Core/InitializeCore.js" />
+      <jump line="56" column="8" filename="$USER_HOME$/RealieApp/node_modules/react-native/Libraries/Core/InitializeCore.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/RealieApp/node_modules/react-native/Libraries/Core/InitializeCore.js" />
+      <jump line="29" column="5" filename="$USER_HOME$/RealieApp/node_modules/react-native/Libraries/Core/InitializeCore.js" />
+      <jump line="12" column="18" filename="$USER_HOME$/RealieApp/node_modules/react-native/Libraries/Core/InitializeCore.js" />
+      <jump line="5" column="0" filename="$USER_HOME$/RealieApp/src/App.js" />
+      <jump line="11" column="1" filename="$USER_HOME$/RealieApp/src/App.js" />
+      <jump line="0" column="23" filename="$USER_HOME$/RealieApp/src/App.js" />
+      <jump line="6" column="38" filename="$USER_HOME$/RealieApp/src/App.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1147,52 +1154,52 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>'</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>camera</text>
+        <text>strict</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBzdGF0aWMgbmF2aWdhdGlvbk9wdGlvbnMgPSB7CiAgICB0aXRsZTogJ0hvbWUnCiAgfQo=</text>
+        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uUkVDT1JEX0FVRElPIi8+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxhPjwvYT4K</text>
+        <text encoding="base64">J3VzZSBzdHJpY3QnOwo=</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgIDxhPjwvYT4K</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICA8QnV0dG9uCiAgICAgICAgICBvblByZXNzPXsoKSA9PiBuYXZpZ2F0ZSgnQ2FwdHVyZScpfQogICAgICAgICAgdGl0bGU9J0NhcHR1cmUnCiAgICAgICAgLz4K</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>^1.0.0-beta.7</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0IGZyb20gJ3JlYWN0Jwo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">aW1wb3J0IHsKICBTdHlsZVNoZWV0LAogIFRleHQsCiAgVmlldwp9IGZyb20gJ3JlYWN0LW5hdGl2ZScK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">fSk7Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICByZW5kZXIoKSB7CiAgICByZXR1cm4gKAogICAgICA8VmlldyBzdHlsZT17c3R5bGVzLmNvbnRhaW5lcn0+CiAgICAgICAgPFRleHQgc3R5bGU9e3N0eWxlcy53ZWxjb21lfT4KICAgICAgICAgIEhlbGxvIFdvcmxkCiAgICAgICAgPC9UZXh0PgogICAgICA8L1ZpZXc+CiAgICApCiAgfQp9Cgpjb25zdCBzdHlsZXMgPSBTdHlsZVNoZWV0LmNyZWF0ZSh7CiAgY29udGFpbmVyOiB7CiAgICBmbGV4OiAxLAogICAganVzdGlmeUNvbnRlbnQ6ICdjZW50ZXInLAogICAgYWxpZ25JdGVtczogJ2NlbnRlcicsCiAgICBiYWNrZ3JvdW5kQ29sb3I6ICcjRjVGQ0ZGJywKICB9LAogIHdlbGNvbWU6IHsKICAgIGZvbnRTaXplOiAyMCwKICAgIHRleHRBbGlnbjogJ2NlbnRlcicsCiAgICBtYXJnaW46IDEwLAogIH0K</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBWaWV3LAogIFRleHQK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">LyoqCiAqIFNhbXBsZSBSZWFjdCBOYXRpdmUgQXBwCiAqIGh0dHBzOi8vZ2l0aHViLmNvbS9mYWNlYm9vay9yZWFjdC1uYXRpdmUKICogQGZsb3cKICovCgppbXBvcnQgUmVhY3QsIHsgQ29tcG9uZW50IH0gZnJvbSAncmVhY3QnOwppbXBvcnQgewogIEFwcFJlZ2lzdHJ5LAogIFN0eWxlU2hlZXQsCiAgVGV4dCwKICBWaWV3Cn0gZnJvbSAncmVhY3QtbmF0aXZlJzsKCmV4cG9ydCBkZWZhdWx0IGNsYXNzIFJlYWxpZUFwcCBleHRlbmRzIENvbXBvbmVudCB7CiAgcmVuZGVyKCkgewogICAgcmV0dXJuICgKICAgICAgPFZpZXcgc3R5bGU9e3N0eWxlcy5jb250YWluZXJ9PgogICAgICAgIDxUZXh0IHN0eWxlPXtzdHlsZXMud2VsY29tZX0+CiAgICAgICAgICBXZWxjb21lIHRvIFJlYWN0IE5hdGl2ZSEKICAgICAgICA8L1RleHQ+CiAgICAgICAgPFRleHQgc3R5bGU9e3N0eWxlcy5pbnN0cnVjdGlvbnN9PgogICAgICAgICAgVG8gZ2V0IHN0YXJ0ZWQsIGVkaXQgaW5kZXguaW9zLmpzCiAgICAgICAgPC9UZXh0PgogICAgICAgIDxUZXh0IHN0eWxlPXtzdHlsZXMuaW5zdHJ1Y3Rpb25zfT4KICAgICAgICAgIFByZXNzIENtZCtSIHRvIHJlbG9hZCx7J1xuJ30KICAgICAgICAgIENtZCtEIG9yIHNoYWtlIGZvciBkZXYgbWVudQogICAgICAgIDwvVGV4dD4KICAgICAgPC9WaWV3PgogICAgKTsKICB9Cn0KCmNvbnN0IHN0eWxlcyA9IFN0eWxlU2hlZXQuY3JlYXRlKHsKICBjb250YWluZXI6IHsKICAgIGZsZXg6IDEsCiAgICBqdXN0aWZ5Q29udGVudDogJ2NlbnRlcicsCiAgICBhbGlnbkl0ZW1zOiAnY2VudGVyJywKICAgIGJhY2tncm91bmRDb2xvcjogJyNGNUZDRkYnLAogIH0sCiAgd2VsY29tZTogewogICAgZm9udFNpemU6IDIwLAogICAgdGV4dEFsaWduOiAnY2VudGVyJywKICAgIG1hcmdpbjogMTAsCiAgfSwKICBpbnN0cnVjdGlvbnM6IHsKICAgIHRleHRBbGlnbjogJ2NlbnRlcicsCiAgICBjb2xvcjogJyMzMzMzMzMnLAogICAgbWFyZ2luQm90dG9tOiA1LAogIH0sCn0pOwoKQXBwUmVnaXN0cnkucmVnaXN0ZXJDb21wb25lbnQoJ1JlYWxpZUFwcCcsICgpID0+IFJlYWxpZUFwcCk7Cg==</text>
+        <text encoding="base64">ICBWaWV3LAogIFRleHQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>camera</last-search>
+      <last-search>strict</last-search>
       <last-offset />
-      <last-pattern>camera</last-pattern>
+      <last-pattern>strict</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -1200,9 +1207,6 @@
     </search>
     <history>
       <history-search>
-        <entry>acceptLink</entry>
-        <entry encoding="base64">XDxfc2V0VGVtcGxhdGVEYXRhXD4=</entry>
-        <entry>;</entry>
         <entry>`</entry>
         <entry>title</entry>
         <entry>acc</entry>
@@ -1220,6 +1224,9 @@
         <entry>App</entry>
         <entry>&quot;</entry>
         <entry>camera</entry>
+        <entry>handleError</entry>
+        <entry>string</entry>
+        <entry>strict</entry>
       </history-search>
       <history-cmd>
         <entry>299</entry>
