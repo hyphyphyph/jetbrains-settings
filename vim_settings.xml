@@ -184,6 +184,12 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
+      <file name="$USER_HOME$/realie-app/package.json" timestamp="1492705947834">
+        <mark key="'" line="22" column="26" />
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
+      </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference/services/assignment.service.js" timestamp="1489897931412">
         <mark key="'" line="53" column="61" />
         <mark key="[" line="53" column="79" />
@@ -214,6 +220,12 @@
         <mark key="]" line="33" column="2" />
         <mark key="." line="19" column="27" />
         <mark key="^" line="19" column="27" />
+      </file>
+      <file name="$USER_HOME$/realie-app/src/theme/sizes.js" timestamp="1492705875592">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="6" column="50" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/~working0/c2/invite-api/src/modules/conference/handlers/conference-crud.handler.js" timestamp="1492025652525">
         <mark key="[" line="33" column="0" />
@@ -542,7 +554,6 @@
         <mark key="^" line="52" column="16" />
         <mark key="." line="52" column="16" />
       </file>
-      <file name="$USER_HOME$/~working0/c2/invite-api/src/modules/conference-invite/routes.js" timestamp="1492032080976" />
       <file name="$USER_HOME$/~working0/c2/invite-api/tests/server-tests.js" timestamp="1492024206915">
         <mark key="'" line="135" column="16" />
         <mark key="[" line="89" column="0" />
@@ -810,6 +821,12 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/realie-app/.eslintrc" timestamp="1492705997132">
+        <mark key="[" line="1" column="14" />
+        <mark key="]" line="1" column="21" />
+        <mark key="^" line="1" column="21" />
+        <mark key="." line="1" column="21" />
+      </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-accept-on-behalf-html-fr.html" timestamp="1490109479218">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="11" column="4" />
@@ -828,6 +845,9 @@
         <mark key="]" line="87" column="33" />
         <mark key="." line="87" column="33" />
         <mark key="^" line="87" column="33" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1492705580639">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-auto-accept-html-en.html" timestamp="1490109464765">
         <mark key="[" line="9" column="0" />
@@ -929,7 +949,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/~working0/c2/invite-api/tests/unit/services/test-mailer.service.js" />
       <jump line="2" column="16" filename="$USER_HOME$/~working0/c2/invite-api/tests/unit/services/test-mailer-text.hbs" />
       <jump line="0" column="0" filename="$USER_HOME$/~working0/c2/invite-api/tests/unit/services/test-mailer-text.hbs" />
       <jump line="5" column="6" filename="$USER_HOME$/~working0/c2/invite-api/tests/unit/services/test-mailer-html.hbs" />
@@ -1029,6 +1048,7 @@
       <jump line="239" column="26" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/conference-invite/services/workflow.service.js" />
       <jump line="261" column="18" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/conference-invite/services/workflow.service.js" />
       <jump line="251" column="0" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/conference-invite/services/workflow.service.js" />
+      <jump line="22" column="26" filename="$USER_HOME$/realie-app/package.json" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1048,53 +1068,53 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLnRoZW4oKCkgPT4gY29uc29sZS5sb2coMykpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>airbnb</text>
       </register>
       <register name="-" type="4">
-        <text>test_</text>
+        <text>airbnb</text>
       </register>
       <register name="/" type="4">
-        <text>console</text>
+        <text>airbnb</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBjb25zdCBlbWFpbCA9IGB0ZXN0X2NvbmZlcmVuY2VfaW52aXRlXyR7dXVpZC52NCgpfUBleGFtcGxlLmNvbWA7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLnRoZW4oKCkgPT4gY29uc29sZS5sb2coMykpOwo=</text>
+        <text encoding="base64">ICAgICJlc2xpbnQtY29uZmlnLWFpcmJuYiI6ICJeMTQuMC4wIiwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLnRoZW4oKCkgPT4gY29uc29sZS5sb2coMikpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLnRoZW4oKCkgPT4gY29uc29sZS5sb2coMSkpCg==</text>
+        <text encoding="base64">ICAgICAgLnRoZW4oKCkgPT4gY29uc29sZS5sb2coMykpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLmNhdGNoKGNvbnNvbGUubG9nKQo=</text>
+        <text encoding="base64">ICAgICAgLnRoZW4oKCkgPT4gY29uc29sZS5sb2coMikpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAvLyAucGlwZShzb3VyY2VtYXBzLmluaXQoKSkK</text>
+        <text encoding="base64">ICAgICAgLnRoZW4oKCkgPT4gY29uc29sZS5sb2coMSkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAvLyAucGlwZShzb3VyY2VtYXBzLndyaXRlKCcuJywgewogIC8vICAgaW5jbHVkZUNvbnRlbnQ6IGZhbHNlLAogIC8vICAgc291cmNlUm9vdDogX19kaXJuYW1lICsgJy8uLi90ZXN0cycKICAvLyB9KSkK</text>
+        <text encoding="base64">ICAgICAgLmNhdGNoKGNvbnNvbGUubG9nKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgKGVycikgPT4gewogICAgICAgIGNvbnNvbGUubG9nKGVycikKICAgICAgfQo=</text>
+        <text encoding="base64">ICAvLyAucGlwZShzb3VyY2VtYXBzLmluaXQoKSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zdCBtb2RpZmllZEVtYWlsID0gYG1vZGlmaWVkX2NvbmZlcmVuY2VfaW52aXRlXyR7dXVpZC52NCgpfUBleGFtcGxlLmNvbWA7Cg==</text>
+        <text encoding="base64">ICAvLyAucGlwZShzb3VyY2VtYXBzLndyaXRlKCcuJywgewogIC8vICAgaW5jbHVkZUNvbnRlbnQ6IGZhbHNlLAogIC8vICAgc291cmNlUm9vdDogX19kaXJuYW1lICsgJy8uLi90ZXN0cycKICAvLyB9KSkK</text>
       </register>
-      <register name="9" type="4">
-        <text>test_</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgKGVycikgPT4gewogICAgICAgIGNvbnNvbGUubG9nKGVycikKICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>console</last-search>
+      <last-search>airbnb</last-search>
       <last-offset />
-      <last-pattern>console</last-pattern>
+      <last-pattern>airbnb</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -1102,8 +1122,6 @@
     </search>
     <history>
       <history-search>
-        <entry>seed:</entry>
-        <entry>Pass</entry>
         <entry>Forbi</entry>
         <entry encoding="base64">XDxGb3JiaWRkZW5FcnJvclw+</entry>
         <entry encoding="base64">dGVtcGxhdGVEYXRlID0g</entry>
@@ -1122,6 +1140,8 @@
         <entry encoding="base64">XDxtb2RpZmllZEVtYWlsXD4=</entry>
         <entry>c</entry>
         <entry>console</entry>
+        <entry>airbbnb</entry>
+        <entry>airbnb</entry>
       </history-search>
       <history-cmd>
         <entry>299</entry>
