@@ -644,12 +644,12 @@
         <mark key="^" line="50" column="33" />
         <mark key="." line="119" column="0" />
       </file>
-      <file name="$USER_HOME$/RealieApp/index.android.js" timestamp="1492710070519">
+      <file name="$USER_HOME$/RealieApp/index.android.js" timestamp="1492814324811">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="4" column="53" />
-        <mark key="^" line="8" column="51" />
-        <mark key="." line="0" column="0" />
+        <mark key="[" line="2" column="23" />
+        <mark key="]" line="2" column="25" />
+        <mark key="^" line="2" column="25" />
+        <mark key="." line="2" column="25" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/user/templates/registration-text-en.html" timestamp="1489854959007">
         <mark key="'" line="7" column="22" />
@@ -927,11 +927,11 @@
         <mark key="." line="153" column="21" />
         <mark key="^" line="153" column="21" />
       </file>
-      <file name="$USER_HOME$/RealieApp/src/screens/home.js" timestamp="1492710246913">
-        <mark key="[" line="9" column="6" />
-        <mark key="]" line="10" column="24" />
-        <mark key="^" line="10" column="24" />
-        <mark key="." line="10" column="24" />
+      <file name="$USER_HOME$/RealieApp/src/screens/home.js" timestamp="1492814378538">
+        <mark key="[" line="13" column="38" />
+        <mark key="]" line="13" column="48" />
+        <mark key="^" line="13" column="48" />
+        <mark key="." line="13" column="48" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-cancel-on-behalf-html-fr.html" timestamp="1490109431031">
         <mark key="[" line="9" column="0" />
@@ -1255,10 +1255,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>Home</text>
+        <text>HeaderLogo</text>
       </register>
       <register name="-" type="4">
-        <text>Home</text>
+        <text>HeaderLogo</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">IA==</text>
