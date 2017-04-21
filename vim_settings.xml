@@ -36,12 +36,12 @@
         <mark key="^" line="6" column="29" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/RealieApp/src/screens/Home.js" timestamp="1492728169062">
-        <mark key="'" line="23" column="0" />
-        <mark key="[" line="8" column="50" />
-        <mark key="]" line="8" column="55" />
-        <mark key="." line="8" column="55" />
-        <mark key="^" line="8" column="55" />
+      <file name="$USER_HOME$/RealieApp/src/screens/Home.js" timestamp="1492810195647">
+        <mark key="'" line="22" column="31" />
+        <mark key="[" line="22" column="28" />
+        <mark key="]" line="22" column="28" />
+        <mark key="." line="22" column="28" />
+        <mark key="^" line="22" column="31" />
       </file>
       <file name="$USER_HOME$/~working0/c2/invite-api/src/models/conference-date.model.js" timestamp="1491939004493">
         <mark key="[" line="65" column="19" />
@@ -1116,7 +1116,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="89" column="10" filename="$USER_HOME$/~working0/c2/invite-api/tests/integration/modules/invite/handlers/test-conference-invite-crud.handler.js" />
       <jump line="17" column="0" filename="$USER_HOME$/~working0/c2/invite-api/db/seeders/20170412201603-create-conference-dates.js" />
       <jump line="0" column="0" filename="$USER_HOME$/~working0/c2/invite-api/db/seeders/20170412201603-create-conference-dates.js" />
       <jump line="24" column="2" filename="$USER_HOME$/~working0/c2/invite-api/db/seeders/20170412205516-create-quotas.js" />
@@ -1216,6 +1215,7 @@
       <jump line="3" column="11" filename="$USER_HOME$/RealieApp/src/DrawerLayout.js" />
       <jump line="25" column="10" filename="$USER_HOME$/RealieApp/src/DrawerLayout.js" />
       <jump line="32" column="10" filename="$USER_HOME$/RealieApp/src/DrawerLayout.js" />
+      <jump line="22" column="31" filename="$USER_HOME$/RealieApp/src/screens/Home.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1236,13 +1236,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>5</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>{</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIGRyYXdlck92ZXJsYXk6IHsKICAgICAgICAgICAgc2hhZG93Q29sb3I6ICcjMDAwMDAwJywKICAgICAgICAgICAgc2hhZG93UmFkaXVzOiAzLAogICAgICAgICAgICBzaGFkb3dPcGFjaXR5OiAwLjgKICAgICAgICAgIH0K</text>
@@ -1279,18 +1279,17 @@
       </register>
     </registers>
     <search>
-      <last-search>{</last-search>
+      <last-search encoding="base64">IA==</last-search>
       <last-offset />
-      <last-pattern>{</last-pattern>
+      <last-pattern encoding="base64">IA==</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry>strict</entry>
-        <entry encoding="base64">IA==</entry>
         <entry>getPackages</entry>
         <entry>\.</entry>
         <entry>23</entry>
@@ -1309,6 +1308,7 @@
         <entry>D</entry>
         <entry>&quot;</entry>
         <entry>{</entry>
+        <entry encoding="base64">IA==</entry>
       </history-search>
       <history-cmd>
         <entry>299</entry>
