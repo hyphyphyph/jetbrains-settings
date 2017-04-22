@@ -828,11 +828,10 @@
         <mark key="^" line="9" column="4" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/RealieApp/src/reducers/index.js" timestamp="1492811641002">
-        <mark key="[" line="2" column="4" />
-        <mark key="]" line="3" column="17" />
-        <mark key="^" line="3" column="17" />
-        <mark key="." line="3" column="17" />
+      <file name="$USER_HOME$/RealieApp/src/reducers/index.js" timestamp="1492819606639">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/~working0/c2/invite-api/db/migrations/20170406161149-create-purchased-ticket-invite.js" timestamp="1491930879965">
         <mark key="'" line="19" column="0" />
@@ -1031,6 +1030,13 @@
         <mark key="." line="109" column="30" />
         <mark key="^" line="109" column="30" />
       </file>
+      <file name="$USER_HOME$/RealieApp/src/actions/index.js" timestamp="1492819572764">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="8" column="18" />
+        <mark key="]" line="8" column="22" />
+        <mark key="^" line="8" column="22" />
+        <mark key="." line="8" column="22" />
+      </file>
       <file name="$USER_HOME$/RealieApp/src/DrawerLayout.js" timestamp="1492811158762">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -1135,7 +1141,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="0" filename="$USER_HOME$/~working0/c2/invite-api/db/seeders/20170412201603-create-conference-dates.js" />
       <jump line="0" column="0" filename="$USER_HOME$/~working0/c2/invite-api/db/seeders/20170412201603-create-conference-dates.js" />
       <jump line="24" column="2" filename="$USER_HOME$/~working0/c2/invite-api/db/seeders/20170412205516-create-quotas.js" />
       <jump line="0" column="0" filename="$USER_HOME$/~working0/c2/invite-api/db/seeders/20170412205516-create-quotas.js" />
@@ -1235,6 +1240,7 @@
       <jump line="25" column="10" filename="$USER_HOME$/RealieApp/src/DrawerLayout.js" />
       <jump line="32" column="10" filename="$USER_HOME$/RealieApp/src/DrawerLayout.js" />
       <jump line="22" column="31" filename="$USER_HOME$/RealieApp/src/screens/Home.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/RealieApp/src/actions/index.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1254,44 +1260,44 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>HeaderLogo</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGFjdGlvbi50eXBlKQoK</text>
       </register>
       <register name="-" type="4">
-        <text>HeaderLogo</text>
+        <text>console</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRyYXdlck92ZXJsYXk6IHsKICAgICAgICAgICAgc2hhZG93Q29sb3I6ICcjMDAwMDAwJywKICAgICAgICAgICAgc2hhZG93UmFkaXVzOiAzLAogICAgICAgICAgICBzaGFkb3dPcGFjaXR5OiAwLjgKICAgICAgICAgIH0K</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IE9wZW5EcmF3ZXIgPSAoKSA9PiB7CiAgcmV0dXJuIHsKICAgIHR5cGU6ICdEUkFXRVI6T1BFTicKICB9Cn0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGFjdGlvbi50eXBlKQoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxQcm92aWRlciBzdG9yZT17c3RvcmV9PgogICAgICA8RHJhd2VyTGF5b3V0Lz4KICAgIDwvUHJvdmlkZXI+Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgRHJhd2VyTGF5b3V0Cg==</text>
+        <text encoding="base64">ICAgIDxQcm92aWRlciBzdG9yZT17c3RvcmV9PgogICAgICA8RHJhd2VyTGF5b3V0Lz4KICAgIDwvUHJvdmlkZXI+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsKICBhcHBseU1pZGRsZXdhcmUsCiAgY29tcG9zZSwKICBjcmVhdGVTdG9yZQp9IGZyb20gJ3JlZHV4Jwo=</text>
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgRHJhd2VyTGF5b3V0Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25uZWN0LAo=</text>
+        <text encoding="base64">aW1wb3J0IHsKICBhcHBseU1pZGRsZXdhcmUsCiAgY29tcG9zZSwKICBjcmVhdGVTdG9yZQp9IGZyb20gJ3JlZHV4Jwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25uZWN0LAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CmltcG9ydCAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IEhhbWJ1cmdlciBmcm9tICdyZWFjdC1uYXRpdmUtaGFtYnVyZ2VyJwo=</text>
+        <text encoding="base64">CmltcG9ydCAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPEhhbWJ1cmdlci8+Cg==</text>
+        <text encoding="base64">aW1wb3J0IEhhbWJ1cmdlciBmcm9tICdyZWFjdC1uYXRpdmUtaGFtYnVyZ2VyJwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
