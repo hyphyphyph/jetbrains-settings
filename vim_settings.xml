@@ -310,6 +310,13 @@
         <mark key="." line="60" column="53" />
         <mark key="^" line="60" column="53" />
       </file>
+      <file name="$USER_HOME$/RealieApp/src/components/drawer-menu.js" timestamp="1492826992353">
+        <mark key="'" line="10" column="14" />
+        <mark key="[" line="27" column="22" />
+        <mark key="]" line="27" column="22" />
+        <mark key="." line="27" column="22" />
+        <mark key="^" line="27" column="22" />
+      </file>
       <file name="$USER_HOME$/~working0/c2/invite-api/src/models/purchased-ticket.model.js" timestamp="1491939036264">
         <mark key="'" line="15" column="22" />
         <mark key="[" line="64" column="19" />
@@ -398,12 +405,12 @@
         <mark key="^" line="42" column="25" />
         <mark key="." line="42" column="25" />
       </file>
-      <file name="$USER_HOME$/RealieApp/src/drawer-layout.js" timestamp="1492822736386">
-        <mark key="'" line="46" column="7" />
-        <mark key="[" line="46" column="51" />
-        <mark key="]" line="46" column="51" />
-        <mark key="." line="46" column="51" />
-        <mark key="^" line="46" column="51" />
+      <file name="$USER_HOME$/RealieApp/src/drawer-layout.js" timestamp="1492826958989">
+        <mark key="'" line="42" column="43" />
+        <mark key="[" line="29" column="14" />
+        <mark key="]" line="29" column="14" />
+        <mark key="." line="29" column="14" />
+        <mark key="^" line="29" column="21" />
       </file>
       <file name="$USER_HOME$/~working0/c2/invite-api/src/models/conference.model.js" timestamp="1491934536086">
         <mark key="'" line="2" column="7" />
@@ -829,11 +836,12 @@
         <mark key="^" line="9" column="4" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/RealieApp/src/reducers/index.js" timestamp="1492823008549">
-        <mark key="[" line="6" column="50" />
-        <mark key="]" line="7" column="19" />
-        <mark key="." line="7" column="19" />
-        <mark key="^" line="7" column="19" />
+      <file name="$USER_HOME$/RealieApp/src/reducers/index.js" timestamp="1492826060730">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="15" column="21" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/~working0/c2/invite-api/db/migrations/20170406161149-create-purchased-ticket-invite.js" timestamp="1491930879965">
         <mark key="'" line="19" column="0" />
@@ -928,11 +936,12 @@
         <mark key="." line="153" column="21" />
         <mark key="^" line="153" column="21" />
       </file>
-      <file name="$USER_HOME$/RealieApp/src/screens/home.js" timestamp="1492823104137">
+      <file name="$USER_HOME$/RealieApp/src/screens/home.js" timestamp="1492827164728">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="19" column="8" />
-        <mark key="]" line="19" column="8" />
-        <mark key="." line="19" column="74" />
+        <mark key="[" line="25" column="16" />
+        <mark key="]" line="25" column="20" />
+        <mark key="." line="25" column="20" />
+        <mark key="^" line="25" column="20" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-cancel-on-behalf-html-fr.html" timestamp="1490109431031">
         <mark key="[" line="9" column="0" />
@@ -1143,10 +1152,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="124" column="1" filename="$USER_HOME$/~working0/c2/invite-api/tests/unit/modules/conference-invite/services/conflict.service.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/~working0/c2/invite-api/tests/unit/modules/conference-invite/services/conflict.service.js" />
-      <jump line="407" column="25" filename="$USER_HOME$/~working0/c2/invite-api/tests/unit/modules/conference-invite/services/allocation.service.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/~working0/c2/invite-api/tests/unit/modules/conference-invite/services/allocation.service.js" />
       <jump line="238" column="0" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/conference-invite/services/workflow.service.js" />
       <jump line="239" column="26" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/conference-invite/services/workflow.service.js" />
       <jump line="261" column="18" filename="$USER_HOME$/~working0/c2/invite-api/src/modules/conference-invite/services/workflow.service.js" />
@@ -1243,6 +1248,10 @@
       <jump line="47" column="24" filename="$USER_HOME$/RealieApp/src/drawer-layout.js" />
       <jump line="18" column="25" filename="$USER_HOME$/RealieApp/src/drawer-layout.js" />
       <jump line="48" column="7" filename="$USER_HOME$/RealieApp/src/drawer-layout.js" />
+      <jump line="13" column="3" filename="$USER_HOME$/RealieApp/src/drawer-layout.js" />
+      <jump line="40" column="43" filename="$USER_HOME$/RealieApp/src/drawer-layout.js" />
+      <jump line="13" column="0" filename="$USER_HOME$/RealieApp/src/reducers/index.js" />
+      <jump line="2" column="14" filename="$USER_HOME$/RealieApp/src/components/drawer-menu.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1263,58 +1272,52 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>}
-        else {
-          store.dispatch(CloseDrawer())
-        }</text>
+        <text>store.getState().drawer.open</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>store.getState().drawer.open</text>
       </register>
       <register name="/" type="4">
-        <text>,</text>
+        <text>icons</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ0FLSkFEU0hLSkFTREgnKQo=</text>
+        <text encoding="base64">ICAgIGNhc2UgJ0RSQVdFUjpPUEVOJzoKICAgICAgcmV0dXJuIHsKICAgICAgICBkcmF3ZXI6IHsKICAgICAgICAgIC8vIFRPRE86IFJlbW92ZSB0aGlzIHRvZ2dsZS4KICAgICAgICAgIG9wZW46ICFzdGF0ZS5kcmF3ZXIub3BlbgogICAgICAgIH0KICAgICAgfQogICAgICBicmVhazsK</text>
       </register>
       <register name="1" type="4">
-        <text>}
-        else {
-          store.dispatch(CloseDrawer())
-        }</text>
+        <text>store.getState().drawer.open</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIXN0b3JlLmdldFN0YXRlKCkuZHJhd2VyLm9wZW4pIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9CiAgICAgICAgZWxzZSB7CiAgICAgICAgICBzdG9yZS5kaXNwYXRjaChDbG9zZURyYXdlcigpKQogICAgICAgIH0K</text>
+        <text encoding="base64">aW1wb3J0IEhlYWRlckxvZ28gZnJvbSAnLi9oZWFkZXItbG9nbycK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIXN0b3JlLmdldFN0YXRlKCkuZHJhd2VyLm9wZW4pIHsK</text>
+        <text encoding="base64">ICAgIHRleHQ6IHsKICAgICAgZm9udFNpemU6IDUwCiAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3QgaW5pdGlhbFN0YXRlID0gewogIGRyYXdlcjogewogICAgb3BlbjogZmFsc2UKICB9Cn0KCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBpZiAodHlwZW9mIHN0YXRlID09PSAndW5kZWZpbmVkJykgewogICAgcmV0dXJuIGluaXRpYWxTdGF0ZQogIH0KCg==</text>
+        <text encoding="base64">ICAgIGZvbnRTaXplOiA1MAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgY29uc29sZS5sb2coc3RhdGUpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ0FLSkFEU0hLSkFTREgnKQo=</text>
+        <text encoding="base64">ICAgIGZvbnRTY2FsZTogNTAK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ID0ge30=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGZvbnQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>,</last-search>
+      <last-search>icons</last-search>
       <last-offset />
-      <last-pattern>,</last-pattern>
+      <last-pattern>icons</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -1322,10 +1325,6 @@
     </search>
     <history>
       <history-search>
-        <entry>}</entry>
-        <entry>style</entry>
-        <entry encoding="base64">Pg==</entry>
-        <entry encoding="base64">PA==</entry>
         <entry>head</entry>
         <entry>B</entry>
         <entry>Dr</entry>
@@ -1342,6 +1341,10 @@
         <entry encoding="base64">IA==</entry>
         <entry>opened</entry>
         <entry>,</entry>
+        <entry>)</entry>
+        <entry>con</entry>
+        <entry>}</entry>
+        <entry>icons</entry>
       </history-search>
       <history-cmd>
         <entry>we</entry>
