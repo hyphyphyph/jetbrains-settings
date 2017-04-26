@@ -511,6 +511,12 @@
         <mark key="." line="6" column="14" />
         <mark key="^" line="6" column="14" />
       </file>
+      <file name="$USER_HOME$/~working0/realie-app/src/screens/login.js" timestamp="1493230299432">
+        <mark key="[" line="4" column="11" />
+        <mark key="]" line="4" column="11" />
+        <mark key="." line="4" column="11" />
+        <mark key="^" line="4" column="11" />
+      </file>
       <file name="$USER_HOME$/~working0/c2/invite-api/src/modules/user/handlers/user-crud.handler.js" timestamp="1492024644104">
         <mark key="[" line="61" column="0" />
         <mark key="]" line="61" column="0" />
@@ -1269,8 +1275,8 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>fit</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ci8vIFN5c3RlbSBDb21wb25lbnRzCmltcG9ydCBJY29uIGZyb20gJ3JlYWN0LW5hdGl2ZS12ZWN0b3ItaWNvbnMvRm9udEF3ZXNvbWUnCg==</text>
       </register>
       <register name="-" type="4">
         <text>fit</text>
@@ -1281,32 +1287,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgb25QcmVzcz17dGhpcy50YWtlUGljdHVyZS5iaW5kKHRoaXMpfQo=</text>
       </register>
-      <register name="1" type="4">
-        <text>navigator.geolocation.getCurrentPosition()</text>
+      <register name="1" type="2">
+        <text encoding="base64">Ci8vIFN5c3RlbSBDb21wb25lbnRzCmltcG9ydCBJY29uIGZyb20gJ3JlYWN0LW5hdGl2ZS12ZWN0b3ItaWNvbnMvRm9udEF3ZXNvbWUnCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHNlbGYgPSB0aGlzOwo=</text>
+        <text encoding="base64">Ly8gQXBwIENvbXBvbmVudHMKaW1wb3J0IENhcHR1cmVCdXR0b24gZnJvbSAnLi4vY29tcG9uZW50cy9jYXB0dXJlLWJ1dHRvbicKaW1wb3J0IEhlYWRlckxvZ28gZnJvbSAnLi4vY29tcG9uZW50cy9oZWFkZXItbG9nbycKCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxUZXh0CiAgICAgICAgICAgIG9uUHJlc3M9e3RoaXMudGFrZVBpY3R1cmUuYmluZCh0aGlzKX0KICAgICAgICAgICAgPgogICAgICAgICAgICBbQ0FQVFVSRV0KICAgICAgICAgIDwvVGV4dD4K</text>
+      <register name="3" type="4">
+        <text>navigator.geolocation.getCurrentPosition()</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZsZXhEaXJlY3Rpb246ICdyb3cnCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHNlbGYgPSB0aGlzOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGJhY2tncm91bmRDb2xvcjogJ3JlZCcK</text>
+        <text encoding="base64">ICAgICAgICAgIDxUZXh0CiAgICAgICAgICAgIG9uUHJlc3M9e3RoaXMudGFrZVBpY3R1cmUuYmluZCh0aGlzKX0KICAgICAgICAgICAgPgogICAgICAgICAgICBbQ0FQVFVSRV0KICAgICAgICAgIDwvVGV4dD4K</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">LCBmbGV4RGlyZWN0aW9uOiAncm93JyA=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGZsZXhEaXJlY3Rpb246ICdyb3cnCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHdpZHRoCg==</text>
+        <text encoding="base64">ICAgIGJhY2tncm91bmRDb2xvcjogJ3JlZCcK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8SW1hZ2Ugc3R5bGU9e3sgd2lkdGg6IDUwLCBoZWlnaHQ6IDUwIH19IHNvdXJjZT17e3VyaTogJ2h0dHBzOi8vZmFjZWJvb2suZ2l0aHViLmlvL3JlYWN0L2ltZy9sb2dvX29nLnBuZyd9fS8+Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">LCBmbGV4RGlyZWN0aW9uOiAncm93JyA=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHdpZHRoCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
