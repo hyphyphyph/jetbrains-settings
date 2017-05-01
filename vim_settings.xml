@@ -627,6 +627,12 @@
         <mark key="." line="107" column="32" />
         <mark key="^" line="107" column="32" />
       </file>
+      <file name="$USER_HOME$/~working0/realie-app/src/config/index.js" timestamp="1493669328170">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="21" />
+        <mark key="^" line="0" column="21" />
+        <mark key="." line="0" column="21" />
+      </file>
       <file name="$USER_HOME$/RealieApp/src/screens/capture.js" timestamp="1492879048750">
         <mark key="'" line="85" column="17" />
         <mark key="[" line="41" column="42" />
@@ -762,6 +768,12 @@
         <mark key="]" line="9" column="31" />
         <mark key="^" line="9" column="31" />
         <mark key="." line="9" column="31" />
+      </file>
+      <file name="$USER_HOME$/~working0/realie-app/src/config/api.js" timestamp="1493669356648">
+        <mark key="[" line="1" column="8" />
+        <mark key="]" line="1" column="14" />
+        <mark key="^" line="1" column="14" />
+        <mark key="." line="1" column="14" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-accept-html-en.html" timestamp="1490109519650">
         <mark key="[" line="9" column="0" />
@@ -1164,6 +1176,12 @@
         <mark key="]" line="199" column="48" />
         <mark key="." line="199" column="48" />
         <mark key="^" line="194" column="37" />
+      </file>
+      <file name="$USER_HOME$/~working0/realie-app/src/data/urls.js" timestamp="1493669580479">
+        <mark key="[" line="1" column="2" />
+        <mark key="]" line="1" column="1" />
+        <mark key="^" line="1" column="1" />
+        <mark key="." line="1" column="1" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/user/templates/registration-html-fr.html" timestamp="1489896822024">
         <mark key="'" line="3" column="0" />
