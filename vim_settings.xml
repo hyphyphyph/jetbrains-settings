@@ -936,6 +936,11 @@
         <mark key="^" line="1" column="11" />
         <mark key="." line="2" column="14" />
       </file>
+      <file name="$USER_HOME$/~working0/realie-app/android/settings.gradle" timestamp="1493776512683">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/~working0/realie-app/src/constants/strings.js" timestamp="1493248799578">
         <mark key="[" line="7" column="34" />
         <mark key="]" line="8" column="29" />
@@ -1188,11 +1193,11 @@
         <mark key="." line="1" column="34" />
         <mark key="^" line="1" column="34" />
       </file>
-      <file name="$USER_HOME$/~working0/realie-app/package.json" timestamp="1493672584228">
+      <file name="$USER_HOME$/~working0/realie-app/package.json" timestamp="1493776497379">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/handlers/email-templates.handler.js" timestamp="1489971116497">
         <mark key="'" line="5" column="21" />
@@ -1460,7 +1465,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIGFsZXJ0KHJlcy5zdGF0dXMpCg==</text>
+        <text encoding="base64">aW5jbHVkZSAnOnJlYWN0LW5hdGl2ZS1vYXV0aCcKcHJvamVjdCgnOnJlYWN0LW5hdGl2ZS1vYXV0aCcpLnByb2plY3REaXIgPSBuZXcgRmlsZShyb290UHJvamVjdC5wcm9qZWN0RGlyLCAnLi4vbm9kZV9tb2R1bGVzL3JlYWN0LW5hdGl2ZS1vYXV0aC9hbmRyb2lkJykK</text>
       </register>
       <register name="-" type="4">
         <text>json</text>
@@ -1472,31 +1477,31 @@
         <text encoding="base64">ICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGFsZXJ0KHJlcy5zdGF0dXMpCg==</text>
+        <text encoding="base64">aW5jbHVkZSAnOnJlYWN0LW5hdGl2ZS1vYXV0aCcKcHJvamVjdCgnOnJlYWN0LW5hdGl2ZS1vYXV0aCcpLnByb2plY3REaXIgPSBuZXcgRmlsZShyb290UHJvamVjdC5wcm9qZWN0RGlyLCAnLi4vbm9kZV9tb2R1bGVzL3JlYWN0LW5hdGl2ZS1vYXV0aC9hbmRyb2lkJykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAuY2F0Y2goKCkgPT4gewogICAgICAgICAgYWxlcnQoJ0NvdWxkblwndCByZWdpc3RlciB5b3UuJykKICAgICAgICB9KQo=</text>
+        <text encoding="base64">CQkicmVhY3QtbmF0aXZlLW9hdXRoIjogIl4yLjEuMTYiLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
+        <text encoding="base64">ICAgICAgICAgIGFsZXJ0KHJlcy5zdGF0dXMpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRlYnVnZ2VyCg==</text>
+        <text encoding="base64">ICAgICAgICAuY2F0Y2goKCkgPT4gewogICAgICAgICAgYWxlcnQoJ0NvdWxkblwndCByZWdpc3RlciB5b3UuJykKICAgICAgICB9KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJlcy50ZXh0KCkudGhlbihqc29uID0+IHsKICAgICAgICAgICAgZGVidWdnZXIKICAgICAgICAgIH0pCg==</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXIK</text>
+        <text encoding="base64">ICAgICAgICAgIGRlYnVnZ2VyCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHJlcy50ZXh0KCkudGhlbihqc29uID0+IHsKICAgICAgICAgICAgZGVidWdnZXIKICAgICAgICAgIH0pCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5wcm9wcy5uYXZpZ2F0aW9uLmRpc3BhdGNoKE5hdmlnYXRlVG9DYXB0dXJlKHRydWUpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJlcy50ZXh0KCkudGhlbihqc29uID0+IHsKICAgICAgICAgICAgYWxlcnQoanNvbikKICAgICAgICAgICAgdGhpcy5wcm9wcy5uYXZpZ2F0aW9uLmRpc3BhdGNoKE5hdmlnYXRlVG9DYXB0dXJlKHRydWUpKQogICAgICAgICAgfSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
