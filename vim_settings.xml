@@ -48,19 +48,18 @@
         <mark key="^" line="1" column="21" />
         <mark key="." line="1" column="21" />
       </file>
-      <file name="$USER_HOME$/~working0/realie-app/src/screens/edit-details.js" timestamp="1493839319405">
-        <mark key="'" line="66" column="15" />
-        <mark key="[" line="32" column="46" />
-        <mark key="]" line="33" column="32" />
-        <mark key="." line="33" column="32" />
-        <mark key="^" line="33" column="32" />
+      <file name="$USER_HOME$/~working0/realie-app/src/screens/edit-details.js" timestamp="1493922001466">
+        <mark key="[" line="35" column="46" />
+        <mark key="]" line="36" column="50" />
+        <mark key="." line="36" column="50" />
+        <mark key="^" line="36" column="50" />
       </file>
-      <file name="$USER_HOME$/~working0/realie-app/src/actions/index.js" timestamp="1493863394167">
-        <mark key="'" line="83" column="0" />
-        <mark key="[" line="130" column="25" />
-        <mark key="]" line="130" column="28" />
-        <mark key="." line="130" column="28" />
-        <mark key="^" line="130" column="28" />
+      <file name="$USER_HOME$/~working0/realie-app/src/actions/index.js" timestamp="1493921811351">
+        <mark key="'" line="155" column="31" />
+        <mark key="[" line="104" column="40" />
+        <mark key="]" line="104" column="47" />
+        <mark key="^" line="104" column="47" />
+        <mark key="." line="104" column="47" />
       </file>
       <file name="$USER_HOME$/RealieApp/src/theme/colors.js" timestamp="1492878611533">
         <mark key="[" line="2" column="19" />
@@ -358,12 +357,12 @@
         <mark key="." line="104" column="57" />
         <mark key="^" line="104" column="57" />
       </file>
-      <file name="$USER_HOME$/~working0/realie-app/src/components/details-preview.js" timestamp="1493839400163">
+      <file name="$USER_HOME$/~working0/realie-app/src/components/details-preview.js" timestamp="1493922203899">
         <mark key="'" line="79" column="10" />
-        <mark key="[" line="50" column="70" />
-        <mark key="]" line="50" column="70" />
-        <mark key="." line="50" column="70" />
-        <mark key="^" line="50" column="70" />
+        <mark key="[" line="38" column="89" />
+        <mark key="]" line="38" column="104" />
+        <mark key="." line="38" column="104" />
+        <mark key="^" line="38" column="104" />
       </file>
       <file name="$USER_HOME$/RealieApp/src/constants/package.json" timestamp="1492709755148">
         <mark key="[" line="1" column="12" />
@@ -371,12 +370,11 @@
         <mark key="." line="1" column="20" />
         <mark key="^" line="1" column="20" />
       </file>
-      <file name="$USER_HOME$/~working0/realie-app/src/components/expanding-text-input.js" timestamp="1493668621328">
-        <mark key="'" line="29" column="0" />
-        <mark key="[" line="26" column="65" />
-        <mark key="]" line="27" column="22" />
-        <mark key="." line="27" column="22" />
-        <mark key="^" line="27" column="22" />
+      <file name="$USER_HOME$/~working0/realie-app/src/components/expanding-text-input.js" timestamp="1493919904245">
+        <mark key="'" line="31" column="0" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/handlers/purchased-ticket-crud.handler.js" timestamp="1491942803443">
         <mark key="'" line="110" column="4" />
@@ -911,12 +909,12 @@
         <mark key="." line="162" column="38" />
         <mark key="^" line="162" column="38" />
       </file>
-      <file name="$USER_HOME$/~working0/realie-app/src/reducers/index.js" timestamp="1493862380314">
-        <mark key="'" line="34" column="10" />
-        <mark key="[" line="15" column="4" />
-        <mark key="]" line="17" column="21" />
-        <mark key="." line="17" column="21" />
-        <mark key="^" line="17" column="21" />
+      <file name="$USER_HOME$/~working0/realie-app/src/reducers/index.js" timestamp="1493921946087">
+        <mark key="'" line="20" column="0" />
+        <mark key="[" line="19" column="23" />
+        <mark key="]" line="19" column="23" />
+        <mark key="^" line="19" column="23" />
+        <mark key="." line="19" column="23" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-auto-accept-html-fr.html" timestamp="1490109453023">
         <mark key="[" line="9" column="0" />
@@ -931,11 +929,11 @@
         <mark key="." line="129" column="14" />
         <mark key="^" line="129" column="14" />
       </file>
-      <file name="$USER_HOME$/~working0/realie-app/src/data/pictures.js" timestamp="1493862851204">
-        <mark key="[" line="21" column="11" />
-        <mark key="]" line="21" column="13" />
-        <mark key="." line="21" column="13" />
-        <mark key="^" line="21" column="13" />
+      <file name="$USER_HOME$/~working0/realie-app/src/data/pictures.js" timestamp="1493921403570">
+        <mark key="[" line="20" column="20" />
+        <mark key="]" line="20" column="26" />
+        <mark key="." line="20" column="26" />
+        <mark key="^" line="20" column="26" />
       </file>
       <file name="$USER_HOME$/RealieApp/src/navigation/MainStack.js" timestamp="1492728858784">
         <mark key="'" line="0" column="0" />
@@ -1169,12 +1167,12 @@
         <mark key="^" line="27" column="18" />
         <mark key="." line="27" column="18" />
       </file>
-      <file name="$USER_HOME$/~working0/realie-app/src/components/validation-preview.js" timestamp="1493663172335">
+      <file name="$USER_HOME$/~working0/realie-app/src/components/validation-preview.js" timestamp="1493922192923">
         <mark key="'" line="27" column="10" />
-        <mark key="[" line="93" column="0" />
-        <mark key="]" line="95" column="23" />
-        <mark key="." line="52" column="10" />
-        <mark key="^" line="52" column="10" />
+        <mark key="[" line="35" column="89" />
+        <mark key="]" line="35" column="104" />
+        <mark key="." line="35" column="104" />
+        <mark key="^" line="35" column="104" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-partner-unknown-action-html-en.html" timestamp="1490294471163">
         <mark key="[" line="15" column="24" />
@@ -1254,12 +1252,12 @@
         <mark key="." line="199" column="48" />
         <mark key="^" line="194" column="37" />
       </file>
-      <file name="$USER_HOME$/~working0/realie-app/src/data/urls.js" timestamp="1493862722961">
+      <file name="$USER_HOME$/~working0/realie-app/src/data/urls.js" timestamp="1493921443246">
         <mark key="'" line="11" column="10" />
-        <mark key="[" line="17" column="4" />
-        <mark key="]" line="17" column="8" />
-        <mark key="." line="17" column="8" />
-        <mark key="^" line="17" column="8" />
+        <mark key="[" line="18" column="14" />
+        <mark key="]" line="18" column="15" />
+        <mark key="." line="18" column="15" />
+        <mark key="^" line="18" column="15" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/user/templates/registration-html-fr.html" timestamp="1489896822024">
         <mark key="'" line="3" column="0" />
@@ -1332,12 +1330,12 @@
         <mark key="^" line="60" column="30" />
         <mark key="." line="60" column="30" />
       </file>
-      <file name="$USER_HOME$/~working0/realie-app/src/screens/validation.js" timestamp="1493915543416">
-        <mark key="'" line="80" column="24" />
-        <mark key="[" line="35" column="15" />
-        <mark key="]" line="35" column="26" />
-        <mark key="." line="35" column="26" />
-        <mark key="^" line="35" column="26" />
+      <file name="$USER_HOME$/~working0/realie-app/src/screens/validation.js" timestamp="1493921891354">
+        <mark key="'" line="82" column="24" />
+        <mark key="[" line="43" column="48" />
+        <mark key="]" line="44" column="50" />
+        <mark key="." line="44" column="50" />
+        <mark key="^" line="44" column="50" />
       </file>
       <file name="$USER_HOME$/RealieApp/src/components/drawer-menu-button.js" timestamp="1492831989803">
         <mark key="'" line="17" column="0" />
@@ -1382,12 +1380,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="134" column="2" filename="$USER_HOME$/~working0/realie-app/src/screens/capture.js" />
-      <jump line="56" column="4" filename="$USER_HOME$/~working0/realie-app/src/screens/capture.js" />
-      <jump line="112" column="0" filename="$USER_HOME$/~working0/realie-app/src/screens/capture.js" />
-      <jump line="7" column="0" filename="$USER_HOME$/~working0/realie-app/src/screens/capture.js" />
-      <jump line="5" column="55" filename="$USER_HOME$/~working0/realie-app/src/screens/capture.js" />
-      <jump line="137" column="13" filename="$USER_HOME$/~working0/realie-app/src/screens/capture.js" />
       <jump line="136" column="8" filename="$USER_HOME$/~working0/realie-app/src/screens/capture.js" />
       <jump line="131" column="37" filename="$USER_HOME$/~working0/realie-app/src/screens/capture.js" />
       <jump line="130" column="62" filename="$USER_HOME$/~working0/realie-app/src/screens/capture.js" />
@@ -1482,6 +1474,12 @@
       <jump line="32" column="10" filename="$USER_HOME$/~working0/realie-app/src/reducers/index.js" />
       <jump line="83" column="0" filename="$USER_HOME$/~working0/realie-app/src/actions/index.js" />
       <jump line="76" column="24" filename="$USER_HOME$/~working0/realie-app/src/screens/validation.js" />
+      <jump line="40" column="22" filename="$USER_HOME$/~working0/realie-app/src/screens/edit-details.js" />
+      <jump line="137" column="12" filename="$USER_HOME$/~working0/realie-app/src/actions/index.js" />
+      <jump line="134" column="34" filename="$USER_HOME$/~working0/realie-app/src/reducers/index.js" />
+      <jump line="150" column="27" filename="$USER_HOME$/~working0/realie-app/src/actions/index.js" />
+      <jump line="158" column="31" filename="$USER_HOME$/~working0/realie-app/src/actions/index.js" />
+      <jump line="20" column="0" filename="$USER_HOME$/~working0/realie-app/src/reducers/index.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1502,72 +1500,65 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>onStartPhoto</text>
+        <text encoding="base64">PA==</text>
       </register>
       <register name="-" type="4">
-        <text>onStartPhoto</text>
+        <text encoding="base64">PA==</text>
       </register>
       <register name="/" type="4">
-        <text>St</text>
+        <text>NEW</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29uc3QgTmV3UGljdHVyZVJlcXVlc3QgPSAoKSA9PiB7CiAgcmV0dXJuIHsKICAgIHR5cGU6ICdQSUNUVVJFOk5FVzpSRVFVRVNUJwogIH0KfQoKY29uc3QgTmV3UGljdHVyZVJlc3BvbnNlID0gKCkgPT4gewogIHJldHVybiB7CiAgICB0eXBlOiAnUElDVFVSRTpORVc6UkVTUE9OU0UnCiAgfQp9CgpleHBvcnQgY29uc3QgTmV3UGljdHVyZSA9ICgpID0+IHsKICByZXR1cm4gKGRpc3BhdGNoKSA9PiB7CiAgICBkaXNwYXRjaChOZXdQaWN0dXJlUmVxdWVzdCgpKQoKICAgIGNvbnNvbGUubG9nKHN0b3JlLmdldFN0YXRlKCkuY3VycmVudFVzZXIuand0KQoKICAgIHJldHVybiBuZXcgUGljdHVyZXNEYXRhKCkKICAgICAgLnN0YXJ0KHN0b3JlLmdldFN0YXRlKCkuY3VycmVudFVzZXIuand0KQogICAgICAudGhlbigocmVzKSA9PiByZXMudGV4dCgpKQogICAgICAudGhlbigoYm9keSkgPT4gewogICAgICAgIGRpc3BhdGNoKE5ld1BpY3R1cmVSZXNwb25zZShib2R5KSkKICAgICAgfSkKICB9Cn0K</text>
+        <text encoding="base64">ICAgIHN0YXJ0OiBgJHtjb25maWcuYXBpLnVybH0vYXBpL3YwL3BpY3R1cmVzYAo=</text>
       </register>
-      <register name="1" type="4">
-        <text>Upload</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgYWxlcnQoMTIzKQo=</text>
       </register>
-      <register name="2" type="4">
-        <text>Upload</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgcmV0dXJuIHN0YXRlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhbGVydChqc29uKQo=</text>
+        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGFsZXJ0KHN0b3JlLmdldFN0YXRlKCkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>).activePicture</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHN0b3JlLmdldFN0YXRlKCkuY3VycmVudFVzZXIuand0KQo=</text>
       </register>
-      <register name="6" type="4">
-        <text>, store.getState(</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgYWxlcnQoJ3Jlc3BvbnNlJykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgYWxlcnQoMTIzKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICdDb250ZW50LXR5cGUnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIAogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHN0b3JlLmdldFN0YXRlKCkuY3VycmVudFVzZXIuand0KQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>St</last-search>
+      <last-search>NEW</last-search>
       <last-offset />
-      <last-pattern>St</last-pattern>
+      <last-pattern>NEW</last-pattern>
       <last-replace>alignItems</last-replace>
       <last-substitute>textAlign</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>'</entry>
-        <entry>debu</entry>
-        <entry>pay</entry>
-        <entry>regis</entry>
-        <entry>reg</entry>
-        <entry>de</entry>
         <entry>{</entry>
         <entry>oauth</entry>
         <entry>S</entry>
         <entry>T</entry>
         <entry>actions</entry>
         <entry>`</entry>
-        <entry>Req</entry>
         <entry>\.</entry>
         <entry>Ph</entry>
         <entry>R</entry>
@@ -1575,6 +1566,13 @@
         <entry>)</entry>
         <entry>P</entry>
         <entry>St</entry>
+        <entry>hh</entry>
+        <entry>C</entry>
+        <entry>st</entry>
+        <entry>ACTIVE</entry>
+        <entry>Req</entry>
+        <entry>cons</entry>
+        <entry>NEW</entry>
       </history-search>
       <history-cmd>
         <entry>ew</entry>
