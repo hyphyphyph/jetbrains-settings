@@ -929,11 +929,12 @@
         <mark key="." line="129" column="14" />
         <mark key="^" line="129" column="14" />
       </file>
-      <file name="$USER_HOME$/~working0/realie-app/src/data/pictures.js" timestamp="1493927669802">
-        <mark key="[" line="49" column="9" />
-        <mark key="]" line="50" column="17" />
-        <mark key="." line="50" column="17" />
-        <mark key="^" line="50" column="17" />
+      <file name="$USER_HOME$/~working0/realie-app/src/data/pictures.js" timestamp="1493931547956">
+        <mark key="'" line="51" column="6" />
+        <mark key="[" line="1" column="7" />
+        <mark key="]" line="1" column="47" />
+        <mark key="." line="1" column="47" />
+        <mark key="^" line="1" column="47" />
       </file>
       <file name="$USER_HOME$/RealieApp/src/navigation/MainStack.js" timestamp="1492728858784">
         <mark key="'" line="0" column="0" />
@@ -1380,7 +1381,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="0" filename="$USER_HOME$/~working0/realie-app/src/screens/capture.js" />
       <jump line="36" column="14" filename="$USER_HOME$/~working0/realie-app/src/screens/validation.js" />
       <jump line="26" column="0" filename="$USER_HOME$/~working0/realie-app/src/components/validation-preview.js" />
       <jump line="98" column="3" filename="$USER_HOME$/~working0/realie-app/src/components/validation-preview.js" />
@@ -1480,6 +1480,7 @@
       <jump line="166" column="0" filename="$USER_HOME$/~working0/realie-app/src/actions/index.js" />
       <jump line="163" column="36" filename="$USER_HOME$/~working0/realie-app/src/actions/index.js" />
       <jump line="131" column="0" filename="$USER_HOME$/~working0/realie-app/src/actions/index.js" />
+      <jump line="47" column="6" filename="$USER_HOME$/~working0/realie-app/src/data/pictures.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
