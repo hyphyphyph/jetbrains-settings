@@ -245,12 +245,12 @@
         <mark key="." line="60" column="17" />
         <mark key="^" line="60" column="17" />
       </file>
-      <file name="$USER_HOME$/~working0/realie-app/src/components/picture-thumbnail.js" timestamp="1494005241814">
-        <mark key="'" line="6" column="11" />
-        <mark key="[" line="32" column="10" />
-        <mark key="]" line="34" column="14" />
-        <mark key="." line="34" column="14" />
-        <mark key="^" line="34" column="14" />
+      <file name="$USER_HOME$/~working0/realie-app/src/components/picture-thumbnail.js" timestamp="1494011474151">
+        <mark key="'" line="7" column="11" />
+        <mark key="[" line="19" column="97" />
+        <mark key="]" line="19" column="113" />
+        <mark key="." line="19" column="113" />
+        <mark key="^" line="19" column="113" />
       </file>
       <file name="$USER_HOME$/RealieApp/android/app/src/main/AndroidManifest.xml" timestamp="1492722175746">
         <mark key="'" line="9" column="3" />
@@ -1146,12 +1146,11 @@
         <mark key="." line="107" column="0" />
         <mark key="^" line="103" column="5" />
       </file>
-      <file name="$USER_HOME$/~working0/realie-app/src/screens/home.js" timestamp="1494005205938">
-        <mark key="'" line="13" column="0" />
-        <mark key="[" line="115" column="24" />
-        <mark key="]" line="116" column="18" />
-        <mark key="^" line="116" column="18" />
-        <mark key="." line="116" column="18" />
+      <file name="$USER_HOME$/~working0/realie-app/src/screens/home.js" timestamp="1494011168438">
+        <mark key="[" line="80" column="21" />
+        <mark key="]" line="80" column="22" />
+        <mark key="." line="80" column="22" />
+        <mark key="^" line="80" column="21" />
       </file>
       <file name="$USER_HOME$/RealieApp/src/components/capture-button.js" timestamp="1492874439817">
         <mark key="'" line="21" column="0" />
@@ -1519,61 +1518,60 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGZsZXg6IDEsCiAgICBhc3BlY3RSYXRpbzogMQo=</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>.thumbnail</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>Text</text>
+        <text>}</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHJldHVybiBuZXcgUGljdHVyZXNEYXRhKCkKICAgICAgLnVwbG9hZCgKICAgICAgICBzdG9yZS5nZXRTdGF0ZSgpLmN1cnJlbnRVc2VyLmp3dCwKICAgICAgICBzdG9yZS5nZXRTdGF0ZSgpLmFjdGl2ZVBpY3R1cmVPYmplY3QucmVhbGllX2lkLAogICAgICAgIHN0b3JlLmdldFN0YXRlKCkuYWN0aXZlUGljdHVyZSwKICAgICAgKQogICAgICAudGhlbigocmVzKSA9PiByZXMuanNvbigpKQogICAgICAudGhlbigoYm9keSkgPT4gewogICAgICAgIGRpc3BhdGNoKFVwbG9hZFBpY3R1cmVSZXNwb25zZShib2R5LnBpY3R1cmUpKQogICAgICB9KQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGZsZXg6IDEsCiAgICBhc3BlY3RSYXRpbzogMQo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">J2h0dHBzOi8vcGxhY2Vob2xkaXQuaW1naXgubmV0L350ZXh0P3R4dHNpemU9NDcmdHh0PTUwMNc1MDAmdz01MDAmaD01MDAnIA==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBUZXh0LAo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">Lm1hcCgoKSA9PiAxKQ==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">QXJyYXkoMjApLmZpbGwobnVsbCkubWFwKCgpID0+IDEp</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">QXJyYXkoMjApLmZpbGwobnVsbCkubWFwKCgpID0+IDEp</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxUZXh0PntwaWN0dXJlLnJlYWxpZV9pZH08L1RleHQ+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgIGFsZXJ0KHRoaXMucHJvcHMucGljdHVyZXMpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICkK</text>
+        <text encoding="base64">ICBTY3JvbGxWaWV3LAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICByZXR1cm4gPFRleHQ+ey5jYW1lcmFSb2xsLnBpY3R1cmVzQnlSZWFsaWVJZCkubGVuZ3RofTwvVGV4dD4K</text>
+        <text encoding="base64">ICBWaWV3LAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgYWxlcnQoYWN0aW9uLnBpY3R1cmUucmVhbGllX2lkKQo=</text>
+        <text encoding="base64">ICAgICAgPFNjcm9sbFZpZXcgc3R5bGU9e3N0eWxlcy5jYW1lcmFSb2xsQ29udGFpbmVyfT4KICAgICAgICB7dGhpcy5fcmVuZGVyUGljdHVyZXMoKX0KICAgICAgPC9TY3JvbGxWaWV3Pgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Text</last-search>
+      <last-search>}</last-search>
       <last-offset />
-      <last-pattern>Text</last-pattern>
+      <last-pattern>}</last-pattern>
       <last-replace>alignItems</last-replace>
       <last-substitute>textAlign</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>cons</entry>
         <entry>NEW</entry>
         <entry>aler</entry>
         <entry>json</entry>
@@ -1593,6 +1591,7 @@
         <entry>state</entry>
         <entry>alert</entry>
         <entry>Text</entry>
+        <entry>}</entry>
       </history-search>
       <history-cmd>
         <entry>ew</entry>
@@ -1611,9 +1610,9 @@
         <entry>40</entry>
         <entry encoding="base64">JzwsJz5zL3RleHRBbGlnbi9hbGlnbkl0ZW1zL2c=</entry>
         <entry>36</entry>
-        <entry>ww</entry>
         <entry>W</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>ww</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
