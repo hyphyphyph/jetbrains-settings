@@ -252,11 +252,11 @@
         <mark key="." line="60" column="17" />
         <mark key="^" line="60" column="17" />
       </file>
-      <file name="$USER_HOME$/~working0/realie-app/src/components/picture-thumbnail.js" timestamp="1494030811069">
-        <mark key="'" line="27" column="0" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/~working0/realie-app/src/components/picture-thumbnail.js" timestamp="1494111477357">
+        <mark key="'" line="18" column="66" />
+        <mark key="[" line="18" column="47" />
+        <mark key="]" line="18" column="47" />
+        <mark key="." line="18" column="47" />
       </file>
       <file name="$USER_HOME$/RealieApp/android/app/src/main/AndroidManifest.xml" timestamp="1492722175746">
         <mark key="'" line="9" column="3" />
@@ -619,7 +619,7 @@
         <mark key="." line="87" column="33" />
         <mark key="^" line="87" column="33" />
       </file>
-      <file name="/Dummy.txt" timestamp="1494033582122">
+      <file name="/Dummy.txt" timestamp="1494111463014">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-auto-accept-html-en.html" timestamp="1490109464765">
@@ -635,11 +635,11 @@
         <mark key="." line="109" column="30" />
         <mark key="^" line="109" column="30" />
       </file>
-      <file name="$USER_HOME$/~working0/realie-app/src/screens/view-picture.js" timestamp="1494033583663">
-        <mark key="'" line="32" column="42" />
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="." line="60" column="0" />
+      <file name="$USER_HOME$/~working0/realie-app/src/screens/view-picture.js" timestamp="1494111458347">
+        <mark key="'" line="46" column="51" />
+        <mark key="[" line="46" column="50" />
+        <mark key="]" line="46" column="50" />
+        <mark key="." line="46" column="50" />
         <mark key="^" line="60" column="10" />
       </file>
       <file name="$USER_HOME$/~working0/c2/invite-api/src/modules/user/handlers/me.handler.js" timestamp="1491590643352">
@@ -1410,8 +1410,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="0" filename="$USER_HOME$/~working0/realie-app/src/screens/login.js" />
-      <jump line="44" column="20" filename="$USER_HOME$/~working0/realie-app/src/screens/base-auth.js" />
       <jump line="8" column="22" filename="$USER_HOME$/~working0/realie-app/src/screens/base-auth.js" />
       <jump line="24" column="7" filename="$USER_HOME$/~working0/realie-app/src/screens/base-auth.js" />
       <jump line="77" column="16" filename="$USER_HOME$/~working0/realie-app/src/reducers/index.js" />
@@ -1510,6 +1508,8 @@
       <jump line="20" column="2" filename="$USER_HOME$/~working0/realie-app/src/reducers/index.js" />
       <jump line="21" column="2" filename="$USER_HOME$/~working0/realie-app/src/reducers/index.js" />
       <jump line="63" column="0" filename="$USER_HOME$/~working0/realie-app/src/reducers/index.js" />
+      <jump line="46" column="51" filename="$USER_HOME$/~working0/realie-app/src/screens/view-picture.js" />
+      <jump line="18" column="66" filename="$USER_HOME$/~working0/realie-app/src/components/picture-thumbnail.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1529,53 +1529,53 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBkZWJ1Z2dlcjsK</text>
+      <register name="&quot;" type="4">
+        <text>http://staging.realie.it')</text>
       </register>
       <register name="-" type="4">
-        <text>realieId</text>
+        <text>http://staging.realie.it')</text>
       </register>
       <register name="/" type="4">
-        <text>NEW</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgQXN5bmNTdG9yYWdlLnNldEl0ZW0oJ2N1cnJlbnRVc2VyLmp3dCcsIGFjdGlvbi5qd3QpCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICBkZWJ1Z2dlcjsK</text>
+      <register name="1" type="4">
+        <text encoding="base64">LnJlcGxhY2UoL2h0dHA6XC9cL2xvY2FsaG9zdDo4ODg4LywgJ2h0dHA6Ly9zdGFnaW5nLnJlYWxpZS5pdCcpCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICdzdGFnaW5nLnJlYWxpZS5pdCcp</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
+      <register name="3" type="4">
+        <text>.replace(/localhost:8888/,</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkZWJ1Z2dlcjsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxlY3RlZFBpY3R1cmU6IHsKICAgICAgICAgIC4uLnN0YXRlLnNlbGVjdGVkUGljdHVyZSwKICAgICAgICAgIHJlYWxpZUlkOiBhY3Rpb24ucGljdHVyZS5yZWFsaWVfaWQKICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cmVhY3QtbmF0aXZlLWdyaWQtdmlld0BeMC40LjE6CiAgdmVyc2lvbiAiMC40LjEiCiAgcmVzb2x2ZWQgImh0dHBzOi8vcmVnaXN0cnkueWFybnBrZy5jb20vcmVhY3QtbmF0aXZlLWdyaWQtdmlldy8tL3JlYWN0LW5hdGl2ZS1ncmlkLXZpZXctMC40LjEudGd6IzE1MzQ3OGVlZjQ4ZTQzZWI5MjFkNzU5NWFmOWYwZjg5YmVlYjdiOTYiCgo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxlY3RlZFBpY3R1cmU6IHsKICAgICAgICAgIC4uLnN0YXRlLnNlbGVjdGVkUGljdHVyZSwKICAgICAgICAgIHJlYWxpZUlkOiBhY3Rpb24ucGljdHVyZS5yZWFsaWVfaWQKICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkicmVhY3QtbmF0aXZlLWdyaWQtdmlldyI6ICJeMC40LjEiLAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>NEW</last-search>
+      <last-search encoding="base64">IA==</last-search>
       <last-offset />
-      <last-pattern>NEW</last-pattern>
+      <last-pattern encoding="base64">IA==</last-pattern>
       <last-replace>alignItems</last-replace>
       <last-substitute>textAlign</last-substitute>
       <last-dir>1</last-dir>
@@ -1583,15 +1583,11 @@
     </search>
     <history>
       <history-search>
-        <entry>\.</entry>
-        <entry>{</entry>
-        <entry>cast</entry>
         <entry>,</entry>
         <entry>Ca</entry>
         <entry>ff</entry>
         <entry>Touch</entry>
         <entry encoding="base64">IG9u</entry>
-        <entry encoding="base64">IA==</entry>
         <entry encoding="base64">Pg==</entry>
         <entry encoding="base64">XDxmZXRjaENhbWVyYVJvbGxcPg==</entry>
         <entry>C</entry>
@@ -1603,6 +1599,10 @@
         <entry>NewPicture</entry>
         <entry>activePicture</entry>
         <entry>NEW</entry>
+        <entry>repl</entry>
+        <entry>\.</entry>
+        <entry>\.repl</entry>
+        <entry encoding="base64">IA==</entry>
       </history-search>
       <history-cmd>
         <entry>.w</entry>
