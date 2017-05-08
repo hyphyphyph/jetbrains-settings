@@ -78,11 +78,12 @@
         <mark key="." line="5" column="15" />
         <mark key="^" line="5" column="15" />
       </file>
-      <file name="$USER_HOME$/~working0/realie-app/src/screens/loading.js" timestamp="1494032835447">
+      <file name="$USER_HOME$/~working0/realie-app/src/screens/loading.js" timestamp="1494244961954">
         <mark key="'" line="18" column="60" />
-        <mark key="[" line="42" column="7" />
-        <mark key="]" line="42" column="8" />
-        <mark key="." line="42" column="8" />
+        <mark key="[" line="35" column="47" />
+        <mark key="]" line="35" column="51" />
+        <mark key="." line="35" column="51" />
+        <mark key="^" line="35" column="51" />
       </file>
       <file name="$USER_HOME$/realie-app/src/screens/home.js" timestamp="1492707054867">
         <mark key="'" line="0" column="0" />
@@ -1526,11 +1527,11 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHBpY3R1cmVzOiAoKSA9PiB7CiAgICAgIHJldHVybiBPYmplY3Qua2V5cyhzdGF0ZS5jYW1lcmFSb2xsLnBpY3R1cmVzQnlSZWFsaWVJZCkubWFwKChyZWFsaWVJZCkgPT4gewogICAgICAgIHN0YXRlLmNhbWVyYVJvbGwucGljdHVyZXNCeVJlYWxpZUlkW3JlYWxpZUlkXQogICAgICB9KQogICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>Capture</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Capture</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">Pg==</text>
