@@ -1211,12 +1211,12 @@
         <mark key="^" line="27" column="18" />
         <mark key="." line="27" column="18" />
       </file>
-      <file name="$USER_HOME$/~working0/realie-app/src/components/validation-preview.js" timestamp="1495035496595">
-        <mark key="'" line="54" column="86" />
-        <mark key="[" line="54" column="93" />
-        <mark key="]" line="54" column="103" />
-        <mark key="." line="54" column="103" />
-        <mark key="^" line="54" column="103" />
+      <file name="$USER_HOME$/~working0/realie-app/src/components/validation-preview.js" timestamp="1495037419572">
+        <mark key="'" line="52" column="43" />
+        <mark key="[" line="53" column="16" />
+        <mark key="]" line="53" column="13" />
+        <mark key="." line="53" column="13" />
+        <mark key="^" line="53" column="13" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-partner-unknown-action-html-en.html" timestamp="1490294471163">
         <mark key="[" line="15" column="24" />
@@ -1429,8 +1429,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="116" column="0" filename="$USER_HOME$/~working0/realie-app/src/screens/view-picture.js" />
-      <jump line="83" column="10" filename="$USER_HOME$/~working0/realie-app/src/screens/view-picture.js" />
       <jump line="305" column="8" filename="$USER_HOME$/~working0/realie-app/src/actions/index.js" />
       <jump line="291" column="0" filename="$USER_HOME$/~working0/realie-app/src/actions/index.js" />
       <jump line="299" column="13" filename="$USER_HOME$/~working0/realie-app/src/actions/index.js" />
@@ -1529,6 +1527,8 @@
       <jump line="40" column="0" filename="$USER_HOME$/~working0/realie-app/src/components/details-preview.js" />
       <jump line="3" column="0" filename="$USER_HOME$/~working0/realie-app/src/components/details-preview.js" />
       <jump line="34" column="53" filename="$USER_HOME$/~working0/realie-app/src/components/details-preview.js" />
+      <jump line="45" column="70" filename="$USER_HOME$/~working0/realie-app/src/components/validation-preview.js" />
+      <jump line="52" column="43" filename="$USER_HOME$/~working0/realie-app/src/components/validation-preview.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1549,10 +1549,10 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gCgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8VGV4dCBzdHlsZT17c3R5bGVzLmRhdGVUZXh0fT57Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>humanCreatedAt</text>
+        <text>toDateString</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PA==</text>
@@ -1561,31 +1561,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICBsYXRpdHVkZTogcG9zaXRpb24uY29vcmRzLmxhdGl0dWRlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gCgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8VGV4dCBzdHlsZT17c3R5bGVzLmRhdGVUZXh0fT57Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHtuZXcgRGF0ZSh0aGlzLnByb3BzLnBpY3R1cmUuY3JlYXRlZF9hdCkudG9EYXRlU3RyaW5nKCl9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHtjcmVhdGVkQXR9Cg==</text>
+        <text encoding="base64">Ly8gCgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHt0aGlzLnByb3BzLnBpY3R1cmUuaHVtYW5DcmVhdGVkQXR9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHtuZXcgRGF0ZSh0aGlzLnByb3BzLnBpY3R1cmUuY3JlYXRlZF9hdCkudG9EYXRlU3RyaW5nKCl9Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>Carlsbad, San Diego, USA</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHtjcmVhdGVkQXR9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG5hdmlnYXRvci5nZW9sb2NhdGlvbi5nZXRDdXJyZW50UG9zaXRpb24oKHBvc2l0aW9uKSA9PiB7CiAgICAgIGFsZXJ0KHBvc2l0aW9uLmNvb3Jkcy5sYXRpdHVkZSkKICAgICAgYWxlcnQocG9zaXRpb24uY29vcmRzLmxvbmdpdHVkZSkKICAgIH0pCgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHt0aGlzLnByb3BzLnBpY3R1cmUuaHVtYW5DcmVhdGVkQXR9Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="7" type="4">
+        <text>Carlsbad, San Diego, USA</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIG5hdmlnYXRvci5nZW9sb2NhdGlvbi5nZXRDdXJyZW50UG9zaXRpb24oKHBvc2l0aW9uKSA9PiB7CiAgICAgIGFsZXJ0KHBvc2l0aW9uLmNvb3Jkcy5sYXRpdHVkZSkKICAgICAgYWxlcnQocG9zaXRpb24uY29vcmRzLmxvbmdpdHVkZSkKICAgIH0pCgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBmZXRjaCgKICAgICAgdXJscy5waWN0dXJlcy5zdGFydCwKICAgICAgewogICAgICAgIG1ldGhvZDogJ1BPU1QnLAogICAgICAgIGhlYWRlcnM6IHsKICAgICAgICAgICdBdXRob3JpemF0aW9uJzogYEJlYXJlcjogJHtqd3R9YCwKICAgICAgICAgICdBY2NlcHQnOiAnYXBwbGljYXRpb24vanNvbicsCiAgICAgICAgICAnQ29udGVudC1UeXBlJzogJ2FwcGxpY2F0aW9uL2pzb24nCiAgICAgICAgfSwKICAgICAgICBib2R5OiBKU09OLnN0cmluZ2lmeSh7CiAgICAgICAgICBsYXRpdHVkZTogCiAgICAgICAgfSkKICAgICAgfQogICAgKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1597,7 +1597,7 @@
       <last-pattern encoding="base64">PA==</last-pattern>
       <last-replace>alignItems</last-replace>
       <last-substitute encoding="base64">XDxwaWN0dXJlc0J5UmVhbGllSWRcPg==</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
