@@ -756,12 +756,12 @@
         <mark key="." line="410" column="35" />
         <mark key="^" line="410" column="35" />
       </file>
-      <file name="$USER_HOME$/~working0/realie-app/src/components/metadata-details.js" timestamp="1495209697871">
+      <file name="$USER_HOME$/~working0/realie-app/src/components/metadata-details.js" timestamp="1495211300578">
         <mark key="'" line="14" column="2" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-        <mark key="^" line="27" column="36" />
+        <mark key="[" line="120" column="25" />
+        <mark key="]" line="120" column="27" />
+        <mark key="." line="120" column="27" />
+        <mark key="^" line="120" column="27" />
       </file>
       <file name="$USER_HOME$/RealieApp/src/components/header-logo.js" timestamp="1492875406536">
         <mark key="'" line="16" column="4" />
@@ -1574,11 +1574,11 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGxldCBjb250ZW50Cg==</text>
+      <register name="&quot;" type="4">
+        <text>aaa</text>
       </register>
       <register name="-" type="4">
-        <text>{this._renderLocationContent()}</text>
+        <text>aaa</text>
       </register>
       <register name="/" type="4">
         <text>Ex</text>
