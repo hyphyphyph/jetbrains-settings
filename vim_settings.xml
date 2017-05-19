@@ -756,12 +756,11 @@
         <mark key="." line="410" column="35" />
         <mark key="^" line="410" column="35" />
       </file>
-      <file name="$USER_HOME$/~working0/realie-app/src/components/metadata-details.js" timestamp="1495211949804">
-        <mark key="'" line="15" column="2" />
-        <mark key="[" line="22" column="5" />
-        <mark key="]" line="24" column="36" />
-        <mark key="." line="24" column="36" />
-        <mark key="^" line="24" column="36" />
+      <file name="$USER_HOME$/~working0/realie-app/src/components/metadata-details.js" timestamp="1495213342409">
+        <mark key="'" line="26" column="0" />
+        <mark key="[" line="105" column="8" />
+        <mark key="]" line="113" column="10" />
+        <mark key="." line="104" column="0" />
       </file>
       <file name="$USER_HOME$/RealieApp/src/components/header-logo.js" timestamp="1492875406536">
         <mark key="'" line="16" column="4" />
@@ -1455,13 +1454,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="187" column="14" filename="$USER_HOME$/~working0/realie-app/src/actions/index.js" />
-      <jump line="188" column="33" filename="$USER_HOME$/~working0/realie-app/src/actions/index.js" />
-      <jump line="62" column="39" filename="$USER_HOME$/~working0/realie-app/src/screens/edit-details.js" />
-      <jump line="95" column="0" filename="$USER_HOME$/~working0/realie-app/src/reducers/index.js" />
-      <jump line="104" column="0" filename="$USER_HOME$/~working0/realie-app/src/reducers/index.js" />
-      <jump line="124" column="0" filename="$USER_HOME$/~working0/realie-app/src/reducers/index.js" />
-      <jump line="127" column="0" filename="$USER_HOME$/~working0/realie-app/src/reducers/index.js" />
       <jump line="137" column="0" filename="$USER_HOME$/~working0/realie-app/src/reducers/index.js" />
       <jump line="145" column="31" filename="$USER_HOME$/~working0/realie-app/src/reducers/index.js" />
       <jump line="57" column="0" filename="$USER_HOME$/~working0/realie-app/src/reducers/index.js" />
@@ -1549,12 +1541,19 @@
       <jump line="125" column="22" filename="$USER_HOME$/~working0/realie-app/src/screens/view-picture.js" />
       <jump line="51" column="0" filename="$USER_HOME$/~working0/realie-app/src/components/metadata-details.js" />
       <jump line="19" column="31" filename="$USER_HOME$/~working0/realie-app/src/components/metadata-details.js" />
-      <jump line="5" column="0" filename="$USER_HOME$/~working0/realie-app/src/components/metadata-details.js" />
       <jump line="92" column="19" filename="$USER_HOME$/~working0/realie-app/src/components/metadata-details.js" />
       <jump line="20" column="14" filename="$USER_HOME$/~working0/realie-app/src/components/metadata-details.js" />
       <jump line="57" column="40" filename="$USER_HOME$/~working0/realie-app/src/components/metadata-details.js" />
       <jump line="69" column="8" filename="$USER_HOME$/~working0/realie-app/src/components/metadata-details.js" />
       <jump line="14" column="2" filename="$USER_HOME$/~working0/realie-app/src/components/metadata-details.js" />
+      <jump line="27" column="24" filename="$USER_HOME$/~working0/realie-app/src/components/metadata-details.js" />
+      <jump line="82" column="50" filename="$USER_HOME$/~working0/realie-app/src/components/metadata-details.js" />
+      <jump line="83" column="15" filename="$USER_HOME$/~working0/realie-app/src/components/metadata-details.js" />
+      <jump line="80" column="15" filename="$USER_HOME$/~working0/realie-app/src/components/metadata-details.js" />
+      <jump line="79" column="13" filename="$USER_HOME$/~working0/realie-app/src/components/metadata-details.js" />
+      <jump line="105" column="12" filename="$USER_HOME$/~working0/realie-app/src/components/metadata-details.js" />
+      <jump line="5" column="7" filename="$USER_HOME$/~working0/realie-app/src/components/metadata-details.js" />
+      <jump line="26" column="0" filename="$USER_HOME$/~working0/realie-app/src/components/metadata-details.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1574,54 +1573,53 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>aaa</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgPE1hcFZpZXcKICAgICAgICBzdHlsZT17c3R5bGVzLm1hcH0KICAgICAgICBpbml0aWFsUmVnaW9uPXt7CiAgICAgICAgICBsYXRpdHVkZTogMzcuNzg4MjUsCiAgICAgICAgICBsb25naXR1ZGU6IC0xMjIuNDMyNCwKICAgICAgICAgIGxhdGl0dWRlRGVsdGE6IDAuMDkyMiwKICAgICAgICAgIGxvbmdpdHVkZURlbHRhOiAwLjA0MjEsCiAgICAgICAgfX0KICAgICAgLz4K</text>
       </register>
       <register name="-" type="4">
-        <text>aaa</text>
+        <text>right</text>
       </register>
       <register name="/" type="4">
-        <text>Ex</text>
+        <text encoding="base64">XDxNYXBWaWV3XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBfcmVuZGVyRXhpZiAoKSB7CiAgICBsZXQgaGVhZGVyCiAgICBsZXQgY29udGVudAoKICAgIGhlYWRlciA9ICgKICAgICAgPFZpZXcgc3R5bGU9e3N0eWxlcy5hY2NvcmRpb25IZWFkZXJ9PgogICAgICAgIDxUZXh0PkV4aWYgTWV0YWRhdGE8L1RleHQ+CiAgICAgIDwvVmlldz4KICAgICkKCiAgICByZXR1cm4gKAogICAgICA8QWNjb3JkaW9uCiAgICAgICAgaGVhZGVyPXtoZWFkZXJ9CiAgICAgICAgY29udGVudD17dGhpcy5fcmVuZGVyRXhpZlRhYmxlKCl9CiAgICAgICAgZWFzaW5nPSJlYXNlSW5PdXRDdWJpYyIKICAgICAgICAvPgogICAgKQogIH0K</text>
+        <text encoding="base64">ICAgICAgPE1hcFZpZXcKICAgICAgICBzdHlsZT17c3R5bGVzLm1hcH0KICAgICAgICBpbml0aWFsUmVnaW9uPXt7CiAgICAgICAgICBsYXRpdHVkZTogMzcuNzg4MjUsCiAgICAgICAgICBsb25naXR1ZGU6IC0xMjIuNDMyNCwKICAgICAgICAgIGxhdGl0dWRlRGVsdGE6IDAuMDkyMiwKICAgICAgICAgIGxvbmdpdHVkZURlbHRhOiAwLjA0MjEsCiAgICAgICAgfX0KICAgICAgLz4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxldCBjb250ZW50Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG1hcmdpbkJvdHRvbTogMjAK</text>
+        <text encoding="base64">ICAgICAgICB7dGhpcy5fcmVuZGVyRXhpZigpfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG1hcmdpbkxlZnQ6IDIwLAo=</text>
+        <text encoding="base64">ICAgIGFsaWduSXRlbXM6ICdmbGV4LWVuZCcK</text>
       </register>
-      <register name="4" type="8">
-        <text>padding
-padding</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGFsaWduSXRlbXM6ICdyaWdodCcK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICAK</text>
+        <text encoding="base64">ICAgIHBhZGRpbmc6IDEwCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxldCByb3dzID0gW10KICAgIGlmICh0aGlzLnByb3BzLmV4aWYpIHsKICAgICAgT2JqZWN0LmtleXModGhpcy5wcm9wcy5leGlmKS5mb3JFYWNoKChwcm9wZXJ0eSkgPT4gewogICAgICAgIGNvbnN0IGtleSA9IGAke3RoaXMucHJvcHMucGljdHVyZS5yZWFsaWVfaWR9LSR7cHJvcGVydHl9YAoKICAgICAgICByb3dzLnB1c2goCiAgICAgICAgICA8VmlldwogICAgICAgICAgICBrZXk9e2tleX0KICAgICAgICAgICAgc3R5bGU9e3N0eWxlcy5yb3d9CiAgICAgICAgICAgID4KCiAgICAgICAgICAgIDxWaWV3IHN0eWxlPXtzdHlsZXMucm93UHJvcGVydHl9PgogICAgICAgICAgICAgIDxUZXh0Pntwcm9wZXJ0eX08L1RleHQ+CiAgICAgICAgICAgIDwvVmlldz4KICAgICAgICAgICAgPFZpZXcgc3R5bGU9e3N0eWxlcy5yb3dWYWx1ZX0+CiAgICAgICAgICAgICAgPFRleHQ+e3RoaXMucHJvcHMuZXhpZltwcm9wZXJ0eV19PC9UZXh0PgogICAgICAgICAgICA8L1ZpZXc+CiAgICAgICAgICA8L1ZpZXc+CiAgICAgICAgKQogICAgICB9KQogICAgfQoK</text>
+        <text encoding="base64">ICAgIHBhZGRpbmc6IAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB7cm93c30K</text>
+        <text encoding="base64">ICAgICAgPE1hcFZpZXcKICAgICAgICBzdHlsZT17c3R5bGVzLm1hcH0KICAgICAgICBpbml0aWFsUmVnaW9uPXt7CiAgICAgICAgICBsYXRpdHVkZTogMCwKICAgICAgICAgIGxvbmdpdHVkZTogMCwKICAgICAgICAgIGxhdGl0dWRlRGVsdGE6IDEsCiAgICAgICAgICBsb25naXR1ZGVEZWx0YTogMQogICAgICAgIH19CiAgICAgICAgLz4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICA8TWFwVmlldwogICAgICAgIGluaXRpYWxSZWdpb249e3sKICAgICAgICAgIGxhdGl0dWRlOiAzNy43ODgyNSwKICAgICAgICAgIGxvbmdpdHVkZTogLTEyMi40MzI0LAogICAgICAgICAgbGF0aXR1ZGVEZWx0YTogMC4wOTIyLAogICAgICAgICAgbG9uZ2l0dWRlRGVsdGE6IDAuMDQyMSwKICAgICAgICB9fQogICAgICAvPgoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgbGV0IAogICAgICBsZXQgY29udGVudAoKICAgICAgaGVhZGVyID0gKAogICAgICAgIDxWaWV3PgogICAgICAgICAgJ0V4aWYgTWV0YWRhdGEnCiAgICAgICAgPC9WaWV3PgogICAgICAgICkKCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Ex</last-search>
+      <last-search encoding="base64">XDxNYXBWaWV3XD4=</last-search>
       <last-offset />
-      <last-pattern>Ex</last-pattern>
+      <last-pattern encoding="base64">XDxNYXBWaWV3XD4=</last-pattern>
       <last-replace>alignItems</last-replace>
       <last-substitute encoding="base64">XDxwaWN0dXJlc0J5UmVhbGllSWRcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1629,10 +1627,6 @@ padding</text>
     </search>
     <history>
       <history-search>
-        <entry>permission</entry>
-        <entry>this</entry>
-        <entry encoding="base64">PA==</entry>
-        <entry>alert</entry>
         <entry>aler</entry>
         <entry>SaveCaptionAnd</entry>
         <entry>GetPicture</entry>
@@ -1641,7 +1635,6 @@ padding</text>
         <entry>al</entry>
         <entry>Cap</entry>
         <entry encoding="base64">IA==</entry>
-        <entry encoding="base64">Pg==</entry>
         <entry>yell</entry>
         <entry>blue</entry>
         <entry>head</entry>
@@ -1649,6 +1642,11 @@ padding</text>
         <entry>Head</entry>
         <entry>Exi</entry>
         <entry>Ex</entry>
+        <entry encoding="base64">Pg==</entry>
+        <entry encoding="base64">PA==</entry>
+        <entry>exit</entry>
+        <entry>MapView</entry>
+        <entry encoding="base64">XDxNYXBWaWV3XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>39</entry>
