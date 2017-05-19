@@ -756,12 +756,12 @@
         <mark key="." line="410" column="35" />
         <mark key="^" line="410" column="35" />
       </file>
-      <file name="$USER_HOME$/~working0/realie-app/src/components/metadata-details.js" timestamp="1495051240461">
-        <mark key="'" line="57" column="40" />
-        <mark key="[" line="101" column="0" />
-        <mark key="]" line="101" column="25" />
-        <mark key="." line="101" column="25" />
-        <mark key="^" line="101" column="25" />
+      <file name="$USER_HOME$/~working0/realie-app/src/components/metadata-details.js" timestamp="1495209697871">
+        <mark key="'" line="14" column="2" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+        <mark key="^" line="27" column="36" />
       </file>
       <file name="$USER_HOME$/RealieApp/src/components/header-logo.js" timestamp="1492875406536">
         <mark key="'" line="16" column="4" />
@@ -1455,8 +1455,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="169" column="14" filename="$USER_HOME$/~working0/realie-app/src/actions/index.js" />
-      <jump line="198" column="29" filename="$USER_HOME$/~working0/realie-app/src/actions/index.js" />
       <jump line="187" column="14" filename="$USER_HOME$/~working0/realie-app/src/actions/index.js" />
       <jump line="188" column="33" filename="$USER_HOME$/~working0/realie-app/src/actions/index.js" />
       <jump line="62" column="39" filename="$USER_HOME$/~working0/realie-app/src/screens/edit-details.js" />
@@ -1555,6 +1553,8 @@
       <jump line="92" column="19" filename="$USER_HOME$/~working0/realie-app/src/components/metadata-details.js" />
       <jump line="20" column="14" filename="$USER_HOME$/~working0/realie-app/src/components/metadata-details.js" />
       <jump line="57" column="40" filename="$USER_HOME$/~working0/realie-app/src/components/metadata-details.js" />
+      <jump line="69" column="8" filename="$USER_HOME$/~working0/realie-app/src/components/metadata-details.js" />
+      <jump line="14" column="2" filename="$USER_HOME$/~working0/realie-app/src/components/metadata-details.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1575,62 +1575,60 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG1hcmdpbkJvdHRvbTogMjAK</text>
+        <text encoding="base64">ICAgIGxldCBjb250ZW50Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Header</text>
+        <text>{this._renderLocationContent()}</text>
       </register>
       <register name="/" type="4">
-        <text>Head</text>
+        <text>Ex</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGxldCByb3dzID0gW10KICAgIGlmICh0aGlzLnByb3BzLmV4aWYpIHsKICAgICAgT2JqZWN0LmtleXModGhpcy5wcm9wcy5leGlmKS5mb3JFYWNoKChwcm9wZXJ0eSkgPT4gewogICAgICAgIGNvbnN0IGtleSA9IGAke3RoaXMucHJvcHMucGljdHVyZS5yZWFsaWVfaWR9LSR7cHJvcGVydHl9YAoKICAgICAgICByb3dzLnB1c2goCiAgICAgICAgICA8VmlldwogICAgICAgICAgICBrZXk9e2tleX0KICAgICAgICAgICAgc3R5bGU9e3N0eWxlcy5yb3d9CiAgICAgICAgICAgID4KCiAgICAgICAgICAgIDxWaWV3IHN0eWxlPXtzdHlsZXMucm93UHJvcGVydHl9PgogICAgICAgICAgICAgIDxUZXh0Pntwcm9wZXJ0eX08L1RleHQ+CiAgICAgICAgICAgIDwvVmlldz4KICAgICAgICAgICAgPFZpZXcgc3R5bGU9e3N0eWxlcy5yb3dWYWx1ZX0+CiAgICAgICAgICAgICAgPFRleHQ+e3RoaXMucHJvcHMuZXhpZltwcm9wZXJ0eV19PC9UZXh0PgogICAgICAgICAgICA8L1ZpZXc+CiAgICAgICAgICA8L1ZpZXc+CiAgICAgICAgKQogICAgICB9KQogICAgfQoKICAgIHJldHVybiAoCiAgICAgIDxTY3JvbGxWaWV3IHN0eWxlPXtzdHlsZXMuY29udGFpbmVyfT4KICAgICAgICB7cm93c30KICAgICAgPC9TY3JvbGxWaWV3PgogICAgKQo=</text>
+        <text encoding="base64">ICBfcmVuZGVyRXhpZiAoKSB7CiAgICBsZXQgaGVhZGVyCiAgICBsZXQgY29udGVudAoKICAgIGhlYWRlciA9ICgKICAgICAgPFZpZXcgc3R5bGU9e3N0eWxlcy5hY2NvcmRpb25IZWFkZXJ9PgogICAgICAgIDxUZXh0PkV4aWYgTWV0YWRhdGE8L1RleHQ+CiAgICAgIDwvVmlldz4KICAgICkKCiAgICByZXR1cm4gKAogICAgICA8QWNjb3JkaW9uCiAgICAgICAgaGVhZGVyPXtoZWFkZXJ9CiAgICAgICAgY29udGVudD17dGhpcy5fcmVuZGVyRXhpZlRhYmxlKCl9CiAgICAgICAgZWFzaW5nPSJlYXNlSW5PdXRDdWJpYyIKICAgICAgICAvPgogICAgKQogIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG1hcmdpbkJvdHRvbTogMjAK</text>
+        <text encoding="base64">ICAgIGxldCBjb250ZW50Cg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgIG1hcmdpbkJvdHRvbTogMjAK</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgIG1hcmdpbkxlZnQ6IDIwLAo=</text>
       </register>
-      <register name="3" type="8">
+      <register name="4" type="8">
         <text>padding
 padding</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">CiAgICAK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIGxldCByb3dzID0gW10KICAgIGlmICh0aGlzLnByb3BzLmV4aWYpIHsKICAgICAgT2JqZWN0LmtleXModGhpcy5wcm9wcy5leGlmKS5mb3JFYWNoKChwcm9wZXJ0eSkgPT4gewogICAgICAgIGNvbnN0IGtleSA9IGAke3RoaXMucHJvcHMucGljdHVyZS5yZWFsaWVfaWR9LSR7cHJvcGVydHl9YAoKICAgICAgICByb3dzLnB1c2goCiAgICAgICAgICA8VmlldwogICAgICAgICAgICBrZXk9e2tleX0KICAgICAgICAgICAgc3R5bGU9e3N0eWxlcy5yb3d9CiAgICAgICAgICAgID4KCiAgICAgICAgICAgIDxWaWV3IHN0eWxlPXtzdHlsZXMucm93UHJvcGVydHl9PgogICAgICAgICAgICAgIDxUZXh0Pntwcm9wZXJ0eX08L1RleHQ+CiAgICAgICAgICAgIDwvVmlldz4KICAgICAgICAgICAgPFZpZXcgc3R5bGU9e3N0eWxlcy5yb3dWYWx1ZX0+CiAgICAgICAgICAgICAgPFRleHQ+e3RoaXMucHJvcHMuZXhpZltwcm9wZXJ0eV19PC9UZXh0PgogICAgICAgICAgICA8L1ZpZXc+CiAgICAgICAgICA8L1ZpZXc+CiAgICAgICAgKQogICAgICB9KQogICAgfQoK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICB7cm93c30K</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgbGV0IAogICAgICBsZXQgY29udGVudAoKICAgICAgaGVhZGVyID0gKAogICAgICAgIDxWaWV3PgogICAgICAgICAgJ0V4aWYgTWV0YWRhdGEnCiAgICAgICAgPC9WaWV3PgogICAgICAgICkKCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgbGV0IGhlYWRlcgo=</text>
+        <text encoding="base64">ICAgICAgbGV0IAogICAgICBsZXQgY29udGVudAoKICAgICAgaGVhZGVyID0gKAogICAgICAgIDxWaWV3PgogICAgICAgICAgJ0V4aWYgTWV0YWRhdGEnCiAgICAgICAgPC9WaWV3PgogICAgICAgICkKCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Head</last-search>
+      <last-search>Ex</last-search>
       <last-offset />
-      <last-pattern>Head</last-pattern>
+      <last-pattern>Ex</last-pattern>
       <last-replace>alignItems</last-replace>
       <last-substitute encoding="base64">XDxwaWN0dXJlc0J5UmVhbGllSWRcPg==</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>jwt</entry>
-        <entry>Async</entry>
         <entry>permission</entry>
         <entry>this</entry>
         <entry encoding="base64">PA==</entry>
@@ -1649,6 +1647,8 @@ padding</text>
         <entry>head</entry>
         <entry>'</entry>
         <entry>Head</entry>
+        <entry>Exi</entry>
+        <entry>Ex</entry>
       </history-search>
       <history-cmd>
         <entry>39</entry>
