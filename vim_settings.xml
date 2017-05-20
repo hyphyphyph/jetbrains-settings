@@ -855,11 +855,12 @@
         <mark key="^" line="4" column="9" />
         <mark key="." line="4" column="9" />
       </file>
-      <file name="$USER_HOME$/~working0/realie-app/src/screens/base-auth.js" timestamp="1495289000369">
+      <file name="$USER_HOME$/~working0/realie-app/src/screens/base-auth.js" timestamp="1495292971512">
         <mark key="'" line="24" column="7" />
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
+        <mark key="[" line="54" column="23" />
+        <mark key="]" line="55" column="15" />
+        <mark key="." line="55" column="15" />
+        <mark key="^" line="55" column="15" />
       </file>
       <file name="$USER_HOME$/invite-api/config/default.yml" timestamp="1490407801787">
         <mark key="'" line="40" column="7" />
@@ -1013,7 +1014,7 @@
         <mark key="." line="5" column="42" />
         <mark key="^" line="5" column="42" />
       </file>
-      <file name="$USER_HOME$/~working0/realie-app/src/config/twitter.js" timestamp="1495292278041">
+      <file name="$USER_HOME$/~working0/realie-app/src/config/twitter.js" timestamp="1495292898728">
         <mark key="[" line="4" column="14" />
         <mark key="]" line="4" column="64" />
         <mark key="^" line="4" column="14" />
@@ -1068,12 +1069,12 @@
         <mark key="^" line="161" column="6" />
         <mark key="." line="162" column="0" />
       </file>
-      <file name="$USER_HOME$/~working0/realie-app/src/data/auth.js" timestamp="1493997304782">
-        <mark key="'" line="17" column="6" />
-        <mark key="[" line="17" column="29" />
-        <mark key="]" line="18" column="22" />
-        <mark key="." line="18" column="22" />
-        <mark key="^" line="18" column="22" />
+      <file name="$USER_HOME$/~working0/realie-app/src/data/auth.js" timestamp="1495293042666">
+        <mark key="'" line="20" column="6" />
+        <mark key="[" line="28" column="29" />
+        <mark key="]" line="28" column="32" />
+        <mark key="." line="28" column="32" />
+        <mark key="^" line="28" column="32" />
       </file>
       <file name="$USER_HOME$/RealieApp/src/constants/strings.js" timestamp="1492875348112">
         <mark key="[" line="6" column="35" />
@@ -1571,11 +1572,11 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhbGVydCgxMjMpCg==</text>
+      <register name="&quot;" type="4">
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>R</text>
@@ -1584,31 +1585,31 @@
         <text encoding="base64">ICAgICAgYWxlcnQodGhpcy5wcm9wcy5waWN0dXJlLmxhdGl0dWRlKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhbGVydCgxMjMpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBhbGVydCgxMjMpCg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgIGFsZXJ0KDEpCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>initial</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIGJhY2tncm91bmRDb2xvcjogJ3JlZCcK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIGhlaWdodDogMjAwCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBWaWV3Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGZsZXg6IDEsCiAgICAK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHdpZHRoOiAxMDAsCiAgICBoZWlnaHQ6IDEwMAo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHdpZHRoOiAxMDAsCiAgICBoZWlnaHQ6IDEwMAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
