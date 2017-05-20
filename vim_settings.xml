@@ -1341,11 +1341,11 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="12" column="1" />
       </file>
-      <file name="$USER_HOME$/~working0/realie-app/android/app/src/main/AndroidManifest.xml" timestamp="1495221766104">
+      <file name="$USER_HOME$/~working0/realie-app/android/app/src/main/AndroidManifest.xml" timestamp="1495239888611">
         <mark key="'" line="52" column="6" />
-        <mark key="[" line="31" column="8" />
-        <mark key="]" line="31" column="8" />
-        <mark key="." line="31" column="8" />
+        <mark key="[" line="32" column="23" />
+        <mark key="]" line="32" column="62" />
+        <mark key="." line="32" column="23" />
         <mark key="^" line="31" column="15" />
       </file>
       <file name="$USER_HOME$/RealieApp/src/actions/index.js" timestamp="1492874640118">
@@ -1573,8 +1573,8 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="8">
-        <text encoding="base64">ICAgICAgCiAgICAgIA==</text>
+      <register name="&quot;" type="4">
+        <text>AIzaSyDuqmHUzLBoHE0whZuL0e2UMffdLXA7pVA</text>
       </register>
       <register name="-" type="4">
         <text>AIzaSyDuqmHUzLBoHE0whZuL0e2UMffdLXA7pVA</text>
