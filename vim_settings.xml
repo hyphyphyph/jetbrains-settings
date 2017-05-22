@@ -10,6 +10,13 @@
         <mark key="." line="259" column="8" />
         <mark key="^" line="259" column="8" />
       </file>
+      <file name="$USER_HOME$/~working0/realie-app/src/navigation/drawer.js" timestamp="1495476043094">
+        <mark key="'" line="7" column="30" />
+        <mark key="[" line="7" column="40" />
+        <mark key="]" line="7" column="39" />
+        <mark key="." line="7" column="39" />
+        <mark key="^" line="7" column="39" />
+      </file>
       <file name="$USER_HOME$/~working0/realie-app/src/components/home-button.js" timestamp="1493242139065">
         <mark key="[" line="13" column="14" />
         <mark key="]" line="13" column="17" />
@@ -21,6 +28,13 @@
         <mark key="]" line="5" column="16" />
         <mark key="." line="5" column="16" />
         <mark key="^" line="5" column="16" />
+      </file>
+      <file name="$USER_HOME$/~working0/realie-app/src/components/drawer/index.js" timestamp="1495477026515">
+        <mark key="'" line="13" column="54" />
+        <mark key="[" line="13" column="63" />
+        <mark key="]" line="13" column="73" />
+        <mark key="." line="13" column="73" />
+        <mark key="^" line="13" column="73" />
       </file>
       <file name="$USER_HOME$/~working0/c2/invite-api/db/seeders/20170412205516-create-quotas.js" timestamp="1492030727947">
         <mark key="[" line="19" column="40" />
@@ -105,11 +119,6 @@
         <mark key="]" line="122" column="3" />
         <mark key="^" line="97" column="1" />
         <mark key="." line="98" column="0" />
-      </file>
-      <file name="$USER_HOME$/~working0/realie-app/src/navigation-actions/view-picture.js" timestamp="1493250159277">
-        <mark key="[" line="28" column="11" />
-        <mark key="]" line="28" column="12" />
-        <mark key="." line="28" column="12" />
       </file>
       <file name="$USER_HOME$/~working0/realie-app/src/components/picture-actions.js" timestamp="1495300080629">
         <mark key="'" line="4" column="64" />
@@ -209,6 +218,12 @@
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
         <mark key="^" line="33" column="23" />
+      </file>
+      <file name="$USER_HOME$/~working0/realie-app/src/navigation-actions/logging-out.js" timestamp="1495476966363">
+        <mark key="[" line="7" column="16" />
+        <mark key="]" line="7" column="25" />
+        <mark key="." line="7" column="25" />
+        <mark key="^" line="7" column="25" />
       </file>
       <file name="$USER_HOME$/~working0/c2/invite-api/src/modules/conference-invite/handlers/conference-invite-crud.handler.js" timestamp="1492034170483">
         <mark key="[" line="150" column="0" />
@@ -319,6 +334,12 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="18" column="3" />
       </file>
+      <file name="$USER_HOME$/~working0/realie-app/src/screens/logging-out.js" timestamp="1495477051383">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="14" column="3" />
+        <mark key="^" line="12" column="1" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/invite-api/src/db.js" timestamp="1490044989853">
         <mark key="[" line="31" column="15" />
         <mark key="]" line="31" column="18" />
@@ -332,10 +353,12 @@
         <mark key="^" line="104" column="31" />
         <mark key="." line="104" column="31" />
       </file>
-      <file name="$USER_HOME$/~working0/realie-app/node_modules/react-native-oauth/package.json" timestamp="1493672876928">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
+      <file name="$USER_HOME$/~working0/realie-app/src/app.js" timestamp="1495476128516">
+        <mark key="'" line="17" column="21" />
+        <mark key="[" line="11" column="22" />
+        <mark key="]" line="11" column="38" />
+        <mark key="." line="11" column="38" />
+        <mark key="^" line="11" column="38" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/index.js" timestamp="1490304172836">
         <mark key="'" line="196" column="2" />
@@ -507,6 +530,12 @@
         <mark key="." line="203" column="0" />
         <mark key="^" line="265" column="21" />
       </file>
+      <file name="$USER_HOME$/~working0/realie-app/src/components/drawer/menu.js" timestamp="1495476596757">
+        <mark key="[" line="51" column="16" />
+        <mark key="]" line="51" column="17" />
+        <mark key="^" line="52" column="20" />
+        <mark key="." line="51" column="17" />
+      </file>
       <file name="$USER_HOME$/invite-api/src/models/partner.model.js" timestamp="1490388705537">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="48" column="6" />
@@ -570,6 +599,13 @@
         <mark key="]" line="67" column="2" />
         <mark key="^" line="39" column="35" />
         <mark key="." line="39" column="35" />
+      </file>
+      <file name="$USER_HOME$/~working0/realie-app/src/components/drawer-content.js" timestamp="1495475832493">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="54" column="15" />
+        <mark key="." line="21" column="23" />
+        <mark key="^" line="21" column="23" />
       </file>
       <file name="$USER_HOME$/~working0/c2/invite-api/config/default.yml" timestamp="1492031871021">
         <mark key="'" line="119" column="21" />
@@ -637,7 +673,7 @@
         <mark key="." line="87" column="33" />
         <mark key="^" line="87" column="33" />
       </file>
-      <file name="/Dummy.txt" timestamp="1495468706804">
+      <file name="/Dummy.txt" timestamp="1495474142196">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-auto-accept-html-en.html" timestamp="1490109464765">
@@ -684,12 +720,6 @@
         <mark key="]" line="107" column="32" />
         <mark key="." line="107" column="32" />
         <mark key="^" line="107" column="32" />
-      </file>
-      <file name="$USER_HOME$/~working0/realie-app/src/config/index.js" timestamp="1495297329788">
-        <mark key="[" line="2" column="22" />
-        <mark key="]" line="2" column="22" />
-        <mark key="." line="2" column="22" />
-        <mark key="^" line="2" column="22" />
       </file>
       <file name="$USER_HOME$/RealieApp/src/screens/capture.js" timestamp="1492879048750">
         <mark key="'" line="85" column="17" />
@@ -776,11 +806,11 @@
         <mark key="^" line="15" column="66" />
         <mark key="." line="15" column="66" />
       </file>
-      <file name="$USER_HOME$/~working0/realie-app/yarn.lock" timestamp="1495423447298">
-        <mark key="'" line="3002" column="16" />
-        <mark key="[" line="2989" column="0" />
-        <mark key="]" line="2989" column="0" />
-        <mark key="." line="2989" column="0" />
+      <file name="$USER_HOME$/~working0/realie-app/yarn.lock" timestamp="1495476794341">
+        <mark key="'" line="3147" column="17" />
+        <mark key="[" line="3013" column="0" />
+        <mark key="]" line="3013" column="0" />
+        <mark key="." line="3013" column="0" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/user/templates/reset-html-fr.html" timestamp="1489896960115">
         <mark key="'" line="3" column="0" />
@@ -789,11 +819,12 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="20" column="1" />
       </file>
-      <file name="$USER_HOME$/~working0/realie-app/src/navigation/main-stack.js" timestamp="1495048017752">
-        <mark key="[" line="16" column="37" />
-        <mark key="]" line="16" column="1" />
-        <mark key="." line="16" column="1" />
-        <mark key="^" line="16" column="1" />
+      <file name="$USER_HOME$/~working0/realie-app/src/navigation/main-stack.js" timestamp="1495476997885">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="19" column="24" />
+        <mark key="]" line="19" column="33" />
+        <mark key="." line="19" column="33" />
+        <mark key="^" line="19" column="33" />
       </file>
       <file name="$USER_HOME$/~working0/realie-app/src/navigation-actions/capture.js" timestamp="1493242240238">
         <mark key="[" line="10" column="0" />
@@ -843,12 +874,6 @@
         <mark key="]" line="9" column="31" />
         <mark key="^" line="9" column="31" />
         <mark key="." line="9" column="31" />
-      </file>
-      <file name="$USER_HOME$/~working0/realie-app/src/config/api.js" timestamp="1495297342210">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="33" />
-        <mark key="^" line="3" column="5" />
-        <mark key="." line="3" column="5" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-accept-html-en.html" timestamp="1490109519650">
         <mark key="[" line="9" column="0" />
@@ -912,11 +937,6 @@
         <mark key="]" line="17" column="18" />
         <mark key="^" line="17" column="18" />
         <mark key="." line="17" column="18" />
-      </file>
-      <file name="$USER_HOME$/~working0/realie-app/android/build.gradle" timestamp="1493779641908">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/~working0/c2/invite-api/db/migrations/20170411174534-create-ticket-purchase-user.js" timestamp="1491932838280">
         <mark key="'" line="54" column="10" />
@@ -1026,11 +1046,6 @@
         <mark key="^" line="4" column="14" />
         <mark key="." line="4" column="14" />
       </file>
-      <file name="$USER_HOME$/~working0/realie-app/android/settings.gradle" timestamp="1495294851641">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
       <file name="$USER_HOME$/~working0/realie-app/src/constants/strings.js" timestamp="1493248799578">
         <mark key="[" line="7" column="34" />
         <mark key="]" line="8" column="29" />
@@ -1044,11 +1059,12 @@
         <mark key="." line="6" column="14" />
         <mark key="^" line="6" column="14" />
       </file>
-      <file name="$USER_HOME$/~working0/realie-app/src/screens/login.js" timestamp="1494018753981">
+      <file name="$USER_HOME$/~working0/realie-app/src/screens/login.js" timestamp="1495477048813">
         <mark key="'" line="49" column="2" />
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="31" column="2" />
+        <mark key="." line="30" column="23" />
+        <mark key="^" line="30" column="23" />
       </file>
       <file name="$USER_HOME$/~working0/c2/invite-api/src/modules/user/handlers/user-crud.handler.js" timestamp="1492024644104">
         <mark key="[" line="61" column="0" />
@@ -1136,17 +1152,18 @@
         <mark key="^" line="2" column="25" />
         <mark key="." line="2" column="25" />
       </file>
-      <file name="$USER_HOME$/~working0/realie-app/src/store.js" timestamp="1494277177230">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-      </file>
       <file name="$USER_HOME$/invite-api/src/modules/user/templates/registration-text-en.html" timestamp="1489854959007">
         <mark key="'" line="7" column="22" />
         <mark key="[" line="7" column="0" />
         <mark key="]" line="10" column="24" />
         <mark key="^" line="10" column="22" />
         <mark key="." line="10" column="22" />
+      </file>
+      <file name="$USER_HOME$/~working0/realie-app/src/components/drawer/header.js" timestamp="1495476482100">
+        <mark key="[" line="31" column="17" />
+        <mark key="]" line="32" column="19" />
+        <mark key="^" line="32" column="19" />
+        <mark key="." line="32" column="19" />
       </file>
       <file name="$USER_HOME$/~working0/c2/invite-api/tests/server-tests.js" timestamp="1492024206915">
         <mark key="'" line="135" column="16" />
@@ -1188,19 +1205,18 @@
         <mark key="." line="107" column="0" />
         <mark key="^" line="103" column="5" />
       </file>
-      <file name="$USER_HOME$/~working0/realie-app/src/screens/home.js" timestamp="1494266229370">
+      <file name="$USER_HOME$/~working0/realie-app/src/screens/home.js" timestamp="1495476166450">
         <mark key="'" line="102" column="21" />
-        <mark key="[" line="102" column="71" />
-        <mark key="]" line="102" column="71" />
-        <mark key="." line="102" column="71" />
-        <mark key="^" line="102" column="71" />
+        <mark key="[" line="51" column="47" />
+        <mark key="]" line="51" column="57" />
+        <mark key="." line="51" column="57" />
+        <mark key="^" line="51" column="57" />
       </file>
-      <file name="$USER_HOME$/~working0/realie-app/src/components/drawer-menu.js" timestamp="1495468672740">
-        <mark key="'" line="4" column="23" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="32" />
+      <file name="$USER_HOME$/~working0/realie-app/src/components/drawer-menu.js" timestamp="1495476263418">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="83" column="15" />
         <mark key="." line="24" column="0" />
-        <mark key="^" line="24" column="3" />
       </file>
       <file name="$USER_HOME$/RealieApp/src/components/capture-button.js" timestamp="1492874439817">
         <mark key="'" line="21" column="0" />
@@ -1281,11 +1297,6 @@
         <mark key="." line="23" column="16" />
         <mark key="^" line="23" column="16" />
       </file>
-      <file name="$USER_HOME$/~working0/realie-app/android/app/src/main/java/com/realieapp/MainApplication.java" timestamp="1495242335262">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-      </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-decline-html-en.html" timestamp="1490109417341">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -1306,11 +1317,11 @@
         <mark key="." line="1" column="34" />
         <mark key="^" line="1" column="34" />
       </file>
-      <file name="$USER_HOME$/~working0/realie-app/package.json" timestamp="1495423439308">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/~working0/realie-app/package.json" timestamp="1495476777463">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/handlers/email-templates.handler.js" timestamp="1489971116497">
         <mark key="'" line="5" column="21" />
@@ -1465,51 +1476,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/~working0/realie-app/src/reducers/index.js" />
-      <jump line="210" column="45" filename="$USER_HOME$/~working0/realie-app/src/reducers/index.js" />
-      <jump line="177" column="20" filename="$USER_HOME$/~working0/realie-app/src/reducers/index.js" />
-      <jump line="183" column="48" filename="$USER_HOME$/~working0/realie-app/src/reducers/index.js" />
-      <jump line="184" column="45" filename="$USER_HOME$/~working0/realie-app/src/reducers/index.js" />
-      <jump line="202" column="10" filename="$USER_HOME$/~working0/realie-app/src/actions/index.js" />
-      <jump line="118" column="6" filename="$USER_HOME$/~working0/realie-app/src/actions/index.js" />
-      <jump line="214" column="0" filename="$USER_HOME$/~working0/realie-app/src/actions/index.js" />
-      <jump line="110" column="9" filename="$USER_HOME$/~working0/realie-app/src/screens/validation.js" />
-      <jump line="211" column="0" filename="$USER_HOME$/~working0/realie-app/src/reducers/index.js" />
-      <jump line="61" column="23" filename="$USER_HOME$/~working0/realie-app/src/data/pictures.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/~working0/realie-app/src/data/pictures.js" />
-      <jump line="23" column="7" filename="$USER_HOME$/~working0/realie-app/src/reducers/index.js" />
-      <jump line="86" column="12" filename="$USER_HOME$/~working0/realie-app/src/reducers/index.js" />
-      <jump line="75" column="6" filename="$USER_HOME$/~working0/realie-app/src/reducers/index.js" />
-      <jump line="157" column="28" filename="$USER_HOME$/~working0/realie-app/src/reducers/index.js" />
-      <jump line="19" column="42" filename="$USER_HOME$/~working0/realie-app/src/components/drawer-menu.js" />
-      <jump line="52" column="30" filename="$USER_HOME$/~working0/realie-app/src/components/drawer-menu.js" />
-      <jump line="14" column="0" filename="$USER_HOME$/~working0/realie-app/src/components/drawer-menu.js" />
-      <jump line="272" column="4" filename="$USER_HOME$/~working0/realie-app/src/actions/index.js" />
-      <jump line="278" column="18" filename="$USER_HOME$/~working0/realie-app/src/actions/index.js" />
-      <jump line="4" column="23" filename="$USER_HOME$/~working0/realie-app/src/components/drawer-menu.js" />
-      <jump line="351" column="43" filename="$USER_HOME$/~working0/realie-app/src/actions/index.js" />
-      <jump line="46" column="23" filename="$USER_HOME$/~working0/realie-app/src/actions/index.js" />
-      <jump line="49" column="9" filename="$USER_HOME$/~working0/realie-app/src/actions/index.js" />
-      <jump line="78" column="50" filename="$USER_HOME$/~working0/realie-app/src/actions/index.js" />
-      <jump line="104" column="42" filename="$USER_HOME$/~working0/realie-app/src/actions/index.js" />
-      <jump line="41" column="40" filename="$USER_HOME$/~working0/realie-app/android/app/src/main/AndroidManifest.xml" />
-      <jump line="54" column="86" filename="$USER_HOME$/~working0/realie-app/src/components/validation-preview.js" />
-      <jump line="39" column="78" filename="$USER_HOME$/~working0/realie-app/src/components/details-preview.js" />
-      <jump line="40" column="0" filename="$USER_HOME$/~working0/realie-app/src/components/details-preview.js" />
-      <jump line="3" column="0" filename="$USER_HOME$/~working0/realie-app/src/components/details-preview.js" />
-      <jump line="34" column="53" filename="$USER_HOME$/~working0/realie-app/src/components/details-preview.js" />
-      <jump line="45" column="70" filename="$USER_HOME$/~working0/realie-app/src/components/validation-preview.js" />
-      <jump line="52" column="67" filename="$USER_HOME$/~working0/realie-app/src/components/validation-preview.js" />
-      <jump line="44" column="73" filename="$USER_HOME$/~working0/realie-app/src/components/details-preview.js" />
-      <jump line="95" column="2" filename="$USER_HOME$/~working0/realie-app/src/screens/validation.js" />
-      <jump line="19" column="36" filename="$USER_HOME$/~working0/realie-app/src/data/pictures.js" />
-      <jump line="77" column="32" filename="$USER_HOME$/~working0/realie-app/src/data/pictures.js" />
-      <jump line="70" column="2" filename="$USER_HOME$/~working0/realie-app/src/actions/index.js" />
-      <jump line="95" column="0" filename="$USER_HOME$/~working0/realie-app/src/data/pictures.js" />
-      <jump line="300" column="0" filename="$USER_HOME$/~working0/realie-app/src/actions/index.js" />
-      <jump line="81" column="0" filename="$USER_HOME$/~working0/realie-app/src/actions/index.js" />
-      <jump line="355" column="0" filename="$USER_HOME$/~working0/realie-app/src/actions/index.js" />
-      <jump line="11" column="32" filename="$USER_HOME$/~working0/realie-app/src/components/metadata-details.js" />
       <jump line="13" column="20" filename="$USER_HOME$/~working0/realie-app/src/components/metadata-details.js" />
       <jump line="18" column="28" filename="$USER_HOME$/~working0/realie-app/src/components/metadata-details.js" />
       <jump line="19" column="0" filename="$USER_HOME$/~working0/realie-app/src/screens/loading.js" />
@@ -1565,6 +1531,51 @@
       <jump line="119" column="2" filename="$USER_HOME$/~working0/realie-app/src/components/metadata-details.js" />
       <jump line="121" column="20" filename="$USER_HOME$/~working0/realie-app/src/components/metadata-details.js" />
       <jump line="3008" column="16" filename="$USER_HOME$/~working0/realie-app/yarn.lock" />
+      <jump line="13" column="24" filename="$USER_HOME$/~working0/realie-app/src/navigation/main-stack.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/~working0/realie-app/src/navigation/main-stack.js" />
+      <jump line="18" column="22" filename="$USER_HOME$/~working0/realie-app/src/app.js" />
+      <jump line="11" column="22" filename="$USER_HOME$/~working0/realie-app/src/components/drawer-content.js" />
+      <jump line="1" column="23" filename="$USER_HOME$/~working0/realie-app/src/components/drawer-content.js" />
+      <jump line="22" column="35" filename="$USER_HOME$/~working0/realie-app/src/navigation/drawer.js" />
+      <jump line="22" column="54" filename="$USER_HOME$/~working0/realie-app/src/components/drawer-content.js" />
+      <jump line="14" column="19" filename="$USER_HOME$/~working0/realie-app/src/components/drawer-content.js" />
+      <jump line="28" column="0" filename="$USER_HOME$/~working0/realie-app/src/components/drawer-content.js" />
+      <jump line="5" column="35" filename="$USER_HOME$/~working0/realie-app/src/components/drawer-content.js" />
+      <jump line="29" column="29" filename="$USER_HOME$/~working0/realie-app/src/components/drawer-content.js" />
+      <jump line="38" column="21" filename="$USER_HOME$/~working0/realie-app/src/components/drawer-content.js" />
+      <jump line="12" column="0" filename="$USER_HOME$/~working0/realie-app/src/components/drawer-content.js" />
+      <jump line="26" column="48" filename="$USER_HOME$/~working0/realie-app/src/components/drawer-content.js" />
+      <jump line="7" column="9" filename="$USER_HOME$/~working0/realie-app/src/components/drawer-content.js" />
+      <jump line="38" column="2" filename="$USER_HOME$/~working0/realie-app/src/components/drawer-menu.js" />
+      <jump line="21" column="40" filename="$USER_HOME$/~working0/realie-app/src/components/drawer-content.js" />
+      <jump line="69" column="20" filename="$USER_HOME$/~working0/realie-app/src/components/drawer-menu.js" />
+      <jump line="20" column="15" filename="$USER_HOME$/~working0/realie-app/src/components/drawer-content.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/~working0/realie-app/src/components/drawer-content.js" />
+      <jump line="8" column="19" filename="$USER_HOME$/~working0/realie-app/src/components/drawer/header.js" />
+      <jump line="14" column="31" filename="$USER_HOME$/~working0/realie-app/src/components/drawer/header.js" />
+      <jump line="20" column="34" filename="$USER_HOME$/~working0/realie-app/src/components/drawer/index.js" />
+      <jump line="6" column="6" filename="$USER_HOME$/~working0/realie-app/src/components/drawer/index.js" />
+      <jump line="7" column="30" filename="$USER_HOME$/~working0/realie-app/src/navigation/drawer.js" />
+      <jump line="18" column="12" filename="$USER_HOME$/~working0/realie-app/src/components/drawer/index.js" />
+      <jump line="59" column="0" filename="$USER_HOME$/~working0/realie-app/src/components/drawer/index.js" />
+      <jump line="17" column="21" filename="$USER_HOME$/~working0/realie-app/src/app.js" />
+      <jump line="25" column="17" filename="$USER_HOME$/~working0/realie-app/src/components/drawer/index.js" />
+      <jump line="50" column="8" filename="$USER_HOME$/~working0/realie-app/src/components/drawer-menu.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/~working0/realie-app/src/components/drawer-menu.js" />
+      <jump line="3" column="0" filename="$USER_HOME$/~working0/realie-app/src/components/drawer/menu.js" />
+      <jump line="4" column="9" filename="$USER_HOME$/~working0/realie-app/src/components/drawer/menu.js" />
+      <jump line="60" column="20" filename="$USER_HOME$/~working0/realie-app/src/components/drawer/menu.js" />
+      <jump line="13" column="0" filename="$USER_HOME$/~working0/realie-app/package.json" />
+      <jump line="2989" column="0" filename="$USER_HOME$/~working0/realie-app/yarn.lock" />
+      <jump line="3001" column="13" filename="$USER_HOME$/~working0/realie-app/yarn.lock" />
+      <jump line="3003" column="92" filename="$USER_HOME$/~working0/realie-app/yarn.lock" />
+      <jump line="3005" column="17" filename="$USER_HOME$/~working0/realie-app/yarn.lock" />
+      <jump line="3007" column="13" filename="$USER_HOME$/~working0/realie-app/yarn.lock" />
+      <jump line="3009" column="83" filename="$USER_HOME$/~working0/realie-app/yarn.lock" />
+      <jump line="3013" column="13" filename="$USER_HOME$/~working0/realie-app/yarn.lock" />
+      <jump line="3015" column="76" filename="$USER_HOME$/~working0/realie-app/yarn.lock" />
+      <jump line="3153" column="17" filename="$USER_HOME$/~working0/realie-app/yarn.lock" />
+      <jump line="13" column="54" filename="$USER_HOME$/~working0/realie-app/src/components/drawer/index.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1585,71 +1596,59 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGFsZXJ0KHRoaXMucHJvcHMubmF2aWdhdGlvbikK</text>
+        <text encoding="base64">ICBzdGF0aWMgbmF2aWdhdGlvbk9wdGlvbnMgPSB7CiAgICBoZWFkZXJWaXNpYmxlOiBmYWxzZQogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>navigator</text>
+        <text>login</text>
       </register>
       <register name="/" type="4">
-        <text>accordion</text>
+        <text>gin</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8TWF0ZXJpYWxJY29uCiAgICAgICAgICBuYW1lPSJzaGFyZSIKICAgICAgICAgIHNpemU9ezI0fQogICAgICAgICAgb25QcmVzcz17dGhpcy5fb25TaGFyZS5iaW5kKHRoaXMpfQogICAgICAgICAgLz4K</text>
+        <text encoding="base64">ICBzdGF0aWMgbmF2aWdhdGlvbk9wdGlvbnMgPSB7CiAgICBoZWFkZXJWaXNpYmxlOiBmYWxzZQogIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFsZXJ0KHRoaXMucHJvcHMubmF2aWdhdGlvbikK</text>
+        <text encoding="base64">cmVhY3QtbmF0aXZlLWRyYXdlckBeMi4zLjA6CiAgdmVyc2lvbiAiMi4zLjAiCiAgcmVzb2x2ZWQgImh0dHBzOi8vcmVnaXN0cnkueWFybnBrZy5jb20vcmVhY3QtbmF0aXZlLWRyYXdlci8tL3JlYWN0LW5hdGl2ZS1kcmF3ZXItMi4zLjAudGd6I2EwMzY5ZWM4MGZmMGI2MWM5ZjE1MmRiZGVhOTFmZTc2Yzg0MzExM2EiCiAgZGVwZW5kZW5jaWVzOgogICAgdHdlZW4tZnVuY3Rpb25zICJeMS4wLjEiCgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cmVhY3QtbmF0aXZlLWFjY29yZGlvbkBeMS4wLjE6CiAgdmVyc2lvbiAiMS4wLjEiCiAgcmVzb2x2ZWQgImh0dHBzOi8vcmVnaXN0cnkueWFybnBrZy5jb20vcmVhY3QtbmF0aXZlLWFjY29yZGlvbi8tL3JlYWN0LW5hdGl2ZS1hY2NvcmRpb24tMS4wLjEudGd6IzEwODZhYzAxMmI5ZDdjOTBjZDFlZmQwMTRmMjgwNGJhYTE2YTFmNWIiCiAgZGVwZW5kZW5jaWVzOgogICAgcmVhY3QtdHdlZW4tc3RhdGUgIjAuMC41IgoK</text>
+        <text encoding="base64">CQkicmVhY3QtbmF0aXZlLWRyYXdlciI6ICJeMi4zLjAiLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkicmVhY3QtbmF0aXZlLWFjY29yZGlvbiI6ICJeMS4wLjEiLAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIGFzcGVjdFJhdGlvOiAxLjc1LAo=</text>
+        <text encoding="base64">ICAgIHBhZGRpbmdMZWZ0OiAyMCwKICAgIHBhZGRpbmdUb3A6IDUsCiAgICBwYWRkaW5nQm90dG9tOiA1LAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZsZXg6IDEK</text>
+        <text encoding="base64">ICAgIHBhZGRpbmdMZWZ0OiAyMCwKICAgIHBhZGRpbmdUb3A6IDUsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZsZXg6IDEK</text>
+        <text encoding="base64">ICBsb2dvOiB7CiAgICBmb250U3R5bGU6ICdpdGFsaWMnLAogICAgZm9udFdlaWdodDogJ2JvbGQnLAogICAgZm9udFNpemU6IDI0LAogICAgY29sb3I6IHRoZW1lLmNvbG9ycy5icmFuZGluZy5wcmltYXJ5LAogICAgdGV4dEFsaWduOiAnY2VudGVyJywKICAgIHBhZGRpbmdUb3A6IDIwLAogICAgcGFkZGluZ0JvdHRvbTogMjAKICB9LAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGhlaWdodDogMjAwCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8VGV4dCBzdHlsZT17c3R5bGVzLnRleHR9PlJlYWxpZTwvVGV4dD4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICByb3c6IHsKICAgIG1hcmdpbkJvdHRvbTogMTAsCiAgICBmbGV4RGlyZWN0aW9uOiAncm93JwogIH0sCgo=</text>
+        <text encoding="base64">ICAgICAgICA8VGV4dCBzdHlsZT17c3R5bGVzLmxvZ299Pntjb25zdGFudHMuc3RyaW5ncy5hcHBOYW1lfTwvVGV4dD4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>accordion</last-search>
+      <last-search>gin</last-search>
       <last-offset />
-      <last-pattern>accordion</last-pattern>
+      <last-pattern>gin</last-pattern>
       <last-replace>alignItems</last-replace>
       <last-substitute encoding="base64">XDxwaWN0dXJlc0J5UmVhbGllSWRcPg==</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>MapView</entry>
-        <entry encoding="base64">XDxNYXBWaWV3XD4=</entry>
-        <entry>application</entry>
-        <entry>&quot;</entry>
-        <entry>maps</entry>
-        <entry>AirMap</entry>
-        <entry>,</entry>
-        <entry>(</entry>
-        <entry>R</entry>
-        <entry>Pre</entry>
-        <entry>)</entry>
-        <entry>Share</entry>
         <entry encoding="base64">PA==</entry>
         <entry>green</entry>
         <entry>pink</entry>
@@ -1658,6 +1657,18 @@
         <entry encoding="base64">XDxyb3dQcm9wZXJ0eVw+</entry>
         <entry encoding="base64">XDxyb3dcPg==</entry>
         <entry>accordion</entry>
+        <entry encoding="base64">IA==</entry>
+        <entry>To</entry>
+        <entry>Log</entry>
+        <entry>Go</entry>
+        <entry>C</entry>
+        <entry>Con</entry>
+        <entry>L</entry>
+        <entry>Home</entry>
+        <entry>with</entry>
+        <entry encoding="base64">XDx3aXRoTmF2aWdhdGlvblw+</entry>
+        <entry>drawer</entry>
+        <entry>gin</entry>
       </history-search>
       <history-cmd>
         <entry>39</entry>
