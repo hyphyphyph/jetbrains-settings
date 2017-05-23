@@ -695,12 +695,12 @@
         <mark key="." line="109" column="30" />
         <mark key="^" line="109" column="30" />
       </file>
-      <file name="$USER_HOME$/~working0/realie-app/src/screens/view-picture.js" timestamp="1495572081465">
+      <file name="$USER_HOME$/~working0/realie-app/src/screens/view-picture.js" timestamp="1495577181020">
         <mark key="'" line="120" column="3" />
-        <mark key="[" line="162" column="24" />
-        <mark key="]" line="163" column="19" />
-        <mark key="." line="163" column="19" />
-        <mark key="^" line="163" column="19" />
+        <mark key="[" line="60" column="46" />
+        <mark key="]" line="60" column="49" />
+        <mark key="." line="60" column="49" />
+        <mark key="^" line="60" column="49" />
       </file>
       <file name="$USER_HOME$/~working0/c2/invite-api/src/modules/user/handlers/me.handler.js" timestamp="1491590643352">
         <mark key="[" line="45" column="32" />
@@ -1607,11 +1607,11 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgVmVjdG9ySWNvbnNQYWNrYWdlKCksCg==</text>
+      <register name="&quot;" type="4">
+        <text>medium</text>
       </register>
       <register name="-" type="4">
-        <text>maps</text>
+        <text>medium</text>
       </register>
       <register name="/" type="4">
         <text>Air</text>
