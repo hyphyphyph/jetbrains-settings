@@ -735,12 +735,12 @@
         <mark key="." line="7" column="25" />
         <mark key="^" line="7" column="25" />
       </file>
-      <file name="$USER_HOME$/~working0/realie-app/src/screens/capture.js" timestamp="1495654156190">
-        <mark key="'" line="235" column="18" />
-        <mark key="[" line="255" column="25" />
-        <mark key="]" line="255" column="26" />
-        <mark key="." line="255" column="26" />
-        <mark key="^" line="266" column="14" />
+      <file name="$USER_HOME$/~working0/realie-app/src/screens/capture.js" timestamp="1495657810697">
+        <mark key="'" line="172" column="28" />
+        <mark key="[" line="174" column="6" />
+        <mark key="]" line="174" column="6" />
+        <mark key="." line="174" column="6" />
+        <mark key="^" line="174" column="6" />
       </file>
       <file name="$USER_HOME$/~working0/c2/invite-api/src/models/user.model.js" timestamp="1491934630996">
         <mark key="'" line="2" column="7" />
@@ -1518,8 +1518,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="2" filename="$USER_HOME$/~working0/realie-app/src/components/drawer-menu.js" />
-      <jump line="21" column="40" filename="$USER_HOME$/~working0/realie-app/src/components/drawer-content.js" />
       <jump line="69" column="20" filename="$USER_HOME$/~working0/realie-app/src/components/drawer-menu.js" />
       <jump line="20" column="15" filename="$USER_HOME$/~working0/realie-app/src/components/drawer-content.js" />
       <jump line="0" column="0" filename="$USER_HOME$/~working0/realie-app/src/components/drawer-content.js" />
@@ -1618,6 +1616,8 @@
       <jump line="6" column="0" filename="$USER_HOME$/~working0/realie-app/android/app/src/main/java/com/realieapp/MainApplication.java" />
       <jump line="72" column="39" filename="$USER_HOME$/~working0/realie-app/src/screens/edit-details.js" />
       <jump line="135" column="1" filename="$USER_HOME$/~working0/realie-app/android/app/build.gradle" />
+      <jump line="190" column="71" filename="$USER_HOME$/~working0/realie-app/src/screens/capture.js" />
+      <jump line="172" column="28" filename="$USER_HOME$/~working0/realie-app/src/screens/capture.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1637,53 +1637,55 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="8">
+        <text>viewfinder
+viewfinder</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>Viewfinder</text>
       </register>
       <register name="/" type="4">
-        <text>signing</text>
+        <text>C</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgcHJvamVjdCgnOnJlYWN0LW5hdGl2ZS1tYXBzJykK</text>
+        <text encoding="base64">ICAgICAgdmlld2ZpbmRlcldpZHRoOiBldi5uYXRpdmVFdmVudC5sYXlvdXQud2lkdGgsCiAgICAgIHZpZXdmaW5kZXJIZWlnaHQ6IGV2Lm5hdGl2ZUV2ZW50LmxheW91dC5oZWlnaHQK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIGZsZXg6IDEsCiAgICAvLyAvLyBtYXhIZWlnaHQ6IDIwMCwKICAgIC8vIG1pbkhlaWdodDogMTAwLAo=</text>
+      <register name="1" type="8">
+        <text>viewfinder
+viewfinder</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGFsaWduSXRlbXM6ICdjZW50ZXInCg==</text>
+        <text encoding="base64">ICAgICAgY29udGFpbmVyV2lkdGg6IAo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>Viewfinder</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGJhY2tncm91bmRDb2xvcjogJ3JlZCcK</text>
+        <text encoding="base64">ICAgIGFsZXJ0KHRoaXMuc3RhdGUudmlld2ZpbmRlckhlaWdodCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHVzZXI6IHN0YXRlLmN1cnJlbnRVc2VyLnVzZXIsCiAgICBzb3VyY2U6IHN0YXRlLmFjdGl2ZVBpY3R1cmUubG9jYWxVcmksCiAgICBwaWN0dXJlOiBzdGF0ZS5hY3RpdmVQaWN0dXJlLnBpY3R1cmUK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHN0eWxlcy5idXR0b25zQ29udGFpbmVyLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNhcHRpb246IHN0YXRlLmFjdGl2ZVBpY3R1cmUuY2FwdGlvbgo=</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICAgIGhlaWdodDogRGltZW5zaW9ucy5nZXQoJ3dpbmRvdycpIC0gdGhpcy5zdGF0ZS52aWV3ZmluZGVySGVpZ2h0CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW5jbHVkZSAnOnJlYWN0LW5hdGl2ZS1jYW1lcmEnCnByb2plY3QoJzpyZWFjdC1uYXRpdmUtY2FtZXJhJykucHJvamVjdERpciA9IG5ldyBGaWxlKHJvb3RQcm9qZWN0LnByb2plY3REaXIsICcuLi9ub2RlX21vZHVsZXMvcmVhY3QtbmF0aXZlLWNhbWVyYS9hbmRyb2lkJykK</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>signing</last-search>
+      <last-search>C</last-search>
       <last-offset />
-      <last-pattern>signing</last-pattern>
+      <last-pattern>C</last-pattern>
       <last-replace>alignItems</last-replace>
       <last-substitute encoding="base64">XDxwaWN0dXJlc0J5UmVhbGllSWRcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1691,7 +1693,6 @@
     </search>
     <history>
       <history-search>
-        <entry>styles = \</entry>
         <entry>styles</entry>
         <entry>St</entry>
         <entry>Botto</entry>
@@ -1703,7 +1704,6 @@
         <entry>750</entry>
         <entry>Icon</entry>
         <entry>Air</entry>
-        <entry>C</entry>
         <entry>Activity</entry>
         <entry encoding="base64">XDxBY3Rpdml0eUluZGljYXRvclw+</entry>
         <entry>const</entry>
@@ -1711,6 +1711,8 @@
         <entry>source</entry>
         <entry>defaultConfig</entry>
         <entry>signing</entry>
+        <entry>V</entry>
+        <entry>C</entry>
       </history-search>
       <history-cmd>
         <entry>44</entry>
@@ -1726,12 +1728,12 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>ww</entry>
         <entry>14</entry>
-        <entry>.w</entry>
         <entry>:w</entry>
         <entry>Lw</entry>
         <entry>&quot;W</entry>
         <entry>e</entry>
         <entry>51</entry>
+        <entry>.w</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
