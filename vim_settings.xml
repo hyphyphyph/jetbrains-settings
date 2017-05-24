@@ -179,12 +179,12 @@
         <mark key="." line="147" column="29" />
         <mark key="^" line="147" column="29" />
       </file>
-      <file name="$USER_HOME$/~working0/realie-app/src/components/shutter-button.js" timestamp="1495575023783">
-        <mark key="'" line="55" column="4" />
-        <mark key="[" line="42" column="41" />
-        <mark key="]" line="42" column="53" />
-        <mark key="." line="42" column="53" />
-        <mark key="^" line="42" column="53" />
+      <file name="$USER_HOME$/~working0/realie-app/src/components/shutter-button.js" timestamp="1495638201400">
+        <mark key="'" line="54" column="4" />
+        <mark key="[" line="41" column="29" />
+        <mark key="]" line="41" column="40" />
+        <mark key="." line="41" column="40" />
+        <mark key="^" line="41" column="40" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-decline-html-fr.html" timestamp="1490109387279">
         <mark key="[" line="9" column="0" />
@@ -1608,10 +1608,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>medium</text>
+        <text>ThreeBounce</text>
       </register>
       <register name="-" type="4">
-        <text>medium</text>
+        <text>ThreeBounce</text>
       </register>
       <register name="/" type="4">
         <text>Air</text>
@@ -1620,31 +1620,31 @@
         <text encoding="base64">ICAgIGNvbXBpbGUgcHJvamVjdCgnOnJlYWN0LW5hdGl2ZS1tYXBzJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgVmVjdG9ySWNvbnNQYWNrYWdlKCksCg==</text>
+        <text encoding="base64">ICBBY3Rpdml0eUluZGljYXRvciwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgUk5GZXRjaEJsb2JQYWNrYWdlKCksCg==</text>
+        <text encoding="base64">ICAgICAgICBuZXcgVmVjdG9ySWNvbnNQYWNrYWdlKCksCg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBuZXcgUk5GZXRjaEJsb2JQYWNrYWdlKCksCg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBuZXcgUkNUQ2FtZXJhUGFja2FnZSgpLAo=</text>
       </register>
-      <register name="4" type="8">
+      <register name="5" type="8">
         <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
       </register>
-      <register name="5" type="8">
+      <register name="6" type="8">
         <text encoding="base64">ICAKICAKICAKICAKICAKICAKICA=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbmV3IE1hcHNQYWNrYWdlKCksCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">aW1wb3J0IEZvbnRBd2Vzb21lSWNvbiBmcm9tICdyZWFjdC1uYXRpdmUtdmVjdG9yLWljb25zL0ZvbnRBd2Vzb21lJwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBjb21wb25lbnREaWRNb3VudCgpIHsKICAgIGFsZXJ0KDEyMjMpCiAgfQoK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGJvcmRlclRvcFdpZHRoOiA0LAo=</text>
+        <text encoding="base64">ICBjb21wb25lbnREaWRNb3VudCgpIHsKICAgIGFsZXJ0KDEyMjMpCiAgfQoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
