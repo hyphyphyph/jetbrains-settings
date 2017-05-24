@@ -179,12 +179,12 @@
         <mark key="." line="147" column="29" />
         <mark key="^" line="147" column="29" />
       </file>
-      <file name="$USER_HOME$/~working0/realie-app/src/components/shutter-button.js" timestamp="1495638201400">
-        <mark key="'" line="54" column="4" />
+      <file name="$USER_HOME$/~working0/realie-app/src/components/shutter-button.js" timestamp="1495639427816">
+        <mark key="'" line="53" column="4" />
         <mark key="[" line="41" column="29" />
-        <mark key="]" line="41" column="40" />
-        <mark key="." line="41" column="40" />
-        <mark key="^" line="41" column="40" />
+        <mark key="]" line="41" column="33" />
+        <mark key="." line="41" column="33" />
+        <mark key="^" line="41" column="33" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-decline-html-fr.html" timestamp="1490109387279">
         <mark key="[" line="9" column="0" />
@@ -1608,10 +1608,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>ThreeBounce</text>
+        <text>FadingCircleAlt</text>
       </register>
       <register name="-" type="4">
-        <text>ThreeBounce</text>
+        <text>FadingCircleAlt</text>
       </register>
       <register name="/" type="4">
         <text>Air</text>
