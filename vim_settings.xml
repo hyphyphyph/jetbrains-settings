@@ -73,12 +73,12 @@
         <mark key="]" line="69" column="0" />
         <mark key="." line="69" column="0" />
       </file>
-      <file name="$USER_HOME$/~working0/realie-app/src/actions/index.js" timestamp="1495298261998">
-        <mark key="'" line="366" column="13" />
-        <mark key="[" line="371" column="13" />
-        <mark key="]" line="371" column="19" />
-        <mark key="." line="371" column="19" />
-        <mark key="^" line="371" column="19" />
+      <file name="$USER_HOME$/~working0/realie-app/src/actions/index.js" timestamp="1495662971292">
+        <mark key="'" line="328" column="0" />
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="86" column="0" />
+        <mark key="." line="86" column="0" />
+        <mark key="^" line="84" column="28" />
       </file>
       <file name="$USER_HOME$/RealieApp/src/theme/colors.js" timestamp="1492878611533">
         <mark key="[" line="2" column="19" />
@@ -1517,7 +1517,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/~working0/realie-app/src/components/drawer-content.js" />
       <jump line="8" column="19" filename="$USER_HOME$/~working0/realie-app/src/components/drawer/header.js" />
       <jump line="14" column="31" filename="$USER_HOME$/~working0/realie-app/src/components/drawer/header.js" />
       <jump line="20" column="34" filename="$USER_HOME$/~working0/realie-app/src/components/drawer/index.js" />
@@ -1617,6 +1616,7 @@
       <jump line="116" column="14" filename="$USER_HOME$/~working0/realie-app/src/screens/validation.js" />
       <jump line="12" column="11" filename="$USER_HOME$/~working0/realie-app/src/screens/validation.js" />
       <jump line="122" column="14" filename="$USER_HOME$/~working0/realie-app/src/screens/validation.js" />
+      <jump line="328" column="0" filename="$USER_HOME$/~working0/realie-app/src/actions/index.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1636,53 +1636,53 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>222</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBhbGVydChib2R5KQo=</text>
       </register>
       <register name="-" type="4">
-        <text>222</text>
+        <text>text</text>
       </register>
       <register name="/" type="4">
-        <text>C</text>
+        <text>CameraRoll</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBfbWVhc3VyZURldGFpbHNDb250YWluZXIoZXYpIHsKICAgIHRoaXMuc2V0U3RhdGUoewogICAgICBkZXRhaWxzQ29udGFpbmVySGVpZ2h0OiBldi5uYXRpdmVFdmVudC5sYXlvdXQuaGVpZ2h0CiAgICB9KQogIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGJvcmRlclRvcFdpZHRoOiA1LAogICAgYm9yZGVyVG9wQ29sb3I6ICcjZmZmJwo=</text>
+        <text encoding="base64">ICAgICAgICBhbGVydChib2R5KQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGJvcmRlcgo=</text>
+        <text encoding="base64">ICAgICAgLmNhdGNoKGVyciA9PiB7CiAgICAgICAgYWxlcnQoZXJyKQogICAgICB9KQo=</text>
       </register>
-      <register name="3" type="4">
-        <text>details</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgLnRoZW4ocmVzID0+IHJlcy4pCg==</text>
       </register>
-      <register name="4" type="4">
-        <text>Details</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGJvcmRlclRvcFdpZHRoOiA1LAogICAgYm9yZGVyVG9wQ29sb3I6ICcjZmZmJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICBoZWlnaHQ6IHRoaXMuc3RhdGUuaW1hZ2VDb250YWluZXJIZWlnaHQgKyB0aGlzLnN0YXRlLmRldGFpbHNDb250YWluZXJIZWlnaHQKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGJvcmRlcgo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGJhY2tncm91bmRDb2xvcjogJyNmZmYnCg==</text>
+      <register name="6" type="4">
+        <text>details</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGJhY2tncm91bmRDb2xvcjogJyNmZmYnCg==</text>
+      <register name="7" type="4">
+        <text>Details</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGJhY2tncm91bmRDb2xvcjogJ3JlZCcK</text>
+        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICBoZWlnaHQ6IHRoaXMuc3RhdGUuaW1hZ2VDb250YWluZXJIZWlnaHQgKyB0aGlzLnN0YXRlLmRldGFpbHNDb250YWluZXJIZWlnaHQKICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFsZXJ0KHRoaXMuc3RhdGUuaW1hZ2VDb250YWluZXJIZWlnaHQpCgo=</text>
+        <text encoding="base64">ICAgIGJhY2tncm91bmRDb2xvcjogJyNmZmYnCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>C</last-search>
+      <last-search>CameraRoll</last-search>
       <last-offset />
-      <last-pattern>C</last-pattern>
+      <last-pattern>CameraRoll</last-pattern>
       <last-replace>alignItems</last-replace>
       <last-substitute encoding="base64">XDxwaWN0dXJlc0J5UmVhbGllSWRcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1690,7 +1690,6 @@
     </search>
     <history>
       <history-search>
-        <entry>,</entry>
         <entry>W</entry>
         <entry>Right</entry>
         <entry>TOp</entry>
@@ -1710,6 +1709,7 @@
         <entry>120</entry>
         <entry>blue</entry>
         <entry>C</entry>
+        <entry>CameraRoll</entry>
       </history-search>
       <history-cmd>
         <entry>44</entry>
