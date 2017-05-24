@@ -988,8 +988,12 @@
         <mark key="." line="124" column="37" />
         <mark key="^" line="124" column="37" />
       </file>
-      <file name="$USER_HOME$/~working0/realie-app/android/app/build.gradle" timestamp="1495576177067">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/~working0/realie-app/android/app/build.gradle" timestamp="1495643753594">
+        <mark key="'" line="146" column="1" />
+        <mark key="[" line="120" column="12" />
+        <mark key="]" line="120" column="48" />
+        <mark key="^" line="120" column="11" />
+        <mark key="." line="120" column="12" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-partner-unknown-action-html-fr.html" timestamp="1490294479633">
         <mark key="[" line="15" column="24" />
@@ -1555,7 +1559,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="9" filename="$USER_HOME$/~working0/realie-app/src/components/drawer-content.js" />
       <jump line="38" column="2" filename="$USER_HOME$/~working0/realie-app/src/components/drawer-menu.js" />
       <jump line="21" column="40" filename="$USER_HOME$/~working0/realie-app/src/components/drawer-content.js" />
       <jump line="69" column="20" filename="$USER_HOME$/~working0/realie-app/src/components/drawer-menu.js" />
@@ -1655,6 +1658,7 @@
       <jump line="38" column="0" filename="$USER_HOME$/~working0/realie-app/android/app/src/main/java/com/realieapp/MainApplication.java" />
       <jump line="6" column="0" filename="$USER_HOME$/~working0/realie-app/android/app/src/main/java/com/realieapp/MainApplication.java" />
       <jump line="72" column="39" filename="$USER_HOME$/~working0/realie-app/src/screens/edit-details.js" />
+      <jump line="135" column="1" filename="$USER_HOME$/~working0/realie-app/android/app/build.gradle" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1681,7 +1685,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>source</text>
+        <text>signing</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbXBpbGUgcHJvamVjdCgnOnJlYWN0LW5hdGl2ZS1tYXBzJykK</text>
@@ -1718,9 +1722,9 @@
       </register>
     </registers>
     <search>
-      <last-search>source</last-search>
+      <last-search>signing</last-search>
       <last-offset />
-      <last-pattern>source</last-pattern>
+      <last-pattern>signing</last-pattern>
       <last-replace>alignItems</last-replace>
       <last-substitute encoding="base64">XDxwaWN0dXJlc0J5UmVhbGllSWRcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1728,8 +1732,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxoZWFkZXJcPg==</entry>
-        <entry>header</entry>
         <entry>styles = \</entry>
         <entry>styles</entry>
         <entry>St</entry>
@@ -1748,6 +1750,8 @@
         <entry>const</entry>
         <entry>Spin</entry>
         <entry>source</entry>
+        <entry>defaultConfig</entry>
+        <entry>signing</entry>
       </history-search>
       <history-cmd>
         <entry>44</entry>
