@@ -1,6 +1,0 @@
-<application>
-  <component name="NotificationConfiguration">
-    <notification groupId="File Watcher Messages" displayType="NONE" shouldLog="false" />
-    <notification groupId="Optimizer for IntelliJ" displayType="NONE" />
-  </component>
-</application>
