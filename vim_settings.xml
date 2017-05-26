@@ -735,12 +735,12 @@
         <mark key="." line="7" column="25" />
         <mark key="^" line="7" column="25" />
       </file>
-      <file name="$USER_HOME$/~working0/realie-app/src/screens/capture.js" timestamp="1495752442381">
-        <mark key="'" line="165" column="28" />
-        <mark key="[" line="177" column="12" />
-        <mark key="]" line="178" column="39" />
-        <mark key="^" line="178" column="39" />
-        <mark key="." line="178" column="39" />
+      <file name="$USER_HOME$/~working0/realie-app/src/screens/capture.js" timestamp="1495809966209">
+        <mark key="'" line="165" column="0" />
+        <mark key="[" line="194" column="25" />
+        <mark key="]" line="194" column="25" />
+        <mark key="." line="194" column="25" />
+        <mark key="^" line="194" column="25" />
       </file>
       <file name="$USER_HOME$/~working0/c2/invite-api/src/models/user.model.js" timestamp="1491934630996">
         <mark key="'" line="2" column="7" />
@@ -1527,9 +1527,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="31" filename="$USER_HOME$/~working0/realie-app/src/components/drawer/header.js" />
-      <jump line="20" column="34" filename="$USER_HOME$/~working0/realie-app/src/components/drawer/index.js" />
-      <jump line="6" column="6" filename="$USER_HOME$/~working0/realie-app/src/components/drawer/index.js" />
       <jump line="7" column="30" filename="$USER_HOME$/~working0/realie-app/src/navigation/drawer.js" />
       <jump line="18" column="12" filename="$USER_HOME$/~working0/realie-app/src/components/drawer/index.js" />
       <jump line="59" column="0" filename="$USER_HOME$/~working0/realie-app/src/components/drawer/index.js" />
@@ -1627,6 +1624,9 @@
       <jump line="122" column="14" filename="$USER_HOME$/~working0/realie-app/src/screens/validation.js" />
       <jump line="328" column="0" filename="$USER_HOME$/~working0/realie-app/src/actions/index.js" />
       <jump line="220" column="0" filename="$USER_HOME$/~working0/realie-app/src/reducers/index.js" />
+      <jump line="182" column="52" filename="$USER_HOME$/~working0/realie-app/src/screens/capture.js" />
+      <jump line="183" column="36" filename="$USER_HOME$/~working0/realie-app/src/screens/capture.js" />
+      <jump line="165" column="0" filename="$USER_HOME$/~working0/realie-app/src/screens/capture.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1647,52 +1647,52 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhbGVydChib2R5KQo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>text</text>
+        <text>ev.nativeEvent.layout.height</text>
       </register>
       <register name="/" type="4">
-        <text>UPLOAD</text>
+        <text>Con</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBfbWVhc3VyZURldGFpbHNDb250YWluZXIoZXYpIHsKICAgIHRoaXMuc2V0U3RhdGUoewogICAgICBkZXRhaWxzQ29udGFpbmVySGVpZ2h0OiBldi5uYXRpdmVFdmVudC5sYXlvdXQuaGVpZ2h0CiAgICB9KQogIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhbGVydChib2R5KQo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICBfbWVhc3VyZVZpZXdmaW5kZXJDb250YWluZXIoZXYpIHsKICAgIHRoaXMuc2V0U3RhdGUoewogICAgICB2aWV3ZmluZGVySGVpZ2h0OiBldi5uYXRpdmVFdmVudC5sYXlvdXQuaGVpZ2h0CiAgICB9KQogIH0KCg==</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">IG9uTGF5b3V0PXt0aGlzLl9tZWFzdXJlVmlld2ZpbmRlckNvbnRhaW5lci5iaW5kKHRoaXMpfQ==</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">IHJlZj0iY29udGFpbmVyIg==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">IG9uTGF5b3V0PXt0aGlzLl9tZWFzdXJlQ29udGFpbmVyLmJpbmQodGhpcyl9</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBhbGVydChib2R5KQo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgLmNhdGNoKGVyciA9PiB7CiAgICAgICAgYWxlcnQoZXJyKQogICAgICB9KQo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgLnRoZW4ocmVzID0+IHJlcy4pCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGJvcmRlclRvcFdpZHRoOiA1LAogICAgYm9yZGVyVG9wQ29sb3I6ICcjZmZmJwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGJvcmRlcgo=</text>
-      </register>
-      <register name="6" type="4">
-        <text>details</text>
-      </register>
-      <register name="7" type="4">
-        <text>Details</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICBoZWlnaHQ6IHRoaXMuc3RhdGUuaW1hZ2VDb250YWluZXJIZWlnaHQgKyB0aGlzLnN0YXRlLmRldGFpbHNDb250YWluZXJIZWlnaHQKICAgICAgICB9Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGJhY2tncm91bmRDb2xvcjogJyNmZmYnCg==</text>
+        <text encoding="base64">ICAgIGJvcmRlclRvcFdpZHRoOiA1LAogICAgYm9yZGVyVG9wQ29sb3I6ICcjZmZmJwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>UPLOAD</last-search>
+      <last-search>Con</last-search>
       <last-offset />
-      <last-pattern>UPLOAD</last-pattern>
+      <last-pattern>Con</last-pattern>
       <last-replace>alignItems</last-replace>
       <last-substitute encoding="base64">XDxwaWN0dXJlc0J5UmVhbGllSWRcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1700,9 +1700,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Right</entry>
-        <entry>TOp</entry>
-        <entry>Top</entry>
         <entry>750</entry>
         <entry>Icon</entry>
         <entry>Air</entry>
@@ -1720,6 +1717,9 @@
         <entry>C</entry>
         <entry>CameraRoll</entry>
         <entry>UPLOAD</entry>
+        <entry encoding="base64">IA==</entry>
+        <entry encoding="base64">Pg==</entry>
+        <entry>Con</entry>
       </history-search>
       <history-cmd>
         <entry>44</entry>
