@@ -73,12 +73,12 @@
         <mark key="]" line="69" column="0" />
         <mark key="." line="69" column="0" />
       </file>
-      <file name="$USER_HOME$/~working0/realie-app/src/actions/index.js" timestamp="1495662971292">
-        <mark key="'" line="328" column="0" />
-        <mark key="[" line="86" column="0" />
-        <mark key="]" line="86" column="0" />
-        <mark key="." line="86" column="0" />
-        <mark key="^" line="84" column="28" />
+      <file name="$USER_HOME$/~working0/realie-app/src/actions/index.js" timestamp="1495820609543">
+        <mark key="'" line="377" column="34" />
+        <mark key="[" line="377" column="10" />
+        <mark key="]" line="377" column="10" />
+        <mark key="." line="377" column="10" />
+        <mark key="^" line="377" column="10" />
       </file>
       <file name="$USER_HOME$/RealieApp/src/theme/colors.js" timestamp="1492878611533">
         <mark key="[" line="2" column="19" />
@@ -735,12 +735,11 @@
         <mark key="." line="7" column="25" />
         <mark key="^" line="7" column="25" />
       </file>
-      <file name="$USER_HOME$/~working0/realie-app/src/screens/capture.js" timestamp="1495818605183">
-        <mark key="'" line="42" column="52" />
-        <mark key="[" line="321" column="0" />
-        <mark key="]" line="323" column="20" />
-        <mark key="^" line="229" column="34" />
-        <mark key="." line="229" column="34" />
+      <file name="$USER_HOME$/~working0/realie-app/src/screens/capture.js" timestamp="1495819840580">
+        <mark key="'" line="239" column="16" />
+        <mark key="[" line="215" column="0" />
+        <mark key="]" line="218" column="8" />
+        <mark key="." line="215" column="0" />
       </file>
       <file name="$USER_HOME$/~working0/c2/invite-api/src/models/user.model.js" timestamp="1491934630996">
         <mark key="'" line="2" column="7" />
@@ -1034,8 +1033,11 @@
         <mark key="." line="162" column="38" />
         <mark key="^" line="162" column="38" />
       </file>
-      <file name="$USER_HOME$/~working0/realie-app/src/reducers/index.js" timestamp="1495764698315">
-        <mark key="'" line="220" column="0" />
+      <file name="$USER_HOME$/~working0/realie-app/src/reducers/index.js" timestamp="1495820648178">
+        <mark key="'" line="19" column="0" />
+        <mark key="[" line="231" column="0" />
+        <mark key="]" line="242" column="10" />
+        <mark key="." line="231" column="0" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-auto-accept-html-fr.html" timestamp="1490109453023">
         <mark key="[" line="9" column="0" />
@@ -1473,11 +1475,12 @@
         <mark key="^" line="60" column="30" />
         <mark key="." line="60" column="30" />
       </file>
-      <file name="$USER_HOME$/~working0/realie-app/src/screens/validation.js" timestamp="1495819132403">
-        <mark key="'" line="236" column="0" />
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="." line="55" column="0" />
+      <file name="$USER_HOME$/~working0/realie-app/src/screens/validation.js" timestamp="1495820778780">
+        <mark key="'" line="221" column="33" />
+        <mark key="[" line="196" column="62" />
+        <mark key="]" line="197" column="38" />
+        <mark key="." line="197" column="38" />
+        <mark key="^" line="197" column="38" />
       </file>
       <file name="$USER_HOME$/RealieApp/src/components/drawer-menu-button.js" timestamp="1492831989803">
         <mark key="'" line="17" column="0" />
@@ -1528,17 +1531,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="40" filename="$USER_HOME$/~working0/realie-app/src/navigation/main-stack.js" />
-      <jump line="14" column="0" filename="$USER_HOME$/~working0/realie-app/src/components/drawer/index.js" />
-      <jump line="56" column="6" filename="$USER_HOME$/~working0/realie-app/src/screens/validation.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/~working0/realie-app/src/screens/validation.js" />
-      <jump line="174" column="62" filename="$USER_HOME$/~working0/realie-app/src/screens/capture.js" />
-      <jump line="176" column="0" filename="$USER_HOME$/~working0/realie-app/src/screens/capture.js" />
-      <jump line="22" column="3" filename="$USER_HOME$/~working0/realie-app/src/components/shutter-button.js" />
-      <jump line="291" column="17" filename="$USER_HOME$/~working0/realie-app/src/screens/capture.js" />
-      <jump line="32" column="28" filename="$USER_HOME$/~working0/realie-app/src/components/shutter-button.js" />
-      <jump line="167" column="38" filename="$USER_HOME$/~working0/realie-app/src/screens/capture.js" />
-      <jump line="230" column="38" filename="$USER_HOME$/~working0/realie-app/src/screens/capture.js" />
       <jump line="46" column="25" filename="$USER_HOME$/~working0/realie-app/src/screens/capture.js" />
       <jump line="35" column="23" filename="$USER_HOME$/~working0/realie-app/src/components/header-logo.js" />
       <jump line="239" column="22" filename="$USER_HOME$/~working0/realie-app/src/screens/capture.js" />
@@ -1628,6 +1620,17 @@
       <jump line="60" column="6" filename="$USER_HOME$/~working0/realie-app/src/screens/validation.js" />
       <jump line="236" column="0" filename="$USER_HOME$/~working0/realie-app/src/screens/validation.js" />
       <jump line="43" column="8" filename="$USER_HOME$/~working0/realie-app/src/components/validation-preview.js" />
+      <jump line="237" column="16" filename="$USER_HOME$/~working0/realie-app/src/screens/capture.js" />
+      <jump line="203" column="25" filename="$USER_HOME$/~working0/realie-app/src/screens/validation.js" />
+      <jump line="204" column="55" filename="$USER_HOME$/~working0/realie-app/src/screens/validation.js" />
+      <jump line="90" column="29" filename="$USER_HOME$/~working0/realie-app/src/screens/validation.js" />
+      <jump line="91" column="36" filename="$USER_HOME$/~working0/realie-app/src/screens/validation.js" />
+      <jump line="92" column="30" filename="$USER_HOME$/~working0/realie-app/src/screens/validation.js" />
+      <jump line="200" column="7" filename="$USER_HOME$/~working0/realie-app/src/reducers/index.js" />
+      <jump line="377" column="34" filename="$USER_HOME$/~working0/realie-app/src/actions/index.js" />
+      <jump line="233" column="26" filename="$USER_HOME$/~working0/realie-app/src/reducers/index.js" />
+      <jump line="19" column="0" filename="$USER_HOME$/~working0/realie-app/src/reducers/index.js" />
+      <jump line="219" column="33" filename="$USER_HOME$/~working0/realie-app/src/screens/validation.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1648,63 +1651,59 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGFsZXJ0KDEyMykK</text>
+        <text encoding="base64">ICAgICAgICBhY3RpdmVQaWN0dXJlOiB7CiAgICAgICAgICBwaWN0dXJlOiB7CiAgICAgICAgICAgIHJlYWxpZV9pZDogbnVsbAogICAgICAgICAgfQogICAgICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>height</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
-        <text>setState</text>
+        <text>urls</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgY29udGFpbmVySGVpZ2h0OiBldi5uYXRpdmVFdmVudC5sYXlvdXQuaGVpZ2h0Cg==</text>
+        <text encoding="base64">ICBhY3RpdmVQaWN0dXJlOiB7CiAgICBsb2NhbFVyaTogbnVsbCwKICAgIHBpY3R1cmU6IHsKICAgICAgcmVhbGllX2lkOiBudWxsLAogICAgICBjYXB0aW9uOiBudWxsCiAgICB9LAogICAgbG9jYXRpb246IHsKICAgICAgbGF0aXR1ZGU6IG51bGwsCiAgICAgIGxvbmdpdHVkZTogbnVsbCwKICAgICAgaHVtYW5GcmllbmRseTogbnVsbAogICAgfQogIH0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFsZXJ0KDEyMykK</text>
+        <text encoding="base64">ICAgICAgICBhY3RpdmVQaWN0dXJlOiB7CiAgICAgICAgICBwaWN0dXJlOiB7CiAgICAgICAgICAgIHJlYWxpZV9pZDogbnVsbAogICAgICAgICAgfQogICAgICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGJvcmRlclRvcENvbG9yOiB0aGVtZS5jb2xvcnMuYnJhbmRpbmcubGlnaHRlclB1cnBsZSwKICAgIGJvcmRlclRvcFdpZHRoOiA0LAo=</text>
+        <text encoding="base64">ICAgICAgbmV3U3RhdGUuYWN0aXZlUGljdHVyZSA9IHsgcGljdHVyZToge30gfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgYWxlcnQoMTIzKQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cgo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgbmV3U3RhdGUuYWN0aXZlUGljdHVyZSA9IHt9Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAvLyBhbGVydChzdGF0ZS5hY3RpdmVQaWN0dXJlLnBpY3R1cmUucmVhbGllX2lkKQoK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBzdHlsZT17c3R5bGVzLmNvbnRhaW5lcn0K</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBfcmVuZGVyUG9zdEJ1dHRvbigpIHsKICAgIGlmICh0aGlzLnN0YXRlLmlzV29ya2luZykgewogICAgICByZXR1cm4gKAogICAgICAgIDxBY3Rpdml0eUluZGljYXRvcgogICAgICAgICAgc2l6ZT0ibGFyZ2UiCiAgICAgICAgICBjb2xvcj17dGhlbWUuY29sb3JzLmJyYW5kaW5nLnByaW1hcnlQdXJwbGV9CiAgICAgICAgLz4KICAgICAgKQogICAgfQogICAgZWxzZSB7CiAgICAgIHJldHVybiAoCiAgICAgICAgPFZpZXcgc3R5bGU9e3N0eWxlcy5wb3N0QnV0dG9ufT4KICAgICAgICAgIDxGb250QXdlc29tZUljb24KICAgICAgICAgICAgbmFtZT0ic2VuZCIKICAgICAgICAgICAgb25QcmVzcz17dGhpcy5vblBvc3RQaWN0dXJlLmJpbmQodGhpcyl9CiAgICAgICAgICAgIHNpemU9ezMyfQogICAgICAgICAgICBjb2xvcj0iI2ZmZiIKICAgICAgICAgIC8+CiAgICAgICAgPC9WaWV3PgogICAgICApCiAgICB9CiAgfQoK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBfcmVuZGVyUHJldmlld0NvbnRhaW5lcigpIHsKICAgIGNvbnN0IGxheW91dCA9IHRoaXMuX2NhbGN1bGF0ZUxheW91dCgpCgogICAgcmV0dXJuICgKICAgICAgPFZpZXcgc3R5bGU9e1sKICAgICAgICBzdHlsZXMucHJldmlld0NvbnRhaW5lciwKICAgICAgICBsYXlvdXQucHJldmlld0NvbnRhaW5lcgogICAgICBdfT4KICAgICAgICA8VmFsaWRhdGlvblByZXZpZXcKICAgICAgICAgIHNvdXJjZT17dGhpcy5wcm9wcy5hY3RpdmVQaWN0dXJlLmxvY2FsVXJpfQogICAgICAgICAgcGljdHVyZU9iamVjdD17dGhpcy5wcm9wcy5hY3RpdmVQaWN0dXJlLnBpY3R1cmV9CiAgICAgICAgICBjYXB0aW9uPXt0aGlzLnByb3BzLmFjdGl2ZVBpY3R1cmUucGljdHVyZS5jYXB0aW9ufQogICAgICAgIC8+CiAgICAgIDwvVmlldz4KICAgICkKICB9Cgo=</text>
+        <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUoewogICAgICBjb250YWluZXJXaWR0aDogZXYubmF0aXZlRXZlbnQubGF5b3V0LndpZHRoLAogICAgICBjb250YWluZXJIZWlnaHQ6IGV2Lm5hdGl2ZUV2ZW50LmxheW91dC5oZWlnaHQKICAgIH0pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBfcmVuZGVyQnV0dG9uc0NvbnRhaW5lcigpIHsKICAgIGNvbnN0IGxheW91dCA9IHRoaXMuX2NhbGN1bGF0ZUxheW91dCgpCgogICAgbGV0IGJhY2tCdXR0b24KICAgIGxldCBlZGl0RGV0YWlsc0J1dHRvbgogICAgaWYgKCF0aGlzLnN0YXRlLmlzV29ya2luZykgewogICAgICBiYWNrQnV0dG9uID0gKAogICAgICAgIDxWaWV3IHN0eWxlPXtzdHlsZXMuYmFja0J1dHRvbn0+CiAgICAgICAgICA8Rm9udEF3ZXNvbWVJY29uCiAgICAgICAgICAgIG5hbWU9ImNhbWVyYSIKICAgICAgICAgICAgb25QcmVzcz17dGhpcy5vbkJhY2suYmluZCh0aGlzKX0KICAgICAgICAgICAgc2l6ZT17MzJ9CiAgICAgICAgICAgIGNvbG9yPXt0aGVtZS5jb2xvcnMuYnV0dG9uLnByaW1hcnl9CiAgICAgICAgICAvPgogICAgICAgIDwvVmlldz4KICAgICAgKQoKICAgICAgZWRpdERldGFpbHNCdXR0b24gPSAoCiAgICAgICAgPFZpZXcgc3R5bGU9e3N0eWxlcy5lZGl0RGV0YWlsc0J1dHRvbn0+CiAgICAgICAgICA8TWF0ZXJpYWxJY29uCiAgICAgICAgICAgIG5hbWU9ImVkaXQiCiAgICAgICAgICAgIG9uUHJlc3M9e3RoaXMub25FZGl0RGV0YWlscy5iaW5kKHRoaXMpfQogICAgICAgICAgICBzaXplPXszMn0KICAgICAgICAgICAgY29sb3I9e3RoZW1lLmNvbG9ycy5idXR0b24ucHJpbWFyeX0KICAgICAgICAgIC8+CiAgICAgICAgPC9WaWV3PgogICAgICApCiAgICB9CgogICAgcmV0dXJuICgKICAgICAgPFZpZXcgc3R5bGU9e1sKICAgICAgICBzdHlsZXMuYnV0dG9uc0NvbnRhaW5lciwKICAgICAgICBsYXlvdXQuYnV0dG9uc0NvbnRhaW5lcgogICAgICBdfT4KICAgICAgICA8VmlldyBzdHlsZT17c3R5bGVzLmJhY2tCdXR0b25Db250YWluZXJ9PgogICAgICAgICAge2JhY2tCdXR0b259CiAgICAgICAgPC9WaWV3PgogICAgICAgIDxWaWV3IHN0eWxlPXtzdHlsZXMucG9zdEJ1dHRvbkNvbnRhaW5lcn0+CiAgICAgICAgICB7dGhpcy5fcmVuZGVyUG9zdEJ1dHRvbigpfQogICAgICAgIDwvVmlldz4KICAgICAgICA8VmlldyBzdHlsZT17c3R5bGVzLmVkaXREZXRhaWxzQnV0dG9uQ29udGFpbmVyfT4KICAgICAgICAgIHtlZGl0RGV0YWlsc0J1dHRvbn0KICAgICAgICA8L1ZpZXc+CiAgICAgIDwvVmlldz4KICAgICkKICB9Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>setState</last-search>
+      <last-search>urls</last-search>
       <last-offset />
-      <last-pattern>setState</last-pattern>
+      <last-pattern>urls</last-pattern>
       <last-replace>alignItems</last-replace>
       <last-substitute encoding="base64">XDxwaWN0dXJlc0J5UmVhbGllSWRcPg==</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>100</entry>
-        <entry>min</entry>
-        <entry>Vali</entry>
-        <entry>style</entry>
         <entry>on</entry>
         <entry encoding="base64">IA==</entry>
         <entry encoding="base64">Pg==</entry>
@@ -1720,7 +1719,11 @@
         <entry encoding="base64">XDxjYWxjdWxhdG9yc1w+</entry>
         <entry>P</entry>
         <entry>H</entry>
+        <entry>onL</entry>
         <entry>setState</entry>
+        <entry>activePicture</entry>
+        <entry>isFullyLoaded</entry>
+        <entry>urls</entry>
       </history-search>
       <history-cmd>
         <entry>44</entry>
