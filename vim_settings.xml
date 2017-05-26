@@ -735,12 +735,12 @@
         <mark key="." line="7" column="25" />
         <mark key="^" line="7" column="25" />
       </file>
-      <file name="$USER_HOME$/~working0/realie-app/src/screens/capture.js" timestamp="1495659901050">
+      <file name="$USER_HOME$/~working0/realie-app/src/screens/capture.js" timestamp="1495752442381">
         <mark key="'" line="165" column="28" />
-        <mark key="[" line="275" column="23" />
-        <mark key="]" line="275" column="25" />
-        <mark key="^" line="275" column="25" />
-        <mark key="." line="275" column="25" />
+        <mark key="[" line="177" column="12" />
+        <mark key="]" line="178" column="39" />
+        <mark key="^" line="178" column="39" />
+        <mark key="." line="178" column="39" />
       </file>
       <file name="$USER_HOME$/~working0/c2/invite-api/src/models/user.model.js" timestamp="1491934630996">
         <mark key="'" line="2" column="7" />
@@ -1033,6 +1033,9 @@
         <mark key="]" line="162" column="38" />
         <mark key="." line="162" column="38" />
         <mark key="^" line="162" column="38" />
+      </file>
+      <file name="$USER_HOME$/~working0/realie-app/src/reducers/index.js" timestamp="1495764698315">
+        <mark key="'" line="220" column="0" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-auto-accept-html-fr.html" timestamp="1490109453023">
         <mark key="[" line="9" column="0" />
@@ -1524,7 +1527,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="19" filename="$USER_HOME$/~working0/realie-app/src/components/drawer/header.js" />
       <jump line="14" column="31" filename="$USER_HOME$/~working0/realie-app/src/components/drawer/header.js" />
       <jump line="20" column="34" filename="$USER_HOME$/~working0/realie-app/src/components/drawer/index.js" />
       <jump line="6" column="6" filename="$USER_HOME$/~working0/realie-app/src/components/drawer/index.js" />
@@ -1624,6 +1626,7 @@
       <jump line="12" column="11" filename="$USER_HOME$/~working0/realie-app/src/screens/validation.js" />
       <jump line="122" column="14" filename="$USER_HOME$/~working0/realie-app/src/screens/validation.js" />
       <jump line="328" column="0" filename="$USER_HOME$/~working0/realie-app/src/actions/index.js" />
+      <jump line="220" column="0" filename="$USER_HOME$/~working0/realie-app/src/reducers/index.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1650,7 +1653,7 @@
         <text>text</text>
       </register>
       <register name="/" type="4">
-        <text>CameraRoll</text>
+        <text>UPLOAD</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBfbWVhc3VyZURldGFpbHNDb250YWluZXIoZXYpIHsKICAgIHRoaXMuc2V0U3RhdGUoewogICAgICBkZXRhaWxzQ29udGFpbmVySGVpZ2h0OiBldi5uYXRpdmVFdmVudC5sYXlvdXQuaGVpZ2h0CiAgICB9KQogIH0K</text>
@@ -1687,9 +1690,9 @@
       </register>
     </registers>
     <search>
-      <last-search>CameraRoll</last-search>
+      <last-search>UPLOAD</last-search>
       <last-offset />
-      <last-pattern>CameraRoll</last-pattern>
+      <last-pattern>UPLOAD</last-pattern>
       <last-replace>alignItems</last-replace>
       <last-substitute encoding="base64">XDxwaWN0dXJlc0J5UmVhbGllSWRcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1697,7 +1700,6 @@
     </search>
     <history>
       <history-search>
-        <entry>W</entry>
         <entry>Right</entry>
         <entry>TOp</entry>
         <entry>Top</entry>
@@ -1717,6 +1719,7 @@
         <entry>blue</entry>
         <entry>C</entry>
         <entry>CameraRoll</entry>
+        <entry>UPLOAD</entry>
       </history-search>
       <history-cmd>
         <entry>44</entry>
