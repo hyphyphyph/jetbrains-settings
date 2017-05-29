@@ -1067,6 +1067,13 @@
         <mark key="." line="3" column="25" />
         <mark key="^" line="3" column="25" />
       </file>
+      <file name="$USER_HOME$/~working0/realie-app/index.android.js" timestamp="1496078797813">
+        <mark key="'" line="1" column="43" />
+        <mark key="[" line="6" column="54" />
+        <mark key="]" line="6" column="52" />
+        <mark key="^" line="6" column="52" />
+        <mark key="." line="6" column="52" />
+      </file>
       <file name="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/handlers/split.handler.js" timestamp="1491850357820">
         <mark key="'" line="75" column="20" />
         <mark key="[" line="57" column="6" />
@@ -1211,6 +1218,13 @@
         <mark key="]" line="32" column="19" />
         <mark key="^" line="32" column="19" />
         <mark key="." line="32" column="19" />
+      </file>
+      <file name="$USER_HOME$/~working0/realie-app/android/app/src/main/java/com/realieapp/MainActivity.java" timestamp="1496078744748">
+        <mark key="'" line="20" column="33" />
+        <mark key="[" line="3" column="7" />
+        <mark key="]" line="3" column="37" />
+        <mark key="." line="3" column="37" />
+        <mark key="^" line="3" column="37" />
       </file>
       <file name="$USER_HOME$/~working0/c2/invite-api/tests/server-tests.js" timestamp="1492024206915">
         <mark key="'" line="135" column="16" />
@@ -1416,12 +1430,13 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="12" column="1" />
       </file>
-      <file name="$USER_HOME$/~working0/realie-app/android/app/src/main/AndroidManifest.xml" timestamp="1495239888611">
-        <mark key="'" line="52" column="6" />
-        <mark key="[" line="32" column="23" />
-        <mark key="]" line="32" column="62" />
-        <mark key="." line="32" column="23" />
-        <mark key="^" line="31" column="15" />
+      <file name="$USER_HOME$/~working0/realie-app/android/app/src/main/AndroidManifest.xml" timestamp="1496078636958">
+        <mark key="'" line="56" column="6" />
+        <mark key="[" line="36" column="31" />
+        <mark key="k" line="36" column="7" />
+        <mark key="]" line="36" column="63" />
+        <mark key="." line="36" column="31" />
+        <mark key="^" line="35" column="40" />
       </file>
       <file name="$USER_HOME$/~working0/realie-app/src/layout-calculators/horizontal-split-with-square-top.js" timestamp="1495818539226">
         <mark key="[" line="18" column="15" />
@@ -1536,8 +1551,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="4" filename="$USER_HOME$/~working0/realie-app/src/components/header-logo.js" />
-      <jump line="38" column="11" filename="$USER_HOME$/~working0/realie-app/src/components/header-logo.js" />
       <jump line="20" column="28" filename="$USER_HOME$/~working0/realie-app/src/components/header-logo.js" />
       <jump line="46" column="31" filename="$USER_HOME$/~working0/realie-app/src/screens/home.js" />
       <jump line="55" column="6" filename="$USER_HOME$/~working0/realie-app/src/screens/capture.js" />
@@ -1636,6 +1649,8 @@
       <jump line="168" column="11" filename="$USER_HOME$/~working0/realie-app/src/screens/validation.js" />
       <jump line="58" column="43" filename="$USER_HOME$/~working0/realie-app/src/components/validation-preview.js" />
       <jump line="55" column="0" filename="$USER_HOME$/~working0/realie-app/src/components/validation-preview.js" />
+      <jump line="18" column="33" filename="$USER_HOME$/~working0/realie-app/android/app/src/main/java/com/realieapp/MainActivity.java" />
+      <jump line="1" column="43" filename="$USER_HOME$/~working0/realie-app/index.android.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1656,40 +1671,40 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBfbWVhc3VyZUltYWdlQ29udGFpbmVyKGV2KSB7CiAgICAvLyB0aGlzLnNldFN0YXRlKHsKICAgIC8vICAgaW1hZ2VDb250YWluZXJIZWlnaHQ6IGV2Lm5hdGl2ZUV2ZW50LmxheW91dC5oZWlnaHQKICAgIC8vIH0pCiAgfQoKICBfbWVhc3VyZURldGFpbHNDb250YWluZXIoZXYpIHsKICAgIC8vIHRoaXMuc2V0U3RhdGUoewogICAgLy8gICBkZXRhaWxzQ29udGFpbmVySGVpZ2h0OiBldi5uYXRpdmVFdmVudC5sYXlvdXQuaGVpZ2h0CiAgICAvLyB9KQogIH0KCiAgX21lYXN1cmVDb250YWluZXIoZXYpIHsKICAgIC8vIHRoaXMuc2V0U3RhdGUoewogICAgLy8gICBjb250YWluZXJIZWlnaHQ6IGV2Lm5hdGl2ZUV2ZW50LmxheW91dC5oZWlnaHQKICAgIC8vIH0pCiAgfQoK</text>
+        <text encoding="base64">aW1wb3J0IAo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>protected</text>
       </register>
       <register name="/" type="4">
         <text>measure</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBhY3RpdmVQaWN0dXJlOiB7CiAgICBsb2NhbFVyaTogbnVsbCwKICAgIHBpY3R1cmU6IHsKICAgICAgcmVhbGllX2lkOiBudWxsLAogICAgICBjYXB0aW9uOiBudWxsCiAgICB9LAogICAgbG9jYXRpb246IHsKICAgICAgbGF0aXR1ZGU6IG51bGwsCiAgICAgIGxvbmdpdHVkZTogbnVsbCwKICAgICAgaHVtYW5GcmllbmRseTogbnVsbAogICAgfQogIH0sCg==</text>
+        <text encoding="base64">ICAgICAgPG1ldGEtZGF0YQogICAgICAgIGFuZHJvaWQ6bmFtZT0iY29tLmdvb2dsZS5hbmRyb2lkLmdlby5BUElfS0VZIgogICAgICAgIGFuZHJvaWQ6dmFsdWU9IkFJemFTeUFSV2pTazJKY0Z2TXZyeHhuR0FkT3RoTWw0cWJ6cTUwdyIvPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBfbWVhc3VyZUltYWdlQ29udGFpbmVyKGV2KSB7CiAgICAvLyB0aGlzLnNldFN0YXRlKHsKICAgIC8vICAgaW1hZ2VDb250YWluZXJIZWlnaHQ6IGV2Lm5hdGl2ZUV2ZW50LmxheW91dC5oZWlnaHQKICAgIC8vIH0pCiAgfQoKICBfbWVhc3VyZURldGFpbHNDb250YWluZXIoZXYpIHsKICAgIC8vIHRoaXMuc2V0U3RhdGUoewogICAgLy8gICBkZXRhaWxzQ29udGFpbmVySGVpZ2h0OiBldi5uYXRpdmVFdmVudC5sYXlvdXQuaGVpZ2h0CiAgICAvLyB9KQogIH0KCiAgX21lYXN1cmVDb250YWluZXIoZXYpIHsKICAgIC8vIHRoaXMuc2V0U3RhdGUoewogICAgLy8gICBjb250YWluZXJIZWlnaHQ6IGV2Lm5hdGl2ZUV2ZW50LmxheW91dC5oZWlnaHQKICAgIC8vIH0pCiAgfQoK</text>
+        <text encoding="base64">aW1wb3J0IAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICBpZiAoIXRoaXMucHJvcHMuKQo=</text>
+        <text encoding="base64">ICBfbWVhc3VyZUltYWdlQ29udGFpbmVyKGV2KSB7CiAgICAvLyB0aGlzLnNldFN0YXRlKHsKICAgIC8vICAgaW1hZ2VDb250YWluZXJIZWlnaHQ6IGV2Lm5hdGl2ZUV2ZW50LmxheW91dC5oZWlnaHQKICAgIC8vIH0pCiAgfQoKICBfbWVhc3VyZURldGFpbHNDb250YWluZXIoZXYpIHsKICAgIC8vIHRoaXMuc2V0U3RhdGUoewogICAgLy8gICBkZXRhaWxzQ29udGFpbmVySGVpZ2h0OiBldi5uYXRpdmVFdmVudC5sYXlvdXQuaGVpZ2h0CiAgICAvLyB9KQogIH0KCiAgX21lYXN1cmVDb250YWluZXIoZXYpIHsKICAgIC8vIHRoaXMuc2V0U3RhdGUoewogICAgLy8gICBjb250YWluZXJIZWlnaHQ6IGV2Lm5hdGl2ZUV2ZW50LmxheW91dC5oZWlnaHQKICAgIC8vIH0pCiAgfQoK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">CiAgICBpZiAoIXRoaXMucHJvcHMuKQo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgIHsKICAgICAgICAgICAgaGVpZ2h0OiB0aGlzLnN0YXRlLmNvbnRhaW5lckhlaWdodCAtIHRoaXMuc3RhdGUuaW1hZ2VDb250YWluZXJIZWlnaHQKICAgICAgICAgIH0K</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>onLayout={this._measureDetailsContainer.bind(this)}</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">IG9uTGF5b3V0PXt0aGlzLl9tZWFzdXJlSW1hZ2VDb250YWluZXIuYmluZCh0aGlzKX0=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">IG9uTGF5b3V0PXt0aGlzLl9tZWFzdXJlQ29udGFpbmVyLmJpbmQodGhpcyl9</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdG9wU3F1YXJlOiB7CiAgICAgICAgd2lkdGg6IHRvcEhlaWdodCwKICAgICAgICBoZWlnaHQ6IHRvcEhlaWdodAogICAgICB9LAoK</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZWY9InJvb3QiCg==</text>
+        <text encoding="base64">ICAgICAgdG9wU3F1YXJlOiB7CiAgICAgICAgd2lkdGg6IHRvcEhlaWdodCwKICAgICAgICBoZWlnaHQ6IHRvcEhlaWdodAogICAgICB9LAoK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICByZWY9InJvb3QiCg==</text>
