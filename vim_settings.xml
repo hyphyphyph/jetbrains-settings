@@ -739,8 +739,8 @@
         <mark key="." line="7" column="25" />
         <mark key="^" line="7" column="25" />
       </file>
-      <file name="$USER_HOME$/~working0/realie-app/src/screens/capture.js" timestamp="1496082652874">
-        <mark key="'" line="214" column="4" />
+      <file name="$USER_HOME$/~working0/realie-app/src/screens/capture.js" timestamp="1496105149103">
+        <mark key="'" line="235" column="0" />
         <mark key="[" line="235" column="0" />
         <mark key="]" line="235" column="0" />
         <mark key="." line="235" column="0" />
@@ -1569,7 +1569,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="86" column="15" filename="$USER_HOME$/~working0/realie-app/src/screens/edit-details.js" />
       <jump line="91" column="11" filename="$USER_HOME$/~working0/realie-app/src/screens/edit-details.js" />
       <jump line="32" column="39" filename="$USER_HOME$/~working0/realie-app/src/screens/edit-details.js" />
       <jump line="145" column="18" filename="$USER_HOME$/~working0/realie-app/src/components/validation-preview.js" />
@@ -1669,6 +1668,7 @@
       <jump line="20" column="30" filename="$USER_HOME$/~working0/realie-app/src/data/users.js" />
       <jump line="139" column="15" filename="$USER_HOME$/~working0/realie-app/src/data/pictures.js" />
       <jump line="54" column="22" filename="$USER_HOME$/~working0/realie-app/src/screens/base-auth.js" />
+      <jump line="235" column="0" filename="$USER_HOME$/~working0/realie-app/src/screens/capture.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1695,7 +1695,7 @@
         <text>.log</text>
       </register>
       <register name="/" type="4">
-        <text>err</text>
+        <text>bug</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgdXJscy5waWN0dXJlcy51cGxvYWQocmVhbGllSWQpLAo=</text>
@@ -1732,17 +1732,16 @@
       </register>
     </registers>
     <search>
-      <last-search>err</last-search>
+      <last-search>bug</last-search>
       <last-offset />
-      <last-pattern>err</last-pattern>
+      <last-pattern>bug</last-pattern>
       <last-replace>alignItems</last-replace>
       <last-substitute encoding="base64">XDxwaWN0dXJlc0J5UmVhbGllSWRcPg==</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>setState</entry>
         <entry>activePicture</entry>
         <entry>isFullyLoaded</entry>
         <entry>urls</entry>
@@ -1754,7 +1753,6 @@
         <entry>_measure</entry>
         <entry>measure</entry>
         <entry>Sna</entry>
-        <entry>bug</entry>
         <entry>snag</entry>
         <entry>Bug</entry>
         <entry encoding="base64">XDxCdWdzbmFnUmVhY3ROYXRpdmVcPg==</entry>
@@ -1762,6 +1760,8 @@
         <entry>,</entry>
         <entry>\.</entry>
         <entry>err</entry>
+        <entry>bugsnag</entry>
+        <entry>bug</entry>
       </history-search>
       <history-cmd>
         <entry>44</entry>
