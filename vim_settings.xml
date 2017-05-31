@@ -342,11 +342,12 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="18" column="3" />
       </file>
-      <file name="$USER_HOME$/~working0/realie-app/src/screens/logging-out.js" timestamp="1495477051383">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="14" column="3" />
-        <mark key="^" line="12" column="1" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/~working0/realie-app/src/screens/logging-out.js" timestamp="1496264214668">
+        <mark key="'" line="36" column="0" />
+        <mark key="[" line="22" column="7" />
+        <mark key="]" line="22" column="10" />
+        <mark key="." line="22" column="10" />
+        <mark key="^" line="22" column="10" />
       </file>
       <file name="$USER_HOME$/invite-api/src/db.js" timestamp="1490044989853">
         <mark key="[" line="31" column="15" />
@@ -1117,10 +1118,10 @@
         <mark key="." line="6" column="14" />
         <mark key="^" line="6" column="14" />
       </file>
-      <file name="$USER_HOME$/~working0/realie-app/src/screens/login.js" timestamp="1496255538624">
+      <file name="$USER_HOME$/~working0/realie-app/src/screens/login.js" timestamp="1496263850925">
         <mark key="'" line="39" column="58" />
-        <mark key="[" line="76" column="0" />
-        <mark key="]" line="76" column="0" />
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="79" column="23" />
         <mark key="^" line="76" column="27" />
         <mark key="." line="76" column="0" />
       </file>
@@ -1275,12 +1276,12 @@
         <mark key="." line="107" column="0" />
         <mark key="^" line="103" column="5" />
       </file>
-      <file name="$USER_HOME$/~working0/realie-app/src/screens/home.js" timestamp="1496257637840">
-        <mark key="'" line="13" column="19" />
-        <mark key="[" line="13" column="20" />
-        <mark key="]" line="13" column="20" />
-        <mark key="." line="13" column="20" />
-        <mark key="^" line="13" column="20" />
+      <file name="$USER_HOME$/~working0/realie-app/src/screens/home.js" timestamp="1496264777356">
+        <mark key="'" line="133" column="16" />
+        <mark key="[" line="136" column="23" />
+        <mark key="]" line="136" column="25" />
+        <mark key="." line="136" column="25" />
+        <mark key="^" line="136" column="25" />
       </file>
       <file name="$USER_HOME$/~working0/realie-app/src/components/drawer-menu.js" timestamp="1495476263418">
         <mark key="'" line="0" column="0" />
@@ -1553,10 +1554,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="335" column="0" filename="$USER_HOME$/~working0/realie-app/src/screens/capture.js" />
-      <jump line="224" column="10" filename="$USER_HOME$/~working0/realie-app/src/screens/capture.js" />
-      <jump line="113" column="23" filename="$USER_HOME$/~working0/realie-app/src/screens/validation.js" />
-      <jump line="84" column="35" filename="$USER_HOME$/~working0/realie-app/src/screens/validation.js" />
       <jump line="93" column="3" filename="$USER_HOME$/~working0/realie-app/src/screens/validation.js" />
       <jump line="86" column="53" filename="$USER_HOME$/~working0/realie-app/src/screens/validation.js" />
       <jump line="87" column="30" filename="$USER_HOME$/~working0/realie-app/src/screens/validation.js" />
@@ -1653,6 +1650,10 @@
       <jump line="14" column="19" filename="$USER_HOME$/~working0/realie-app/src/screens/home.js" />
       <jump line="43" column="32" filename="$USER_HOME$/~working0/realie-app/src/screens/home.js" />
       <jump line="13" column="19" filename="$USER_HOME$/~working0/realie-app/src/screens/home.js" />
+      <jump line="27" column="59" filename="$USER_HOME$/~working0/realie-app/src/screens/logging-out.js" />
+      <jump line="28" column="28" filename="$USER_HOME$/~working0/realie-app/src/screens/logging-out.js" />
+      <jump line="32" column="0" filename="$USER_HOME$/~working0/realie-app/src/screens/logging-out.js" />
+      <jump line="132" column="16" filename="$USER_HOME$/~working0/realie-app/src/screens/home.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1673,60 +1674,59 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>png</text>
+        <text>eee</text>
       </register>
       <register name="-" type="4">
-        <text>png</text>
+        <text>eee</text>
       </register>
       <register name="/" type="4">
-        <text>Touch</text>
+        <text>source</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBoZWFkZXJMZWZ0OiB7CiAgICBtYXJnaW5MZWZ0OiAyMAogIH0sCg==</text>
+        <text encoding="base64">ICAgIGp1c3RpZnlDb250ZW50OiAnY2VudGVyJywKICAgIGFsaWduSXRlbXM6ICdjZW50ZXInCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8L1RvdWNoYWJsZU5hdGl2ZUZlZWRiYWNrPiwK</text>
+        <text encoding="base64">ICAgIGJvcmRlckJvdHRvbVdpZHRoOiA0LAogICAgYm9yZGVyQm90dG9tQ29sb3I6ICcjNjYwMDY2Jwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8VG91Y2hhYmxlTmF0aXZlRmVlZGJhY2sKICAgICAgICA+Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIG9uUHJlc3M9eygpID0+IHsgbmF2aWdhdGlvbi5uYXZpZ2F0ZSgnRHJhd2VyT3BlbicpIH19Cg==</text>
+        <text encoding="base64">ICAgICAgICA8VGV4dD5Mb2dnaW5nIE91dDwvVGV4dD4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBUb3VjaGFibGVOYXRpdmVGZWVkYmFjaywK</text>
+        <text encoding="base64">ICAgICAgPFRleHQ+TG9nZ2luZyBPdXQ8L1RleHQ+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gb25QcmVzcz17KCkgPT4geyBuYXZpZ2F0aW9uLm5hdmlnYXRlKCdEcmF3ZXJPcGVuJykgfX0K</text>
+        <text encoding="base64">ICAgICAgICA8L1RvdWNoYWJsZU5hdGl2ZUZlZWRiYWNrPiwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBUb3VjaGFibGVIaWdobGlnaHQsCg==</text>
+        <text encoding="base64">ICAgICAgICA8VG91Y2hhYmxlTmF0aXZlRmVlZGJhY2sKICAgICAgICA+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8T2N0SWNvbgogICAgICAgICAgbmFtZT0idGhyZWUtYmFycyIKICAgICAgICAgIHNpemU9ezI0fQogICAgICAgICAgY29sb3I9e3RoZW1lLmNvbG9ycy5idXR0b24ucHJpbWFyeX0KICAgICAgICAgIG9uUHJlc3M9eygpID0+IHsgbmF2aWdhdGlvbi5uYXZpZ2F0ZSgnRHJhd2VyT3BlbicpIH19CiAgICAgICAgICBzdHlsZT17c3R5bGVzLmhlYWRlckxlZnR9CiAgICAgICAgICAvPiwK</text>
+        <text encoding="base64">ICAgICAgICAgIG9uUHJlc3M9eygpID0+IHsgbmF2aWdhdGlvbi5uYXZpZ2F0ZSgnRHJhd2VyT3BlbicpIH19Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBUb3VjaGFibGVOYXRpdmVGZWVkYmFjaywK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBoZWFkZXJMZWZ0OiB7CiAgICBtYXJnaW5MZWZ0OiAyMAogIH0sCgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gb25QcmVzcz17KCkgPT4geyBuYXZpZ2F0aW9uLm5hdmlnYXRlKCdEcmF3ZXJPcGVuJykgfX0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Touch</last-search>
+      <last-search>source</last-search>
       <last-offset />
-      <last-pattern>Touch</last-pattern>
+      <last-pattern>source</last-pattern>
       <last-replace>alignItems</last-replace>
       <last-substitute encoding="base64">XDxwaWN0dXJlc0J5UmVhbGllSWRcPg==</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>100%</entry>
         <entry>Image</entry>
         <entry>flex</entry>
         <entry>but</entry>
@@ -1746,6 +1746,7 @@
         <entry>red</entry>
         <entry>H</entry>
         <entry>Touch</entry>
+        <entry>source</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1xbbnVsbFxdL251bGwvZw==</entry>
