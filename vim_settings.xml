@@ -734,11 +734,12 @@
         <mark key="." line="7" column="25" />
         <mark key="^" line="7" column="25" />
       </file>
-      <file name="$USER_HOME$/~working0/realie-app/src/screens/capture.js" timestamp="1496105149103">
-        <mark key="'" line="235" column="0" />
-        <mark key="[" line="235" column="0" />
-        <mark key="]" line="235" column="0" />
-        <mark key="." line="235" column="0" />
+      <file name="$USER_HOME$/~working0/realie-app/src/screens/capture.js" timestamp="1496256800567">
+        <mark key="'" line="70" column="6" />
+        <mark key="[" line="315" column="0" />
+        <mark key="]" line="315" column="0" />
+        <mark key="^" line="311" column="1" />
+        <mark key="." line="315" column="0" />
       </file>
       <file name="$USER_HOME$/~working0/c2/invite-api/src/models/user.model.js" timestamp="1491934630996">
         <mark key="'" line="2" column="7" />
@@ -1271,12 +1272,12 @@
         <mark key="." line="107" column="0" />
         <mark key="^" line="103" column="5" />
       </file>
-      <file name="$USER_HOME$/~working0/realie-app/src/screens/home.js" timestamp="1495574341780">
-        <mark key="'" line="43" column="12" />
-        <mark key="[" line="44" column="16" />
-        <mark key="]" line="44" column="21" />
-        <mark key="^" line="44" column="21" />
-        <mark key="." line="44" column="21" />
+      <file name="$USER_HOME$/~working0/realie-app/src/screens/home.js" timestamp="1496257637840">
+        <mark key="'" line="13" column="19" />
+        <mark key="[" line="13" column="20" />
+        <mark key="]" line="13" column="20" />
+        <mark key="." line="13" column="20" />
+        <mark key="^" line="13" column="20" />
       </file>
       <file name="$USER_HOME$/~working0/realie-app/src/components/drawer-menu.js" timestamp="1495476263418">
         <mark key="'" line="0" column="0" />
@@ -1549,10 +1550,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="160" column="8" filename="$USER_HOME$/~working0/realie-app/src/screens/capture.js" />
-      <jump line="192" column="28" filename="$USER_HOME$/~working0/realie-app/src/screens/capture.js" />
-      <jump line="182" column="67" filename="$USER_HOME$/~working0/realie-app/src/screens/capture.js" />
-      <jump line="197" column="0" filename="$USER_HOME$/~working0/realie-app/src/screens/capture.js" />
       <jump line="335" column="0" filename="$USER_HOME$/~working0/realie-app/src/screens/capture.js" />
       <jump line="224" column="10" filename="$USER_HOME$/~working0/realie-app/src/screens/capture.js" />
       <jump line="113" column="23" filename="$USER_HOME$/~working0/realie-app/src/screens/validation.js" />
@@ -1649,6 +1646,10 @@
       <jump line="8" column="2" filename="$USER_HOME$/~working0/realie-app/src/screens/loading.js" />
       <jump line="62" column="23" filename="$USER_HOME$/~working0/realie-app/src/screens/loading.js" />
       <jump line="102" column="27" filename="$USER_HOME$/~working0/realie-app/src/screens/loading.js" />
+      <jump line="70" column="6" filename="$USER_HOME$/~working0/realie-app/src/screens/capture.js" />
+      <jump line="14" column="19" filename="$USER_HOME$/~working0/realie-app/src/screens/home.js" />
+      <jump line="43" column="32" filename="$USER_HOME$/~working0/realie-app/src/screens/home.js" />
+      <jump line="13" column="19" filename="$USER_HOME$/~working0/realie-app/src/screens/home.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1669,52 +1670,52 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICBiYWNrZ3JvdW5kQ29sb3I6ICdyZWQnCg==</text>
+        <text encoding="base64">ICAgICAgICA8L1RvdWNoYWJsZU5hdGl2ZUZlZWRiYWNrPiwK</text>
       </register>
       <register name="-" type="4">
-        <text>text</text>
+        <text encoding="base64">ICAgICAgICAgIG9uUHJlc3M9eygpID0+IHsgbmF2aWdhdGlvbi5uYXZpZ2F0ZSgnRHJhd2VyT3BlbicpIH19</text>
       </register>
       <register name="/" type="4">
-        <text>red</text>
+        <text>Touch</text>
       </register>
-      <register name="0" type="4">
-        <text>activityindicator</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBoZWFkZXJMZWZ0OiB7CiAgICBtYXJnaW5MZWZ0OiAyMAogIH0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICBiYWNrZ3JvdW5kQ29sb3I6ICdyZWQnCg==</text>
+        <text encoding="base64">ICAgICAgICA8L1RvdWNoYWJsZU5hdGl2ZUZlZWRiYWNrPiwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGp1c3RpZnlDb250ZW50OiAnY2VudGVyJywKICAgIGFsaWduU2VsZjogJ2NlbnRlcicK</text>
+        <text encoding="base64">ICAgICAgICA8VG91Y2hhYmxlTmF0aXZlRmVlZGJhY2sKICAgICAgICA+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb2xvcjogJyNmZmYnLAogIGZvbnRTaXplOiAzMgoK</text>
+        <text encoding="base64">ICAgICAgICAgIG9uUHJlc3M9eygpID0+IHsgbmF2aWdhdGlvbi5uYXZpZ2F0ZSgnRHJhd2VyT3BlbicpIH19Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbG9yOiAnI2ZmZicsCiAgICBmb250U2l6ZTogMzIK</text>
+        <text encoding="base64">ICBUb3VjaGFibGVOYXRpdmVGZWVkYmFjaywK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBUZXh0LAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gb25QcmVzcz17KCkgPT4geyBuYXZpZ2F0aW9uLm5hdmlnYXRlKCdEcmF3ZXJPcGVuJykgfX0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vLyBiYWNrZ3JvdW5kQ29sb3I6IHRoZW1lLmNvbG9ycy5iYWNrZ3JvdW5kcy5wdXJwbGUsCg==</text>
+        <text encoding="base64">ICBUb3VjaGFibGVIaWdobGlnaHQsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8T2N0SWNvbgogICAgICAgICAgbmFtZT0idGhyZWUtYmFycyIKICAgICAgICAgIHNpemU9ezI0fQogICAgICAgICAgY29sb3I9e3RoZW1lLmNvbG9ycy5idXR0b24ucHJpbWFyeX0KICAgICAgICAgIG9uUHJlc3M9eygpID0+IHsgbmF2aWdhdGlvbi5uYXZpZ2F0ZSgnRHJhd2VyT3BlbicpIH19CiAgICAgICAgICBzdHlsZT17c3R5bGVzLmhlYWRlckxlZnR9CiAgICAgICAgICAvPiwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICByZW5kZXIoKSB7CiAgICByZXR1cm4gKAogICAgICA8VmlldyBzdHlsZT17c3R5bGVzLmNvbnRhaW5lcn0+CiAgICAgICAgPFZpZXcgc3R5bGU9e3N0eWxlcy5sb2dvQ29udGFpbmVyfT4KICAgICAgICAgIDxUZXh0IHN0eWxlPXtzdHlsZXMubG9nb30+CiAgICAgICAgICAgIFJlYWxpZQogICAgICAgICAgPC9UZXh0PgogICAgICAgIDwvVmlldz4KICAgICAgICA8VmlldyBzdHlsZT17c3R5bGVzLmJ1dHRvbnNDb250YWluZXJ9PgogICAgICAgICAgPFR3aXR0ZXJCdXR0b24KICAgICAgICAgICAgb25QcmVzcz17dGhpcy5vbkF1dGguYmluZCh0aGlzLCAncmVnaXN0ZXInLCAnbG9naW4nKX0KICAgICAgICAgICAgdGl0bGU9IlNpZ24gVXAgd2l0aCBUd2l0dGVyIgogICAgICAgICAgLz4KICAgICAgICA8L1ZpZXc+CiAgICAgIDwvVmlldz4KICAgICkKICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3Qgc3R5bGVzID0gU3R5bGVTaGVldC5jcmVhdGUoewogIGNvbnRhaW5lcjogewogICAgYmFja2dyb3VuZENvbG9yOiB0aGVtZS5jb2xvcnMuYmFja2dyb3VuZHMucHVycGxlLAogICAgZmxleDogMQogIH0sCgogIGxvZ29Db250YWluZXI6IHsKICAgIGFsaWduSXRlbXM6ICdjZW50ZXInLAogICAgZmxleDogNCwKICAgIGZsZXhEaXJlY3Rpb246ICdyb3cnLAogICAganVzdGlmeUNvbnRlbnQ6ICdjZW50ZXInCiAgfSwKCiAgbG9nbzogewogICAgY29sb3I6ICcjZmZmJywKICAgIGZvbnRTaXplOiA1MCwKICAgIGZvbnRXZWlnaHQ6ICdib2xkJywKICAgIGZvbnRTdHlsZTogJ2l0YWxpYycsCiAgICB0ZXh0QWxpZ246ICdjZW50ZXInCiAgfSwKCiAgYnV0dG9uc0NvbnRhaW5lcjogewogICAgZmxleDogMSwKICAgIGp1c3RpZnlDb250ZW50OiAnY2VudGVyJywKICAgIGFsaWduSXRlbXM6ICdjZW50ZXInLAogICAgYmFja2dyb3VuZENvbG9yOiAncmdiYSgyNTUsIDI1NSwgMjU1LCAwLjI1KScKICB9Cn0pCg==</text>
+        <text encoding="base64">ICBoZWFkZXJMZWZ0OiB7CiAgICBtYXJnaW5MZWZ0OiAyMAogIH0sCgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>red</last-search>
+      <last-search>Touch</last-search>
       <last-offset />
-      <last-pattern>red</last-pattern>
+      <last-pattern>Touch</last-pattern>
       <last-replace>alignItems</last-replace>
       <last-substitute encoding="base64">XDxwaWN0dXJlc0J5UmVhbGllSWRcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1722,8 +1723,6 @@
     </search>
     <history>
       <history-search>
-        <entry>stre</entry>
-        <entry>source</entry>
         <entry>100%</entry>
         <entry>Image</entry>
         <entry>flex</entry>
@@ -1742,6 +1741,8 @@
         <entry>Act</entry>
         <entry encoding="base64">XDxBY3Rpdml0eUluZGljYXRvclw+</entry>
         <entry>red</entry>
+        <entry>H</entry>
+        <entry>Touch</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1xbbnVsbFxdL251bGwvZw==</entry>
