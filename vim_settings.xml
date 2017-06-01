@@ -1332,11 +1332,12 @@
         <mark key="^" line="27" column="18" />
         <mark key="." line="27" column="18" />
       </file>
-      <file name="$USER_HOME$/~working0/realie-app/src/components/validation-preview.js" timestamp="1496351622317">
-        <mark key="[" line="143" column="22" />
-        <mark key="]" line="144" column="22" />
-        <mark key="." line="144" column="22" />
-        <mark key="^" line="144" column="22" />
+      <file name="$USER_HOME$/~working0/realie-app/src/components/validation-preview.js" timestamp="1496353675524">
+        <mark key="'" line="210" column="9" />
+        <mark key="[" line="155" column="21" />
+        <mark key="]" line="155" column="26" />
+        <mark key="." line="155" column="26" />
+        <mark key="^" line="155" column="26" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-partner-unknown-action-html-en.html" timestamp="1490294471163">
         <mark key="[" line="15" column="24" />
@@ -1566,8 +1567,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="5" filename="$USER_HOME$/~working0/realie-app/src/data/location.js" />
-      <jump line="81" column="3" filename="$USER_HOME$/~working0/realie-app/src/data/pictures.js" />
       <jump line="29" column="10" filename="$USER_HOME$/~working0/realie-app/src/data/pictures.js" />
       <jump line="20" column="30" filename="$USER_HOME$/~working0/realie-app/src/data/users.js" />
       <jump line="139" column="15" filename="$USER_HOME$/~working0/realie-app/src/data/pictures.js" />
@@ -1666,6 +1665,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/~working0/realie-app/src/components/validation-preview.js" />
       <jump line="44" column="28" filename="$USER_HOME$/~working0/realie-app/src/components/validation-preview.js" />
       <jump line="60" column="37" filename="$USER_HOME$/~working0/realie-app/src/components/validation-preview.js" />
+      <jump line="69" column="69" filename="$USER_HOME$/~working0/realie-app/src/components/validation-preview.js" />
+      <jump line="201" column="9" filename="$USER_HOME$/~working0/realie-app/src/components/validation-preview.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1686,52 +1687,52 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>2</text>
+        <text>-start</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>-start</text>
       </register>
       <register name="/" type="4">
-        <text>16</text>
+        <text>T</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGJvcmRlclRvcFdpZHRoOiAxLAogICAgYm9yZGVyTGVmdFdpZHRoOiAxLAogICAgYm9yZGVyQ29sb3I6ICcjMjIyJywKICAgIGJhY2tncm91bmRDb2xvcjogJyNmZmYnLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8SW1hZ2UKICAgICAgICAgICAgICAgIHN0eWxlPXtzdHlsZXMuZGF0ZUljb259CiAgICAgICAgICAgICAgICBzb3VyY2U9e3JlcXVpcmUoJy4uLy4uL2Fzc2V0cy9pY29uLWNhbGVuZGFyLWJsYWNrLnBuZycpfQogICAgICAgICAgICAgICAgcmVzaXplTW9kZT0iY29udGFpbiIKICAgICAgICAgICAgICAvPgo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGJhY2tncm91bmRDb2xvcjogJ3JlZCcK</text>
+      <register name="1" type="4">
+        <text>date</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxJbWFnZQogICAgICAgICAgICAgICAgICBzdHlsZT17c3R5bGVzLnRpbWVJY29ufQogICAgICAgICAgICAgICAgICBzb3VyY2U9e3JlcXVpcmUoJy4uLy4uL2Fzc2V0cy9pY29uLWNsb2NrLWJsYWNrLnBuZycpfQogICAgICAgICAgICAgICAgICByZXNpemVNb2RlPSJjb250YWluIgogICAgICAgICAgICAgICAgLz4K</text>
+      <register name="2" type="4">
+        <text>time</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="3" type="4">
+        <text>time</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG1hcmdpblJpZ2h0OiAxCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8SW1hZ2Ugc291cmNlPXtyZXF1aXJlKCcuLi8uLi9hc3NldHMvaWMnKX0K</text>
+        <text encoding="base64">ICAgIC8vIGFsaWduSXRlbXM6ICdsZWZ0JywKCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGJvcmRlclRvcFdpZHRoOiAyLAogICAgYm9yZGVyQm90dG9tV2lkdGg6IDAsCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBhZGRpbmdSaWdodDogMTAK</text>
+        <text encoding="base64">ICAgIGJhY2tncm91bmRDb2xvcjogJ3JlZCcK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGJvcmRlclJpZ2h0V2lkdGg6IDQsCiAgICBib3JkZXJXaWR0aDogMiwKICAgIGJvcmRlclRvcFdpZHRoOiA0LAogICAgYm9yZGVyQ29sb3I6ICcjZmZmJywKICAgIGJhY2tncm91bmRDb2xvcjogJyNlZWUnLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxJbWFnZQogICAgICAgICAgICAgICAgICBzdHlsZT17c3R5bGVzLnRpbWVJY29ufQogICAgICAgICAgICAgICAgICBzb3VyY2U9e3JlcXVpcmUoJy4uLy4uL2Fzc2V0cy9pY29uLWNsb2NrLWJsYWNrLnBuZycpfQogICAgICAgICAgICAgICAgICByZXNpemVNb2RlPSJjb250YWluIgogICAgICAgICAgICAgICAgLz4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGJvcmRlcldpZHRoOiAyLAogICAgYm9yZGVyVG9wV2lkdGg6IDQsCiAgICBib3JkZXJDb2xvcjogJyNmZmYnLAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>16</last-search>
+      <last-search>T</last-search>
       <last-offset />
-      <last-pattern>16</last-pattern>
+      <last-pattern>T</last-pattern>
       <last-replace>it\.realie\.app</last-replace>
       <last-substitute>com\.realieapp</last-substitute>
       <last-dir>1</last-dir>
@@ -1739,10 +1740,6 @@
     </search>
     <history>
       <history-search>
-        <entry>red</entry>
-        <entry>H</entry>
-        <entry>Touch</entry>
-        <entry>source</entry>
         <entry>com\.realieapp</entry>
         <entry>realie</entry>
         <entry>app</entry>
@@ -1759,6 +1756,10 @@
         <entry>cover</entry>
         <entry>resizeMode</entry>
         <entry>16</entry>
+        <entry>time</entry>
+        <entry>I</entry>
+        <entry>date</entry>
+        <entry>T</entry>
       </history-search>
       <history-cmd>
         <entry>261</entry>
