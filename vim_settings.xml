@@ -1332,12 +1332,12 @@
         <mark key="^" line="27" column="18" />
         <mark key="." line="27" column="18" />
       </file>
-      <file name="$USER_HOME$/~working0/realie-app/src/components/validation-preview.js" timestamp="1496355012886">
-        <mark key="'" line="212" column="9" />
-        <mark key="[" line="216" column="15" />
-        <mark key="]" line="216" column="16" />
-        <mark key="." line="216" column="16" />
-        <mark key="^" line="216" column="15" />
+      <file name="$USER_HOME$/~working0/realie-app/src/components/validation-preview.js" timestamp="1496356090350">
+        <mark key="'" line="215" column="9" />
+        <mark key="[" line="118" column="12" />
+        <mark key="]" line="118" column="13" />
+        <mark key="." line="118" column="13" />
+        <mark key="^" line="118" column="13" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-partner-unknown-action-html-en.html" timestamp="1490294471163">
         <mark key="[" line="15" column="24" />
@@ -1686,11 +1686,11 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG9wYWNpdHk6IDAuNQo=</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>-start</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>T</text>
@@ -1698,32 +1698,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIG9wYWNpdHk6IDAuNQo=</text>
       </register>
-      <register name="1" type="4">
-        <text>date</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIG1hcmdpblRvcDogMTAsCiAgICBtYXJnaW5MZWZ0OiAxMCwKICAgIG1hcmdpblJpZ2h0OiAxMCwKICAgIG1hcmdpCg==</text>
       </register>
-      <register name="2" type="4">
-        <text>time</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="4">
+        <text>date</text>
+      </register>
+      <register name="4" type="4">
         <text>time</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIGFsaWduSXRlbXM6ICdsZWZ0JywKCg==</text>
+      <register name="5" type="4">
+        <text>time</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGJhY2tncm91bmRDb2xvcjogJ3JlZCcK</text>
+        <text encoding="base64">ICAgIC8vIGFsaWduSXRlbXM6ICdsZWZ0JywKCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxJbWFnZQogICAgICAgICAgICAgICAgICBzdHlsZT17c3R5bGVzLnRpbWVJY29ufQogICAgICAgICAgICAgICAgICBzb3VyY2U9e3JlcXVpcmUoJy4uLy4uL2Fzc2V0cy9pY29uLWNsb2NrLWJsYWNrLnBuZycpfQogICAgICAgICAgICAgICAgICByZXNpemVNb2RlPSJjb250YWluIgogICAgICAgICAgICAgICAgLz4K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGJhY2tncm91bmRDb2xvcjogJ3JlZCcK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
