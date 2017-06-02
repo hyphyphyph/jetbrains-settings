@@ -828,12 +828,12 @@
         <mark key="." line="65" column="34" />
         <mark key="^" line="65" column="34" />
       </file>
-      <file name="$USER_HOME$/~working0/realie-app/src/theme/colors.js" timestamp="1495569521471">
+      <file name="$USER_HOME$/~working0/realie-app/src/theme/colors.js" timestamp="1496417387659">
         <mark key="'" line="14" column="2" />
-        <mark key="[" line="13" column="16" />
-        <mark key="]" line="13" column="18" />
-        <mark key="^" line="13" column="18" />
-        <mark key="." line="13" column="18" />
+        <mark key="[" line="3" column="21" />
+        <mark key="]" line="3" column="26" />
+        <mark key="^" line="3" column="26" />
+        <mark key="." line="3" column="26" />
       </file>
       <file name="$USER_HOME$/~working0/realie-app/src/components/null.js" timestamp="1495566703454">
         <mark key="[" line="0" column="0" />
@@ -1685,11 +1685,11 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICBzaGFkb3dSYWRpdXM6IDEwLAogICAgc2hhZG93T3BhY2l0eTogMTAwLAogICAgc2hhZG93Q29sb3I6ICcjMDAwJywKICAgIGVsZXZhdGlvbjogMgo=</text>
+      <register name="&quot;" type="4">
+        <text>330033</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>330033</text>
       </register>
       <register name="/" type="4">
         <text>check</text>
