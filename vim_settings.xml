@@ -1332,12 +1332,12 @@
         <mark key="^" line="27" column="18" />
         <mark key="." line="27" column="18" />
       </file>
-      <file name="$USER_HOME$/~working0/realie-app/src/components/validation-preview.js" timestamp="1496419692142">
-        <mark key="'" line="106" column="0" />
-        <mark key="[" line="103" column="36" />
-        <mark key="]" line="103" column="48" />
-        <mark key="." line="103" column="48" />
-        <mark key="^" line="103" column="48" />
+      <file name="$USER_HOME$/~working0/realie-app/src/components/validation-preview.js" timestamp="1496420948983">
+        <mark key="'" line="111" column="49" />
+        <mark key="[" line="38" column="14" />
+        <mark key="]" line="38" column="13" />
+        <mark key="^" line="38" column="13" />
+        <mark key="." line="38" column="13" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/templates/invite-partner-unknown-action-html-en.html" timestamp="1490294471163">
         <mark key="[" line="15" column="24" />
@@ -1511,12 +1511,12 @@
         <mark key="^" line="60" column="30" />
         <mark key="." line="60" column="30" />
       </file>
-      <file name="$USER_HOME$/~working0/realie-app/src/screens/validation.js" timestamp="1496419686048">
+      <file name="$USER_HOME$/~working0/realie-app/src/screens/validation.js" timestamp="1496420368859">
         <mark key="'" line="273" column="2" />
-        <mark key="[" line="97" column="43" />
-        <mark key="]" line="97" column="43" />
-        <mark key="." line="97" column="43" />
-        <mark key="^" line="97" column="44" />
+        <mark key="[" line="97" column="10" />
+        <mark key="]" line="97" column="10" />
+        <mark key="." line="97" column="10" />
+        <mark key="^" line="97" column="9" />
       </file>
       <file name="$USER_HOME$/RealieApp/src/components/drawer-menu-button.js" timestamp="1492831989803">
         <mark key="'" line="17" column="0" />
@@ -1661,12 +1661,12 @@
       <jump line="37" column="28" filename="$USER_HOME$/~working0/realie-app/src/components/validation-preview.js" />
       <jump line="38" column="39" filename="$USER_HOME$/~working0/realie-app/src/components/validation-preview.js" />
       <jump line="51" column="11" filename="$USER_HOME$/~working0/realie-app/src/components/validation-preview.js" />
-      <jump line="106" column="59" filename="$USER_HOME$/~working0/realie-app/src/components/validation-preview.js" />
       <jump line="13" column="23" filename="$USER_HOME$/~working0/realie-app/src/components/validation-preview.js" />
       <jump line="34" column="8" filename="$USER_HOME$/~working0/realie-app/src/components/validation-preview.js" />
       <jump line="263" column="2" filename="$USER_HOME$/~working0/realie-app/src/components/validation-preview.js" />
       <jump line="224" column="4" filename="$USER_HOME$/~working0/realie-app/src/components/validation-preview.js" />
       <jump line="101" column="0" filename="$USER_HOME$/~working0/realie-app/src/components/validation-preview.js" />
+      <jump line="106" column="49" filename="$USER_HOME$/~working0/realie-app/src/components/validation-preview.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1686,46 +1686,44 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>onPress</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgd2lkdGhTdHlsZSA9IHsgd2lkdGg6IHRoaXMuc3RhdGUuaW1hZ2VXaWR0aCB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>onPress</text>
+        <text>A</text>
       </register>
       <register name="/" type="4">
         <text>Bak</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb25QcmVzcz17dGhpcy5vbkJhY2suYmluZCh0aGlzKX0K</text>
+        <text encoding="base64">ICAgIGFsZXJ0KHRoaXMuc3RhdGUuaW1hZ2VXaWR0aCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBUb3VjaAo=</text>
+        <text encoding="base64">ICAgICAgd2lkdGhTdHlsZSA9IHsgd2lkdGg6IHRoaXMuc3RhdGUuaW1hZ2VXaWR0aCB9Cg==</text>
       </register>
-      <register name="2" type="8">
-        <text>Width
-Width
-Width</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgYWxlcnQoJ1lFUycpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGJvcmRlclRPcAo=</text>
+        <text encoding="base64">ICAgIGVsc2UgewogICAgICBhbGVydCgnTk8nKQogICAgfQo=</text>
       </register>
-      <register name="4" type="4">
-        <text>location</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGFsZXJ0KHRoaXMuc3RhdGUuaW1hZ2VXaWR0aCkKICAgIGFsZXJ0KHRoaXMuc3RhdGUucHJldmlvdXNJbWFnZVdpZHRoKQo=</text>
       </register>
-      <register name="5" type="4">
-        <text>location</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAogICAgYWxlcnQodGhpcy50aGlzLnN0YXRlKQo=</text>
       </register>
-      <register name="6" type="4">
-        <text>pictureObject.human_location || 'Calculating Location...'</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgIHsKICAgICAgICAgICAgd2lkdGg6IHRoaXMuc3RhdGUuaW1hZ2VXaWR0aAogICAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG1hcmdpblJpZ2h0OiAyMAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvVmlldz4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICBzaGFkb3dSYWRpdXM6IDEwLAogICAgc2hhZG93T3BhY2l0eTogMTAwLAogICAgc2hhZG93Q29sb3I6ICcjMDAwJywKICAgIGVsZXZhdGlvbjogMgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxWaWV3Pgo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGJvcmRlclRvcENvbG9yOiAnI2YwMCcsCiAgICBib3JkZXJUb3BXaWR0aDogMgo=</text>
+      <register name="9" type="8">
+        <text encoding="base64">Ly8gCi8vIA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
