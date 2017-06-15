@@ -122,12 +122,11 @@
         <mark key="^" line="97" column="1" />
         <mark key="." line="98" column="0" />
       </file>
-      <file name="$USER_HOME$/~working0/realie-app/src/components/picture-actions.js" timestamp="1497487387750">
-        <mark key="'" line="41" column="40" />
-        <mark key="[" line="28" column="10" />
-        <mark key="]" line="28" column="10" />
-        <mark key="." line="28" column="10" />
-        <mark key="^" line="28" column="13" />
+      <file name="$USER_HOME$/~working0/realie-app/src/components/picture-actions.js" timestamp="1497488355053">
+        <mark key="'" line="31" column="0" />
+        <mark key="]" line="9" column="6" />
+        <mark key="." line="9" column="6" />
+        <mark key="^" line="9" column="6" />
       </file>
       <file name="$USER_HOME$/invite-api/config/custom-environment-variables.yml" timestamp="1490110530201">
         <mark key="[" line="26" column="27" />
@@ -1608,7 +1607,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="75" column="38" filename="$USER_HOME$/~working0/realie-app/src/screens/view-picture.js" />
       <jump line="94" column="0" filename="$USER_HOME$/~working0/realie-app/src/components/realie-overlay.js" />
       <jump line="137" column="15" filename="$USER_HOME$/~working0/realie-app/src/components/realie-overlay.js" />
       <jump line="166" column="3" filename="$USER_HOME$/~working0/realie-app/src/components/realie-overlay.js" />
@@ -1708,6 +1706,7 @@
       <jump line="24" column="19" filename="$USER_HOME$/~working0/realie-app/src/components/capture-button.js" />
       <jump line="45" column="11" filename="$USER_HOME$/~working0/realie-app/src/components/capture-button.js" />
       <jump line="22" column="0" filename="$USER_HOME$/~working0/realie-app/src/components/capture-button.js" />
+      <jump line="30" column="0" filename="$USER_HOME$/~working0/realie-app/src/components/picture-actions.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1727,11 +1726,11 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>32</text>
@@ -1740,31 +1739,31 @@
         <text encoding="base64">ICAgICAgICA8VmlldyBzdHlsZT17c3R5bGVzLmljb25Db250YWluZXJ9PgogICAgICAgICAgPEVudHlwb0ljb24KICAgICAgICAgICAgbmFtZT0iY29kZSIKICAgICAgICAgICAgc2l6ZT17MjR9CiAgICAgICAgICAgIG9uUHJlc3M9e3RoaXMuX29uRW1iZWQuYmluZCh0aGlzKX0KICAgICAgICAgIC8+CiAgICAgICAgPC9WaWV3Pgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxFbnR5cG9JY29uCiAgICAgICAgICAgIG5hbWU9ImNvZGUiCiAgICAgICAgICAgIHNpemU9ezI0fQogICAgICAgICAgICBvblByZXNzPXt0aGlzLl9vbkVtYmVkLmJpbmQodGhpcyl9CiAgICAgICAgICAvPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IE1hdGVyaWFsSWNvbiBmcm9tICdyZWFjdC1uYXRpdmUtdmVjdG9yLWljb25zL01hdGVyaWFsSWNvbnMnCg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxFbnR5cG9JY29uCiAgICAgICAgICAgIG5hbWU9ImNvZGUiCiAgICAgICAgICAgIHNpemU9ezI0fQogICAgICAgICAgICBvblByZXNzPXt0aGlzLl9vbkVtYmVkLmJpbmQodGhpcyl9CiAgICAgICAgICAvPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IE1hdGVyaWFsSWNvbiBmcm9tICdyZWFjdC1uYXRpdmUtdmVjdG9yLWljb25zL01hdGVyaWFsSWNvbnMnCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGFsZXJ0KE9iamVjdC5rZXlzKHRoaXMucHJvcHMuY3VycmVudFVzZXIudXNlcikpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHRoZW1lIGZyb20gJy4uL3RoZW1lJwo=</text>
+        <text encoding="base64">ICAgIGFsZXJ0KE9iamVjdC5rZXlzKHRoaXMucHJvcHMuY3VycmVudFVzZXIudXNlcikpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IEV2aWxJY29uIGZyb20gJ3JlYWN0LW5hdGl2ZS12ZWN0b3ItaWNvbnMvRXZpbEljb25zJwo=</text>
+        <text encoding="base64">aW1wb3J0IHRoZW1lIGZyb20gJy4uL3RoZW1lJwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB7Lyo8RXZpbEljb24qL30KICAgICAgICAgIHsvKm5hbWU9ImNhbWVyYSIqL30KICAgICAgICAgIHsvKnNpemU9ezMyfSovfQogICAgICAgICAgey8qY29sb3I9e3RoZW1lLmNvbG9ycy5idXR0b24ucHJpbWFyeX0qL30KICAgICAgICAgIHsvKnN0eWxlPXt0aGlzLnByb3BzLnN0eWxlfSovfQogICAgICAgICAgey8qLz4qL30K</text>
+        <text encoding="base64">aW1wb3J0IEV2aWxJY29uIGZyb20gJ3JlYWN0LW5hdGl2ZS12ZWN0b3ItaWNvbnMvRXZpbEljb25zJwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29sb3IgPSB0aGVtZS5jb2xvcnMuY2FwdHVyZUljb25zLmZsYXNoQXV0bwogICAgICBuYW1lID0gJ2ZsYXNoLWF1dG8nCg==</text>
+        <text encoding="base64">ICAgICAgICB7Lyo8RXZpbEljb24qL30KICAgICAgICAgIHsvKm5hbWU9ImNhbWVyYSIqL30KICAgICAgICAgIHsvKnNpemU9ezMyfSovfQogICAgICAgICAgey8qY29sb3I9e3RoZW1lLmNvbG9ycy5idXR0b24ucHJpbWFyeX0qL30KICAgICAgICAgIHsvKnN0eWxlPXt0aGlzLnByb3BzLnN0eWxlfSovfQogICAgICAgICAgey8qLz4qL30K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29sb3IgPSB0aGVtZS5jb2xvcnMuY2FwdHVyZUljb25zLmZsYXNoT24KICAgICAgbmFtZSA9ICdmbGFzaCcK</text>
+        <text encoding="base64">ICAgICAgY29sb3IgPSB0aGVtZS5jb2xvcnMuY2FwdHVyZUljb25zLmZsYXNoQXV0bwogICAgICBuYW1lID0gJ2ZsYXNoLWF1dG8nCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
