@@ -96,8 +96,8 @@
         <mark key="." line="0" column="30" />
         <mark key="^" line="0" column="30" />
       </file>
-      <file name="$USER_HOME$/~working0/realie-app/src/screens/loading.js" timestamp="1497580082329">
-        <mark key="'" line="39" column="47" />
+      <file name="$USER_HOME$/~working0/realie-app/src/screens/loading.js" timestamp="1497742134027">
+        <mark key="'" line="36" column="4" />
         <mark key="[" line="9" column="13" />
         <mark key="]" line="9" column="11" />
         <mark key="." line="9" column="11" />
@@ -863,12 +863,12 @@
         <mark key="." line="410" column="35" />
         <mark key="^" line="410" column="35" />
       </file>
-      <file name="$USER_HOME$/~working0/realie-app/src/components/metadata-details.js" timestamp="1496892903313">
-        <mark key="'" line="33" column="66" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
-        <mark key="^" line="27" column="33" />
+      <file name="$USER_HOME$/~working0/realie-app/src/components/metadata-details.js" timestamp="1497742366970">
+        <mark key="'" line="131" column="28" />
+        <mark key="[" line="130" column="23" />
+        <mark key="]" line="130" column="24" />
+        <mark key="." line="130" column="24" />
+        <mark key="^" line="131" column="27" />
       </file>
       <file name="$USER_HOME$/RealieApp/src/components/header-logo.js" timestamp="1492875406536">
         <mark key="'" line="16" column="4" />
@@ -1592,10 +1592,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="66" column="9" filename="$USER_HOME$/~working0/realie-app/src/components/realie-viewer.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/~working0/realie-app/src/components/realie-viewer.js" />
-      <jump line="5" column="5" filename="$USER_HOME$/~working0/realie-app/src/components/realie-viewer.js" />
-      <jump line="103" column="10" filename="$USER_HOME$/~working0/realie-app/src/components/realie-viewer.js" />
       <jump line="74" column="22" filename="$USER_HOME$/~working0/realie-app/src/screens/view-picture.js" />
       <jump line="107" column="82" filename="$USER_HOME$/~working0/realie-app/src/screens/view-picture.js" />
       <jump line="108" column="11" filename="$USER_HOME$/~working0/realie-app/src/screens/view-picture.js" />
@@ -1692,6 +1688,10 @@
       <jump line="1" column="23" filename="$USER_HOME$/~working0/realie-app/android/app/src/main/AndroidManifest.xml" />
       <jump line="43" column="7" filename="$USER_HOME$/~working0/realie-app/android/app/src/main/AndroidManifest.xml" />
       <jump line="42" column="67" filename="$USER_HOME$/~working0/realie-app/android/app/src/main/AndroidManifest.xml" />
+      <jump line="14" column="15" filename="$USER_HOME$/~working0/realie-app/src/components/metadata-details.js" />
+      <jump line="36" column="4" filename="$USER_HOME$/~working0/realie-app/src/screens/loading.js" />
+      <jump line="121" column="23" filename="$USER_HOME$/~working0/realie-app/src/components/metadata-details.js" />
+      <jump line="131" column="28" filename="$USER_HOME$/~working0/realie-app/src/components/metadata-details.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1711,64 +1711,60 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBWaWV3Cg==</text>
+      <register name="&quot;" type="4">
+        <text>000</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PC9UZXh0PjwvSHlwZXJsaW5rPg==</text>
+        <text>000</text>
       </register>
       <register name="/" type="4">
-        <text>screen</text>
+        <text>1</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBzdGF0aWMgbmF2aWdhdGlvbk9wdGlvbnMgPSAoeyBuYXZpZ2F0aW9uIH0pID0+IHsKICAgIGNvbnN0IHsgZGlzcGF0Y2ggfSA9IG5hdmlnYXRpb24KCiAgICByZXR1cm4gewogICAgICBoZWFkZXJUaXRsZTogPEhlYWRlckxvZ28vPiwKICAgICAgaGVhZGVyVGl0bGVTdHlsZTogc3R5bGVzLmhlYWRlclRpdGxlLAogICAgICBoZWFkZXJTdHlsZTogc3R5bGVzLmhlYWRlciwKCiAgICAgIGhlYWRlckxlZnQ6IDxIYW1idXJnZXJCdXR0b24gb25QcmVzcz17KCkgPT4geyBuYXZpZ2F0aW9uLm5hdmlnYXRlKCdEcmF3ZXJPcGVuJykgfX0vPiwKICAgICAgaGVhZGVyUmlnaHQ6IDxDYXB0dXJlQnV0dG9uIG9uUHJlc3M9eygpID0+IGRpc3BhdGNoKE5hdmlnYXRlVG9DYXB0dXJlKHRydWUpKX0vPgogICAgfQogIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBWaWV3Cg==</text>
+        <text encoding="base64">ICAgIGJvcmRlckJvdHRvbVdpZHRoOiAxLAogICAgYm9yZGVyQm90dG9tQ29sb3I6ICcjMDAwJwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHBhZGRpbmdMZWZ0OiAxMDAsCiAgICBwYWRkaW5nUmlnaHQ6IDEwMCwK</text>
+        <text encoding="base64">ICAgIC8vIGJhY2tncm91bmRDb2xvcjogJyNlZWUnCg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">PC9UZXh0PjwvSHlwZXJsaW5rPg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIG1hcmdpbkJvdHRvbTogMTAK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">PEh5cGVybGluayBvblByZXNzPXsoKSA9PiB7IGFsZXJ0KDEyMykgfX0+PFRleHQ+</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIC8vIGJvcmRlckJvdHRvbVdpZHRoOiAxLAogICAgLy8gYm9yZGVyQm90dG9tQ29sb3I6ICcjZGRkJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBWaWV3Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CmltcG9ydCAK</text>
+        <text encoding="base64">ICAgIHBhZGRpbmdMZWZ0OiAxMDAsCiAgICBwYWRkaW5nUmlnaHQ6IDEwMCwK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="7" type="4">
+        <text encoding="base64">PC9UZXh0PjwvSHlwZXJsaW5rPg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBUb3VjaGFibGVIaWdobGlnaHQK</text>
+      <register name="8" type="4">
+        <text encoding="base64">PEh5cGVybGluayBvblByZXNzPXsoKSA9PiB7IGFsZXJ0KDEyMykgfX0+PFRleHQ+</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgIGhlYWRlckxlZnQ6IDxIYW1idXJnZXJCdXR0b24gb25QcmVzcz17KCkgPT4geyBuYXZpZ2F0aW9uLm5hdmlnYXRlKCdEcmF3ZXJPcGVuJykgfX0vPiwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>screen</last-search>
+      <last-search>1</last-search>
       <last-offset />
-      <last-pattern>screen</last-pattern>
+      <last-pattern>1</last-pattern>
       <last-replace>it\.realie\.app</last-replace>
       <last-substitute>com\.realieapp</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>reg</entry>
-        <entry>reig</entry>
-        <entry>Regi</entry>
-        <entry>opac</entry>
         <entry>222</entry>
         <entry>al;</entry>
         <entry>al</entry>
@@ -1785,12 +1781,12 @@
         <entry encoding="base64">IG9y</entry>
         <entry>activity</entry>
         <entry>screen</entry>
+        <entry>EXIF</entry>
+        <entry>Exif</entry>
+        <entry>000</entry>
+        <entry>1</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
-        <entry>45</entry>
-        <entry>100</entry>
-        <entry>40</entry>
         <entry encoding="base64">JzwsJz5zL3RleHRBbGlnbi9hbGlnbkl0ZW1zL2c=</entry>
         <entry>36</entry>
         <entry>W</entry>
@@ -1806,6 +1802,10 @@
         <entry encoding="base64">JzwsJz5zL2NvbVwucmVhbGllYXBwL2l0XC5yZWFsaWVcLmFwcC9n</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>we</entry>
+        <entry>412</entry>
+        <entry>41</entry>
+        <entry>1w</entry>
+        <entry>122</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
