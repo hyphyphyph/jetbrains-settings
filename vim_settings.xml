@@ -101,12 +101,12 @@
         <mark key="." line="410" column="35" />
         <mark key="^" line="410" column="35" />
       </file>
-      <file name="$USER_HOME$/~working0/realie-app/src/components/metadata-details.js" timestamp="1497805684267">
-        <mark key="'" line="26" column="33" />
-        <mark key="[" line="165" column="13" />
-        <mark key="]" line="165" column="14" />
-        <mark key="." line="165" column="14" />
-        <mark key="^" line="165" column="15" />
+      <file name="$USER_HOME$/~working0/realie-app/src/components/metadata-details.js" timestamp="1497808315316">
+        <mark key="'" line="146" column="80" />
+        <mark key="[" line="146" column="71" />
+        <mark key="]" line="146" column="71" />
+        <mark key="." line="146" column="71" />
+        <mark key="^" line="146" column="71" />
       </file>
       <file name="$USER_HOME$/~working0/realie-app/src/screens/loading.js" timestamp="1497750287980">
         <mark key="'" line="96" column="14" />
@@ -975,7 +975,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="28" filename="$USER_HOME$/~working0/realie-app/src/screens/about.js" />
       <jump line="34" column="28" filename="$USER_HOME$/~working0/realie-app/src/screens/about.js" />
       <jump line="69" column="2" filename="$USER_HOME$/~working0/realie-app/src/screens/about.js" />
       <jump line="76" column="16" filename="$USER_HOME$/~working0/realie-app/src/screens/about.js" />
@@ -1075,6 +1074,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/~working0/realie-app/src/screens/about.js" />
       <jump line="26" column="17" filename="$USER_HOME$/~working0/realie-app/src/screens/about.js" />
       <jump line="39" column="35" filename="$USER_HOME$/~working0/realie-app/src/screens/about.js" />
+      <jump line="146" column="80" filename="$USER_HOME$/~working0/realie-app/src/components/metadata-details.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1094,53 +1094,53 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHBhZGRpbmdUb3A6IDEwLAogICAgcGFkZGluZ0JvdHRvbTogCg==</text>
+      <register name="&quot;" type="4">
+        <text>y</text>
       </register>
       <register name="-" type="4">
-        <text>View</text>
+        <text>y</text>
       </register>
       <register name="/" type="4">
-        <text>realie.it</text>
+        <text>L</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8Rm9udEF3ZXNvbWVJY29uCiAgICAgICAgICBzdHlsZT17c3R5bGVzLmxvY2F0aW9uSWNvbn0KICAgICAgICAgIHNpemU9ezEyfQogICAgICAgICAgbmFtZT0ibWFwLW1hcmtlciIKICAgICAgICAgIGNvbG9yPSIjZmZmIgogICAgICAgIC8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGluZGV4ID09PSBzZWN0aW9ucy5sZW5ndGggLSAxID8gc3R5bGVzLmFjY29yZGlvbkhlYWRlckxhc3QgOiBudWxsCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHBhZGRpbmdUb3A6IDEwLAogICAgcGFkZGluZ0JvdHRvbTogCg==</text>
+      <register name="1" type="4">
+        <text>Header</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGJhY2tncm91bmRDb2xvcjogJ3JlZCcsCg==</text>
+        <text encoding="base64">ICAgIG1hcmdpbkJvdHRvbTogMCwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG1hcmdpblJpZ2h0OiAyMCwK</text>
+        <text encoding="base64">ICAgIG1hcmdpbkJvdHRvbTogMAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIG1hcmdpbkJvdHRvbTogNQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgYWxlcnQoYXV0aG9yLmF2YXRhcikK</text>
+        <text encoding="base64">ICAgIHBhZGRpbmdUb3A6IDEwLAogICAgcGFkZGluZ0JvdHRvbTogCg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICdodHRwcycp</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGJhY2tncm91bmRDb2xvcjogJ3JlZCcsCg==</text>
       </register>
-      <register name="7" type="4">
-        <text>.replace('http',</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIG1hcmdpblJpZ2h0OiAyMCwK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICBwYWRkaW5nTGVmdDogMTAsCg==</text>
+        <text encoding="base64">ICAgICAgYWxlcnQoYXV0aG9yLmF2YXRhcikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>realie.it</last-search>
+      <last-search>L</last-search>
       <last-offset />
-      <last-pattern>realie.it</last-pattern>
+      <last-pattern>L</last-pattern>
       <last-replace>it\.realie\.app</last-replace>
       <last-substitute>com\.realieapp</last-substitute>
       <last-dir>1</last-dir>
@@ -1148,8 +1148,6 @@
     </search>
     <history>
       <history-search>
-        <entry>000</entry>
-        <entry>12</entry>
         <entry>locationIcon</entry>
         <entry>calendar</entry>
         <entry encoding="base64">XDxkYXRlSWNvblw+</entry>
@@ -1168,6 +1166,8 @@
         <entry>red</entry>
         <entry>:</entry>
         <entry>realie.it</entry>
+        <entry>H</entry>
+        <entry>L</entry>
       </history-search>
       <history-cmd>
         <entry>14</entry>
