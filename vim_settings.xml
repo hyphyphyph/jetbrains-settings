@@ -495,12 +495,11 @@
         <mark key="." line="410" column="35" />
         <mark key="^" line="410" column="35" />
       </file>
-      <file name="$USER_HOME$/~working0/realie-app/src/components/metadata-details.js" timestamp="1497746643795">
-        <mark key="'" line="144" column="34" />
-        <mark key="[" line="188" column="21" />
-        <mark key="]" line="188" column="19" />
-        <mark key="." line="188" column="19" />
-        <mark key="^" line="188" column="19" />
+      <file name="$USER_HOME$/~working0/realie-app/src/components/metadata-details.js" timestamp="1497752558123">
+        <mark key="'" line="27" column="33" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/RealieApp/src/components/header-logo.js" timestamp="1492875406536">
         <mark key="'" line="16" column="4" />
@@ -975,8 +974,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="178" column="17" filename="$USER_HOME$/~working0/realie-app/src/components/metadata-details.js" />
-      <jump line="187" column="18" filename="$USER_HOME$/~working0/realie-app/src/components/metadata-details.js" />
       <jump line="129" column="43" filename="$USER_HOME$/~working0/realie-app/src/components/metadata-details.js" />
       <jump line="24" column="10" filename="$USER_HOME$/~working0/realie-app/src/components/metadata-details.js" />
       <jump line="144" column="34" filename="$USER_HOME$/~working0/realie-app/src/components/metadata-details.js" />
@@ -1075,6 +1072,8 @@
       <jump line="50" column="32" filename="$USER_HOME$/~working0/realie-app/src/components/validation-preview.js" />
       <jump line="52" column="30" filename="$USER_HOME$/~working0/realie-app/src/components/validation-preview.js" />
       <jump line="56" column="34" filename="$USER_HOME$/~working0/realie-app/src/components/validation-preview.js" />
+      <jump line="188" column="19" filename="$USER_HOME$/~working0/realie-app/src/components/metadata-details.js" />
+      <jump line="27" column="33" filename="$USER_HOME$/~working0/realie-app/src/components/metadata-details.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1094,53 +1093,53 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>2</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgYWxlcnQoYXV0aG9yLmF2YXRhcikK</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text encoding="base64">ICdodHRwcycp</text>
       </register>
       <register name="/" type="4">
-        <text>realieId</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8Rm9udEF3ZXNvbWVJY29uCiAgICAgICAgICBzdHlsZT17c3R5bGVzLmxvY2F0aW9uSWNvbn0KICAgICAgICAgIHNpemU9ezEyfQogICAgICAgICAgbmFtZT0ibWFwLW1hcmtlciIKICAgICAgICAgIGNvbG9yPSIjZmZmIgogICAgICAgIC8+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgYWxlcnQoYXV0aG9yLmF2YXRhcikK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CiAgICBwYWRkaW5nTGVmdDogMTAsCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICdodHRwcycp</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="3" type="4">
+        <text>.replace('http',</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPEZvbnRBd2Vzb21lSWNvbgogICAgICAgICAgICAgIHNpemU9ezE2fQogICAgICAgICAgICAgIG5hbWU9e30KICAgICAgICAgICAgLz4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBzdHlsZT17fQo=</text>
+        <text encoding="base64">CiAgICBwYWRkaW5nTGVmdDogMTAsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGJhY2tncm91bmRDb2xvcjogJ3JlZCcK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBCdXR0b24sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPEZvbnRBd2Vzb21lSWNvbgogICAgICAgICAgICAgIHNpemU9ezE2fQogICAgICAgICAgICAgIG5hbWU9e30KICAgICAgICAgICAgLz4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxCdXR0b24KICAgICAgICAgICAgdGl0bGU9IlNhdmUiCiAgICAgICAgICAgIG9uUHJlc3M9eygpID0+IG5hdmlnYXRpb24uZ29CYWNrKCl9CiAgICAgICAgICAvPiwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBzdHlsZT17fQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3R5bGU9e3N0eWxlcy5zYXZlQnV0dG9ufQo=</text>
+        <text encoding="base64">ICAgIGJhY2tncm91bmRDb2xvcjogJ3JlZCcK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>realieId</last-search>
+      <last-search encoding="base64">IA==</last-search>
       <last-offset />
-      <last-pattern>realieId</last-pattern>
+      <last-pattern encoding="base64">IA==</last-pattern>
       <last-replace>it\.realie\.app</last-replace>
       <last-substitute>com\.realieapp</last-substitute>
       <last-dir>1</last-dir>
@@ -1148,9 +1147,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpbWFnZUljb25cPg==</entry>
-        <entry>Font</entry>
-        <entry>paddingLeft</entry>
         <entry>twitter</entry>
         <entry>dateIcon</entry>
         <entry>twitterIcon</entry>
@@ -1168,6 +1164,9 @@
         <entry>location</entry>
         <entry encoding="base64">XDxsb2NhdGlvblw+</entry>
         <entry>realieId</entry>
+        <entry>https</entry>
+        <entry>\.</entry>
+        <entry encoding="base64">IA==</entry>
       </history-search>
       <history-cmd>
         <entry>14</entry>
