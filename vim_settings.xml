@@ -756,12 +756,12 @@
         <mark key="." line="25" column="46" />
         <mark key="^" line="25" column="46" />
       </file>
-      <file name="$USER_HOME$/~working0/realie-app/src/screens/about.js" timestamp="1497747834070">
-        <mark key="'" line="41" column="41" />
-        <mark key="[" line="16" column="50" />
-        <mark key="]" line="17" column="35" />
-        <mark key="." line="17" column="35" />
-        <mark key="^" line="17" column="35" />
+      <file name="$USER_HOME$/~working0/realie-app/src/screens/about.js" timestamp="1497801773508">
+        <mark key="'" line="40" column="35" />
+        <mark key="[" line="45" column="7" />
+        <mark key="]" line="45" column="16" />
+        <mark key="." line="45" column="16" />
+        <mark key="^" line="45" column="16" />
       </file>
       <file name="$USER_HOME$/~working0/realie-app/src/components/grid-overlay.js" timestamp="1493320344485">
         <mark key="'" line="12" column="86" />
@@ -974,11 +974,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="144" column="34" filename="$USER_HOME$/~working0/realie-app/src/components/metadata-details.js" />
-      <jump line="45" column="11" filename="$USER_HOME$/~working0/realie-app/src/screens/about.js" />
-      <jump line="53" column="11" filename="$USER_HOME$/~working0/realie-app/src/screens/about.js" />
-      <jump line="79" column="17" filename="$USER_HOME$/~working0/realie-app/src/screens/about.js" />
-      <jump line="37" column="28" filename="$USER_HOME$/~working0/realie-app/src/screens/about.js" />
       <jump line="49" column="28" filename="$USER_HOME$/~working0/realie-app/src/screens/about.js" />
       <jump line="34" column="28" filename="$USER_HOME$/~working0/realie-app/src/screens/about.js" />
       <jump line="69" column="2" filename="$USER_HOME$/~working0/realie-app/src/screens/about.js" />
@@ -1074,6 +1069,11 @@
       <jump line="41" column="48" filename="$USER_HOME$/~working0/realie-app/src/screens/edit-details.js" />
       <jump line="37" column="44" filename="$USER_HOME$/~working0/realie-app/src/screens/edit-details.js" />
       <jump line="137" column="0" filename="$USER_HOME$/~working0/realie-app/src/screens/edit-details.js" />
+      <jump line="103" column="17" filename="$USER_HOME$/~working0/realie-app/src/screens/about.js" />
+      <jump line="106" column="6" filename="$USER_HOME$/~working0/realie-app/src/screens/about.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/~working0/realie-app/src/screens/about.js" />
+      <jump line="26" column="17" filename="$USER_HOME$/~working0/realie-app/src/screens/about.js" />
+      <jump line="39" column="35" filename="$USER_HOME$/~working0/realie-app/src/screens/about.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1093,14 +1093,14 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGJhY2tncm91bmRDb2xvcjogJ3JlZCcsCg==</text>
+      <register name="&quot;" type="4">
+        <text>View</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICdodHRwcycp</text>
+        <text>View</text>
       </register>
       <register name="/" type="4">
-        <text>red</text>
+        <text>realie.it</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8Rm9udEF3ZXNvbWVJY29uCiAgICAgICAgICBzdHlsZT17c3R5bGVzLmxvY2F0aW9uSWNvbn0KICAgICAgICAgIHNpemU9ezEyfQogICAgICAgICAgbmFtZT0ibWFwLW1hcmtlciIKICAgICAgICAgIGNvbG9yPSIjZmZmIgogICAgICAgIC8+Cg==</text>
@@ -1137,9 +1137,9 @@
       </register>
     </registers>
     <search>
-      <last-search>red</last-search>
+      <last-search>realie.it</last-search>
       <last-offset />
-      <last-pattern>red</last-pattern>
+      <last-pattern>realie.it</last-pattern>
       <last-replace>it\.realie\.app</last-replace>
       <last-substitute>com\.realieapp</last-substitute>
       <last-dir>1</last-dir>
@@ -1147,8 +1147,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Icon</entry>
-        <entry>fff</entry>
         <entry>000</entry>
         <entry>12</entry>
         <entry>locationIcon</entry>
@@ -1167,6 +1165,8 @@
         <entry>OK</entry>
         <entry>saveButtonText</entry>
         <entry>red</entry>
+        <entry>:</entry>
+        <entry>realie.it</entry>
       </history-search>
       <history-cmd>
         <entry>14</entry>
@@ -1178,7 +1178,6 @@
         <entry>.w</entry>
         <entry>37</entry>
         <entry encoding="base64">JzwsJz5zL2NvbVwucmVhbGllYXBwL2l0XC5yZWFsaWVcLmFwcC9n</entry>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry>we</entry>
         <entry>412</entry>
         <entry>41</entry>
@@ -1188,6 +1187,7 @@
         <entry>24</entry>
         <entry>V</entry>
         <entry>W</entry>
+        <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
