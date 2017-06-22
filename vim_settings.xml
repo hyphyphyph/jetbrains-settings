@@ -388,11 +388,11 @@
         <mark key="." line="7" column="20" />
         <mark key="^" line="7" column="20" />
       </file>
-      <file name="$USER_HOME$/~working0/realie-app/src/data/pictures.js" timestamp="1498173626676">
-        <mark key="[" line="80" column="33" />
-        <mark key="]" line="80" column="41" />
-        <mark key="." line="80" column="41" />
-        <mark key="^" line="80" column="41" />
+      <file name="$USER_HOME$/~working0/realie-app/src/data/pictures.js" timestamp="1498174468522">
+        <mark key="[" line="88" column="10" />
+        <mark key="]" line="88" column="13" />
+        <mark key="." line="88" column="13" />
+        <mark key="^" line="88" column="13" />
       </file>
       <file name="$USER_HOME$/RealieApp/src/navigation/MainStack.js" timestamp="1492728858784">
         <mark key="'" line="0" column="0" />
@@ -1099,10 +1099,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>-stream</text>
+        <text>data</text>
       </register>
       <register name="-" type="4">
-        <text>-stream</text>
+        <text>data</text>
       </register>
       <register name="/" type="4">
         <text>\.then</text>
