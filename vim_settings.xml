@@ -220,12 +220,12 @@
         <mark key="." line="124" column="37" />
         <mark key="^" line="124" column="37" />
       </file>
-      <file name="$USER_HOME$/~working0/realie-app/android/app/build.gradle" timestamp="1496274888663">
+      <file name="$USER_HOME$/~working0/realie-app/android/app/build.gradle" timestamp="1498170971445">
         <mark key="'" line="143" column="25" />
-        <mark key="[" line="89" column="26" />
-        <mark key="]" line="89" column="35" />
-        <mark key="^" line="89" column="35" />
-        <mark key="." line="89" column="35" />
+        <mark key="[" line="152" column="35" />
+        <mark key="]" line="152" column="39" />
+        <mark key="^" line="152" column="39" />
+        <mark key="." line="152" column="39" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/quota/handlers/quota-crud.handler.js" timestamp="1490561256423">
         <mark key="'" line="114" column="19" />
@@ -1099,17 +1099,17 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHttb21lbnQodGhpcy5wcm9wcy5waWN0dXJlLmNyZWF0ZWRfYXRfbG9jYWwpLmZvcm1hdChjb25zdGFudHMuZGF0ZXRpbWUuZGF0ZUZvck1vbWVudCl9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>pinning</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ID0gdGhpcy5wcm9wcy5waWN0dXJlT2JqZWN0LmNyZWF0ZWRfYXQ=</text>
+        <text>pinning</text>
       </register>
       <register name="/" type="4">
         <text>\.read</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGxldCBjcmVhdGVkQXREYXRlCiAgICBsZXQgY3JlYXRlZEF0VGltZQogICAgaWYgKHRoaXMucHJvcHMucGljdHVyZU9iamVjdC5jcmVhdGVkX2F0X2xvY2FsKSB7CiAgICAgIGNvbnN0IGNyZWF0ZWRBdCA9IHRoaXMucHJvcHMucGljdHVyZU9iamVjdC5jcmVhdGVkX2F0X2xvY2FsLnJlcGxhY2UoL1okLywgJycpCiAgICAgIGNyZWF0ZWRBdERhdGUgPSBtb21lbnQoY3JlYXRlZEF0KS5mb3JtYXQoY29uc3RhbnRzLmRhdGV0aW1lLmRhdGVGb3JNb21lbnQpCiAgICAgIGNyZWF0ZWRBdFRpbWUgPSBtb21lbnQoY3JlYXRlZEF0KS5mb3JtYXQoY29uc3RhbnRzLmRhdGV0aW1lLnRpbWVGb3JNb21lbnQpCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgcHJvamVjdCgnOmJ1Z3NuYWctcmVhY3QtbmF0aXZlJykK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHttb21lbnQodGhpcy5wcm9wcy5waWN0dXJlLmNyZWF0ZWRfYXRfbG9jYWwpLmZvcm1hdChjb25zdGFudHMuZGF0ZXRpbWUuZGF0ZUZvck1vbWVudCl9Cg==</text>
