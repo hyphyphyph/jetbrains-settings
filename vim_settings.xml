@@ -388,11 +388,12 @@
         <mark key="." line="7" column="20" />
         <mark key="^" line="7" column="20" />
       </file>
-      <file name="$USER_HOME$/~working0/realie-app/src/data/pictures.js" timestamp="1498174468522">
-        <mark key="[" line="88" column="10" />
-        <mark key="]" line="88" column="13" />
-        <mark key="." line="88" column="13" />
-        <mark key="^" line="88" column="13" />
+      <file name="$USER_HOME$/~working0/realie-app/src/data/pictures.js" timestamp="1498175711332">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="88" column="61" />
+        <mark key="]" line="88" column="61" />
+        <mark key="." line="88" column="61" />
+        <mark key="^" line="88" column="61" />
       </file>
       <file name="$USER_HOME$/RealieApp/src/navigation/MainStack.js" timestamp="1492728858784">
         <mark key="'" line="0" column="0" />
@@ -979,8 +980,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="0" filename="$USER_HOME$/~working0/realie-app/src/screens/capture.js" />
-      <jump line="52" column="6" filename="$USER_HOME$/~working0/realie-app/src/screens/capture.js" />
       <jump line="16" column="18" filename="$USER_HOME$/~working0/realie-app/src/screens/edit-details.js" />
       <jump line="35" column="19" filename="$USER_HOME$/~working0/realie-app/src/screens/edit-details.js" />
       <jump line="129" column="10" filename="$USER_HOME$/~working0/realie-app/src/screens/edit-details.js" />
@@ -1079,6 +1078,8 @@
       <jump line="83" column="41" filename="$USER_HOME$/~working0/realie-app/src/data/pictures.js" />
       <jump line="80" column="44" filename="$USER_HOME$/~working0/realie-app/src/data/pictures.js" />
       <jump line="92" column="9" filename="$USER_HOME$/~working0/realie-app/src/data/pictures.js" />
+      <jump line="97" column="20" filename="$USER_HOME$/~working0/realie-app/src/data/pictures.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/~working0/realie-app/src/data/pictures.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1099,61 +1100,59 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>data</text>
+        <text>`</text>
       </register>
       <register name="-" type="4">
-        <text>data</text>
+        <text>`</text>
       </register>
       <register name="/" type="4">
-        <text>\.then</text>
+        <text>upload</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYWxlcnQoJ2NhdGNoJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS53YXJuKHJlcy5zdGF0dXMpCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGZpbGU6IGRhdGEKICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWxlcnQocmVzLnN0YXR1c0NvZGUpCg==</text>
+        <text encoding="base64">aW1wb3J0IAoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWxlcnQoJ2NhdGNoJykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgUE8nCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS53YXJuKHJlcy5zdGF0dXMpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgYm9keTogCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWxlcnQocmVzLnN0YXR1c0NvZGUpCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhbGVydChkYXRhKQo=</text>
+        <text encoding="base64">ICAgICAgUE8nCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHttb21lbnQodGhpcy5wcm9wcy5waWN0dXJlLmNyZWF0ZWRfYXRfbG9jYWwpLmZvcm1hdChjb25zdGFudHMuZGF0ZXRpbWUuZGF0ZUZvck1vbWVudCl9Cg==</text>
+        <text encoding="base64">ICAgICAgYm9keTogCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHttb21lbnQodGhpcy5wcm9wcy5waWN0dXJlLmNyZWF0ZWRfYXRfbG9jYWwpLmZvcm1hdChjb25zdGFudHMuZGF0ZXRpbWUudGltZUZvck1vbWVudCl9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>\.then</last-search>
+      <last-search>upload</last-search>
       <last-offset />
-      <last-pattern>\.then</last-pattern>
+      <last-pattern>upload</last-pattern>
       <last-replace>it\.realie\.app</last-replace>
       <last-substitute>com\.realieapp</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>H</entry>
-        <entry>L</entry>
         <entry>date</entry>
         <entry>time</entry>
         <entry>at</entry>
@@ -1172,6 +1171,8 @@
         <entry>\.read</entry>
         <entry>multi</entry>
         <entry>\.then</entry>
+        <entry>(</entry>
+        <entry>upload</entry>
       </history-search>
       <history-cmd>
         <entry>14</entry>
