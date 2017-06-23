@@ -388,12 +388,12 @@
         <mark key="." line="7" column="20" />
         <mark key="^" line="7" column="20" />
       </file>
-      <file name="$USER_HOME$/~working0/realie-app/src/data/pictures.js" timestamp="1498176620128">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="88" column="61" />
-        <mark key="]" line="88" column="61" />
-        <mark key="." line="88" column="61" />
-        <mark key="^" line="88" column="61" />
+      <file name="$USER_HOME$/~working0/realie-app/src/data/pictures.js" timestamp="1498179600240">
+        <mark key="'" line="92" column="7" />
+        <mark key="[" line="91" column="38" />
+        <mark key="]" line="91" column="44" />
+        <mark key="." line="91" column="44" />
+        <mark key="^" line="91" column="44" />
       </file>
       <file name="$USER_HOME$/RealieApp/src/navigation/MainStack.js" timestamp="1492728858784">
         <mark key="'" line="0" column="0" />
@@ -980,9 +980,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="18" filename="$USER_HOME$/~working0/realie-app/src/screens/edit-details.js" />
-      <jump line="35" column="19" filename="$USER_HOME$/~working0/realie-app/src/screens/edit-details.js" />
-      <jump line="129" column="10" filename="$USER_HOME$/~working0/realie-app/src/screens/edit-details.js" />
       <jump line="9" column="12" filename="$USER_HOME$/~working0/realie-app/src/screens/edit-details.js" />
       <jump line="106" column="27" filename="$USER_HOME$/~working0/realie-app/src/screens/edit-details.js" />
       <jump line="39" column="20" filename="$USER_HOME$/~working0/realie-app/src/components/picture-actions.js" />
@@ -1080,6 +1077,9 @@
       <jump line="92" column="9" filename="$USER_HOME$/~working0/realie-app/src/data/pictures.js" />
       <jump line="97" column="20" filename="$USER_HOME$/~working0/realie-app/src/data/pictures.js" />
       <jump line="0" column="0" filename="$USER_HOME$/~working0/realie-app/src/data/pictures.js" />
+      <jump line="114" column="26" filename="$USER_HOME$/~working0/realie-app/src/data/pictures.js" />
+      <jump line="116" column="31" filename="$USER_HOME$/~working0/realie-app/src/data/pictures.js" />
+      <jump line="91" column="7" filename="$USER_HOME$/~working0/realie-app/src/data/pictures.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1100,52 +1100,52 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>`</text>
+        <text>firstName</text>
       </register>
       <register name="-" type="4">
-        <text>`</text>
+        <text>firstName</text>
       </register>
       <register name="/" type="4">
-        <text>upload</text>
+        <text>file</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWxlcnQoJ2NhdGNoJykK</text>
+        <text encoding="base64">ICAgICAgJ0NvbnRlbnQtdHlwZSc6ICdtdWx0aXBhcnQvZm9ybS1kYXRhJywK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgIGZpbGU6IGRhdGEKICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IAoK</text>
+        <text encoding="base64">ICAgICAgICBmZXRjaENvbmZpZy5ib2R5ID0gewogICAgICAgICAgZmlsZTogZGF0YQogICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWxlcnQoJ2NhdGNoJykK</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS53YXJuKHJlcy5zdGF0dXMpCg==</text>
+        <text encoding="base64">ICAgICAgICAnQ29udGVudC10eXBlJzogJ211bHRpcGFydC9mb3JtLWRhdGEnLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWxlcnQocmVzLnN0YXR1c0NvZGUpCg==</text>
+        <text encoding="base64">ICAgIGlmIChjYXB0aW9uKSB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIH0KICAgIGVsc2UgewogICAgICByZXR1cm4gUHJvbWlzZS5yZXNvbHZlKCkKICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgUE8nCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhmb3JtKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgYm9keTogCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHVybCA9IHVybHMucGljdHVyZXMuY2FwdGlvbihyZWFsaWVJZCkKICAgIGNvbnN0IGZldGNoQ29uZmlnID0gewogICAgICBtZXRob2Q6ICdQT1NUJywKICAgICAgaGVhZGVyczogewogICAgICAgICdBdXRob3JpemF0aW9uJzogYEJlYXJlcjogJHtqd3R9YCwKICAgICAgICAnQWNjZXB0JzogJ2FwcGxpY2F0aW9uL2pzb24nLAogICAgICAgICdDb250ZW50LVR5cGUnOiAnYXBwbGljYXRpb24vanNvbicsCiAgICAgICAgJ0hvc3QnOiBjb25maWcuYXBpLmhvc3QKICAgICAgfSwKICAgICAgYm9keTogSlNPTi5zdHJpbmdpZnkoewogICAgICAgIGNhcHRpb246IGNhcHRpb24KICAgICAgfSkKICAgIH0KCiAgICByZXR1cm4gZmV0Y2godXJsLCBmZXRjaENvbmZpZykKICAgICAgLmNhdGNoKGVyciA9PiB7CiAgICAgICAgLy8gYnVnc25hZy5ub3RpZnkoZXJyLCAocmVwb3J0KSA9PiB7CiAgICAgICAgLy8gICByZXBvcnQuY29udGV4dCA9ICdkYXRhLnBpY3R1cmVzLnNhdmVDYXB0aW9uJwogICAgICAgIC8vICAgcmVwb3J0Lm1ldGFkYXRhID0gewogICAgICAgIC8vICAgICBmZXRjaDogewogICAgICAgIC8vICAgICAgIHVybDogdXJsLAogICAgICAgIC8vICAgICAgIGNvbmZpZzogZmV0Y2hDb25maWcKICAgICAgICAvLyAgICAgfQogICAgICAgIC8vICAgfQogICAgICAgIC8vIH0pCiAgICAgICAgdGhyb3cgZXJyCiAgICAgIH0pCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>upload</last-search>
+      <last-search>file</last-search>
       <last-offset />
-      <last-pattern>upload</last-pattern>
+      <last-pattern>file</last-pattern>
       <last-replace>it\.realie\.app</last-replace>
       <last-substitute>com\.realieapp</last-substitute>
       <last-dir>1</last-dir>
@@ -1153,10 +1153,6 @@
     </search>
     <history>
       <history-search>
-        <entry>date</entry>
-        <entry>time</entry>
-        <entry>at</entry>
-        <entry>form</entry>
         <entry>this</entry>
         <entry>createdAt</entry>
         <entry>created_at</entry>
@@ -1173,6 +1169,10 @@
         <entry>\.then</entry>
         <entry>(</entry>
         <entry>upload</entry>
+        <entry>`</entry>
+        <entry>data</entry>
+        <entry>caption</entry>
+        <entry>file</entry>
       </history-search>
       <history-cmd>
         <entry>14</entry>
