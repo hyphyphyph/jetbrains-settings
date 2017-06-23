@@ -388,11 +388,12 @@
         <mark key="." line="7" column="20" />
         <mark key="^" line="7" column="20" />
       </file>
-      <file name="$USER_HOME$/~working0/realie-app/src/data/pictures.js" timestamp="1498181509755">
-        <mark key="[" line="102" column="0" />
-        <mark key="]" line="102" column="0" />
-        <mark key="." line="102" column="0" />
-        <mark key="^" line="96" column="7" />
+      <file name="$USER_HOME$/~working0/realie-app/src/data/pictures.js" timestamp="1498183341867">
+        <mark key="'" line="106" column="4" />
+        <mark key="[" line="117" column="0" />
+        <mark key="]" line="117" column="0" />
+        <mark key="." line="117" column="0" />
+        <mark key="^" line="89" column="18" />
       </file>
       <file name="$USER_HOME$/RealieApp/src/navigation/MainStack.js" timestamp="1492728858784">
         <mark key="'" line="0" column="0" />
@@ -876,7 +877,7 @@
         <mark key="." line="87" column="33" />
         <mark key="^" line="87" column="33" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498072369137">
+      <file name="/Dummy.txt" timestamp="1498182484572">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/~working0/realie-app/android/app/src/main/AndroidManifest.xml" timestamp="1497741128672">
@@ -970,6 +971,13 @@
         <mark key="." line="61" column="36" />
         <mark key="^" line="61" column="36" />
       </file>
+      <file name="$USER_HOME$/~working0/realie-app/src/config/index.js" timestamp="1498183401103">
+        <mark key="'" line="8" column="81" />
+        <mark key="[" line="8" column="2" />
+        <mark key="]" line="8" column="1" />
+        <mark key="^" line="8" column="1" />
+        <mark key="." line="8" column="1" />
+      </file>
       <file name="$USER_HOME$/RealieApp/src/screens/capture.js" timestamp="1492879048750">
         <mark key="'" line="85" column="17" />
         <mark key="[" line="41" column="42" />
@@ -979,10 +987,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="12" filename="$USER_HOME$/~working0/realie-app/src/screens/edit-details.js" />
-      <jump line="106" column="27" filename="$USER_HOME$/~working0/realie-app/src/screens/edit-details.js" />
-      <jump line="39" column="20" filename="$USER_HOME$/~working0/realie-app/src/components/picture-actions.js" />
-      <jump line="42" column="31" filename="$USER_HOME$/~working0/realie-app/src/components/picture-actions.js" />
       <jump line="99" column="2" filename="$USER_HOME$/~working0/realie-app/src/components/picture-actions.js" />
       <jump line="38" column="24" filename="$USER_HOME$/~working0/realie-app/src/components/realie-overlay.js" />
       <jump line="185" column="2" filename="$USER_HOME$/~working0/realie-app/src/components/realie-overlay.js" />
@@ -1079,6 +1083,10 @@
       <jump line="114" column="26" filename="$USER_HOME$/~working0/realie-app/src/data/pictures.js" />
       <jump line="116" column="31" filename="$USER_HOME$/~working0/realie-app/src/data/pictures.js" />
       <jump line="91" column="7" filename="$USER_HOME$/~working0/realie-app/src/data/pictures.js" />
+      <jump line="86" column="14" filename="$USER_HOME$/~working0/realie-app/src/data/pictures.js" />
+      <jump line="77" column="30" filename="$USER_HOME$/~working0/realie-app/src/data/pictures.js" />
+      <jump line="106" column="4" filename="$USER_HOME$/~working0/realie-app/src/data/pictures.js" />
+      <jump line="8" column="81" filename="$USER_HOME$/~working0/realie-app/src/config/index.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1099,52 +1107,52 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICAvLyByZXR1cm4gUk5GZXRjaEJsb2IuZmV0Y2goCiAgICAvLyAgICdQT1NUJywKICAgIC8vICAgdXJsLAogICAgLy8gICBmZXRjaENvbmZpZywKICAgIC8vICAgWwogICAgLy8gICAgIHsKICAgIC8vICAgICAgIG5hbWU6ICdmaWxlJywKICAgIC8vICAgICAgIGZpbGVuYW1lOiBwYXRoLmJhc2VuYW1lKHVyaSksCiAgICAvLyAgICAgICB0eXBlOiBgaW1hZ2UvJHtwYXRoLmV4dG5hbWUodXJpKS5yZXBsYWNlKC9cLi8sICcnKX1gLAogICAgLy8gICAgICAgZGF0YTogUk5GZXRjaEJsb2Iud3JhcCh1cmkpCiAgICAvLyAgICAgfQogICAgLy8gICBdCiAgICAvLyApCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>RNFetchBlob.wrap(uri)</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>,</text>
+        <text>'</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIC8vICAgICAgIGZpbGVuYW1lOiBwYXRoLmJhc2VuYW1lKHVyaSksCiAgICAvLyAgICAgICB0eXBlOiBgaW1hZ2UvJHtwYXRoLmV4dG5hbWUodXJpKS5yZXBsYWNlKC9cLi8sICcnKX1gLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAvLyByZXR1cm4gUk5GZXRjaEJsb2IuZmV0Y2goCiAgICAvLyAgICdQT1NUJywKICAgIC8vICAgdXJsLAogICAgLy8gICBmZXRjaENvbmZpZywKICAgIC8vICAgWwogICAgLy8gICAgIHsKICAgIC8vICAgICAgIG5hbWU6ICdmaWxlJywKICAgIC8vICAgICAgIGZpbGVuYW1lOiBwYXRoLmJhc2VuYW1lKHVyaSksCiAgICAvLyAgICAgICB0eXBlOiBgaW1hZ2UvJHtwYXRoLmV4dG5hbWUodXJpKS5yZXBsYWNlKC9cLi8sICcnKX1gLAogICAgLy8gICAgICAgZGF0YTogUk5GZXRjaEJsb2Iud3JhcCh1cmkpCiAgICAvLyAgICAgfQogICAgLy8gICBdCiAgICAvLyApCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="3" type="8">
-        <text encoding="base64">Ly8gICAgICAgCi8vICAgICAgIA==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBSTkZldGNoQmxvYi5mZXRjaCgKICAgICAgJ1BPU1QnLAogICAgICB1cmwsCiAgICAgIGhlYWRlcnMsCiAgICAgIFsKICAgICAgICB7CiAgICAgICAgICBuYW1lOiAnZmlsZScsCiAgICAgICAgICBmaWxlbmFtZTogcGF0aC5iYXNlbmFtZSh1cmkpLAogICAgICAgICAgdHlwZTogYGltYWdlLyR7cGF0aC5leHRuYW1lKHVyaSkucmVwbGFjZSgvXC4vLCAnJyl9YCwKICAgICAgICAgIGRhdGE6IFJORmV0Y2hCbG9iLndyYXAodXJpKQogICAgICAgIH0KICAgICAgXQogICAgKQogICAgICAuY2F0Y2goZXJyID0+IHsKICAgICAgICAvLyBidWdzbmFnLm5vdGlmeShlcnIsIChyZXBvcnQpID0+IHsKICAgICAgICAvLyAgIHJlcG9ydC5jb250ZXh0ID0gJ2RhdGEucGljdHVyZXMudXBsb2FkJwogICAgICAgIC8vICAgcmVwb3J0Lm1ldGFkYXRhID0gewogICAgICAgIC8vICAgICBmZXRjaDogewogICAgICAgIC8vICAgICAgIHVybDogdXJsLAogICAgICAgIC8vICAgICAgIG1ldGhvZDogJ1BPU1QnLAogICAgICAgIC8vICAgICAgIGNvbmZpZzogZmV0Y2hDb25maWcKICAgICAgICAvLyAgICAgfQogICAgICAgIC8vICAgfQogICAgICAgIC8vIH0pCiAgICAgICAgdGhyb3cgZXJyCiAgICAgIH0pCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">CiAgICAvLyByZXR1cm4gUk5GZXRjaEJsb2IuZmV0Y2goCiAgICAvLyAgICdQT1NUJywKICAgIC8vICAgdXJsLAogICAgLy8gICBmZXRjaENvbmZpZywKICAgIC8vICAgWwogICAgLy8gICAgIHsKICAgIC8vICAgICAgIG5hbWU6ICdmaWxlJywKICAgIC8vICAgICAgIGZpbGVuYW1lOiBwYXRoLmJhc2VuYW1lKHVyaSksCiAgICAvLyAgICAgICB0eXBlOiBgaW1hZ2UvJHtwYXRoLmV4dG5hbWUodXJpKS5yZXBsYWNlKC9cLi8sICcnKX1gLAogICAgLy8gICAgICAgZGF0YTogUk5GZXRjaEJsb2Iud3JhcCh1cmkpCiAgICAvLyAgICAgfQogICAgLy8gICBdCiAgICAvLyApCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgIGxldCBmb3JtRGF0YSA9IG5ldyBGb3JtRGF0YSgpCiAgICAgICAgLy8gICBmb3JtRGF0YS5hcHBlbmQoJ25hbWUnLCAnRGVyZWsgTW91bmNlJykKICAgICAgICAvLyAgIC8vIGZvcm1EYXRhLmFwcGVuZCgnZmlsZScsIGRhdGEsIHBhdGguYmFzZW5hbWUodXJpKSkKICAgICAgICAvLyAgIC8vIGZvcm1EYXRhLmFwcGVuZCgnZmlsZScsIGBkYXRhOmltYWdlLyR7cGF0aC5leHRuYW1lKHVyaSkucmVwbGFjZSgvXC4vLCAnJyl9O2Jhc2U2NCwke2RhdGF9YCkKICAgICAgICAvLyAgIGZvcm1EYXRhLmFwcGVuZCgKICAgICAgICAvLyAgICAgJ2ZpbGUnLAogICAgICAgIC8vICAgICB7CiAgICAgICAgLy8gICAgICAgbmFtZTogJ2ZpbGUnLAogICAgICAgIC8vICAgICAgIGZpbGVuYW1lOiBwYXRoLmJhc2VuYW1lKHVyaSksCiAgICAgICAgLy8gICAgICAgdHlwZTogYGltYWdlLyR7cGF0aC5leHRuYW1lKHVyaSkucmVwbGFjZSgvXC4vLCAnJyl9YCwKICAgICAgICAvLyAgICAgICBkYXRhOiBSTkZldGNoQmxvYi53cmFwKHVyaSkKICAgICAgICAvLyAgICAgfQogICAgICAgIC8vICAgKQogICAgICAgIC8vICAgZmV0Y2hDb25maWcuYm9keSA9IGZvcm1EYXRhCiAgICAgICAgLy8KICAgICAgICAvLyAgICAgLnRoZW4oKHJlcykgPT4gewogICAgICAgIC8vICAgICAgIGRlYnVnZ2VyCiAgICAgICAgLy8gICAgIH0pCiAgICAgICAgLy8gICAgIC5jYXRjaCgoZXJyKSA9PiB7CiAgICAgICAgLy8gICAgICAgZGVidWdnZXIKICAgICAgICAvLyAgICAgfSkKICAgICAgICAvLyB9KQo=</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="8">
-        <text encoding="base64">Ly8gICAKLy8gICAKLy8gICAKLy8gICA=</text>
+      <register name="6" type="8">
+        <text encoding="base64">Ly8gICAgICAgCi8vICAgICAgIA==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgIHJldHVybiBmZXRjaCgKICAgICAgICAvLyAgICAgdXJsLAogICAgICAgIC8vICAgICBmZXRjaENvbmZpZwogICAgICAgIC8vICAgKQo=</text>
+        <text encoding="base64">CiAgICAvLyByZXR1cm4gUk5GZXRjaEJsb2IuZmV0Y2goCiAgICAvLyAgICdQT1NUJywKICAgIC8vICAgdXJsLAogICAgLy8gICBmZXRjaENvbmZpZywKICAgIC8vICAgWwogICAgLy8gICAgIHsKICAgIC8vICAgICAgIG5hbWU6ICdmaWxlJywKICAgIC8vICAgICAgIGZpbGVuYW1lOiBwYXRoLmJhc2VuYW1lKHVyaSksCiAgICAvLyAgICAgICB0eXBlOiBgaW1hZ2UvJHtwYXRoLmV4dG5hbWUodXJpKS5yZXBsYWNlKC9cLi8sICcnKX1gLAogICAgLy8gICAgICAgZGF0YTogUk5GZXRjaEJsb2Iud3JhcCh1cmkpCiAgICAvLyAgICAgfQogICAgLy8gICBdCiAgICAvLyApCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgYm9keTogSlNPTi5zdHJpbmdpZnkoewogICAgICAgIGNhcHRpb246IGNhcHRpb24KICAgICAgfSkK</text>
+        <text encoding="base64">ICAgICAgICAvLyAgIGxldCBmb3JtRGF0YSA9IG5ldyBGb3JtRGF0YSgpCiAgICAgICAgLy8gICBmb3JtRGF0YS5hcHBlbmQoJ25hbWUnLCAnRGVyZWsgTW91bmNlJykKICAgICAgICAvLyAgIC8vIGZvcm1EYXRhLmFwcGVuZCgnZmlsZScsIGRhdGEsIHBhdGguYmFzZW5hbWUodXJpKSkKICAgICAgICAvLyAgIC8vIGZvcm1EYXRhLmFwcGVuZCgnZmlsZScsIGBkYXRhOmltYWdlLyR7cGF0aC5leHRuYW1lKHVyaSkucmVwbGFjZSgvXC4vLCAnJyl9O2Jhc2U2NCwke2RhdGF9YCkKICAgICAgICAvLyAgIGZvcm1EYXRhLmFwcGVuZCgKICAgICAgICAvLyAgICAgJ2ZpbGUnLAogICAgICAgIC8vICAgICB7CiAgICAgICAgLy8gICAgICAgbmFtZTogJ2ZpbGUnLAogICAgICAgIC8vICAgICAgIGZpbGVuYW1lOiBwYXRoLmJhc2VuYW1lKHVyaSksCiAgICAgICAgLy8gICAgICAgdHlwZTogYGltYWdlLyR7cGF0aC5leHRuYW1lKHVyaSkucmVwbGFjZSgvXC4vLCAnJyl9YCwKICAgICAgICAvLyAgICAgICBkYXRhOiBSTkZldGNoQmxvYi53cmFwKHVyaSkKICAgICAgICAvLyAgICAgfQogICAgICAgIC8vICAgKQogICAgICAgIC8vICAgZmV0Y2hDb25maWcuYm9keSA9IGZvcm1EYXRhCiAgICAgICAgLy8KICAgICAgICAvLyAgICAgLnRoZW4oKHJlcykgPT4gewogICAgICAgIC8vICAgICAgIGRlYnVnZ2VyCiAgICAgICAgLy8gICAgIH0pCiAgICAgICAgLy8gICAgIC5jYXRjaCgoZXJyKSA9PiB7CiAgICAgICAgLy8gICAgICAgZGVidWdnZXIKICAgICAgICAvLyAgICAgfSkKICAgICAgICAvLyB9KQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>,</last-search>
+      <last-search>'</last-search>
       <last-offset />
-      <last-pattern>,</last-pattern>
+      <last-pattern>'</last-pattern>
       <last-replace>it\.realie\.app</last-replace>
       <last-substitute>com\.realieapp</last-substitute>
       <last-dir>1</last-dir>
@@ -1152,8 +1160,6 @@
     </search>
     <history>
       <history-search>
-        <entry>createdAt</entry>
-        <entry>created_at</entry>
         <entry>)</entry>
         <entry>created</entry>
         <entry encoding="base64">IA==</entry>
@@ -1166,12 +1172,14 @@
         <entry>multi</entry>
         <entry>\.then</entry>
         <entry>(</entry>
-        <entry>upload</entry>
         <entry>`</entry>
         <entry>data</entry>
         <entry>caption</entry>
         <entry>file</entry>
         <entry>,</entry>
+        <entry>upload</entry>
+        <entry>{</entry>
+        <entry>'</entry>
       </history-search>
       <history-cmd>
         <entry>14</entry>
