@@ -136,12 +136,6 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="20" column="1" />
       </file>
-      <file name="$USER_HOME$/~working0/realie-app/src/navigation/main-stack.js" timestamp="1497574082948">
-        <mark key="'" line="13" column="0" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-      </file>
       <file name="$USER_HOME$/~working0/realie-app/src/components/picture-actions.js" timestamp="1497750211752">
         <mark key="'" line="95" column="2" />
         <mark key="[" line="52" column="20" />
@@ -170,6 +164,12 @@
         <mark key="." line="7" column="9" />
         <mark key="^" line="7" column="9" />
       </file>
+      <file name="$USER_HOME$/~working0/realie-app/src/config/api.js" timestamp="1498184302351">
+        <mark key="[" line="3" column="9" />
+        <mark key="]" line="3" column="9" />
+        <mark key="." line="3" column="9" />
+        <mark key="^" line="1" column="12" />
+      </file>
       <file name="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/services/invite.service.js" timestamp="1491178758123">
         <mark key="'" line="11" column="17" />
         <mark key="[" line="20" column="42" />
@@ -184,13 +184,13 @@
         <mark key="." line="53" column="79" />
         <mark key="^" line="53" column="61" />
       </file>
-      <file name="$USER_HOME$/~working0/realie-app/src/screens/base-auth.js" timestamp="1497579905292">
-        <mark key="[" line="81" column="8" />
+      <file name="$USER_HOME$/~working0/realie-app/src/screens/base-auth.js" timestamp="1498184584911">
+        <mark key="[" line="78" column="13" />
         <mark key="k" line="37" column="11" />
-        <mark key="]" line="81" column="11" />
+        <mark key="]" line="79" column="15" />
         <mark key="m" line="37" column="11" />
-        <mark key="." line="81" column="11" />
-        <mark key="^" line="81" column="11" />
+        <mark key="." line="79" column="15" />
+        <mark key="^" line="79" column="15" />
       </file>
       <file name="$USER_HOME$/invite-api/config/default.yml" timestamp="1490407801787">
         <mark key="'" line="40" column="7" />
@@ -444,6 +444,12 @@
         <mark key="^" line="104" column="31" />
         <mark key="." line="104" column="31" />
       </file>
+      <file name="$USER_HOME$/~working0/realie-app/src/constants/links.js" timestamp="1498184334516">
+        <mark key="[" line="1" column="17" />
+        <mark key="]" line="1" column="17" />
+        <mark key="^" line="1" column="13" />
+        <mark key="." line="1" column="17" />
+      </file>
       <file name="$USER_HOME$/realie-app/src/screens/capture.js" timestamp="1492707073246">
         <mark key="'" line="2" column="0" />
         <mark key="[" line="6" column="8" />
@@ -548,12 +554,6 @@
         <mark key="]" line="73" column="20" />
         <mark key="^" line="73" column="19" />
         <mark key="." line="73" column="20" />
-      </file>
-      <file name="$USER_HOME$/~working0/realie-app/src/components/expanding-text-input.js" timestamp="1497575739253">
-        <mark key="'" line="31" column="25" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/~working0/c2/invite-api/src/services/permission.service.js" timestamp="1491837011543">
         <mark key="'" line="112" column="17" />
@@ -701,6 +701,12 @@
         <mark key="]" line="15" column="1" />
         <mark key="^" line="15" column="1" />
         <mark key="." line="15" column="1" />
+      </file>
+      <file name="$USER_HOME$/~working0/realie-app/src/config/web.js" timestamp="1498184327693">
+        <mark key="[" line="1" column="12" />
+        <mark key="]" line="1" column="12" />
+        <mark key="." line="1" column="12" />
+        <mark key="^" line="1" column="12" />
       </file>
       <file name="$USER_HOME$/~working0/realie-app/src/data/location.js" timestamp="1496082809527">
         <mark key="'" line="8" column="5" />
@@ -877,7 +883,7 @@
         <mark key="." line="87" column="33" />
         <mark key="^" line="87" column="33" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498182484572">
+      <file name="/Dummy.txt" timestamp="1498184544073">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/~working0/realie-app/android/app/src/main/AndroidManifest.xml" timestamp="1497741128672">
@@ -972,11 +978,11 @@
         <mark key="^" line="61" column="36" />
       </file>
       <file name="$USER_HOME$/~working0/realie-app/src/config/index.js" timestamp="1498183401103">
-        <mark key="'" line="8" column="81" />
-        <mark key="[" line="8" column="2" />
-        <mark key="]" line="8" column="1" />
-        <mark key="^" line="8" column="1" />
-        <mark key="." line="8" column="1" />
+        <mark key="'" line="7" column="81" />
+        <mark key="[" line="7" column="2" />
+        <mark key="]" line="7" column="1" />
+        <mark key="^" line="7" column="1" />
+        <mark key="." line="7" column="1" />
       </file>
       <file name="$USER_HOME$/RealieApp/src/screens/capture.js" timestamp="1492879048750">
         <mark key="'" line="85" column="17" />
@@ -1107,10 +1113,10 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhbGVydChlcnIpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>'</text>
@@ -1119,31 +1125,31 @@
         <text encoding="base64">ICAgIC8vICAgICAgIGZpbGVuYW1lOiBwYXRoLmJhc2VuYW1lKHVyaSksCiAgICAvLyAgICAgICB0eXBlOiBgaW1hZ2UvJHtwYXRoLmV4dG5hbWUodXJpKS5yZXBsYWNlKC9cLi8sICcnKX1gLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhbGVydChlcnIpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBSTkZldGNoQmxvYi5mZXRjaCgKICAgICAgJ1BPU1QnLAogICAgICB1cmwsCiAgICAgIGhlYWRlcnMsCiAgICAgIFsKICAgICAgICB7CiAgICAgICAgICBuYW1lOiAnZmlsZScsCiAgICAgICAgICBmaWxlbmFtZTogcGF0aC5iYXNlbmFtZSh1cmkpLAogICAgICAgICAgdHlwZTogYGltYWdlLyR7cGF0aC5leHRuYW1lKHVyaSkucmVwbGFjZSgvXC4vLCAnJyl9YCwKICAgICAgICAgIGRhdGE6IFJORmV0Y2hCbG9iLndyYXAodXJpKQogICAgICAgIH0KICAgICAgXQogICAgKQogICAgICAuY2F0Y2goZXJyID0+IHsKICAgICAgICAvLyBidWdzbmFnLm5vdGlmeShlcnIsIChyZXBvcnQpID0+IHsKICAgICAgICAvLyAgIHJlcG9ydC5jb250ZXh0ID0gJ2RhdGEucGljdHVyZXMudXBsb2FkJwogICAgICAgIC8vICAgcmVwb3J0Lm1ldGFkYXRhID0gewogICAgICAgIC8vICAgICBmZXRjaDogewogICAgICAgIC8vICAgICAgIHVybDogdXJsLAogICAgICAgIC8vICAgICAgIG1ldGhvZDogJ1BPU1QnLAogICAgICAgIC8vICAgICAgIGNvbmZpZzogZmV0Y2hDb25maWcKICAgICAgICAvLyAgICAgfQogICAgICAgIC8vICAgfQogICAgICAgIC8vIH0pCiAgICAgICAgdGhyb3cgZXJyCiAgICAgIH0pCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAvLyByZXR1cm4gUk5GZXRjaEJsb2IuZmV0Y2goCiAgICAvLyAgICdQT1NUJywKICAgIC8vICAgdXJsLAogICAgLy8gICBmZXRjaENvbmZpZywKICAgIC8vICAgWwogICAgLy8gICAgIHsKICAgIC8vICAgICAgIG5hbWU6ICdmaWxlJywKICAgIC8vICAgICAgIGZpbGVuYW1lOiBwYXRoLmJhc2VuYW1lKHVyaSksCiAgICAvLyAgICAgICB0eXBlOiBgaW1hZ2UvJHtwYXRoLmV4dG5hbWUodXJpKS5yZXBsYWNlKC9cLi8sICcnKX1gLAogICAgLy8gICAgICAgZGF0YTogUk5GZXRjaEJsb2Iud3JhcCh1cmkpCiAgICAvLyAgICAgfQogICAgLy8gICBdCiAgICAvLyApCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBSTkZldGNoQmxvYi5mZXRjaCgKICAgICAgJ1BPU1QnLAogICAgICB1cmwsCiAgICAgIGhlYWRlcnMsCiAgICAgIFsKICAgICAgICB7CiAgICAgICAgICBuYW1lOiAnZmlsZScsCiAgICAgICAgICBmaWxlbmFtZTogcGF0aC5iYXNlbmFtZSh1cmkpLAogICAgICAgICAgdHlwZTogYGltYWdlLyR7cGF0aC5leHRuYW1lKHVyaSkucmVwbGFjZSgvXC4vLCAnJyl9YCwKICAgICAgICAgIGRhdGE6IFJORmV0Y2hCbG9iLndyYXAodXJpKQogICAgICAgIH0KICAgICAgXQogICAgKQogICAgICAuY2F0Y2goZXJyID0+IHsKICAgICAgICAvLyBidWdzbmFnLm5vdGlmeShlcnIsIChyZXBvcnQpID0+IHsKICAgICAgICAvLyAgIHJlcG9ydC5jb250ZXh0ID0gJ2RhdGEucGljdHVyZXMudXBsb2FkJwogICAgICAgIC8vICAgcmVwb3J0Lm1ldGFkYXRhID0gewogICAgICAgIC8vICAgICBmZXRjaDogewogICAgICAgIC8vICAgICAgIHVybDogdXJsLAogICAgICAgIC8vICAgICAgIG1ldGhvZDogJ1BPU1QnLAogICAgICAgIC8vICAgICAgIGNvbmZpZzogZmV0Y2hDb25maWcKICAgICAgICAvLyAgICAgfQogICAgICAgIC8vICAgfQogICAgICAgIC8vIH0pCiAgICAgICAgdGhyb3cgZXJyCiAgICAgIH0pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="8">
-        <text encoding="base64">Ly8gICAgICAgCi8vICAgICAgIA==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">CiAgICAvLyByZXR1cm4gUk5GZXRjaEJsb2IuZmV0Y2goCiAgICAvLyAgICdQT1NUJywKICAgIC8vICAgdXJsLAogICAgLy8gICBmZXRjaENvbmZpZywKICAgIC8vICAgWwogICAgLy8gICAgIHsKICAgIC8vICAgICAgIG5hbWU6ICdmaWxlJywKICAgIC8vICAgICAgIGZpbGVuYW1lOiBwYXRoLmJhc2VuYW1lKHVyaSksCiAgICAvLyAgICAgICB0eXBlOiBgaW1hZ2UvJHtwYXRoLmV4dG5hbWUodXJpKS5yZXBsYWNlKC9cLi8sICcnKX1gLAogICAgLy8gICAgICAgZGF0YTogUk5GZXRjaEJsb2Iud3JhcCh1cmkpCiAgICAvLyAgICAgfQogICAgLy8gICBdCiAgICAvLyApCg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="8">
+        <text encoding="base64">Ly8gICAgICAgCi8vICAgICAgIA==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgIGxldCBmb3JtRGF0YSA9IG5ldyBGb3JtRGF0YSgpCiAgICAgICAgLy8gICBmb3JtRGF0YS5hcHBlbmQoJ25hbWUnLCAnRGVyZWsgTW91bmNlJykKICAgICAgICAvLyAgIC8vIGZvcm1EYXRhLmFwcGVuZCgnZmlsZScsIGRhdGEsIHBhdGguYmFzZW5hbWUodXJpKSkKICAgICAgICAvLyAgIC8vIGZvcm1EYXRhLmFwcGVuZCgnZmlsZScsIGBkYXRhOmltYWdlLyR7cGF0aC5leHRuYW1lKHVyaSkucmVwbGFjZSgvXC4vLCAnJyl9O2Jhc2U2NCwke2RhdGF9YCkKICAgICAgICAvLyAgIGZvcm1EYXRhLmFwcGVuZCgKICAgICAgICAvLyAgICAgJ2ZpbGUnLAogICAgICAgIC8vICAgICB7CiAgICAgICAgLy8gICAgICAgbmFtZTogJ2ZpbGUnLAogICAgICAgIC8vICAgICAgIGZpbGVuYW1lOiBwYXRoLmJhc2VuYW1lKHVyaSksCiAgICAgICAgLy8gICAgICAgdHlwZTogYGltYWdlLyR7cGF0aC5leHRuYW1lKHVyaSkucmVwbGFjZSgvXC4vLCAnJyl9YCwKICAgICAgICAvLyAgICAgICBkYXRhOiBSTkZldGNoQmxvYi53cmFwKHVyaSkKICAgICAgICAvLyAgICAgfQogICAgICAgIC8vICAgKQogICAgICAgIC8vICAgZmV0Y2hDb25maWcuYm9keSA9IGZvcm1EYXRhCiAgICAgICAgLy8KICAgICAgICAvLyAgICAgLnRoZW4oKHJlcykgPT4gewogICAgICAgIC8vICAgICAgIGRlYnVnZ2VyCiAgICAgICAgLy8gICAgIH0pCiAgICAgICAgLy8gICAgIC5jYXRjaCgoZXJyKSA9PiB7CiAgICAgICAgLy8gICAgICAgZGVidWdnZXIKICAgICAgICAvLyAgICAgfSkKICAgICAgICAvLyB9KQo=</text>
+        <text encoding="base64">CiAgICAvLyByZXR1cm4gUk5GZXRjaEJsb2IuZmV0Y2goCiAgICAvLyAgICdQT1NUJywKICAgIC8vICAgdXJsLAogICAgLy8gICBmZXRjaENvbmZpZywKICAgIC8vICAgWwogICAgLy8gICAgIHsKICAgIC8vICAgICAgIG5hbWU6ICdmaWxlJywKICAgIC8vICAgICAgIGZpbGVuYW1lOiBwYXRoLmJhc2VuYW1lKHVyaSksCiAgICAvLyAgICAgICB0eXBlOiBgaW1hZ2UvJHtwYXRoLmV4dG5hbWUodXJpKS5yZXBsYWNlKC9cLi8sICcnKX1gLAogICAgLy8gICAgICAgZGF0YTogUk5GZXRjaEJsb2Iud3JhcCh1cmkpCiAgICAvLyAgICAgfQogICAgLy8gICBdCiAgICAvLyApCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
