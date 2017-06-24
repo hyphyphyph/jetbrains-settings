@@ -80,12 +80,12 @@
         <mark key="^" line="141" column="14" />
         <mark key="." line="141" column="0" />
       </file>
-      <file name="$USER_HOME$/~working0/realie-app/src/actions/index.js" timestamp="1498338586967">
-        <mark key="'" line="217" column="34" />
-        <mark key="[" line="217" column="49" />
-        <mark key="]" line="217" column="61" />
-        <mark key="." line="217" column="61" />
-        <mark key="^" line="217" column="61" />
+      <file name="$USER_HOME$/~working0/realie-app/src/actions/index.js" timestamp="1498339585392">
+        <mark key="'" line="236" column="34" />
+        <mark key="[" line="184" column="23" />
+        <mark key="]" line="184" column="30" />
+        <mark key="." line="184" column="30" />
+        <mark key="^" line="184" column="30" />
       </file>
       <file name="$USER_HOME$/~working0/realie-app/src/data/users.js" timestamp="1496085505852">
         <mark key="'" line="21" column="30" />
@@ -1130,7 +1130,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhbGVydCgnR09UICcgKyByZWFsaWVJZCkK</text>
+        <text encoding="base64">ICAgIHJldHVybiAK</text>
       </register>
       <register name="-" type="4">
         <text>res</text>
@@ -1139,34 +1139,34 @@
         <text>500</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">bGV0IGhvbWUgPSAnaHR0cHM6Ly9yZWFsaWUuaXQnCg==</text>
+        <text encoding="base64">ICAgIGRpc3BhdGNoKFNhdmVDYXB0aW9uUmVxdWVzdCgpKQogICAgY29uc3Qgc3RhdGUgPSBzdG9yZS5nZXRTdGF0ZSgpCiAgICByZXR1cm4gbmV3IFBpY3R1cmVzRGF0YSgpCiAgICAgIC5zYXZlQ2FwdGlvbigKICAgICAgICBzdGF0ZS5jdXJyZW50VXNlci5qd3QsCiAgICAgICAgc3RhdGUuYWN0aXZlUGljdHVyZS5waWN0dXJlLnJlYWxpZV9pZCwKICAgICAgICBzdGF0ZS5hY3RpdmVQaWN0dXJlLnBpY3R1cmUuY2FwdGlvbgogICAgICApCiAgICAgIC50aGVuKChyZXMpID0+IHJlcy5qc29uKCkpCiAgICAgIC50aGVuKChib2R5KSA9PiB7CiAgICAgICAgZGlzcGF0Y2goU2F2ZUNhcHRpb25SZXNwb25zZShib2R5KSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhbGVydCgnR09UICcgKyByZWFsaWVJZCkK</text>
+        <text encoding="base64">ICAgIHJldHVybiAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWxlcnQoJ2JvZHknKQoK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWxlcnQoJ2JvZHknKQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhbGVydCgxMjMpCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhbGVydCgnWUVTJykK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhbGVydCgnR09UICcgKyByZWFsaWVJZCkK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYWxlcnQoJ2JvZHknKQoK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYWxlcnQoJ2JvZHknKQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBob21lOiAnaHR0cHM6Ly9yZWFsaWUuaXQnCg==</text>
+        <text encoding="base64">ICAgICAgICBhbGVydCgxMjMpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
