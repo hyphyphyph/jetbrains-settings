@@ -438,6 +438,12 @@
         <mark key="^" line="7" column="10" />
         <mark key="." line="29" column="0" />
       </file>
+      <file name="$USER_HOME$/~working0/realie-app/src/config/twitter.js" timestamp="1498336553828">
+        <mark key="[" line="2" column="14" />
+        <mark key="]" line="2" column="64" />
+        <mark key="." line="2" column="14" />
+        <mark key="^" line="4" column="11" />
+      </file>
       <file name="$USER_HOME$/~working0/c2/invite-api/tests/integration/modules/user/handlers/test-user-crud.handler.js" timestamp="1492024654540">
         <mark key="'" line="89" column="40" />
         <mark key="[" line="104" column="19" />
@@ -1117,44 +1123,44 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLndhcm4ocmVzLnN0YXR1cykKCg==</text>
+      <register name="&quot;" type="4">
+        <text>bFDGOPCRWww9RCw34vtZXUFbKuqgOEuEAmXI1a5oVO5s9pmpFS</text>
       </register>
       <register name="-" type="4">
-        <text>alert</text>
+        <text>bFDGOPCRWww9RCw34vtZXUFbKuqgOEuEAmXI1a5oVO5s9pmpFS</text>
       </register>
       <register name="/" type="4">
         <text>'</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC8vICAgICAgIGZpbGVuYW1lOiBwYXRoLmJhc2VuYW1lKHVyaSksCiAgICAvLyAgICAgICB0eXBlOiBgaW1hZ2UvJHtwYXRoLmV4dG5hbWUodXJpKS5yZXBsYWNlKC9cLi8sICcnKX1gLAo=</text>
+        <text encoding="base64">ICBhcGlLZXk6ICdrQ0lFM2VWTHVsUmpMU0MwZTB5VjEzOTYyJywKICBhcGlTZWNyZXQ6ICdiRkRHT1BDUld3dzlSQ3czNHZ0WlhVRmJLdXFnT0V1RUFtWEkxYTVvVk81czlwbXBGUycK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLndhcm4ocmVzLnN0YXR1cykKCg==</text>
+        <text encoding="base64">ICAvLyBhcGlLZXk6ICdHR2Q1SXM3QzJ5ejNhcVpieGtIaHVSUW4zJywKICAvLyBhcGlTZWNyZXQ6ICdzRHNhWkdMTG8wMlVLYlZzMTl2Vjh6cTVQcWhkbWl4WXRJb25KRXVacmpqWHl1SlZjbScK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAogICAgY29uc29sZS4K</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLndhcm4ocmVzLnN0YXR1cykKCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgIAogICAgY29uc29sZS4K</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgIAogICAgY29uc29sZS4K</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUud2FyCg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">cih1cmwpCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBhbGVydChlcnIpCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGZldGNoKCdodHRwczovL3JlYWxpZS5pdCcpCiAgICAgIC50aGVuKChyZXMpID0+IHsKICAgICAgICBkZWJ1Z2dlcgogICAgICB9KQoK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhbGVydCgxMjMpCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhbGVydCgxMjMpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
