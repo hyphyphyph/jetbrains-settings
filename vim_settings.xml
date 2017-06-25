@@ -319,6 +319,12 @@
         <mark key="." line="38" column="22" />
         <mark key="^" line="38" column="22" />
       </file>
+      <file name="$USER_HOME$/~working0/realie-app/android/app/src/main/res/values/strings.xml" timestamp="1498348350286">
+        <mark key="[" line="1" column="28" />
+        <mark key="]" line="1" column="33" />
+        <mark key="." line="1" column="33" />
+        <mark key="^" line="1" column="33" />
+      </file>
       <file name="$USER_HOME$/invite-api/src/services/mailer.service.js" timestamp="1490622134416">
         <mark key="'" line="58" column="21" />
         <mark key="[" line="60" column="17" />
@@ -902,7 +908,7 @@
         <mark key="." line="87" column="33" />
         <mark key="^" line="87" column="33" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498343948988">
+      <file name="/Dummy.txt" timestamp="1498348340066">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/~working0/realie-app/android/app/src/main/AndroidManifest.xml" timestamp="1497741128672">
@@ -1132,13 +1138,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>STAGING</text>
+        <text>RealieApp</text>
       </register>
       <register name="-" type="4">
-        <text>STAGING</text>
+        <text>RealieApp</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxiYXNlNjRcPg==</text>
+        <text>RealieApp</text>
       </register>
       <register name="0" type="4">
         <text>state.activePicture.localUri</text>
@@ -1175,9 +1181,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxiYXNlNjRcPg==</last-search>
+      <last-search>RealieApp</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxiYXNlNjRcPg==</last-pattern>
+      <last-pattern>RealieApp</last-pattern>
       <last-replace>it\.realie\.app</last-replace>
       <last-substitute>com\.realieapp</last-substitute>
       <last-dir>1</last-dir>
@@ -1185,7 +1191,6 @@
     </search>
     <history>
       <history-search>
-        <entry>caption</entry>
         <entry>.</entry>
         <entry>ST</entry>
         <entry>{</entry>
@@ -1205,6 +1210,7 @@
         <entry>6</entry>
         <entry>warn</entry>
         <entry encoding="base64">XDxiYXNlNjRcPg==</entry>
+        <entry>RealieApp</entry>
       </history-search>
       <history-cmd>
         <entry>14</entry>
