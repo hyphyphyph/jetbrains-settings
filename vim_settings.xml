@@ -395,8 +395,8 @@
         <mark key="." line="7" column="20" />
         <mark key="^" line="7" column="20" />
       </file>
-      <file name="$USER_HOME$/~working0/realie-app/src/data/pictures.js" timestamp="1498609598312">
-        <mark key="'" line="117" column="15" />
+      <file name="$USER_HOME$/~working0/realie-app/src/data/pictures.js" timestamp="1498612773953">
+        <mark key="'" line="102" column="52" />
         <mark key="[" line="101" column="25" />
         <mark key="]" line="102" column="52" />
         <mark key="." line="102" column="52" />
@@ -1019,7 +1019,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="188" column="12" filename="$USER_HOME$/~working0/realie-app/src/components/validation-preview.js" />
       <jump line="214" column="12" filename="$USER_HOME$/~working0/realie-app/src/components/validation-preview.js" />
       <jump line="271" column="11" filename="$USER_HOME$/~working0/realie-app/src/components/validation-preview.js" />
       <jump line="66" column="26" filename="$USER_HOME$/~working0/realie-app/src/components/validation-preview.js" />
@@ -1119,6 +1118,7 @@
       <jump line="1" column="7" filename="$USER_HOME$/~working0/realie-app/src/data/pictures.js" />
       <jump line="79" column="22" filename="$USER_HOME$/~working0/realie-app/src/data/pictures.js" />
       <jump line="116" column="15" filename="$USER_HOME$/~working0/realie-app/src/data/pictures.js" />
+      <jump line="102" column="52" filename="$USER_HOME$/~working0/realie-app/src/data/pictures.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1145,7 +1145,7 @@
         <text>RealieApp</text>
       </register>
       <register name="/" type="4">
-        <text>Sorry</text>
+        <text>throw</text>
       </register>
       <register name="0" type="4">
         <text>state.activePicture.localUri</text>
@@ -1182,9 +1182,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Sorry</last-search>
+      <last-search>throw</last-search>
       <last-offset />
-      <last-pattern>Sorry</last-pattern>
+      <last-pattern>throw</last-pattern>
       <last-replace>it\.realie\.app</last-replace>
       <last-substitute>com\.realieapp</last-substitute>
       <last-dir>1</last-dir>
@@ -1192,7 +1192,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ST</entry>
         <entry>{</entry>
         <entry encoding="base64">ICA=</entry>
         <entry>SHA</entry>
@@ -1212,6 +1211,7 @@
         <entry encoding="base64">XDxiYXNlNjRcPg==</entry>
         <entry>RealieApp</entry>
         <entry>Sorry</entry>
+        <entry>throw</entry>
       </history-search>
       <history-cmd>
         <entry>14</entry>
