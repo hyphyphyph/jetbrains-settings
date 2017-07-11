@@ -470,12 +470,12 @@
         <mark key="." line="20" column="42" />
         <mark key="^" line="20" column="42" />
       </file>
-      <file name="$USER_HOME$/webforms/il-avm-loan-data-service/README.md" timestamp="1499801185647">
-        <mark key="'" line="6" column="31" />
-        <mark key="[" line="6" column="31" />
-        <mark key="]" line="6" column="31" />
-        <mark key="^" line="6" column="31" />
-        <mark key="." line="6" column="31" />
+      <file name="$USER_HOME$/webforms/il-avm-loan-data-service/README.md" timestamp="1499802918185">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/~working0/realie-app/src/config/index.js" timestamp="1498346827171">
         <mark key="'" line="10" column="1" />
@@ -1018,8 +1018,11 @@
         <mark key="." line="25" column="46" />
         <mark key="^" line="25" column="46" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499800480524">
+      <file name="/Dummy.txt" timestamp="1499802809181">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="5" />
+        <mark key="^" line="0" column="5" />
+        <mark key="." line="0" column="5" />
       </file>
       <file name="$USER_HOME$/~working0/realie-app/src/components/picture-actions.js" timestamp="1497750211752">
         <mark key="'" line="95" column="2" />
@@ -1167,8 +1170,9 @@
         <mark key="^" line="1" column="16" />
         <mark key="." line="1" column="16" />
       </file>
-      <file name="/fragment.java" timestamp="1499800480514">
+      <file name="/fragment.java" timestamp="1499802809168">
         <mark key="[" line="0" column="0" />
+        <mark key="." line="0" column="96" />
       </file>
       <file name="$USER_HOME$/invite-api/src/errors.js" timestamp="1490064713574">
         <mark key="'" line="101" column="0" />
@@ -1179,7 +1183,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="34" filename="$USER_HOME$/~working0/realie-app/src/components/validation-preview.js" />
       <jump line="188" column="19" filename="$USER_HOME$/~working0/realie-app/src/components/metadata-details.js" />
       <jump line="27" column="33" filename="$USER_HOME$/~working0/realie-app/src/components/metadata-details.js" />
       <jump line="51" column="11" filename="$USER_HOME$/~working0/realie-app/src/screens/edit-details.js" />
@@ -1279,6 +1282,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/webforms/il-avm-loan-data-service/src/main/resources/application.properties" />
       <jump line="5" column="0" filename="$USER_HOME$/webforms/il-avm-loan-data-service/README.md" />
       <jump line="6" column="31" filename="$USER_HOME$/webforms/il-avm-loan-data-service/README.md" />
+      <jump line="8" column="0" filename="$USER_HOME$/webforms/il-avm-loan-data-service/README.md" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1298,8 +1302,8 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>[</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>[</text>
@@ -1311,31 +1315,31 @@
         <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuc3ByaW5nZnJhbWV3b3JrLnRlc3Qud2ViLnNlcnZsZXQucmVxdWVzdC5Nb2NrTXZjUmVxdWVzdEJ1aWxkZXJzLio7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Q3VycmVudGx5LCBjb25maWd1cmF0aW9uIGlzIHN0b3JlZCAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Q3VycmVudGx5LCBjb25maWd1cmF0aW9uIGlzIHN0b3JlZCAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c2VydmVyLnBvcnQ9ODA4MAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">bG9nZ2luZy5wYXRoPUM6L1VzZXJzL2Rtb3VuY2UvRGVza3RvcAo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">c2VydmVyLnBvcnQ9ODA4MAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">bG9nZ2luZy5wYXRoPUM6L1VzZXJzL2Rtb3VuY2UvRGVza3RvcAo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICApOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5jb250ZW50KCkK</text>
+        <text encoding="base64">ICAgICAgICApOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5jb250ZW50KCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsudGVzdC53ZWIuc2VydmxldC5zZXR1cC5Nb2NrTXZjQnVpbGRlcnMuKjsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
