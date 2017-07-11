@@ -739,6 +739,12 @@
         <mark key="." line="36" column="21" />
         <mark key="^" line="41" column="65" />
       </file>
+      <file name="$USER_HOME$/webforms/il-loan-data-service/src/test/java/com/intralinks/avm/loandata/controller/MessageControllerTest.java" timestamp="1499794870639">
+        <mark key="[" line="34" column="20" />
+        <mark key="]" line="34" column="34" />
+        <mark key="." line="34" column="34" />
+        <mark key="^" line="34" column="34" />
+      </file>
       <file name="$USER_HOME$/~working0/c2/invite-api/db/migrations/20170411174534-create-ticket-purchase-user.js" timestamp="1491932838280">
         <mark key="'" line="54" column="10" />
         <mark key="[" line="60" column="36" />
@@ -1235,11 +1241,11 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Something</text>
       </register>
       <register name="-" type="4">
-        <text>derek</text>
+        <text>Something</text>
       </register>
       <register name="/" type="4">
         <text>ham</text>
