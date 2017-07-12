@@ -225,11 +225,11 @@
         <mark key="." line="10" column="58" />
         <mark key="^" line="10" column="58" />
       </file>
-      <file name="$USER_HOME$/webforms/il-avm-loan-data-service/pom.xml" timestamp="1499886805449">
+      <file name="$USER_HOME$/webforms/il-avm-loan-data-service/pom.xml" timestamp="1499887822007">
         <mark key="'" line="49" column="78" />
-        <mark key="[" line="49" column="82" />
-        <mark key="]" line="50" column="7" />
-        <mark key="." line="50" column="7" />
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
         <mark key="^" line="50" column="7" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/user/templates/registration-html-en.html" timestamp="1489896563678">
@@ -1310,7 +1310,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">CTwvcmVwb3NpdG9yaWVzPgo=</text>
+        <text encoding="base64">ICAgICAgICA8IS0tPHJlcG9zaXRvcnk+LS0+CiAgICAgICAgICAgIDwhLS08aWQ+c3ByaW5nLXJlbGVhc2VzPC9pZD4tLT4KICAgICAgICAgICAgPCEtLTx1cmw+aHR0cHM6Ly9yZXBvLnNwcmluZy5pby9saWJzLXJlbGVhc2U8L3VybD4tLT4KICAgICAgICA8IS0tPC9yZXBvc2l0b3J5Pi0tPgo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">PHJlcG9zaXRvcmllcz4=</text>
@@ -1322,31 +1322,31 @@
         <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuc3ByaW5nZnJhbWV3b3JrLnRlc3Qud2ViLnNlcnZsZXQucmVxdWVzdC5Nb2NrTXZjUmVxdWVzdEJ1aWxkZXJzLio7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CTwvcmVwb3NpdG9yaWVzPgo=</text>
+        <text encoding="base64">ICAgICAgICA8IS0tPHJlcG9zaXRvcnk+LS0+CiAgICAgICAgICAgIDwhLS08aWQ+c3ByaW5nLXJlbGVhc2VzPC9pZD4tLT4KICAgICAgICAgICAgPCEtLTx1cmw+aHR0cHM6Ly9yZXBvLnNwcmluZy5pby9saWJzLXJlbGVhc2U8L3VybD4tLT4KICAgICAgICA8IS0tPC9yZXBvc2l0b3J5Pi0tPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CTwvcmVwb3NpdG9yaWVzPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Q3VycmVudGx5LCBjb25maWd1cmF0aW9uIGlzIHN0b3JlZCAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Q3VycmVudGx5LCBjb25maWd1cmF0aW9uIGlzIHN0b3JlZCAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c2VydmVyLnBvcnQ9ODA4MAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">bG9nZ2luZy5wYXRoPUM6L1VzZXJzL2Rtb3VuY2UvRGVza3RvcAo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">c2VydmVyLnBvcnQ9ODA4MAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">bG9nZ2luZy5wYXRoPUM6L1VzZXJzL2Rtb3VuY2UvRGVza3RvcAo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICApOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5jb250ZW50KCkK</text>
+        <text encoding="base64">ICAgICAgICApOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
