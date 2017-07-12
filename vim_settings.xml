@@ -232,6 +232,13 @@
         <mark key="." line="15" column="17" />
         <mark key="^" line="15" column="17" />
       </file>
+      <file name="$USER_HOME$/webforms/il-avm-loan-data-service/chef/README.md" timestamp="1499893907625">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/invite-api/src/modules/user/templates/registration-html-en.html" timestamp="1489896563678">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -603,12 +610,6 @@
         <mark key="." line="162" column="38" />
         <mark key="^" line="162" column="38" />
       </file>
-      <file name="$USER_HOME$/~working0/realie-app/src/data/auth.js" timestamp="1498241667784">
-        <mark key="'" line="20" column="31" />
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
-      </file>
       <file name="$USER_HOME$/~working0/realie-app/src/screens/view-picture.js" timestamp="1499108736076">
         <mark key="[" line="49" column="6" />
         <mark key="]" line="49" column="32" />
@@ -710,6 +711,12 @@
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/webforms/il-avm-loan-data-service/dist/do-rpmbuild.sh" timestamp="1499893502458">
+        <mark key="[" line="33" column="35" />
+        <mark key="]" line="33" column="47" />
+        <mark key="." line="33" column="47" />
+        <mark key="^" line="33" column="47" />
       </file>
       <file name="$USER_HOME$/~working0/c2/invite-api/src/logger.js" timestamp="1491605154159">
         <mark key="'" line="3" column="27" />
@@ -847,12 +854,6 @@
         <mark key="]" line="5" column="0" />
         <mark key="^" line="12" column="34" />
         <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/webforms/il-loan-data-service/src/main/java/com/intralinks/LoanDataService/repository/MessageRepository.java" timestamp="1499715366233">
-        <mark key="'" line="29" column="23" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/webforms/il-loan-data-service/src/main/java/com/intralinks/LoanDataService/domain/Message.java" timestamp="1499715267128">
         <mark key="[" line="3" column="18" />
@@ -1190,7 +1191,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="33" filename="$USER_HOME$/~working0/realie-app/src/components/metadata-details.js" />
       <jump line="51" column="11" filename="$USER_HOME$/~working0/realie-app/src/screens/edit-details.js" />
       <jump line="41" column="48" filename="$USER_HOME$/~working0/realie-app/src/screens/edit-details.js" />
       <jump line="37" column="44" filename="$USER_HOME$/~working0/realie-app/src/screens/edit-details.js" />
@@ -1290,6 +1290,7 @@
       <jump line="6" column="31" filename="$USER_HOME$/webforms/il-avm-loan-data-service/README.md" />
       <jump line="8" column="0" filename="$USER_HOME$/webforms/il-avm-loan-data-service/README.md" />
       <jump line="49" column="78" filename="$USER_HOME$/webforms/il-avm-loan-data-service/pom.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/webforms/il-avm-loan-data-service/chef/README.md" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1309,53 +1310,53 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">IEphdmE=</text>
       </register>
       <register name="/" type="4">
-        <text>pack</text>
+        <text>\.</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuc3ByaW5nZnJhbWV3b3JrLnRlc3Qud2ViLnNlcnZsZXQucmVxdWVzdC5Nb2NrTXZjUmVxdWVzdEJ1aWxkZXJzLio7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tPHJlcG9zaXRvcnk+LS0+CiAgICAgICAgICAgIDwhLS08aWQ+c3ByaW5nLXJlbGVhc2VzPC9pZD4tLT4KICAgICAgICAgICAgPCEtLTx1cmw+aHR0cHM6Ly9yZXBvLnNwcmluZy5pby9saWJzLXJlbGVhc2U8L3VybD4tLT4KICAgICAgICA8IS0tPC9yZXBvc2l0b3J5Pi0tPgo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">CTwvcmVwb3NpdG9yaWVzPgo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">UmVmZXJlbmNlIFZlcnQueCA=</text>
+      </register>
+      <register name="3" type="4">
+        <text>Reference Vert.x Java Service.</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Q3VycmVudGx5LCBjb25maWd1cmF0aW9uIGlzIHN0b3JlZCAK</text>
+        <text encoding="base64">ICAgICAgICA8IS0tPHJlcG9zaXRvcnk+LS0+CiAgICAgICAgICAgIDwhLS08aWQ+c3ByaW5nLXJlbGVhc2VzPC9pZD4tLT4KICAgICAgICAgICAgPCEtLTx1cmw+aHR0cHM6Ly9yZXBvLnNwcmluZy5pby9saWJzLXJlbGVhc2U8L3VybD4tLT4KICAgICAgICA8IS0tPC9yZXBvc2l0b3J5Pi0tPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CTwvcmVwb3NpdG9yaWVzPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c2VydmVyLnBvcnQ9ODA4MAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bG9nZ2luZy5wYXRoPUM6L1VzZXJzL2Rtb3VuY2UvRGVza3RvcAo=</text>
+        <text encoding="base64">Q3VycmVudGx5LCBjb25maWd1cmF0aW9uIGlzIHN0b3JlZCAK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICApOwo=</text>
+        <text encoding="base64">c2VydmVyLnBvcnQ9ODA4MAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>pack</last-search>
+      <last-search>\.</last-search>
       <last-offset />
-      <last-pattern>pack</last-pattern>
+      <last-pattern>\.</last-pattern>
       <last-replace>it\.realie\.app</last-replace>
       <last-substitute>com\.realieapp</last-substitute>
       <last-dir>1</last-dir>
@@ -1363,9 +1364,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtb2NrUmVwb3NpdG9yeTFcPg==</entry>
-        <entry>Hello</entry>
-        <entry>re</entry>
         <entry>C</entry>
         <entry>)</entry>
         <entry>Atom</entry>
@@ -1383,6 +1381,9 @@
         <entry encoding="base64">Pg==</entry>
         <entry>jar</entry>
         <entry>pack</entry>
+        <entry>'</entry>
+        <entry>Jav</entry>
+        <entry>\.</entry>
       </history-search>
       <history-cmd>
         <entry>14</entry>
