@@ -225,12 +225,12 @@
         <mark key="." line="10" column="58" />
         <mark key="^" line="10" column="58" />
       </file>
-      <file name="$USER_HOME$/webforms/il-avm-loan-data-service/pom.xml" timestamp="1499887822007">
-        <mark key="'" line="49" column="78" />
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
-        <mark key="^" line="50" column="7" />
+      <file name="$USER_HOME$/webforms/il-avm-loan-data-service/pom.xml" timestamp="1499892884503">
+        <mark key="'" line="51" column="78" />
+        <mark key="[" line="15" column="15" />
+        <mark key="]" line="15" column="17" />
+        <mark key="." line="15" column="17" />
+        <mark key="^" line="15" column="17" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/user/templates/registration-html-en.html" timestamp="1489896563678">
         <mark key="'" line="0" column="0" />
@@ -1025,7 +1025,7 @@
         <mark key="." line="25" column="46" />
         <mark key="^" line="25" column="46" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499802809181">
+      <file name="/Dummy.txt" timestamp="1499892779473">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="^" line="0" column="5" />
@@ -1309,14 +1309,14 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tPHJlcG9zaXRvcnk+LS0+CiAgICAgICAgICAgIDwhLS08aWQ+c3ByaW5nLXJlbGVhc2VzPC9pZD4tLT4KICAgICAgICAgICAgPCEtLTx1cmw+aHR0cHM6Ly9yZXBvLnNwcmluZy5pby9saWJzLXJlbGVhc2U8L3VybD4tLT4KICAgICAgICA8IS0tPC9yZXBvc2l0b3J5Pi0tPgo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PHJlcG9zaXRvcmllcz4=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>pack</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuc3ByaW5nZnJhbWV3b3JrLnRlc3Qud2ViLnNlcnZsZXQucmVxdWVzdC5Nb2NrTXZjUmVxdWVzdEJ1aWxkZXJzLio7Cg==</text>
@@ -1353,9 +1353,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">Pg==</last-search>
+      <last-search>pack</last-search>
       <last-offset />
-      <last-pattern encoding="base64">Pg==</last-pattern>
+      <last-pattern>pack</last-pattern>
       <last-replace>it\.realie\.app</last-replace>
       <last-substitute>com\.realieapp</last-substitute>
       <last-dir>1</last-dir>
@@ -1363,8 +1363,6 @@
     </search>
     <history>
       <history-search>
-        <entry>@</entry>
-        <entry>Para</entry>
         <entry encoding="base64">XDxtb2NrUmVwb3NpdG9yeTFcPg==</entry>
         <entry>Hello</entry>
         <entry>re</entry>
@@ -1383,6 +1381,8 @@
         <entry>\/</entry>
         <entry>and</entry>
         <entry encoding="base64">Pg==</entry>
+        <entry>jar</entry>
+        <entry>pack</entry>
       </history-search>
       <history-cmd>
         <entry>14</entry>
