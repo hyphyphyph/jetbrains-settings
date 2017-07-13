@@ -45,6 +45,13 @@
         <mark key="." line="6" column="14" />
         <mark key="^" line="6" column="14" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.xml" timestamp="1499967863837">
+        <mark key="'" line="146" column="14" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="13" column="23" />
+        <mark key="^" line="146" column="14" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/invite-api/db/migrations/20170320013604-create-conference-middleman-event-name.js" timestamp="1490032219954">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -398,11 +405,11 @@
         <mark key="." line="21" column="23" />
         <mark key="^" line="21" column="23" />
       </file>
-      <file name="$USER_HOME$/webforms/il-avm-loan-data-service/src/main/java/com/intralinks/avm/loandata/domain/NestedObject.java" timestamp="1499966819931">
-        <mark key="[" line="7" column="4" />
-        <mark key="]" line="7" column="10" />
-        <mark key="." line="7" column="10" />
-        <mark key="^" line="7" column="10" />
+      <file name="$USER_HOME$/webforms/il-avm-loan-data-service/src/main/java/com/intralinks/avm/loandata/domain/NestedObject.java" timestamp="1499967579910">
+        <mark key="[" line="20" column="5" />
+        <mark key="]" line="22" column="3" />
+        <mark key="." line="22" column="3" />
+        <mark key="^" line="22" column="3" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/routes.js" timestamp="1489971065553">
         <mark key="'" line="1" column="52" />
@@ -619,11 +626,11 @@
         <mark key="^" line="48" column="5" />
         <mark key="." line="49" column="0" />
       </file>
-      <file name="$USER_HOME$/webforms/il-avm-loan-data-service/src/main/java/com/intralinks/avm/loandata/controller/NestedObjectController.java" timestamp="1499965505218">
-        <mark key="[" line="13" column="23" />
-        <mark key="]" line="13" column="21" />
-        <mark key="^" line="13" column="21" />
-        <mark key="." line="13" column="21" />
+      <file name="$USER_HOME$/webforms/il-avm-loan-data-service/src/main/java/com/intralinks/avm/loandata/controller/NestedObjectController.java" timestamp="1499967583757">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="12" column="21" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/~working0/realie-app/src/config/env.js" timestamp="1498347086620">
         <mark key="'" line="1" column="28" />
@@ -645,6 +652,12 @@
         <mark key="]" line="41" column="45" />
         <mark key="." line="41" column="45" />
         <mark key="^" line="41" column="45" />
+      </file>
+      <file name="$USER_HOME$/webforms/il-avm-loan-data-service/src/main/java/com/intralinks/avm/loandata/domain/Loan.java" timestamp="1499968229399">
+        <mark key="[" line="10" column="15" />
+        <mark key="]" line="10" column="15" />
+        <mark key="^" line="10" column="3" />
+        <mark key="." line="10" column="15" />
       </file>
       <file name="$USER_HOME$/~working0/c2/invite-api/src/modules/pass-management/handlers/split.handler.js" timestamp="1491850357820">
         <mark key="'" line="75" column="20" />
@@ -924,6 +937,12 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="20" column="28" />
       </file>
+      <file name="$USER_HOME$/webforms/il-avm-loan-data-service/src/main/java/com/intralinks/avm/loandata/domain/DealSummary.java" timestamp="1499968068680">
+        <mark key="[" line="22" column="31" />
+        <mark key="]" line="23" column="23" />
+        <mark key="." line="23" column="23" />
+        <mark key="^" line="23" column="23" />
+      </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference/services/assignment.service.js" timestamp="1489897931412">
         <mark key="'" line="53" column="61" />
         <mark key="[" line="53" column="79" />
@@ -986,10 +1005,12 @@
         <mark key="." line="5" column="42" />
         <mark key="^" line="5" column="42" />
       </file>
-      <file name="$USER_HOME$/webforms/il-avm-loan-data-service/src/main/java/com/intralinks/avm/loandata/domain/Workspace.java" timestamp="1499966814778">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/webforms/il-avm-loan-data-service/src/main/java/com/intralinks/avm/loandata/domain/Workspace.java" timestamp="1499968368385">
+        <mark key="'" line="11" column="17" />
+        <mark key="[" line="44" column="25" />
+        <mark key="]" line="44" column="25" />
+        <mark key="." line="44" column="25" />
+        <mark key="^" line="44" column="25" />
       </file>
       <file name="$USER_HOME$/invite-api/src/modules/user/handlers/user-crud.handler.js" timestamp="1490587858718">
         <mark key="'" line="179" column="30" />
@@ -1175,6 +1196,11 @@
         <mark key="." line="53" column="17" />
         <mark key="^" line="53" column="17" />
       </file>
+      <file name="$USER_HOME$/webforms/il-avm-loan-data-service/src/main/java/com/intralinks/avm/loandata/domain/Group.java" timestamp="1499968310022">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/invite-api/src/models/conference-invite.model.js" timestamp="1490649186415">
         <mark key="'" line="196" column="75" />
         <mark key="[" line="147" column="15" />
@@ -1202,15 +1228,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="11" filename="$USER_HOME$/~working0/realie-app/src/screens/edit-details.js" />
-      <jump line="41" column="48" filename="$USER_HOME$/~working0/realie-app/src/screens/edit-details.js" />
-      <jump line="37" column="44" filename="$USER_HOME$/~working0/realie-app/src/screens/edit-details.js" />
-      <jump line="137" column="0" filename="$USER_HOME$/~working0/realie-app/src/screens/edit-details.js" />
-      <jump line="103" column="17" filename="$USER_HOME$/~working0/realie-app/src/screens/about.js" />
-      <jump line="106" column="6" filename="$USER_HOME$/~working0/realie-app/src/screens/about.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/~working0/realie-app/src/screens/about.js" />
-      <jump line="26" column="17" filename="$USER_HOME$/~working0/realie-app/src/screens/about.js" />
-      <jump line="39" column="35" filename="$USER_HOME$/~working0/realie-app/src/screens/about.js" />
       <jump line="146" column="80" filename="$USER_HOME$/~working0/realie-app/src/components/metadata-details.js" />
       <jump line="231" column="6" filename="$USER_HOME$/~working0/realie-app/src/components/realie-overlay.js" />
       <jump line="34" column="0" filename="$USER_HOME$/~working0/realie-app/src/components/realie-overlay.js" />
@@ -1302,6 +1319,15 @@
       <jump line="8" column="0" filename="$USER_HOME$/webforms/il-avm-loan-data-service/README.md" />
       <jump line="49" column="78" filename="$USER_HOME$/webforms/il-avm-loan-data-service/pom.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/webforms/il-avm-loan-data-service/chef/README.md" />
+      <jump line="25" column="0" filename="$USER_HOME$/webforms/il-avm-loan-data-service/src/main/java/com/intralinks/avm/loandata/domain/Workspace.java" />
+      <jump line="23" column="26" filename="$USER_HOME$/webforms/il-avm-loan-data-service/src/main/java/com/intralinks/avm/loandata/domain/Workspace.java" />
+      <jump line="22" column="32" filename="$USER_HOME$/webforms/il-avm-loan-data-service/src/main/java/com/intralinks/avm/loandata/domain/Workspace.java" />
+      <jump line="6" column="30" filename="$USER_HOME$/webforms/il-avm-loan-data-service/src/main/java/com/intralinks/avm/loandata/domain/Workspace.java" />
+      <jump line="146" column="14" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.xml" />
+      <jump line="9" column="0" filename="$USER_HOME$/webforms/il-avm-loan-data-service/src/main/java/com/intralinks/avm/loandata/domain/Workspace.java" />
+      <jump line="10" column="16" filename="$USER_HOME$/webforms/il-avm-loan-data-service/src/main/java/com/intralinks/avm/loandata/domain/Workspace.java" />
+      <jump line="31" column="24" filename="$USER_HOME$/webforms/il-avm-loan-data-service/src/main/java/com/intralinks/avm/loandata/domain/Workspace.java" />
+      <jump line="11" column="17" filename="$USER_HOME$/webforms/il-avm-loan-data-service/src/main/java/com/intralinks/avm/loandata/domain/Workspace.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1321,63 +1347,60 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>public</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>public</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>\.</text>
+        <text>de</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuc3ByaW5nZnJhbWV3b3JrLnRlc3Qud2ViLnNlcnZsZXQucmVxdWVzdC5Nb2NrTXZjUmVxdWVzdEJ1aWxkZXJzLio7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyAK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgZG1vdW5jZSBvbiA3LzEzLzIwMTcuCiAqLwo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0aGluZ3MuYWRkKG5ldyBOZXN0ZWRPYmplY3QoKSkK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5pbnRyYWxpbmtzLmF2bS5sb2FuZGF0YS5kb21haW4uTmVzdGVkT2JqZWN0Owo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmRlYWxTdW1tYXJ5ID0gZGVhbFN1bW1hcnk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5pbnRyYWxpbmtzLmF2bS5sb2FuZGF0YS5kb21haW4uTWVzc2FnZTsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBMb2FuKERlYWxTdW1tYXJ5IGRlYWxTdW1tYXJ5KSB7Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgZG1vdW5jZSBvbiA3LzEzLzIwMTcuCiAqLwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5pbnRyYWxpbmtzLmF2bS5sb2FuZGF0YS5yZXBvc2l0b3J5Lk1lc3NhZ2VSZXBvc2l0b3J5Owo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBEZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>\.</last-search>
+      <last-search>de</last-search>
       <last-offset />
-      <last-pattern>\.</last-pattern>
+      <last-pattern>de</last-pattern>
       <last-replace>it\.realie\.app</last-replace>
       <last-substitute>com\.realieapp</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>C</entry>
-        <entry>)</entry>
-        <entry>Atom</entry>
         <entry>A</entry>
         <entry>mock</entry>
         <entry>Mock</entry>
@@ -1395,10 +1418,11 @@
         <entry>'</entry>
         <entry>Jav</entry>
         <entry>\.</entry>
+        <entry>Voed</entry>
+        <entry>Vode</entry>
+        <entry>de</entry>
       </history-search>
       <history-cmd>
-        <entry>14</entry>
-        <entry>:w</entry>
         <entry>Lw</entry>
         <entry>&quot;W</entry>
         <entry>e</entry>
@@ -1416,7 +1440,9 @@
         <entry>V</entry>
         <entry>W</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>9</entry>
         <entry>w</entry>
+        <entry>L;w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
