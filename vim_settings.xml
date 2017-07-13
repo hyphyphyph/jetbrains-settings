@@ -38,9 +38,6 @@
         <mark key="." line="2" column="20" />
         <mark key="^" line="2" column="20" />
       </file>
-      <file name="/a.dummy" timestamp="1499715907274">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/realie-app/src/screens/capture.js" timestamp="1492707073246">
         <mark key="'" line="2" column="0" />
         <mark key="[" line="6" column="8" />
@@ -401,6 +398,11 @@
         <mark key="." line="21" column="23" />
         <mark key="^" line="21" column="23" />
       </file>
+      <file name="$USER_HOME$/webforms/il-avm-loan-data-service/src/main/java/com/intralinks/avm/loandata/domain/NestedObject.java" timestamp="1499965470505">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/invite-api/src/modules/conference-invite/routes.js" timestamp="1489971065553">
         <mark key="'" line="1" column="52" />
         <mark key="[" line="109" column="12" />
@@ -615,6 +617,12 @@
         <mark key="]" line="49" column="32" />
         <mark key="^" line="48" column="5" />
         <mark key="." line="49" column="0" />
+      </file>
+      <file name="$USER_HOME$/webforms/il-avm-loan-data-service/src/main/java/com/intralinks/avm/loandata/controller/NestedObjectController.java" timestamp="1499965505218">
+        <mark key="[" line="13" column="23" />
+        <mark key="]" line="13" column="21" />
+        <mark key="^" line="13" column="21" />
+        <mark key="." line="13" column="21" />
       </file>
       <file name="$USER_HOME$/~working0/realie-app/src/config/env.js" timestamp="1498347086620">
         <mark key="'" line="1" column="28" />
@@ -1178,7 +1186,7 @@
         <mark key="^" line="1" column="16" />
         <mark key="." line="1" column="16" />
       </file>
-      <file name="/fragment.java" timestamp="1499802809168">
+      <file name="/fragment.java" timestamp="1499965176025">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="96" />
       </file>
@@ -1310,11 +1318,11 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>return</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IEphdmE=</text>
+        <text>return</text>
       </register>
       <register name="/" type="4">
         <text>\.</text>
@@ -1323,31 +1331,31 @@
         <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuc3ByaW5nZnJhbWV3b3JrLnRlc3Qud2ViLnNlcnZsZXQucmVxdWVzdC5Nb2NrTXZjUmVxdWVzdEJ1aWxkZXJzLio7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGluZ3MuYWRkKG5ldyBOZXN0ZWRPYmplY3QoKSkK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">UmVmZXJlbmNlIFZlcnQueCA=</text>
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5pbnRyYWxpbmtzLmF2bS5sb2FuZGF0YS5kb21haW4uTmVzdGVkT2JqZWN0Owo=</text>
       </register>
-      <register name="3" type="4">
-        <text>Reference Vert.x Java Service.</text>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5pbnRyYWxpbmtzLmF2bS5sb2FuZGF0YS5kb21haW4uTWVzc2FnZTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tPHJlcG9zaXRvcnk+LS0+CiAgICAgICAgICAgIDwhLS08aWQ+c3ByaW5nLXJlbGVhc2VzPC9pZD4tLT4KICAgICAgICAgICAgPCEtLTx1cmw+aHR0cHM6Ly9yZXBvLnNwcmluZy5pby9saWJzLXJlbGVhc2U8L3VybD4tLT4KICAgICAgICA8IS0tPC9yZXBvc2l0b3J5Pi0tPgo=</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgZG1vdW5jZSBvbiA3LzEzLzIwMTcuCiAqLwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CTwvcmVwb3NpdG9yaWVzPgo=</text>
+        <text encoding="base64">aW0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5pbnRyYWxpbmtzLmF2bS5sb2FuZGF0YS5yZXBvc2l0b3J5Lk1lc3NhZ2VSZXBvc2l0b3J5Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Q3VycmVudGx5LCBjb25maWd1cmF0aW9uIGlzIHN0b3JlZCAK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbWVzc2FnZVJlcG9zaXRvcnkuZ2V0TWVzc2FnZUNvbnRlbnQoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIE5lc3RlZE9iamVjdENvbnRyb2xsZXIoKSB7CiAgICAgICAgbWVzc2FnZVJlcG9zaXRvcnkgPSBuZXcgTWVzc2FnZVJlcG9zaXRvcnkoKTsKICAgIH0KCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">c2VydmVyLnBvcnQ9ODA4MAo=</text>
+        <text encoding="base64">CiAgICBwcml2YXRlIGZpbmFsIE1lc3NhZ2VSZXBvc2l0b3J5IG1lc3NhZ2VSZXBvc2l0b3J5Owo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
