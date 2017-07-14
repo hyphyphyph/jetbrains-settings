@@ -38,6 +38,9 @@
         <mark key="." line="2" column="20" />
         <mark key="^" line="2" column="20" />
       </file>
+      <file name="/a.dummy" timestamp="1500055707709">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/realie-app/src/screens/capture.js" timestamp="1492707073246">
         <mark key="'" line="2" column="0" />
         <mark key="[" line="6" column="8" />
@@ -73,11 +76,11 @@
         <mark key="." line="0" column="30" />
         <mark key="^" line="0" column="30" />
       </file>
-      <file name="$USER_HOME$/webforms/il-avm-loan-data-service/.gitignore" timestamp="1499800590586">
-        <mark key="[" line="0" column="8" />
-        <mark key="]" line="1" column="11" />
-        <mark key="^" line="1" column="11" />
-        <mark key="." line="1" column="11" />
+      <file name="$USER_HOME$/webforms/il-avm-loan-data-service/.gitignore" timestamp="1500056259223">
+        <mark key="[" line="20" column="1" />
+        <mark key="]" line="20" column="15" />
+        <mark key="^" line="20" column="15" />
+        <mark key="." line="20" column="15" />
       </file>
       <file name="$USER_HOME$/~working0/realie-app/src/components/metadata-details.js" timestamp="1497808315316">
         <mark key="'" line="146" column="80" />
@@ -607,6 +610,13 @@
         <mark key="^" line="5" column="37" />
         <mark key="." line="5" column="37" />
       </file>
+      <file name="$USER_HOME$/webforms/il-avm-loan-data-service/src/main/java/com/intralinks/avm/loandata/config/SwaggerConfig.java" timestamp="1500056011066">
+        <mark key="'" line="18" column="29" />
+        <mark key="[" line="18" column="40" />
+        <mark key="]" line="18" column="40" />
+        <mark key="." line="18" column="40" />
+        <mark key="^" line="18" column="40" />
+      </file>
       <file name="$USER_HOME$/~working0/c2/invite-api/src/models/conference-invite.model.js" timestamp="1492031254824">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="166" column="25" />
@@ -1016,6 +1026,13 @@
         <mark key="." line="21" column="20" />
         <mark key="^" line="21" column="20" />
       </file>
+      <file name="$USER_HOME$/webforms/il-avm-loan-data-service/src/main/java/com/intralinks/avm/loandata/controller/WorkspaceController.java" timestamp="1500056015935">
+        <mark key="'" line="19" column="51" />
+        <mark key="[" line="19" column="39" />
+        <mark key="]" line="19" column="39" />
+        <mark key="^" line="19" column="39" />
+        <mark key="." line="19" column="39" />
+      </file>
       <file name="$USER_HOME$/invite-api/src/modules/user/handlers/user-crud.handler.js" timestamp="1490587858718">
         <mark key="'" line="179" column="30" />
         <mark key="[" line="129" column="7" />
@@ -1235,9 +1252,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="142" column="20" filename="$USER_HOME$/~working0/realie-app/src/components/realie-overlay.js" />
-      <jump line="235" column="23" filename="$USER_HOME$/~working0/realie-app/src/reducers/index.js" />
-      <jump line="364" column="2" filename="$USER_HOME$/~working0/realie-app/src/screens/capture.js" />
       <jump line="57" column="0" filename="$USER_HOME$/~working0/realie-app/src/screens/validation.js" />
       <jump line="0" column="0" filename="$USER_HOME$/~working0/realie-app/src/actions/index.js" />
       <jump line="185" column="13" filename="$USER_HOME$/~working0/realie-app/src/actions/index.js" />
@@ -1335,6 +1349,9 @@
       <jump line="11" column="0" filename="$USER_HOME$/webforms/il-avm-loan-data-service/src/main/java/com/intralinks/avm/loandata/domain/Group.java" />
       <jump line="49" column="21" filename="$USER_HOME$/webforms/il-avm-loan-data-service/src/main/java/com/intralinks/avm/loandata/domain/Group.java" />
       <jump line="4" column="13" filename="$USER_HOME$/webforms/il-avm-loan-data-service/src/main/java/com/intralinks/avm/loandata/repository/WorkspaceRepository.java" />
+      <jump line="14" column="95" filename="$USER_HOME$/webforms/il-avm-loan-data-service/src/main/java/com/intralinks/avm/loandata/config/SwaggerConfig.java" />
+      <jump line="17" column="51" filename="$USER_HOME$/webforms/il-avm-loan-data-service/src/main/java/com/intralinks/avm/loandata/controller/WorkspaceController.java" />
+      <jump line="18" column="29" filename="$USER_HOME$/webforms/il-avm-loan-data-service/src/main/java/com/intralinks/avm/loandata/config/SwaggerConfig.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1354,62 +1371,60 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>2</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">L3RhcmdldC8K</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
-        <text>Float</text>
+        <text>A</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+aW8uc3ByaW5nZm94PC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5zcHJpbmdmb3gtc3dhZ2dlcjI8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPjIuNi4xPC92ZXJzaW9uPgogICAgICAgICAgICA8c2NvcGU+Y29tcGlsZTwvc2NvcGU+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">L3RhcmdldC8K</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5pbnRyYWxpbmtzLmF2bS5sb2FuZGF0YS5kb21haW4uTmVzdGVkT2JqZWN0Owo=</text>
+      <register name="2" type="4">
+        <text>product</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBSZXF1ZXN0TWFwcGluZygiL21lc3NhZ2UiKQogICAgcHVibGljIE1lc3NhZ2UgbWVzc2FnZSgpIHsKCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5wYXRocyhyZWdleCgiLyoiKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgIH0KICAgICAgICBOZXN0ZWRPYmplY3Qgb2JqZWN0ID0gbmV3IE5lc3RlZE9iamVjdCgpO3JldHVybiBvYmplY3Q7Cg==</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgZG1vdW5jZSBvbiA3LzE0LzIwMTcuCiAqLwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIE1lc3NhZ2VDb250cm9sbGVyKCkgewogICAgICAgIG1lc3NhZ2VSZXBvc2l0b3J5ID0gbmV3IE1lc3NhZ2VSZXBvc2l0b3J5KCk7CiAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5pbnRyYWxpbmtzLmF2bS5sb2FuZGF0YS5kb21haW4uTmVzdGVkT2JqZWN0Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">fQoK</text>
+        <text encoding="base64">ICAgIEBSZXF1ZXN0TWFwcGluZygiL21lc3NhZ2UiKQogICAgcHVibGljIE1lc3NhZ2UgbWVzc2FnZSgpIHsKCiAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICBwcml2YXRlIGZpbmFsIE1lc3NhZ2VSZXBvc2l0b3J5IG1lc3NhZ2VSZXBvc2l0b3J5Owo=</text>
+        <text encoding="base64">ICAgICAgICAKICAgIH0KICAgICAgICBOZXN0ZWRPYmplY3Qgb2JqZWN0ID0gbmV3IE5lc3RlZE9iamVjdCgpO3JldHVybiBvYmplY3Q7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDEuMjUK</text>
+        <text encoding="base64">ICAgIE1lc3NhZ2VDb250cm9sbGVyKCkgewogICAgICAgIG1lc3NhZ2VSZXBvc2l0b3J5ID0gbmV3IE1lc3NhZ2VSZXBvc2l0b3J5KCk7CiAgICB9Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Float</last-search>
+      <last-search>A</last-search>
       <last-offset />
-      <last-pattern>Float</last-pattern>
+      <last-pattern>A</last-pattern>
       <last-replace>it\.realie\.app</last-replace>
       <last-substitute>com\.realieapp</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Mock</entry>
-        <entry encoding="base64">XDxNb2NrTXZjQnVpbGRlcnNydFw+</entry>
         <entry>H</entry>
         <entry>status</entry>
         <entry>ham</entry>
@@ -1420,7 +1435,6 @@
         <entry encoding="base64">Pg==</entry>
         <entry>jar</entry>
         <entry>pack</entry>
-        <entry>'</entry>
         <entry>Jav</entry>
         <entry>\.</entry>
         <entry>Voed</entry>
@@ -1428,6 +1442,9 @@
         <entry>de</entry>
         <entry>id</entry>
         <entry>Float</entry>
+        <entry>Req</entry>
+        <entry>'</entry>
+        <entry>A</entry>
       </history-search>
       <history-cmd>
         <entry>Lw</entry>
