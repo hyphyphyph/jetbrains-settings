@@ -554,12 +554,12 @@
         <mark key="." line="142" column="74" />
         <mark key="^" line="142" column="74" />
       </file>
-      <file name="$USER_HOME$/~working0/realie-app/src/config/env.js" timestamp="1498347086620">
+      <file name="$USER_HOME$/~working0/realie-app/src/config/env.js" timestamp="1500061554550">
         <mark key="'" line="1" column="28" />
         <mark key="[" line="1" column="16" />
-        <mark key="]" line="1" column="25" />
-        <mark key="^" line="1" column="25" />
-        <mark key="." line="1" column="25" />
+        <mark key="]" line="1" column="22" />
+        <mark key="^" line="1" column="22" />
+        <mark key="." line="1" column="22" />
       </file>
       <file name="$USER_HOME$/RealieApp/android/app/src/main/java/com/realieapp/MainApplication.java" timestamp="1492721558452">
         <mark key="'" line="5" column="30" />
@@ -1140,10 +1140,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>com</text>
+        <text>PRODUCTION</text>
       </register>
       <register name="-" type="4">
-        <text>com</text>
+        <text>PRODUCTION</text>
       </register>
       <register name="/" type="4">
         <text>throw</text>
