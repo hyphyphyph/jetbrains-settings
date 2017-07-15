@@ -129,6 +129,9 @@
         <mark key="." line="2" column="20" />
         <mark key="^" line="2" column="20" />
       </file>
+      <file name="$USER_HOME$/~working0/realie-app/yarn.lock" timestamp="1500137406002">
+        <mark key="'" line="19" column="14" />
+      </file>
       <file name="$USER_HOME$/invite-api/src/modules/user/templates/reset-html-fr.html" timestamp="1489896960115">
         <mark key="'" line="3" column="0" />
         <mark key="[" line="21" column="0" />
@@ -184,14 +187,6 @@
         <mark key="]" line="53" column="79" />
         <mark key="." line="53" column="79" />
         <mark key="^" line="53" column="61" />
-      </file>
-      <file name="$USER_HOME$/~working0/realie-app/src/screens/base-auth.js" timestamp="1498241460506">
-        <mark key="k" line="37" column="11" />
-        <mark key="[" line="76" column="0" />
-        <mark key="m" line="37" column="11" />
-        <mark key="]" line="76" column="0" />
-        <mark key="." line="76" column="0" />
-        <mark key="^" line="48" column="17" />
       </file>
       <file name="$USER_HOME$/invite-api/config/default.yml" timestamp="1490407801787">
         <mark key="'" line="40" column="7" />
@@ -1020,7 +1015,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="214" column="12" filename="$USER_HOME$/~working0/realie-app/src/components/validation-preview.js" />
       <jump line="271" column="11" filename="$USER_HOME$/~working0/realie-app/src/components/validation-preview.js" />
       <jump line="66" column="26" filename="$USER_HOME$/~working0/realie-app/src/components/validation-preview.js" />
       <jump line="83" column="26" filename="$USER_HOME$/~working0/realie-app/src/components/validation-preview.js" />
@@ -1120,6 +1114,7 @@
       <jump line="79" column="22" filename="$USER_HOME$/~working0/realie-app/src/data/pictures.js" />
       <jump line="116" column="15" filename="$USER_HOME$/~working0/realie-app/src/data/pictures.js" />
       <jump line="102" column="52" filename="$USER_HOME$/~working0/realie-app/src/data/pictures.js" />
+      <jump line="19" column="14" filename="$USER_HOME$/~working0/realie-app/yarn.lock" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1146,7 +1141,7 @@
         <text>PRODUCTION</text>
       </register>
       <register name="/" type="4">
-        <text>throw</text>
+        <text>react-native-camera</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgaGVhZGVyVGludENvbG9yOiAnIzY2MDA2NicK</text>
@@ -1183,9 +1178,9 @@
       </register>
     </registers>
     <search>
-      <last-search>throw</last-search>
+      <last-search>react-native-camera</last-search>
       <last-offset />
-      <last-pattern>throw</last-pattern>
+      <last-pattern>react-native-camera</last-pattern>
       <last-replace>it\.realie\.app</last-replace>
       <last-substitute>com\.realieapp</last-substitute>
       <last-dir>1</last-dir>
@@ -1193,7 +1188,6 @@
     </search>
     <history>
       <history-search>
-        <entry>{</entry>
         <entry encoding="base64">ICA=</entry>
         <entry>SHA</entry>
         <entry>Bugg</entry>
@@ -1213,6 +1207,7 @@
         <entry>RealieApp</entry>
         <entry>Sorry</entry>
         <entry>throw</entry>
+        <entry>react-native-camera</entry>
       </history-search>
       <history-cmd>
         <entry>14</entry>
