@@ -974,12 +974,12 @@
         <mark key="." line="9" column="5" />
         <mark key="^" line="9" column="5" />
       </file>
-      <file name="$USER_HOME$/webforms/il-avm-loan-data-service/src/main/java/com/intralinks/avm/loandata/domain/Tranche.java" timestamp="1500319515110">
+      <file name="$USER_HOME$/webforms/il-avm-loan-data-service/src/main/java/com/intralinks/avm/loandata/domain/Tranche.java" timestamp="1500321058063">
         <mark key="'" line="12" column="3" />
-        <mark key="[" line="12" column="44" />
-        <mark key="]" line="12" column="44" />
-        <mark key="." line="12" column="44" />
-        <mark key="^" line="13" column="0" />
+        <mark key="[" line="14" column="4" />
+        <mark key="]" line="14" column="3" />
+        <mark key="." line="14" column="3" />
+        <mark key="^" line="14" column="3" />
       </file>
       <file name="$USER_HOME$/RealieApp/src/screens/validation.js" timestamp="1492878375311">
         <mark key="'" line="26" column="31" />
