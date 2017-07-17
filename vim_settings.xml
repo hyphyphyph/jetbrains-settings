@@ -1381,7 +1381,7 @@
         <text>#</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxidWlsZF9ycG1idWlsZFw+</text>
+        <text>dist</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+aW8uc3ByaW5nZm94PC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5zcHJpbmdmb3gtc3dhZ2dlcjI8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPjIuNi4xPC92ZXJzaW9uPgogICAgICAgICAgICA8c2NvcGU+Y29tcGlsZTwvc2NvcGU+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
@@ -1418,9 +1418,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxidWlsZF9ycG1idWlsZFw+</last-search>
+      <last-search>dist</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxidWlsZF9ycG1idWlsZFw+</last-pattern>
+      <last-pattern>dist</last-pattern>
       <last-replace>it\.realie\.app</last-replace>
       <last-substitute>com\.realieapp</last-substitute>
       <last-dir>1</last-dir>
@@ -1428,7 +1428,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Application</entry>
         <entry>LoanData</entry>
         <entry>\/</entry>
         <entry>and</entry>
@@ -1448,6 +1447,7 @@
         <entry encoding="base64">XDxidWlsZF9wYXJzZV9hcmd1bWVudHNcPg==</entry>
         <entry encoding="base64">XDxycG1idWlsZF9kb19idWlsZFw+</entry>
         <entry encoding="base64">XDxidWlsZF9ycG1idWlsZFw+</entry>
+        <entry>dist</entry>
       </history-search>
       <history-cmd>
         <entry>Lw</entry>
