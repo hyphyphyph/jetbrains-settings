@@ -3,10 +3,24 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1500398771266">
+      <file name="/Dummy.txt" timestamp="1500582723238">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/webforms/il-avm-service/src/main/java/com/intralinks/avm/service/controller/MessageController.java" timestamp="1500577056946">
+        <mark key="[" line="3" column="26" />
+        <mark key="]" line="3" column="32" />
+        <mark key="." line="3" column="32" />
+        <mark key="^" line="3" column="32" />
+      </file>
+      <file name="$USER_HOME$/webforms/il-avm-service/src/main/java/com/intralinks/avm/service/domain/CustomField.java" timestamp="1500582296883">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="27" />
+        <mark key="]" line="0" column="33" />
+        <mark key="." line="0" column="33" />
+        <mark key="^" line="0" column="33" />
+      </file>
+      <file name="$USER_HOME$/webforms/il-avm-service/src/main/java/com/intralinks/avm/service/repository/MessageRepository.java" timestamp="1500582348418">
+        <mark key="'" line="0" column="33" />
         <mark key="[" line="3" column="26" />
         <mark key="]" line="3" column="32" />
         <mark key="." line="3" column="32" />
@@ -17,6 +31,93 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/webforms/il-avm-service/src/main/java/com/intralinks/avm/service/domain/Tranche.java" timestamp="1500582325363">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="27" />
+        <mark key="]" line="0" column="33" />
+        <mark key="." line="0" column="33" />
+        <mark key="^" line="0" column="33" />
+      </file>
+      <file name="$USER_HOME$/webforms/il-avm-service/src/main/java/com/intralinks/avm/service/config/SwaggerConfig.java" timestamp="1500582458145">
+        <mark key="'" line="0" column="33" />
+        <mark key="[" line="17" column="87" />
+        <mark key="]" line="17" column="93" />
+        <mark key="." line="17" column="93" />
+        <mark key="^" line="17" column="93" />
+      </file>
+      <file name="$USER_HOME$/webforms/il-avm-service/src/test/java/com/intralinks/avm/loandata/controller/MessageControllerTest.java" timestamp="1500582469162">
+        <mark key="[" line="2" column="26" />
+        <mark key="]" line="2" column="32" />
+        <mark key="." line="2" column="32" />
+        <mark key="^" line="2" column="32" />
+      </file>
+      <file name="$USER_HOME$/webforms/il-avm-service/src/main/java/com/intralinks/avm/service/domain/TrancheGroup.java" timestamp="1500582330382">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="27" />
+        <mark key="]" line="0" column="33" />
+        <mark key="." line="0" column="33" />
+        <mark key="^" line="0" column="33" />
+      </file>
+      <file name="$USER_HOME$/webforms/il-avm-service/src/main/java/com/intralinks/avm/service/controller/WorkspaceController.java" timestamp="1500582285678">
+        <mark key="'" line="0" column="33" />
+        <mark key="[" line="2" column="26" />
+        <mark key="]" line="2" column="26" />
+        <mark key="." line="2" column="26" />
+        <mark key="^" line="2" column="26" />
+      </file>
+      <file name="$USER_HOME$/webforms/il-avm-service/pom.xml" timestamp="1500582417529">
+        <mark key="[" line="6" column="16" />
+        <mark key="]" line="6" column="16" />
+        <mark key="." line="6" column="16" />
+      </file>
+      <file name="$USER_HOME$/webforms/il-avm-service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" timestamp="1500582504074" />
+      <file name="$USER_HOME$/webforms/il-avm-service/src/main/java/com/intralinks/avm/service/domain/Workspace.java" timestamp="1500582339608">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="27" />
+        <mark key="]" line="0" column="33" />
+        <mark key="." line="0" column="33" />
+        <mark key="^" line="0" column="33" />
+      </file>
+      <file name="$USER_HOME$/webforms/il-avm-service/src/main/java/com/intralinks/avm/service/repository/WorkspaceRepository.java" timestamp="1500582377491">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="2" column="26" />
+        <mark key="]" line="2" column="32" />
+        <mark key="." line="2" column="32" />
+        <mark key="^" line="2" column="32" />
+      </file>
+      <file name="$USER_HOME$/webforms/il-avm-service/src/main/java/com/intralinks/avm/service/domain/Loan.java" timestamp="1500582314225">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="27" />
+        <mark key="]" line="0" column="33" />
+        <mark key="." line="0" column="33" />
+        <mark key="^" line="0" column="33" />
+      </file>
+      <file name="$USER_HOME$/webforms/il-avm-service/src/main/java/com/intralinks/avm/service/domain/Message.java" timestamp="1500582320690">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="0" column="27" />
+        <mark key="]" line="0" column="33" />
+        <mark key="." line="0" column="33" />
+        <mark key="^" line="0" column="33" />
+      </file>
+      <file name="$USER_HOME$/webforms/il-avm-service/dist/do-rpmbuild.sh" timestamp="1500582678806">
+        <mark key="[" line="33" column="39" />
+        <mark key="]" line="33" column="39" />
+        <mark key="." line="33" column="39" />
+      </file>
+      <file name="$USER_HOME$/webforms/il-avm-service/src/main/java/com/intralinks/avm/service/domain/DealSummary.java" timestamp="1500582303747">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="27" />
+        <mark key="]" line="0" column="33" />
+        <mark key="." line="0" column="33" />
+        <mark key="^" line="0" column="33" />
+      </file>
+      <file name="$USER_HOME$/webforms/il-avm-service/src/main/java/com/intralinks/avm/service/domain/Group.java" timestamp="1500582309299">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="27" />
+        <mark key="]" line="0" column="33" />
+        <mark key="." line="0" column="33" />
+        <mark key="^" line="0" column="33" />
+      </file>
       <file name="$USER_HOME$/webforms/il-avm-service/src/main/java/com/intralinks/avm/service/Application.java" timestamp="1500577077203">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="27" />
@@ -24,24 +125,45 @@
         <mark key="." line="0" column="33" />
         <mark key="^" line="0" column="33" />
       </file>
-      <file name="$USER_HOME$/webforms/il-build-tools/src/templates/java-service.spec.in" timestamp="1500399266324">
-        <mark key="'" line="47" column="16" />
+      <file name="$USER_HOME$/webforms/il-avm-service/src/main/java/com/intralinks/avm/service/domain/User.java" timestamp="1500582334632">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="27" />
+        <mark key="]" line="0" column="33" />
+        <mark key="." line="0" column="33" />
+        <mark key="^" line="0" column="33" />
       </file>
     </filemarks>
     <jumps>
       <jump line="182" column="5" filename="$USER_HOME$/webforms/il-build-tools/src/templates/java-service.spec.in" />
       <jump line="47" column="16" filename="$USER_HOME$/webforms/il-build-tools/src/templates/java-service.spec.in" />
       <jump line="0" column="0" filename="$USER_HOME$/webforms/il-avm-service/src/main/java/com/intralinks/avm/service/Application.java" />
+      <jump line="0" column="33" filename="$USER_HOME$/webforms/il-avm-service/src/main/java/com/intralinks/avm/service/controller/WorkspaceController.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/webforms/il-avm-service/src/main/java/com/intralinks/avm/service/domain/CustomField.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/webforms/il-avm-service/src/main/java/com/intralinks/avm/service/domain/DealSummary.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/webforms/il-avm-service/src/main/java/com/intralinks/avm/service/domain/Group.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/webforms/il-avm-service/src/main/java/com/intralinks/avm/service/domain/Loan.java" />
+      <jump line="5" column="0" filename="$USER_HOME$/webforms/il-avm-service/src/main/java/com/intralinks/avm/service/domain/Message.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/webforms/il-avm-service/src/main/java/com/intralinks/avm/service/domain/Tranche.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/webforms/il-avm-service/src/main/java/com/intralinks/avm/service/domain/TrancheGroup.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/webforms/il-avm-service/src/main/java/com/intralinks/avm/service/domain/User.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/webforms/il-avm-service/src/main/java/com/intralinks/avm/service/domain/Workspace.java" />
+      <jump line="0" column="33" filename="$USER_HOME$/webforms/il-avm-service/src/main/java/com/intralinks/avm/service/repository/MessageRepository.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/webforms/il-avm-service/src/main/java/com/intralinks/avm/service/repository/WorkspaceRepository.java" />
+      <jump line="0" column="33" filename="$USER_HOME$/webforms/il-avm-service/src/main/java/com/intralinks/avm/service/config/SwaggerConfig.java" />
     </jumps>
     <registers>
+      <register name="1" type="8">
+        <text>loandata
+loandata</text>
+      </register>
       <register name="&quot;" type="4">
-        <text>loandata</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>loandata</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>loan</text>
