@@ -6,6 +6,11 @@
       <file name="/Dummy.txt" timestamp="1500398771266">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/webforms/il-avm-service/.idea/.name" timestamp="1500576599408">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/webforms/il-build-tools/src/templates/java-service.spec.in" timestamp="1500399266324">
         <mark key="'" line="47" column="16" />
       </file>
@@ -15,6 +20,15 @@
       <jump line="47" column="16" filename="$USER_HOME$/webforms/il-build-tools/src/templates/java-service.spec.in" />
     </jumps>
     <registers>
+      <register name="&quot;" type="4">
+        <text>-</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+      <register name="-" type="4">
+        <text>-</text>
+      </register>
       <register name="/" type="4">
         <text>gradle</text>
       </register>
@@ -30,6 +44,11 @@
       <history-search>
         <entry>gradle</entry>
       </history-search>
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
     </history>
     <shortcut-conflicts />
   </component>
