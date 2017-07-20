@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1500582723238">
+      <file name="/Dummy.txt" timestamp="1500585358217">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/webforms/il-avm-service/src/main/java/com/intralinks/avm/service/controller/MessageController.java" timestamp="1500577056946">
@@ -38,13 +38,14 @@
         <mark key="." line="0" column="33" />
         <mark key="^" line="0" column="33" />
       </file>
-      <file name="$USER_HOME$/webforms/il-avm-service/src/main/java/com/intralinks/avm/service/config/SwaggerConfig.java" timestamp="1500582458145">
-        <mark key="'" line="0" column="33" />
+      <file name="$USER_HOME$/webforms/il-avm-service/src/main/java/com/intralinks/avm/service/config/SwaggerConfig.java" timestamp="1500585438020">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="17" column="87" />
         <mark key="]" line="17" column="93" />
         <mark key="." line="17" column="93" />
         <mark key="^" line="17" column="93" />
       </file>
+      <file name="$USER_HOME$/webforms/il-avm-service/.idea/modules.xml" timestamp="1500585145571" />
       <file name="$USER_HOME$/webforms/il-avm-service/src/test/java/com/intralinks/avm/loandata/controller/MessageControllerTest.java" timestamp="1500582469162">
         <mark key="[" line="2" column="26" />
         <mark key="]" line="2" column="32" />
@@ -65,12 +66,11 @@
         <mark key="." line="2" column="26" />
         <mark key="^" line="2" column="26" />
       </file>
-      <file name="$USER_HOME$/webforms/il-avm-service/pom.xml" timestamp="1500582417529">
-        <mark key="[" line="6" column="16" />
-        <mark key="]" line="6" column="16" />
-        <mark key="." line="6" column="16" />
+      <file name="$USER_HOME$/webforms/il-avm-service/pom.xml" timestamp="1500585499429">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/webforms/il-avm-service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" timestamp="1500582504074" />
       <file name="$USER_HOME$/webforms/il-avm-service/src/main/java/com/intralinks/avm/service/domain/Workspace.java" timestamp="1500582339608">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="27" />
@@ -149,15 +149,19 @@
       <jump line="0" column="0" filename="$USER_HOME$/webforms/il-avm-service/src/main/java/com/intralinks/avm/service/domain/Workspace.java" />
       <jump line="0" column="33" filename="$USER_HOME$/webforms/il-avm-service/src/main/java/com/intralinks/avm/service/repository/MessageRepository.java" />
       <jump line="0" column="0" filename="$USER_HOME$/webforms/il-avm-service/src/main/java/com/intralinks/avm/service/repository/WorkspaceRepository.java" />
-      <jump line="0" column="33" filename="$USER_HOME$/webforms/il-avm-service/src/main/java/com/intralinks/avm/service/config/SwaggerConfig.java" />
+      <jump line="6" column="28" filename="$USER_HOME$/webforms/il-avm-service/src/main/java/com/intralinks/avm/service/config/SwaggerConfig.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/webforms/il-avm-service/src/main/java/com/intralinks/avm/service/config/SwaggerConfig.java" />
     </jumps>
     <registers>
-      <register name="1" type="8">
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="8">
         <text>loandata
 loandata</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -166,13 +170,13 @@ loandata</text>
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>loan</text>
+        <text>swagger</text>
       </register>
     </registers>
     <search>
-      <last-search>loan</last-search>
+      <last-search>swagger</last-search>
       <last-offset />
-      <last-pattern>loan</last-pattern>
+      <last-pattern>swagger</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -180,6 +184,7 @@ loandata</text>
       <history-search>
         <entry>gradle</entry>
         <entry>loan</entry>
+        <entry>swagger</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
