@@ -6,10 +6,23 @@
       <file name="/Dummy.txt" timestamp="1500398771266">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/webforms/il-avm-service/src/main/java/com/intralinks/avm/service/controller/MessageController.java" timestamp="1500577056946">
+        <mark key="[" line="3" column="26" />
+        <mark key="]" line="3" column="32" />
+        <mark key="." line="3" column="32" />
+        <mark key="^" line="3" column="32" />
+      </file>
       <file name="$USER_HOME$/webforms/il-avm-service/.idea/.name" timestamp="1500576599408">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/webforms/il-avm-service/src/main/java/com/intralinks/avm/service/Application.java" timestamp="1500577077203">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="27" />
+        <mark key="]" line="0" column="33" />
+        <mark key="." line="0" column="33" />
+        <mark key="^" line="0" column="33" />
       </file>
       <file name="$USER_HOME$/webforms/il-build-tools/src/templates/java-service.spec.in" timestamp="1500399266324">
         <mark key="'" line="47" column="16" />
@@ -18,31 +31,33 @@
     <jumps>
       <jump line="182" column="5" filename="$USER_HOME$/webforms/il-build-tools/src/templates/java-service.spec.in" />
       <jump line="47" column="16" filename="$USER_HOME$/webforms/il-build-tools/src/templates/java-service.spec.in" />
+      <jump line="0" column="0" filename="$USER_HOME$/webforms/il-avm-service/src/main/java/com/intralinks/avm/service/Application.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>-</text>
+        <text>loandata</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>loandata</text>
       </register>
       <register name="/" type="4">
-        <text>gradle</text>
+        <text>loan</text>
       </register>
     </registers>
     <search>
-      <last-search>gradle</last-search>
+      <last-search>loan</last-search>
       <last-offset />
-      <last-pattern>gradle</last-pattern>
+      <last-pattern>loan</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry>gradle</entry>
+        <entry>loan</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
@@ -50,6 +65,10 @@
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed BACK_SLASH</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
