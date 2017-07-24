@@ -46,8 +46,8 @@
         <mark key="." line="0" column="33" />
         <mark key="^" line="0" column="33" />
       </file>
-      <file name="$USER_HOME$/webforms/il-avm-loan-data-service/dist/component.spec.in" timestamp="1500922921029">
-        <mark key="'" line="159" column="9" />
+      <file name="$USER_HOME$/webforms/il-avm-loan-data-service/dist/component.spec.in" timestamp="1500925695337">
+        <mark key="'" line="5" column="23" />
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="0" />
         <mark key="^" line="38" column="0" />
@@ -201,6 +201,7 @@
       <jump line="224" column="4" filename="$USER_HOME$/webforms/il-build-tools/src/build-utils.sh" />
       <jump line="159" column="9" filename="$USER_HOME$/webforms/il-avm-loan-data-service/dist/component.spec.in" />
       <jump line="5" column="21" filename="$USER_HOME$/webforms/il-avm-loan-data-service/.gitignore" />
+      <jump line="5" column="23" filename="$USER_HOME$/webforms/il-avm-loan-data-service/dist/component.spec.in" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -210,7 +211,7 @@
         <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>dist</text>
+        <text>form</text>
       </register>
       <register name="0" type="4">
         <text>X5BEITWL</text>
@@ -247,9 +248,9 @@
       </register>
     </registers>
     <search>
-      <last-search>dist</last-search>
+      <last-search>form</last-search>
       <last-offset />
-      <last-pattern>dist</last-pattern>
+      <last-pattern>form</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -268,6 +269,7 @@
         <entry>)</entry>
         <entry encoding="base64">XDxidWlsZF9ycG1idWlsZFw+</entry>
         <entry>dist</entry>
+        <entry>form</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
