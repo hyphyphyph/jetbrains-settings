@@ -80,12 +80,12 @@
         <mark key="." line="0" column="33" />
         <mark key="^" line="0" column="33" />
       </file>
-      <file name="$USER_HOME$/webforms/il-avm-loan-data-service/dist/do-rpmbuild.sh" timestamp="1501006213226">
+      <file name="$USER_HOME$/webforms/il-avm-loan-data-service/dist/do-rpmbuild.sh" timestamp="1501009259018">
         <mark key="'" line="22" column="51" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-        <mark key="^" line="26" column="0" />
+        <mark key="[" line="22" column="24" />
+        <mark key="]" line="22" column="28" />
+        <mark key="." line="22" column="28" />
+        <mark key="^" line="22" column="28" />
       </file>
       <file name="$USER_HOME$/webforms/il-avm-loan-data-service/src/main/java/com/intralinks/avm/loandata/repository/VoteRepository.java" timestamp="1500661987096">
         <mark key="'" line="7" column="0" />
@@ -240,11 +240,11 @@
       <jump line="22" column="51" filename="$USER_HOME$/webforms/il-avm-loan-data-service/dist/do-rpmbuild.sh" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZWNobyAke1NQRUNfVEVNUExBVEV9Cgo=</text>
+      <register name="&quot;" type="4">
+        <text>BUILD_TOOLS_TEMPLATE_PATH</text>
       </register>
       <register name="-" type="4">
-        <text>-service</text>
+        <text>BUILD_TOOLS_TEMPLATE_PATH</text>
       </register>
       <register name="/" type="4">
         <text>component</text>
