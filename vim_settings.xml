@@ -59,11 +59,11 @@
         <mark key="^" line="73" column="38" />
         <mark key="." line="73" column="38" />
       </file>
-      <file name="$USER_HOME$/webforms/il-avm-loan-data-service/src/main/java/com/intralinks/avm/loandata/repository/MockXmlRepository.java" timestamp="1501189286641">
-        <mark key="[" line="15" column="54" />
-        <mark key="]" line="15" column="59" />
-        <mark key="." line="15" column="59" />
-        <mark key="^" line="15" column="59" />
+      <file name="$USER_HOME$/webforms/il-avm-loan-data-service/src/main/java/com/intralinks/avm/loandata/repository/MockXmlRepository.java" timestamp="1501530458511">
+        <mark key="[" line="15" column="53" />
+        <mark key="]" line="15" column="56" />
+        <mark key="." line="15" column="56" />
+        <mark key="^" line="15" column="56" />
       </file>
       <file name="$USER_HOME$/webforms/il-avm-loan-data-service/src/test/java/com/intralinks/avm/loandata/controller/VoteControllerTest.java" timestamp="1500933057785">
         <mark key="'" line="45" column="4" />
@@ -211,11 +211,11 @@
         <mark key="[" line="5" column="92" />
         <mark key="]" line="5" column="99" />
       </file>
-      <file name="$USER_HOME$/webforms/il-avm-loan-data-service/src/main/java/com/intralinks/avm/loandata/controller/MockXmlController.java" timestamp="1501186936035">
-        <mark key="[" line="18" column="30" />
-        <mark key="]" line="18" column="36" />
-        <mark key="^" line="18" column="36" />
-        <mark key="." line="18" column="36" />
+      <file name="$USER_HOME$/webforms/il-avm-loan-data-service/src/main/java/com/intralinks/avm/loandata/controller/MockXmlController.java" timestamp="1501530440661">
+        <mark key="[" line="26" column="33" />
+        <mark key="]" line="26" column="44" />
+        <mark key="^" line="26" column="44" />
+        <mark key="." line="26" column="44" />
       </file>
       <file name="/fragment.java" timestamp="1501183922944">
         <mark key="[" line="0" column="0" />
@@ -265,10 +265,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>vote</text>
+        <text>d</text>
       </register>
       <register name="-" type="4">
-        <text>vote</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>Vote</text>
