@@ -100,8 +100,11 @@
         <mark key="." line="15" column="58" />
         <mark key="^" line="8" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501183931811">
+      <file name="/Dummy.txt" timestamp="1501608138952">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="5" />
+        <mark key="^" line="0" column="5" />
+        <mark key="." line="0" column="5" />
       </file>
       <file name="$USER_HOME$/webforms/il-avm-service/src/main/java/com/intralinks/avm/service/controller/MessageController.java" timestamp="1500577056946">
         <mark key="[" line="3" column="26" />
