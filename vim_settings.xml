@@ -155,12 +155,12 @@
         <mark key="." line="2" column="26" />
         <mark key="^" line="2" column="26" />
       </file>
-      <file name="$USER_HOME$/webforms/il-avm-loan-data-service/src/test/java/com/intralinks/avm/loandata/controller/MockXmlControllerTest.java" timestamp="1501186982156">
-        <mark key="'" line="33" column="25" />
-        <mark key="[" line="33" column="19" />
-        <mark key="]" line="33" column="25" />
-        <mark key="." line="33" column="25" />
-        <mark key="^" line="33" column="25" />
+      <file name="$USER_HOME$/webforms/il-avm-loan-data-service/src/test/java/com/intralinks/avm/loandata/controller/MockXmlControllerTest.java" timestamp="1501789877127">
+        <mark key="'" line="57" column="23" />
+        <mark key="[" line="59" column="36" />
+        <mark key="]" line="59" column="47" />
+        <mark key="." line="59" column="47" />
+        <mark key="^" line="59" column="47" />
       </file>
       <file name="$USER_HOME$/webforms/il-avm-service/src/main/java/com/intralinks/avm/service/domain/Workspace.java" timestamp="1500582339608">
         <mark key="'" line="0" column="0" />
@@ -272,19 +272,20 @@
       <jump line="16" column="55" filename="$USER_HOME$/webforms/il-avm-loan-data-service/src/main/java/com/intralinks/avm/loandata/repository/MockXmlRepository.java" />
       <jump line="3" column="0" filename="$USER_HOME$/webforms/il-avm-loan-data-service/src/main/java/com/intralinks/avm/loandata/repository/MockXmlRepository.java" />
       <jump line="34" column="29" filename="$USER_HOME$/webforms/il-avm-loan-data-service/pom.xml" />
+      <jump line="57" column="23" filename="$USER_HOME$/webforms/il-avm-loan-data-service/src/test/java/com/intralinks/avm/loandata/controller/MockXmlControllerTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ResourceNotFoundExcpetion</text>
+        <text>isOk</text>
       </register>
       <register name="-" type="4">
-        <text>ResourceNotFoundExcpetion</text>
+        <text>isOk</text>
       </register>
       <register name="/" type="4">
-        <text>IOUt</text>
+        <text>X</text>
       </register>
-      <register name="0" type="4">
-        <text>X5BEITWL</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCBnZXRNb2NrWG1sWDVCRUlUV0woKSB0aHJvd3MgRXhjZXB0aW9uIHsKICAgICAgICBtb2NrTXZjLnBlcmZvcm0oZ2V0KCIvbW9ja3htbC9YNUJFSVRXTCIpKQogICAgICAgICAgICAgICAgLmFuZEV4cGVjdChzdGF0dXMoKS5pc09rKCkpOwogICAgfQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
@@ -318,15 +319,14 @@
       </register>
     </registers>
     <search>
-      <last-search>IOUt</last-search>
+      <last-search>X</last-search>
       <last-offset />
-      <last-pattern>IOUt</last-pattern>
+      <last-pattern>X</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>swagger</entry>
         <entry>R</entry>
         <entry>M</entry>
         <entry>C</entry>
@@ -346,6 +346,7 @@
         <entry>\.</entry>
         <entry>)</entry>
         <entry>IOUt</entry>
+        <entry>X</entry>
       </history-search>
       <history-cmd>
         <entry>Lw</entry>
