@@ -298,7 +298,7 @@
         <text>service</text>
       </register>
       <register name="/" type="4">
-        <text>validat</text>
+        <text>formId</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+aW8uc3ByaW5nZm94PC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5zcHJpbmdmb3gtc3dhZ2dlcjI8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPjIuNy4wPC92ZXJzaW9uPgogICAgICAgICAgICA8c2NvcGU+Y29tcGlsZTwvc2NvcGU+CiAgICAgICAgPC9kZXBlbmRlbmN5PgogICAgICAgIDxkZXBlbmRlbmN5PgogICAgICAgICAgICA8Z3JvdXBJZD5pby5zcHJpbmdmb3g8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPnNwcmluZ2ZveC1zd2FnZ2VyLXVpPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj4yLjcuMDwvdmVyc2lvbj4KICAgICAgICAgICAgPHNjb3BlPmNvbXBpbGU8L3Njb3BlPgogICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
@@ -335,15 +335,14 @@
       </register>
     </registers>
     <search>
-      <last-search>validat</last-search>
+      <last-search>formId</last-search>
       <last-offset />
-      <last-pattern>validat</last-pattern>
+      <last-pattern>formId</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>C</entry>
         <entry>file</entry>
         <entry>&quot;</entry>
         <entry>/mapper</entry>
@@ -363,6 +362,7 @@
         <entry>X</entry>
         <entry>swagger</entry>
         <entry>validat</entry>
+        <entry>formId</entry>
       </history-search>
       <history-cmd>
         <entry>Lw</entry>
